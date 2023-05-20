@@ -36,9 +36,17 @@
       "liveId": 5,
       "liveName": "METROCK東京1日目",
       "release": false,
-      "pref": 28,
+      "pref": 13,
       "date": "2023/05/20",
-      "serchKey": "いいい うう"
+      "serchKey": "METROCK メトロック"
+    },
+    {
+      "liveId": 6,
+      "liveName": "METROCK東京2日目",
+      "release": false,
+      "pref": 13,
+      "date": "2023/05/20",
+      "serchKey": "METROCK メトロック"
     }
   ]
 }
