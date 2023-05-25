@@ -6,7 +6,7 @@
       "release": true,
       "pref": 27,
       "date": "2023/08/01",
-      "serchKey": "音魂 otodama 泉大津"
+      "serchKey": "音魂 otodama 泉大津 debug:1"
     },
     {
       "liveId": 2,
@@ -35,7 +35,7 @@
     {
       "liveId": 5,
       "liveName": "METROCK東京1日目",
-      "release": false,
+      "release": true,
       "pref": 13,
       "date": "2023/05/20",
       "serchKey": "METROCK メトロック"
@@ -43,10 +43,18 @@
     {
       "liveId": 6,
       "liveName": "METROCK東京2日目",
-      "release": false,
+      "release": true,
       "pref": 13,
       "date": "2023/05/20",
       "serchKey": "METROCK メトロック"
+    },
+    {
+      "liveId": 7,
+      "liveName": "JCIF 1日目",
+      "release": true,
+      "pref": 23,
+      "date": "2023/05/05",
+      "serchKey": "JCIF japan central idol festival 名古屋 aichi sky expo"
     }
   ]
 }
