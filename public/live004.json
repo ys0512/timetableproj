@@ -1,0 +1,245 @@
+{
+  "liveId": 4,
+  "jsonVersion": 1,
+  "DateList": [
+    "23'5/20(土)",
+    "23'5/21(日)"
+  ],
+  "TargetDateNum": 0,
+  "multiTurn": false,
+  "openTime": "11",
+  "closeTime": "21",
+  "artList": [
+    {
+      "artId": 0,
+      "name": "04 Limited Sazabys"
+    },
+    {
+      "artId": 1,
+      "name": "androp"
+    },
+    {
+      "artId": 2,
+      "name": "GENERATIONS from EXILE TRIBE"
+    },
+    {
+      "artId": 3,
+      "name": "JUN SKY WALKER(S)"
+    },
+    {
+      "artId": 4,
+      "name": "Little Glee Monster"
+    },
+    {
+      "artId": 5,
+      "name": "Mrs. GREEN APPLE"
+    },
+    {
+      "artId": 6,
+      "name": "Newspeak"
+    },
+    {
+      "artId": 7,
+      "name": "reGretGirl"
+    },
+    {
+      "artId": 8,
+      "name": "THE ORAL CIGARETTES"
+    },
+    {
+      "artId": 9,
+      "name": "w.o.d."
+    },
+    {
+      "artId": 10,
+      "name": "キュウソネコカミ"
+    },
+    {
+      "artId": 11,
+      "name": "にしな"
+    },
+    {
+      "artId": 12,
+      "name": "ハンブレッダーズ"
+    },
+    {
+      "artId": 13,
+      "name": "フレデリック"
+    },
+    {
+      "artId": 14,
+      "name": "マルシィ"
+    },
+    {
+      "artId": 15,
+      "name": "ヤバイTシャツ屋さん"
+    },
+    {
+      "artId": 16,
+      "name": "リーガルリリー"
+    },
+    {
+      "artId": 17,
+      "name": "-真天地開闢集団-ジグザグ"
+    },
+    {
+      "artId": 18,
+      "name": "優里"
+    }
+  ],
+  "stageList": [
+    {
+      "stageId": 0,
+      "stageName": "WINDMILL FIELD",
+      "stageNameShort": "WINDMILL",
+      "colorName": "stage-deepOrange"
+    },
+    {
+      "stageId": 1,
+      "stageName": "SEASIDE PARK",
+      "stageNameShort": "SEASIDE",
+      "colorName": "stage-pink"
+    },
+    {
+      "stageId": 2,
+      "stageName": "NEW BEAT SQUARE",
+      "stageNameShort": "NEW BEAT",
+      "colorName": "stage-blue"
+    }
+  ],
+  "turnList": [
+    {
+      "turnId": 0,
+      "startTime": "11:30",
+      "min": 40,
+      "artId": 10,
+      "stageId": 0
+    },
+    {
+      "turnId": 1,
+      "startTime": "12:50",
+      "min": 40,
+      "artId": 15,
+      "stageId": 0
+    },
+    {
+      "turnId": 2,
+      "startTime": "14:10",
+      "min": 40,
+      "artId": 2,
+      "stageId": 0
+    },
+    {
+      "turnId": 3,
+      "startTime": "15:30",
+      "min": 40,
+      "artId": 18,
+      "stageId": 0
+    },
+    {
+      "turnId": 4,
+      "startTime": "16:50",
+      "min": 40,
+      "artId": 0,
+      "stageId": 0
+    },
+    {
+      "turnId": 5,
+      "startTime": "18:10",
+      "min": 40,
+      "artId": 8,
+      "stageId": 0
+    },
+    {
+      "turnId": 6,
+      "startTime": "19:45",
+      "min": 60,
+      "artId": 5,
+      "stageId": 0
+    },
+    {
+      "turnId": 7,
+      "startTime": "12:15",
+      "min": 30,
+      "artId": 1,
+      "stageId": 1
+    },
+    {
+      "turnId": 8,
+      "startTime": "13:35",
+      "min": 30,
+      "artId": 17,
+      "stageId": 1
+    },
+    {
+      "turnId": 9,
+      "startTime": "14:55",
+      "min": 30,
+      "artId": 12,
+      "stageId": 1
+    },
+    {
+      "turnId": 10,
+      "startTime": "16:15",
+      "min": 30,
+      "artId": 3,
+      "stageId": 1
+    },
+    {
+      "turnId": 11,
+      "startTime": "17:35",
+      "min": 30,
+      "artId": 4,
+      "stageId": 1
+    },
+    {
+      "turnId": 12,
+      "startTime": "19:00",
+      "min": 40,
+      "artId": 13,
+      "stageId": 1
+    },
+    {
+      "turnId": 13,
+      "startTime": "12:10",
+      "min": 30,
+      "artId": 6,
+      "stageId": 2
+    },
+    {
+      "turnId": 14,
+      "startTime": "13:30",
+      "min": 30,
+      "artId": 14,
+      "stageId": 2
+    },
+    {
+      "turnId": 15,
+      "startTime": "14:50",
+      "min": 30,
+      "artId": 11,
+      "stageId": 2
+    },
+    {
+      "turnId": 16,
+      "startTime": "16:10",
+      "min": 30,
+      "artId": 16,
+      "stageId": 2
+    },
+    {
+      "turnId": 17,
+      "startTime": "17:30",
+      "min": 30,
+      "artId": 9,
+      "stageId": 2
+    },
+    {
+      "turnId": 18,
+      "startTime": "18:55",
+      "min": 30,
+      "artId": 7,
+      "stageId": 2
+    }
+  ]
+}
