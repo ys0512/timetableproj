@@ -12,6 +12,7 @@ export default function Home() {
       <a href="comgooglemaps://">Google Mapsのアプリを開く</a>
       <a href="twitter://user?screen_name=digital_jpn">Twitterアカウント</a>
       <a href="twitter://">Twitterだけ</a>
+      <a href="https://twitter.com/digital_jpn" target="_blank">デジタル庁</a>
       
       <p>
         Visit{" "}
