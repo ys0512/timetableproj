@@ -8,7 +8,7 @@
   ],
   "TargetDateNum": 0,
   "multiTurn": true,
-  "openTime": "10",
+  "openTime": "9",
   "closeTime": "22",
   "artList": [
       {
@@ -346,6 +346,10 @@
       {
           "artId": 83,
           "name": "彗星♩drop Tune"
+      },
+      {
+          "artId": 84,
+          "name": ""
       }
   ],
   "stageList": [
@@ -581,9 +585,9 @@
   "turnList": [
       {
           "turnId": 0,
-          "startTime": "10:30",
+          "startTime": "0:30",
           "min": 30,
-          "artId": 8,
+          "artId": 84,
           "stageId": 0
       },
       {
