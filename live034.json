@@ -406,6 +406,18 @@
         },
         {
             "stageId": 14,
+            "stageName": "物販L",
+            "stageNameShort": "物販L",
+            "colorName": "stage-grey"
+        },
+        {
+            "stageId": 15,
+            "stageName": "物販M",
+            "stageNameShort": "物販M",
+            "colorName": "stage-grey"
+        },
+        {
+            "stageId": 16,
             "stageName": "物販Lives NAGOYA",
             "stageNameShort": "物販NAGOYA",
             "colorName": "stage-grey"
@@ -1454,6 +1466,13 @@
             "min": 90,
             "artId": 61,
             "stageId": 15
+        },
+        {
+            "turnId": 149,
+            "startTime": "20:40",
+            "min": 90,
+            "artId": 76,
+            "stageId": 16
         }
     ]
 }
