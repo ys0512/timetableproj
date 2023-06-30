@@ -1,5 +1,10 @@
 [
   {
+    "icon": "mdi-alarm-plus",
+    "date": "7/1",
+    "message": "見放題2023のアーティスト変更に対応しました。自動配信されています。"
+  },
+  {
     "icon": "mdi-cellphone-arrow-down",
     "date": "6/30",
     "message": "同一ライブの別日付をタイムテーブル画面から選択できるように対応しました。"
