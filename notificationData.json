@@ -1,17 +1,18 @@
 [
   {
     "icon": "mdi-alarm-plus",
-    "date": "8/16",
-    "message": "@JAM EXPOタイテを更新しました。(トークステージ追加)"
-  },  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/16",
-    "message": "NEO合戦 物販タイテを追加しました。"
+    "date": "8/17",
+    "message": "かがやきフェスの物販タイテに対応しました。※タイテ作り直しのため既につけていただいた「いいね」がおかしくなっていると思います。申し訳ありませんが付け直しをお願いします。"
   },
   {
     "icon": "mdi-alarm-plus",
     "date": "8/16",
-    "message": "かがやきフェスの物販タイテに対応しました。（一部未公開のため公開され次第更新予定）"
+    "message": "@JAM EXPOタイテを更新しました。(トークステージ追加)"
+  },
+  {
+    "icon": "mdi-alarm-plus",
+    "date": "8/16",
+    "message": "NEO合戦 物販タイテを追加しました。"
   },
   {
     "icon": "mdi-alarm-plus",
