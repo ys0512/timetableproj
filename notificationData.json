@@ -1,8 +1,13 @@
 [
   {
     "icon": "mdi-alarm-plus",
-    "date": "8/17",
-    "message": "かがやきフェスの物販タイテに対応しました。※タイテ作り直しのため既につけていただいた「いいね」がおかしくなっていると思います。申し訳ありませんが付け直しをお願いします。"
+    "date": "8/21",
+    "message": "Tokyo GIRLS GIRLS circuit!!タイテに対応しました。"
+  },
+  {
+    "icon": "mdi-alarm-plus",
+    "date": "8/21",
+    "message": "@JAM EXPOタイテを更新しました。(撮影会・縁日)"
   },
   {
     "icon": "mdi-alarm-plus",
@@ -11,18 +16,8 @@
   },
   {
     "icon": "mdi-alarm-plus",
-    "date": "8/16",
-    "message": "NEO合戦 物販タイテを追加しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/9",
-    "message": "@JAM EXPOタイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/8",
-    "message": "New Generations(8/11)タイテ変更に対応しました。"
+    "date": "8/7",
+    "message": "KAKOGAWA MUSIC FES re:Start"
   },
   {
     "icon": "mdi-alarm-plus",
@@ -32,32 +27,12 @@
   {
     "icon": "mdi-alarm-plus",
     "date": "8/6",
-    "message": "MONSTER baSHタイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/6",
     "message": "ナノボロ タイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/5",
-    "message": "NEO KASSENタイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/4",
-    "message": "サマソニ(大阪/東京)タイテに対応しました。"
   },
   {
     "icon": "mdi-alarm-plus",
     "date": "8/4",
     "message": "ONAFESタイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "8/4",
-    "message": "New Generations!!真夏の超Premium Circuitタイテに対応しました。"
   },
   {
     "icon": "mdi-cellphone-arrow-down",
@@ -73,25 +48,5 @@
     "icon": "mdi-alarm-plus",
     "date": "7/24",
     "message": "SWEET LOVE SHOWER タイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "7/24",
-    "message": "かがやきフェス タイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "7/20",
-    "message": "miniちかっぱ祭ver.5.0 in OSAKA タイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "7/12",
-    "message": "RISING SUN ROCK FESTIVALタイテに対応しました。"
-  },
-  {
-    "icon": "mdi-alarm-plus",
-    "date": "7/12",
-    "message": "ROCK IN JAPAN出演者変更に対応しました。"
   }
 ]
