@@ -1,6 +1,11 @@
 [
   {
     "icon": "mdi-alarm-plus",
+    "date": "8/24",
+    "message": "LIVE PRO FESTIVALを更新しました。"
+  },
+  {
+    "icon": "mdi-alarm-plus",
     "date": "8/23",
     "message": "@JAM EXPOタイテを更新しました。"
   },
