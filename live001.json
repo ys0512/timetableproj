@@ -35,12 +35,6 @@
             "stageName": "Bステ",
             "stageNameShort": "Bステ",
             "colorName": "stage-blue"
-        },
-        {
-            "stageId": 2,
-            "stageName": "Cステ",
-            "stageNameShort": "Cステ",
-            "colorName": "stage-yellow"
         }
     ],
     "turnList": [
