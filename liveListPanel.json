@@ -1,7 +1,7 @@
 [
   {
     "year": 2023,
-    "monthEnableList":[false,false,false,false,true,true,true,true,true,true,true,false],
+    "monthEnableList":[false,false,false,false,true,true,true,true,true,true,true,true],
     "monthList": [
       {
         "month": 5,
@@ -63,7 +63,6 @@
       {
         "month": 9,
         "liveIdlist": [
-          2,
           101,
           51,52,53,
           54,55,
@@ -90,6 +89,7 @@
         "month": 12,
         "liveIdlist": [
           96,
+          2,
           3
         ]
       }
