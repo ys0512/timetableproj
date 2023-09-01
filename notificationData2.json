@@ -1,6 +1,6 @@
 {
-  "updateVersion":"1.2.1",
-  "updateMessage":"バージョン1.2.11をリリースしました。\nアプリStoreにてアップデートをお願いします。",
+  "updateVersion":"1.2.0",
+  "updateMessage":"バージョン1.2.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
