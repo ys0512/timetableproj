@@ -3,9 +3,14 @@
   "updateMessage":"バージョン1.2.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "date": "9/10",
+      "message": "いしがきMUSIC FESTIVAL(9/24)タイテに対応しました。"
+    },
+    {
       "icon": "mdi-cellphone-arrow-down",
       "date": "9/6",
-      "message": "多数の機能追加を行いました(ver1.2.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。出演枠追加機能の不具合修正も含んでいます。 現在のバージョンは画面最下部に記載しています。"
+      "message": "多数の機能追加を行いました(ver1.2.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。出演枠追加機能の不具合修正も含んでいます。 現在のバージョンはこの画面最下部に記載しています。"
     },
     {
       "icon": "mdi-alarm-plus",
