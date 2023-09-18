@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "9/18",
+      "message": "ちゅらまちゅり(9/20)特典会タイテを追加しました。"
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "9/13",
       "message": "シンガロンシンガソンOSAKA(9/23)タイテに対応しました。"
     },
