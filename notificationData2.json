@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/6",
+      "message": "姫路城下町アイドルフェスティバル(10/9)タイテに対応しました。"
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/4",
       "message": "アイドルアラモードVol.15～名古屋出張ほぼ全組2ステージSP～(10/14)タイテに対応しました。"
     },
