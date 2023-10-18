@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/18",
+      "message": "NAGOYA NEW WAVE FESTA(10/21 アイドル 名古屋)タイテに対応しました。"
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/15",
       "message": "シンガロンシンガソン NAGOYA(11/12 名古屋・栄)タイテに対応しました。"
     },
