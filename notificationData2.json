@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/20",
+      "message": "タイムカプセル(11/3 下北沢)タイテに対応しました。"
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/18",
       "message": "KOBE JAZZ CENTENNIAL(10/22 ジャズ 神戸)タイテに対応しました。"
     },
