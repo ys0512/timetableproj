@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/27",
+      "message": "ボロフェスタ(11/3-5 京都サーキット)タイテに対応しました。"
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/24",
       "message": "IDOLGARDEN ＆アルティメットハロウィン(10/28-31 アイドル 渋谷)タイテに対応しました。"
     },
@@ -39,28 +44,8 @@
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "10/18",
-      "message": "NAGOYA NEW WAVE FESTA(10/21 アイドル 名古屋)タイテに対応しました。"
-    },
-    {
-      "icon": "mdi-alarm-plus",
       "date": "10/15",
       "message": "シンガロンシンガソン NAGOYA(11/12 名古屋・栄)タイテに対応しました。"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/15",
-      "message": "こぐまカリー文化祭(10/22 アイドル 大阪)タイテに対応しました。"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/14",
-      "message": "HIGH FIVE CIRCUIT FES.(10/21 下北沢)タイテに対応しました。"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/14",
-      "message": "ふなばしミュージックストリート(10/21-22)タイテに対応しました。"
     },
     {
       "icon": "mdi-alarm-plus",
