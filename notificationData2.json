@@ -4,33 +4,27 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
-      "date": "12/7",
-      "message": "AKIHABARA IDOL FESTIVAL(12/9)に対応しました。",
-      "message_en": "AKIHABARA IDOL FESTIVAL(12/9) is supported."
+      "date": "12/23",
+      "message": "LEADING PREMIUM 年末感謝祭'23 (12/28 アイドル @渋谷)に対応しました。",
+      "message_en": "LEADING PREMIUM 年末感謝祭'23 (12/28 IDOL @SHIBUYA) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "12/4",
-      "message": "ちゅらまちゅり〜サーキット編〜 (12/11 アイドル ＠渋谷)に対応しました。",
-      "message_en": "chuLaMachuri(12/11 idol ＠shibuya) is supported."
+      "date": "12/23",
+      "message": "RADIO CRAZY(12/27-29 @大阪) に対応しました。",
+      "message_en": "RADIO CRAZY(12/27-29 @Osaka)  is supported."
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "11/25",
-      "message": "下北沢にて'23(12/2)に対応しました。",
-      "message_en": "Shimokitazawa nite'23(12/2) is supported."
+      "date": "12/21",
+      "message": "PLUM LIVE アイドル紅白歌合戦(12/28-31 幕張)に対応しました。",
+      "message_en": "PLUM LIVE アイドル紅白歌合戦(12/28-31 @MAKUHARI) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "11/11",
       "message": "COUNTDOWN JAPAN(12/28-31 幕張)に対応しました。",
       "message_en": "COUNTDOWN JAPAN(12/28-31 @MAKUHARI) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "11/7",
-      "message": "Sakurazaka ASYLUM(11/18-19 沖縄)に対応しました。",
-      "message_en": "Sakurazaka ASYLUM(11/18-19 @OKINAWA) is supported."
     },
     {
       "icon": "mdi-cellphone-arrow-down",
