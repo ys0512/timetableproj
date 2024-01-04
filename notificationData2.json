@@ -5,8 +5,14 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "1/4",
-      "message": "かいヌュ（NUANCE&開歌-かいか- presents） (1/4 アイドル @横浜)に対応しました。",
-      "message_en": "かいヌュ（NUANCE&開歌-かいか- presents） (1/4 IDOL @YOKOHAMA) is supported."
+      "message": "ARIM FES (1/6 アイドル @渋谷)に対応しました。",
+      "message_en": "ARIM FES (1/6 IDOL @SHIBUYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/4",
+      "message": "かいヌュ（NUANCE&開歌-かいか- presents） (1/8 アイドル @横浜)に対応しました。",
+      "message_en": "かいヌュ（NUANCE&開歌-かいか- presents） (1/8 IDOL @YOKOHAMA) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
