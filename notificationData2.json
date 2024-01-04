@@ -4,6 +4,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "1/4",
+      "message": "かいヌュ（NUANCE&開歌-かいか- presents） (1/4 アイドル @横浜)に対応しました。",
+      "message_en": "かいヌュ（NUANCE&開歌-かいか- presents） (1/4 IDOL @YOKOHAMA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "1/1",
       "message": "GIRLS☆DELIGHT#245 -新宿サーキットSP- (1/8 アイドル @新宿)に対応しました。",
       "message_en": "GIRLS☆DELIGHT#245 -新宿サーキットSP- (1/8 IDOL @SHINJUKU) is supported."
