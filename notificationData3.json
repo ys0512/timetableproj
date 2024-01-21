@@ -1,0 +1,90 @@
+{
+  "updateVersion": "1.4.0",
+  "updateMessage": "バージョン1.4.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
+  "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/14",
+      "message": "でらロックフェス (2/3-4 バンド&アイドル @名古屋)に対応しました。",
+      "message_en": "でらロックフェス (2/3-4 IDOL&BAND @NAGOYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/8",
+      "message": "ZERO→FES -circuit- (1/20-21 アイドル @名古屋)に対応しました。",
+      "message_en": "ZERO→FES -circuit- (1/20-21 IDOL @NAGOYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/8",
+      "message": "機能追加を行いました(ver1.4.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.4.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/6",
+      "message": "ッスッゴイフェス (1/9-10 アイドル @渋谷)に対応しました。",
+      "message_en": "ッスッゴイフェス (1/9-10 IDOL @SHIBUYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/6",
+      "message": "恋せよ男子 (1/21 アイドル @下北沢)に対応しました。",
+      "message_en": "恋せよ男子 (1/21 IDOL @SHIMOKITAZAWA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/4",
+      "message": "ARIM FES (1/6 アイドル @渋谷)に対応しました。",
+      "message_en": "ARIM FES (1/6 IDOL @SHIBUYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/4",
+      "message": "かいヌュ（NUANCE&開歌-かいか- presents） (1/8 アイドル @横浜)に対応しました。",
+      "message_en": "かいヌュ（NUANCE&開歌-かいか- presents） (1/8 IDOL @YOKOHAMA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "1/1",
+      "message": "GIRLS☆DELIGHT#245 -新宿サーキットSP- (1/8 アイドル @新宿)に対応しました。",
+      "message_en": "GIRLS☆DELIGHT#245 -新宿サーキットSP- (1/8 IDOL @SHINJUKU) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "12/23",
+      "message": "LEADING PREMIUM 年末感謝祭'23 (12/28 アイドル @渋谷)に対応しました。",
+      "message_en": "LEADING PREMIUM 年末感謝祭'23 (12/28 IDOL @SHIBUYA) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "12/23",
+      "message": "RADIO CRAZY(12/27-29 @大阪) に対応しました。",
+      "message_en": "RADIO CRAZY(12/27-29 @Osaka)  is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "12/21",
+      "message": "PLUM LIVE アイドル紅白歌合戦(12/28-31 幕張)に対応しました。",
+      "message_en": "PLUM LIVE アイドル紅白歌合戦(12/28-31 @MAKUHARI) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/11",
+      "message": "COUNTDOWN JAPAN(12/28-31 幕張)に対応しました。",
+      "message_en": "COUNTDOWN JAPAN(12/28-31 @MAKUHARI) is supported."
+    },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "11/6",
+      "message": "機能追加を行いました(ver1.3.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.3.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/1",
+      "message": "Raise Up(11/26 バンド＋アイドル 下北沢)に対応しました。",
+      "message_en": "Raise Up(11/26 BAND&IDOL @SHIMOKITAZAWA) is supported."
+    }
+  ]
+}
