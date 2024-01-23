@@ -4,6 +4,11 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "1/23",
+      "message": "インテンシティ×ソノウチ (2/4 アイドル @大塚)に対応しました。",
+      "message_en": "インテンシティ×ソノウチ (2/4 IDOL @OTSUKA) is supported."
+    },    {
+      "icon": "mdi-alarm-plus",
       "date": "1/18",
       "message": "ZERO→FES -circuit- (1/20-21 アイドル @名古屋)に対応しました。",
       "message_en": "ZERO→FES -circuit- (1/20-21 IDOL @NAGOYA) is supported."
