@@ -3,6 +3,12 @@
   "updateMessage": "バージョン1.6.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "date": "2/1",
+      "message": "Japan Expo Thailand (2/3-5 アイドル等)に対応しました。",
+      "message_en": "Japan Expo Thailand (2/3-5 IDOL etc) is supported."
+    },
+    {
       "icon": "mdi-cellphone-arrow-down",
       "date": "1/23",
       "message": "機能追加を行いました(ver1.6.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
@@ -13,7 +19,8 @@
       "date": "1/23",
       "message": "インテンシティ×ソノウチ (2/4 アイドル @大塚)に対応しました。",
       "message_en": "インテンシティ×ソノウチ (2/4 IDOL @OTSUKA) is supported."
-    },    {
+    },
+    {
       "icon": "mdi-alarm-plus",
       "date": "1/18",
       "message": "ZERO→FES -circuit- (1/20-21 アイドル @名古屋)に対応しました。",
