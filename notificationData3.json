@@ -5,6 +5,12 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "2/20",
+      "message": "YBSよっちゃばれfestival (2/20 @山梨 アイドル) に対応しました。",
+      "message_en": "YBS yocchabare festival (2/20 @Yamanashi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "2/20",
       "message": "アイドルスムージーVol.3 (2/26 @渋谷) に対応しました。",
       "message_en": "IDLE smoothie (2/26 @Shibuya) is supported."
     },
