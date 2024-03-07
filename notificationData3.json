@@ -18,6 +18,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "3/8",
+      "message": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 アイドル) に対応しました。",
+      "message_en": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "3/7",
       "message": "LUPINUS (3/9 @下北沢 バンド・アイドル) に対応しました。",
       "message_en": "LUPINUS (3/9 @Shimokitazawa BAND&IDLE) is supported."
