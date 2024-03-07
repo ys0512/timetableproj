@@ -1,18 +1,32 @@
 {
   "updateVersion": "1.6.1",
   "updateMessage": "バージョン1.6.1をリリースしました。\nアプリStoreにてアップデートをお願いします。",
-  "template": {
-    "icon": "mdi-alarm-plus",
-    "date": "/",
-    "message": "ABCABC (2/20 @ アイドル) に対応しました。",
-    "message_en": "ABCABC (2/20 @ IDLE) is supported."
-  },
+  "template": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "/",
+      "message": "ABCABC (2/20 @渋谷 アイドル) に対応しました。",
+      "message_en": "ABCABC (2/20 @Shibuya IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "/",
+      "message": "ABCABC (2/20 @渋谷 バンド) に対応しました。",
+      "message_en": "ABCABC (2/20 @Shibuya BAND) is supported."
+    }
+  ],
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "3/7",
+      "message": "LUPINUS (3/9 @下北沢 バンド・アイドル) に対応しました。",
+      "message_en": "LUPINUS (3/9 @Shimokitazawa BAND&IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "2/25",
-      "message": "IDORISE!! FESTIVAL (3/9-10 @ アイドル) に対応しました。",
-      "message_en": "IDORISE!! FESTIVAL (3/9-10 @ IDLE) is supported."
+      "message": "IDORISE!! FESTIVAL (3/9-10 @渋谷 アイドル) に対応しました。",
+      "message_en": "IDORISE!! FESTIVAL (3/9-10 @Shibuya IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
