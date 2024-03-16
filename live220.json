@@ -616,7 +616,7 @@
         {
             "turnId": 32,
             "startTime": "12:20",
-            "min": 15,
+            "min": 0,
             "artId": 55,
             "stageId": 1
         },
@@ -917,7 +917,7 @@
         {
             "turnId": 75,
             "startTime": "17:15",
-            "min": 15,
+            "min": 0,
             "artId": 55,
             "stageId": 2
         },
@@ -1176,7 +1176,7 @@
         {
             "turnId": 112,
             "startTime": "17:50",
-            "min": 70,
+            "min": 0,
             "artId": 55,
             "stageId": 6
         },
@@ -1652,7 +1652,7 @@
         {
             "turnId": 180,
             "startTime": "12:50",
-            "min": 70,
+            "min": 0,
             "artId": 55,
             "stageId": 22
         },
