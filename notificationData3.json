@@ -18,45 +18,21 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "3/21",
+      "message": "ARABAKI ROCK FEST. (4/27-28 @山形) に対応しました。",
+      "message_en": "ARABAKI ROCK FEST. (4/27-28 @Yamagata) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/15",
+      "message": "TOKYO GIRLS GIRLS (4/6-7 @品川 アイドル) に対応しました。",
+      "message_en": "TOKYO GIRLS GIRLS (4/6-7 @Shinagawa IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "3/8",
       "message": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 アイドル) に対応しました。",
       "message_en": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "3/7",
-      "message": "LUPINUS (3/9 @下北沢 バンド・アイドル) に対応しました。",
-      "message_en": "LUPINUS (3/9 @Shimokitazawa BAND&IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "2/25",
-      "message": "IDORISE!! FESTIVAL (3/9-10 @渋谷 アイドル) に対応しました。",
-      "message_en": "IDORISE!! FESTIVAL (3/9-10 @Shibuya IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "2/20",
-      "message": "YBSよっちゃばれfestival (2/20 @山梨 アイドル) に対応しました。",
-      "message_en": "YBS yocchabare festival (2/20 @Yamanashi IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "2/20",
-      "message": "アイドルスムージーVol.3 (2/26 @渋谷) に対応しました。",
-      "message_en": "IDLE smoothie (2/26 @Shibuya) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "2/14",
-      "message": "ちゅらまちゅり〜サーキット編〜 (2/20 アイドル) に対応しました。",
-      "message_en": "chula festival (2/20 idle) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "2/11",
-      "message": "iLiVE! WHITEDAY 〜渋谷サーキット〜 (3/4 アイドル) に対応しました。",
-      "message_en": "iLiVE! WHITEDAY 〜Shibuya circuit event〜 (3/4 idle) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
@@ -71,34 +47,10 @@
       "message_en": "New features added (ver1.6.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
-      "icon": "mdi-alarm-plus",
-      "date": "1/23",
-      "message": "インテンシティ×ソノウチ (2/4 アイドル @大塚)に対応しました。",
-      "message_en": "インテンシティ×ソノウチ (2/4 IDOL @OTSUKA) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/18",
-      "message": "ZERO→FES -circuit- (1/20-21 アイドル @名古屋)に対応しました。",
-      "message_en": "ZERO→FES -circuit- (1/20-21 IDOL @NAGOYA) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/14",
-      "message": "でらロックフェス (2/3-4 バンド&アイドル @名古屋)に対応しました。",
-      "message_en": "でらロックフェス (2/3-4 IDOL&BAND @NAGOYA) is supported."
-    },
-    {
       "icon": "mdi-cellphone-arrow-down",
       "date": "1/8",
       "message": "機能追加を行いました(ver1.4.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "New features added (ver1.4.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/6",
-      "message": "恋せよ男子 (1/21 アイドル @下北沢)に対応しました。",
-      "message_en": "恋せよ男子 (1/21 IDOL @SHIMOKITAZAWA) is supported."
     },
     {
       "icon": "mdi-cellphone-arrow-down",
