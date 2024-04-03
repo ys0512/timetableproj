@@ -1,0 +1,92 @@
+{
+  "updateVersion": "1.6.3",
+  "updateMessage": "バージョン1.6.3をリリースしました(iOSのみ対象)。\nアプリStoreにてアップデートをお願いします。",
+  "template": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "/",
+      "message": "ABCABC (2/20 @渋谷 アイドル) に対応しました。",
+      "message_en": "ABCABC (2/20 @Shibuya IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "/",
+      "message": "ABCABC (2/20 @渋谷 バンド) に対応しました。",
+      "message_en": "ABCABC (2/20 @Shibuya BAND) is supported."
+    }
+  ],
+  "notificationList": [
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "4/2",
+      "message": "iOSの不具合を修正しました(ver1.6.3)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "An issue with the iOS app has been fixed (ver1.6.3). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/31",
+      "message": "SWEET LOVE SHOWER (5/11-12 @山梨) に対応しました。",
+      "message_en": "SWEET LOVE SHOWER (5/11-12 @YAMANASHI) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/28",
+      "message": "METROCK (5/11-5/19 @大阪・東京) に対応しました。",
+      "message_en": "METROCK (5/11-5/19 @OSAKA/TOKYO) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/27",
+      "message": "JAPAN JAM (4/28-5/5 @千葉) に対応しました。",
+      "message_en": "JAPAN JAM (4/28-5/5 @Chiba) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/24",
+      "message": "ッスッゴイフェス (3/26 @新宿 アイドル) に対応しました。",
+      "message_en": "ッスッゴイフェス (3/26 @Shinjuku IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/21",
+      "message": "ARABAKI ROCK FEST. (4/27-28 @宮城) に対応しました。",
+      "message_en": "ARABAKI ROCK FEST. (4/27-28 @Miyagi) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/15",
+      "message": "TOKYO GIRLS GIRLS (4/6-7 @品川 アイドル) に対応しました。",
+      "message_en": "TOKYO GIRLS GIRLS (4/6-7 @Shinagawa IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "3/8",
+      "message": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 アイドル) に対応しました。",
+      "message_en": "Girl’s bomb!! 〜春の大祭典〜 @ドイツ村 (3/16-17 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "2/1",
+      "message": "Japan Expo Thailand (2/3-5 アイドル等)に対応しました。",
+      "message_en": "Japan Expo Thailand (2/3-5 IDOL etc) is supported."
+    },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "1/23",
+      "message": "機能追加を行いました(ver1.6.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.6.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "1/8",
+      "message": "機能追加を行いました(ver1.4.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.4.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "11/6",
+      "message": "機能追加を行いました(ver1.3.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.3.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    }
+  ]
+}
