@@ -17,6 +17,12 @@
   ],
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "date": "4/5",
+      "message": "偶像和音×UNIVERSE-覚醒HYPER- (4/9 @新宿 アイドル) に対応しました。",
+      "message_en": "偶像和音×UNIVERSE-覚醒HYPER- (4/9 @Shinjuku IDLE) is supported."
+    },
+    {
       "icon": "mdi-cellphone-arrow-down",
       "date": "4/2",
       "message": "iOSの不具合を修正しました(ver1.6.3)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
