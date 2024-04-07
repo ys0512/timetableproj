@@ -1,54 +1,12 @@
 {
-  "updateVersion": "1.6.0",
-  "updateMessage": "バージョン1.6.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
+  "updateVersion": "1.6.3",
+  "updateMessage": "バージョン1.6.3をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
       "date": "2/1",
-      "message": "Japan Expo Thailand (2/3-5 アイドル等)に対応しました。",
-      "message_en": "Japan Expo Thailand (2/3-5 IDOL etc) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "1/23",
-      "message": "機能追加を行いました(ver1.6.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.6.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/23",
-      "message": "インテンシティ×ソノウチ (2/4 アイドル @大塚)に対応しました。",
-      "message_en": "インテンシティ×ソノウチ (2/4 IDOL @OTSUKA) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/18",
-      "message": "ZERO→FES -circuit- (1/20-21 アイドル @名古屋)に対応しました。",
-      "message_en": "ZERO→FES -circuit- (1/20-21 IDOL @NAGOYA) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/14",
-      "message": "でらロックフェス (2/3-4 バンド&アイドル @名古屋)に対応しました。",
-      "message_en": "でらロックフェス (2/3-4 IDOL&BAND @NAGOYA) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "1/8",
-      "message": "機能追加を行いました(ver1.4.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.4.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "1/6",
-      "message": "恋せよ男子 (1/21 アイドル @下北沢)に対応しました。",
-      "message_en": "恋せよ男子 (1/21 IDOL @SHIMOKITAZAWA) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "11/6",
-      "message": "機能追加を行いました(ver1.3.0)。バージョンアップしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.3.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+      "message": "★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  古いバージョンをご利用中です。アップデートをお願いします。今後古いバージョンでは正しく情報が更新されないなどの問題が発生する可能性があります。ご承知おきくださいませ。 ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ",
+      "message_en": "★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  You are using an outdated version. Please update. There is a possibility that problems such as incorrect information updates may occur in the future with old versions. Thank you for your understanding. ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ "
     }
   ]
 }
