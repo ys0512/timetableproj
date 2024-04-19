@@ -18,6 +18,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "4/20",
+      "message": "歌舞伎町UP GATE↑↑ (5/5-6 @新宿 アイドル) に対応しました。",
+      "message_en": "KABUKI Up Gate (5/5-6 @Shinjuku IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "4/13",
       "message": "SHIMOKITAZAWA INSIDE FES (4/21 @下北沢 アイドル) に対応しました。",
       "message_en": "SHIMOKITAZAWA INSIDE FES (4/21 @Shimokitazawa IDLE) is supported."
