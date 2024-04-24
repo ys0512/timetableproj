@@ -18,6 +18,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "4/24",
+      "message": "VIVA LA ROCK (5/3-6 @埼玉) に対応しました。",
+      "message_en": "VIVA LA ROCK (5/3-6 @Saitama) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/24",
+      "message": "MAWA LOOP OSAKA (5/3-6 @大阪) に対応しました。",
+      "message_en": "MAWA LOOP OSAKA (5/3-6 @Osaka) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "4/20",
       "message": "歌舞伎町UP GATE↑↑ (5/5-6 @新宿 アイドル) に対応しました。",
       "message_en": "KABUKI Up Gate (5/5-6 @Shinjuku IDLE) is supported."
