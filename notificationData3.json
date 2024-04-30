@@ -18,6 +18,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "4/30",
+      "message": "JCIF (5/3-5 @愛知 アイドル) に対応しました。",
+      "message_en": "JCIF (5/3-5 @Aichi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "4/24",
       "message": "VIVA LA ROCK (5/3-6 @埼玉) に対応しました。",
       "message_en": "VIVA LA ROCK (5/3-6 @Saitama) is supported."
@@ -25,8 +31,8 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "4/24",
-      "message": "MAWA LOOP OSAKA (5/3-6 @大阪) に対応しました。",
-      "message_en": "MAWA LOOP OSAKA (5/3-6 @Osaka) is supported."
+      "message": "MAWA LOOP OSAKA (5/3-6 @大阪 アイドル) に対応しました。",
+      "message_en": "MAWA LOOP OSAKA (5/3-6 @Osaka IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
