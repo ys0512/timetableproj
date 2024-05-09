@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.6.3",
-  "updateMessage": "バージョン1.6.3をリリースしました(iOSのみ対象)。\nアプリStoreにてアップデートをお願いします。",
+  "updateVersion": "1.7.0",
+  "updateMessage": "バージョン1.7.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "template": [
     {
       "icon": "mdi-alarm-plus",
@@ -16,6 +16,54 @@
     }
   ],
   "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "5/8",
+      "message": "AKIHABARA IDOL FESTIVAL (5/11 @秋葉原 アイドル) に対応しました。",
+      "message_en": "AKIHABARA IDOL FESTIVAL (5/11 @Akihabara IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "5/4",
+      "message": "OTODAMA'24〜音泉魂〜 (5/4-5 @大阪) に対応しました。",
+      "message_en": "OTODAMA'24〜音泉魂〜 (5/4-5 @Osaka) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/30",
+      "message": "JCIF (5/3-5 @愛知 アイドル) に対応しました。",
+      "message_en": "JCIF (5/3-5 @Aichi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/24",
+      "message": "VIVA LA ROCK (5/3-6 @埼玉) に対応しました。",
+      "message_en": "VIVA LA ROCK (5/3-6 @Saitama) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/24",
+      "message": "MAWA LOOP OSAKA (5/3-6 @大阪 アイドル) に対応しました。",
+      "message_en": "MAWA LOOP OSAKA (5/3-6 @Osaka IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/20",
+      "message": "歌舞伎町UP GATE↑↑ (5/5-6 @新宿 アイドル) に対応しました。",
+      "message_en": "KABUKI Up Gate (5/5-6 @Shinjuku IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/13",
+      "message": "SHIMOKITAZAWA INSIDE FES (4/21 @下北沢 アイドル) に対応しました。",
+      "message_en": "SHIMOKITAZAWA INSIDE FES (4/21 @Shimokitazawa IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "4/5",
+      "message": "偶像和音×UNIVERSE-覚醒HYPER- (4/9 @新宿 アイドル) に対応しました。",
+      "message_en": "偶像和音×UNIVERSE-覚醒HYPER- (4/9 @Shinjuku IDLE) is supported."
+    },
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "4/2",
