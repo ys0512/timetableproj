@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.7.0",
-  "updateMessage": "バージョン1.7.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
+  "updateVersion": "1.7.1",
+  "updateMessage": "バージョン1.7.1をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "deleteStart": 6,
   "deleteEnd": 200,
   "template": [
@@ -18,6 +18,12 @@
     }
   ],
   "notificationList": [
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "5/28",
+      "message": "不具合を修正しました(ver1.7.1)。アップデートしてください。※現在時刻のラインがライブステージの裏に隠れる不具合の修正。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Fixed an issue with the app (ver1.7.1). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "5/24",
