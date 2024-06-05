@@ -3,7 +3,7 @@
   "updateMessage": "バージョン1.7.1をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "deleteStart": 6,
   "deleteEnd": 200,
-  "eventCode":["abc","osaka"],
+  "eventCode":["abc","osaka","test121"],
   "template": [
     {
       "icon": "mdi-alarm-plus",
