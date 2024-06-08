@@ -51,11 +51,11 @@
       "center": { "lat": 35.6945, "lng": 139.7036 },
       "zoom": 16,
       "pins": [
-        { "lat": 35.69469, "lng": 139.70310, "label": "WALLY", "color": "#e53935" },
-        { "lat": 35.69520, "lng": 139.70230, "label": "Zirco Tokyo", "color": "#FDD835" },
-        { "lat": 35.69380, "lng": 139.70150, "label": "Shinjuku DHNoA", "color": "#3F51B5" },
-        { "lat": 35.69440, "lng": 139.70080, "label": "NINE SPICES", "color": "#9C27B0" },
-        { "lat": 35.69350, "lng": 139.70280, "label": "HOLIDAY SHINJUKU", "color": "#673AB7" }
+        { "lat": 35.69469, "lng": 139.70310, "label": "WALLY", "color": "#e53935" , "stageId": 0 },
+        { "lat": 35.69520, "lng": 139.70230, "label": "Zirco Tokyo", "color": "#FDD835" , "stageId": 1 },
+        { "lat": 35.69380, "lng": 139.70150, "label": "Shinjuku DHNoA", "color": "#3F51B5" , "stageId": 2 },
+        { "lat": 35.69440, "lng": 139.70080, "label": "NINE SPICES", "color": "#9C27B0" , "stageId": 3 },
+        { "lat": 35.69350, "lng": 139.70280, "label": "HOLIDAY SHINJUKU", "color": "#673AB7" , "stageId": 4 }
       ]
     },
     {
