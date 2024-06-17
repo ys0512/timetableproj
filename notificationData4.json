@@ -21,6 +21,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "6/17",
+      "message": "Lucky FES (7/13-15 ＠茨城) に対応しました。",
+      "message_en": "Lucky FES (7/13-15 ＠ibaraki) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/13",
       "message": "ROCK IN JAPAN FES (8/3,4,10,11,12 ＠千葉) に対応しました。",
       "message_en": "ROCK IN JAPAN FES (8/3,4,10,11,12 ＠chiba) is supported."
