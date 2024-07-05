@@ -3,8 +3,8 @@
     "jsonVersion": 1,
     "openTime": "10",
     "closeTime": "23",
-    "notificationVersion": "4",
-    "notification": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)・縁日タイテ追加(7/4)",
+    "notificationVersion": "5",
+    "notification": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)\n・縁日タイテ追加(7/4)\n・争奪戦ランキング反映(7/5)",
     "artList": [
         {
             "artId": 0,
@@ -208,43 +208,53 @@
         },
         {
             "artId": 50,
-            "name": "メイン争奪 10位"
+            "name_": "メインステージ 10位",
+            "name":"パラディーク"
         },
         {
             "artId": 51,
-            "name": "メイン争奪 1位"
+            "name_": "メインステージ 1位",
+            "name":"Hello Youth"
         },
         {
             "artId": 52,
-            "name": "メイン争奪 2位"
+            "name_": "メインステージ 2位",
+            "name":"HACK"
         },
         {
             "artId": 53,
-            "name": "メイン争奪 3位"
+            "name_": "メインステージ 3位",
+            "name":"アルテミスの翼"
         },
         {
             "artId": 54,
-            "name": "メイン争奪 4位"
+            "name_": "メインステージ 4位",
+            "name":"東京ガールズブラボー"
         },
         {
             "artId": 55,
-            "name": "メイン争奪 5位"
+            "name_": "メインステージ 5位",
+            "name":"chuLa"
         },
         {
             "artId": 56,
-            "name": "メイン争奪 6位"
+            "name_": "メインステージ 6位",
+            "name":"あまいものつめあわせ"
         },
         {
             "artId": 57,
-            "name": "メイン争奪 7位"
+            "name_": "メインステージ 7位",
+            "name":"BOCCHI。"
         },
         {
             "artId": 58,
-            "name": "メイン争奪 8位"
+            "name_": "メインステージ 8位",
+            "name":"iiiidolll"
         },
         {
             "artId": 59,
-            "name": "メイン争奪 9位"
+            "name_": "メインステージ 9位",
+            "name":"点染テンセイ少女"
         },
         {
             "artId": 60,
