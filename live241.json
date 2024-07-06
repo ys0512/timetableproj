@@ -4,7 +4,11 @@
     "openTime": "10",
     "closeTime": "23",
     "notificationVersion": "5",
-    "notification": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)\n・縁日タイテ追加(7/4)\n・ランキング結果反映",
+
+    "notification____": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)\n・縁日タイテ追加(7/4)\n・ランキング結果反映",
+
+    "notification": "・特典会タイテ変更について、争奪戦や新規追加分は対応したつもりですがアプリ管理人の都合により全ての変更をチェックできておりません。念の為お目当てのグループについては公式タイテを一度ご確認ください。申し訳ありません。\n・ランキング結果反映\n,",
+
     "artList": [
         {
             "artId": 0,
@@ -100,7 +104,8 @@
         },
         {
             "artId": 23,
-            "name": "一曲入魂ステージ"
+            "name_": "一曲入魂ステージ",
+"name": ""
         },
         {
             "artId": 24,
@@ -307,6 +312,10 @@
         {
             "artId": 72,
             "name": "TikTok×NATSUZOMEスペシャルステージ"
+        },
+     {
+            "artId": 73,
+            "name": "ZeroProject IDOL trend選抜"
         }
     ],
     "stageList": [
@@ -1390,17 +1399,17 @@
         },
         {
             "turnId": 125,
-            "startTime": "12:40",
+            "startTime": "17:40",
             "min": 60,
             "artId": 50,
-            "stageId": 6
+            "stageId": 12
         },
         {
             "turnId": 126,
-            "startTime": "13:45",
+            "startTime": "16:25",
             "min": 60,
             "artId": 55,
-            "stageId": 6
+            "stageId": 11
         },
         {
             "turnId": 127,
@@ -1425,17 +1434,17 @@
         },
         {
             "turnId": 130,
-            "startTime": "11:35",
+            "startTime": "13:10",
             "min": 60,
             "artId": 52,
-            "stageId": 7
+            "stageId": 12
         },
         {
             "turnId": 131,
-            "startTime": "12:40",
+            "startTime": "13:45",
             "min": 60,
             "artId": 56,
-            "stageId": 7
+            "stageId": 6
         },
         {
             "turnId": 132,
@@ -1579,21 +1588,21 @@
         },
         {
             "turnId": 152,
-            "startTime": "14:10",
+            "startTime": "11:35",
             "min": 60,
             "artId": 53,
-            "stageId": 11
+            "stageId": 7
         },
         {
             "turnId": 153,
-            "startTime": "15:15",
+            "startTime": "12:40",
             "min": 60,
             "artId": 57,
-            "stageId": 11
+            "stageId": 7
         },
         {
             "turnId": 154,
-            "startTime": "16:25",
+            "startTime": "14:10",
             "min": 60,
             "artId": 54,
             "stageId": 11
@@ -1621,10 +1630,10 @@
         },
         {
             "turnId": 158,
-            "startTime": "17:40",
+            "startTime": "12:15",
             "min": 60,
             "artId": 59,
-            "stageId": 12
+            "stageId": 14
         },
         {
             "turnId": 159,
@@ -1670,10 +1679,10 @@
         },
         {
             "turnId": 165,
-            "startTime": "12:15",
+            "startTime": "15:15",
             "min": 60,
             "artId": 58,
-            "stageId": 14
+            "stageId": 11
         },
         {
             "turnId": 166,
@@ -2129,6 +2138,13 @@
             "min": 15,
             "artId": 52,
             "stageId": 0
+        },
+        {
+            "turnId": 231,
+            "startTime": "11:45",
+            "min": 60,
+            "artId": 73,
+            "stageId": 8
         }
     ]
 }
