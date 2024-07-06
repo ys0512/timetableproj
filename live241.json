@@ -3,8 +3,8 @@
     "jsonVersion": 1,
     "openTime": "10",
     "closeTime": "23",
-    "notificationVersion": "5",
-    "notification": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)\n・縁日タイテ追加(7/4)\n",
+    "notificationVersion": "6",
+    "notification": "・公式6/22版タイテに合わせ修正\n・特典会タイテ追加(6/27)\n・縁日タイテ追加(7/4)\n・ランキング結果反映",
     "artList": [
         {
             "artId": 0,
@@ -208,53 +208,53 @@
         },
         {
             "artId": 50,
-            "name": "メインステージ 10位",
-            "name_":""
+            "name_": "メインステージ 10位",
+            "name":"パラディーク"
         },
         {
             "artId": 51,
-            "name": "メインステージ 1位",
-            "name_":""
+            "name_": "メインステージ 1位",
+            "name":"HACK"
         },
         {
             "artId": 52,
-            "name": "メインステージ 2位",
-            "name_":""
+            "name_": "メインステージ 2位",
+            "name":"Hello Youth"
         },
         {
             "artId": 53,
-            "name": "メインステージ 3位",
-            "name_":""
+            "name_": "メインステージ 3位",
+            "name":"chuLa"
         },
         {
             "artId": 54,
-            "name": "メインステージ 4位",
-            "name_":""
+            "name_": "メインステージ 4位",
+            "name":"アルテミスの翼"
         },
         {
             "artId": 55,
-            "name": "メインステージ 5位",
-            "name_":""
+            "name_": "メインステージ 5位",
+            "name":"東京ガールズブラボー"
         },
         {
             "artId": 56,
-            "name": "メインステージ 6位",
-            "name_":""
+            "name_": "メインステージ 6位",
+            "name":"iiiidolll"
         },
         {
             "artId": 57,
-            "name": "メインステージ 7位",
-            "name_":""
+            "name_": "メインステージ 7位",
+            "name":"あまいものつめあわせ"
         },
         {
             "artId": 58,
-            "name": "メインステージ 8位",
-            "name_":""
+            "name_": "メインステージ 8位",
+            "name":"BOCCHI。"
         },
         {
             "artId": 59,
-            "name": "メインステージ 9位",
-            "name_":""
+            "name_": "メインステージ 9位",
+            "name":"点染テンセイ少女。"
         },
         {
             "artId": 60,
