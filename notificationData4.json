@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.7.0",
-  "updateMessage": "バージョン1.7.1をリリースしました。\nアプリStoreにてアップデートをお願いします。",
+  "updateVersion": "1.8.0",
+  "updateMessage": "バージョン1.8.0をリリースしました。\nアプリStoreにてアップデートをお願いします。",
   "deleteStart": 6,
   "deleteEnd": 200,
   "eventCode":["abc","osaka","test121"],
