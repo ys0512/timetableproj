@@ -21,6 +21,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "7/17",
+      "message": "TOKYO IDOL FESTIVAL (8/2-4 @お台場 アイドル) に対応しました。",
+      "message_en": "TOKYO IDOL FESTIVAL (8/2-4 @odaiba IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/15",
+      "message": "関ケ原唄姫合戦 (7/19-21 @岐阜 アイドル) に対応しました。",
+      "message_en": "SEKIGAHARA UTAHIME GASSEN (7/19-21 @gifu IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "7/3",
       "message": "SPARK 2024 in KAWASAKI (7/13-15 @神奈川 アイドル) に対応しました。",
       "message_en": "SPARK 2024 in KAWASAKI (7/13-15 @kanagawa IDLE) is supported."
