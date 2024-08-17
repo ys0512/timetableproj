@@ -1,6 +1,6 @@
 {
   "updateVersion": "1.9.1",
-  "updateMessage": "バージョン1.9.1をリリースしました。\nアプリStoreにてアップデートをお願いします。\n不具合修正\n\nVersion 1.9.0 is now available. Kindly update your app.",
+  "updateMessage": "バージョン1.9.1をリリースしました（現在はiOSのみ掲載中。Androidは審査終了し次第公開されます）。\nアプリStoreにてアップデートをお願いします。\n不具合修正\n\nVersion 1.9.0 is now available. Kindly update your app.",
   "_updateMessage": "バージョン1.9.0をリリースしました。\nアプリStoreにてアップデートをお願いします。\n①ステージ時間調整(開演時間の遅れを各自で調整)\n②各グループの出番にメモ追加(使用する場合は設定で無効→有効にしてください)\n③追加した出演枠をドラッグ移動可能に\n④もどるボタン(画面左上)\n⑤画面下のボタン数秒間非表示（スクショ用） \n⑥軽微な改善や不具合修正\n※アプリ公式Xでも使い方を紹介中\n\nVersion 1.9.0 is now available. Kindly update your app.",
   "deleteStart": 6,
   "deleteEnd": 150,
@@ -21,6 +21,18 @@
     {}
   ],
   "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "8/17",
+      "message": "@JAM EXPO (9/14-16 @横浜 アイドル) に対応しました。",
+      "message_en": "@JAM EXPO (9/14-16 @yokohama IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "8/16",
+      "message": "miniちかっぱ祭ver.13.0 in OSAKA (8/24-25) に対応しました。",
+      "message_en": "miniちかっぱ祭ver.13.0 in OSAKA (8/24-25) is supported."
+    },
     {
       "icon": "mdi-alarm-plus",
       "date": "8/9",
