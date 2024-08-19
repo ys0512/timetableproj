@@ -23,6 +23,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "8/19",
+      "message": "MONSTER baSH (8/24-25 @香川) に対応しました。",
+      "message_en": "MONSTER baSH (8/24-25 @kagawa) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "8/17",
       "message": "@JAM EXPO (9/14-16 @横浜 アイドル) に対応しました。",
       "message_en": "@JAM EXPO (9/14-16 @yokohama IDLE) is supported."
