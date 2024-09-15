@@ -24,6 +24,12 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "9/15",
+      "message": "HEROINES FES-渋谷サーキット- (9/24 @渋谷 アイドル) に対応しました。",
+      "message_en": "HEROINES FES-渋谷サーキット- (9/24 @Shibuya IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "9/15",
       "message": "ライブプロFES (9/21-23 @北海道 アイドル) に対応しました。",
       "message_en": "LIVE PRO FES (9/21-23 @Hokkaido IDLE) is supported."
     },
