@@ -23,6 +23,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/1",
+      "message": "Girl’s bomb!! 〜秋の大祭典〜at 東京ドイツ村 (10/5-6 @千葉 アイドル) に対応しました。",
+      "message_en": "Girl’s bomb!! 〜秋の大祭典〜at 東京ドイツ村 (10/5-6 @Chiba IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "9/28",
       "message": "MEGA★ROCKS (10/5 @宮城 バンド) に対応しました。",
       "message_en": "MEGA★ROCKS (10/5 @miyagi) is supported."
