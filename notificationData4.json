@@ -23,6 +23,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/2",
+      "message": "ぐんまちゃんアイドルフェスティバル (10/6 @群馬) に対応しました。",
+      "message_en": "ぐんまちゃんアイドルフェスティバル (10/6 @gumma) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/1",
       "message": "Girl’s bomb!! 〜秋の大祭典〜at 東京ドイツ村 (10/5-6 @千葉 アイドル) に対応しました。",
       "message_en": "Girl’s bomb!! 〜秋の大祭典〜at 東京ドイツ村 (10/5-6 @Chiba IDLE) is supported."
