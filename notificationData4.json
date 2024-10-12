@@ -1,10 +1,8 @@
 {
   "updateVersion": "1.10.0",
   "updateMessage": "バージョン1.10.0をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
-  "updateMessage_1": "バージョン1.9.0をリリースしました。\nアプリStoreにてアップデートをお願いします。\n①ステージ時間調整(開演時間の遅れを各自で調整)\n②各グループの出番にメモ追加(使用する場合は設定で無効→有効にしてください)\n③追加した出演枠をドラッグ移動可能に\n④もどるボタン(画面左上)\n⑤画面下のボタン数秒間非表示（スクショ用） \n⑥軽微な改善や不具合修正\n※アプリ公式Xでも使い方を紹介中\n\nVersion 1.9.0 is now available. Kindly update your app.",
-  "updateMessage_2": "バージョン1.9.1をリリースしました（現在はiOSのみ掲載中。Androidは審査終了し次第公開されます）。\nアプリStoreにてアップデートをお願いします。\n不具合修正\n\nVersion 1.9.0 is now available. Kindly update your app.",
   "deleteStart": 6,
-  "deleteEnd": 200,
+  "deleteEnd": 300,
   "eventCode":["test121","ome217"],
   "template": [
     {
@@ -69,78 +67,6 @@
       "date": "9/25",
       "message": "GIRLS☆DELIGHT#304-GOTANDAサーキットSP- (9/29 @五反田 アイドル) に対応しました。",
       "message_en": "GIRLS☆DELIGHT#304-GOTANDAサーキットSP- (9/29 @gotanda IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "9/15",
-      "message": "HEROINES SUMMER番外編 (9/28-29 @埼玉 アイドル) に対応しました。",
-      "message_en": "HEROINES SUMMER番外編 (9/28-29 @saitama IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "9/15",
-      "message": "HEROINES FES-渋谷サーキット- (9/24 @渋谷 アイドル) に対応しました。",
-      "message_en": "HEROINES FES-渋谷サーキット- (9/24 @Shibuya IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "9/15",
-      "message": "ライブプロFES (9/21-23 @北海道 アイドル) に対応しました。",
-      "message_en": "LIVE PRO FES (9/21-23 @Hokkaido IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "9/5",
-      "message": "TOKYO CALLING (9/14-16 @東京) に対応しました。",
-      "message_en": "TOKYO CALLING (9/14-16 @Tokyo) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/22",
-      "message": "エンドレスサマー (8/27 @渋谷) に対応しました。",
-      "message_en": "エンドレスサマー (8/27 @shibuya) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/19",
-      "message": "MONSTER baSH (8/24-25 @香川) に対応しました。",
-      "message_en": "MONSTER baSH (8/24-25 @kagawa) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/17",
-      "message": "@JAM EXPO (9/14-16 @横浜 アイドル) に対応しました。",
-      "message_en": "@JAM EXPO (9/14-16 @yokohama IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/16",
-      "message": "miniちかっぱ祭ver.13.0 in OSAKA (8/24-25) に対応しました。",
-      "message_en": "miniちかっぱ祭ver.13.0 in OSAKA (8/24-25) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/9",
-      "message": "SWEET LOVE SHOWER (8/30-9/1 @石川) に対応しました。",
-      "message_en": "SWEET LOVE SHOWER (8/30-9/1 @ishikawa) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/9",
-      "message": "かがやきフェス (9/7-8 @石川) に対応しました。",
-      "message_en": "kagayaki fes (9/7-8 @ishikawa) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "8/1",
-      "message": "IDOL SUMMER JUNGLE (8/10-11 @お台場) に対応しました。",
-      "message_en": "IDOL SUMMER JUNGLE (8/10-11 @ODAIBA) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "8/1",
-      "message": "機能追加を行いました(ver1.9.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.9.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     }
   ]
 }
