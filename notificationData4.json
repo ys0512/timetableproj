@@ -22,6 +22,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/24",
+      "message": "大阪造船所アイドルフェス (10/26-27) に対応しました。",
+      "message_en": "大阪造船所アイドルフェス (10/26-27) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "10/24",
+      "message": "Killer Tune SHIBUYA (10/26 @渋谷) に対応しました。",
+      "message_en": "Killer Tune SHIBUYA (10/26 @ @shibuya) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/23",
       "message": "秋葉原アイドルサーキット vol.4 (11/3) に対応しました。",
       "message_en": "秋葉原アイドルサーキット vol.4 (11/3 @akihabara) is supported."
