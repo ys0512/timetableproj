@@ -3,7 +3,7 @@
   "updateMessage": "バージョン1.10.0をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
   "deleteEnd": 300,
-  "eventCode":["test121","ome217"],
+  "eventCode":["test121"],
   "template": [
     {
       "icon": "mdi-alarm-plus",
@@ -20,6 +20,18 @@
     {}
   ],
   "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/8",
+      "message": "よっちゃばれフェス (11/9-10 @山梨 アイドル) に対応しました。",
+      "message_en": "よっちゃばれフェス (11/9-10 @yamanashi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/8",
+      "message": "IDOL CRUISING (11/9 @下北沢 アイドル) に対応しました。",
+      "message_en": "IDOL CRUISING (11/9 @shimokitazawa IDLE) is supported."
+    },
     {
       "icon": "mdi-alarm-plus",
       "date": "10/24",
