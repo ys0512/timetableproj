@@ -1,69 +1,140 @@
 {
-    "versionHistory": [
-        {
-            "version":"1.10.1",
-            "mainList":[
-                {
-                    "title":"main=====",
-                    "subList":[
-                        {
-                            "subtitle":"sub1-1~~~~~",
-                            "comment":"aasdfasdf11"
-                        },
-                        {
-                            "subtitle":"sub1-2~~~~~",
-                            "comment":"aasdfasdf12"
-                        },
-                        {
-                            "subtitle":"sub1-3~~~~~"
-                        }
-                    ]
-                },
-                {
-                    "title":"main=====",
-                    "subList":[
-                        {
-                            "subtitle":"sub2-1~~~~~",
-                            "comment":"aasdfasdf21"
-                        },
-                        {
-                            "subtitle":"sub2-2~~~~~",
-                            "comment":"aasdfasdf22"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "version":"1.9.1",
-            "mainList":[
-                {
-                    "title":"main9=====",
-                    "subList":[
-                        {
-                            "subtitle":"sub1-1~~~~~9",
-                            "comment":"aasdfasdf119"
-                        },
-                        {
-                            "subtitle":"sub1-2~~~~~9",
-                            "comment":"aasdfasdf129"
-                        }
-                    ]
-                },
-                {
-                    "title":"main=====",
-                    "subList":[
-                        {
-                            "subtitle":"sub2-1~~~~~9",
-                            "comment":"aasdfasdf219"
-                        },
-                        {
-                            "subtitle":"sub2-2~~~~~9",
-                            "comment":"aasdfasdf229"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "versionHistory": {
+        "ja": [
+            {
+                "version": "1.10.1",
+                "date": "10/8",
+                "mainList": [
+                    {
+                        "title": "main=====",
+                        "subList": [
+                            {
+                                "subtitle": "sub1-1~~~~~",
+                                "comment": "aasdfasdf11"
+                            },
+                            {
+                                "subtitle": "sub1-2~~~~~",
+                                "comment": "aasdfasdf12"
+                            },
+                            {
+                                "subtitle": "sub1-3~~~~~"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "main=====",
+                        "subList": [
+                            {
+                                "subtitle": "sub2-1~~~~~",
+                                "comment": "aasdfasdf21"
+                            },
+                            {
+                                "subtitle": "sub2-2~~~~~",
+                                "comment": "aasdfasdf22"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.9.1",
+                "mainList": [
+                    {
+                        "title": "main9=====",
+                        "subList": [
+                            {
+                                "subtitle": "sub1-1~~~~~9",
+                                "comment": "aasdfasdf119"
+                            },
+                            {
+                                "subtitle": "sub1-2~~~~~9",
+                                "comment": "aasdfasdf129"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "main=====",
+                        "subList": [
+                            {
+                                "subtitle": "sub2-1~~~~~9",
+                                "comment": "aasdfasdf219"
+                            },
+                            {
+                                "subtitle": "sub2-2~~~~~9",
+                                "comment": "aasdfasdf229"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "en": [
+            {
+                "version": "1.10.1E",
+                "date": "10/8E",
+                "mainList": [
+                    {
+                        "title": "main=====E",
+                        "subList": [
+                            {
+                                "subtitle": "sub1-1~~~~~E",
+                                "comment": "aasdfasdf11E"
+                            },
+                            {
+                                "subtitle": "sub1-2~~~~~E",
+                                "comment": "aasdfasdf12E"
+                            },
+                            {
+                                "subtitle": "sub1-3~~~~~E"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "main=====E",
+                        "subList": [
+                            {
+                                "subtitle": "sub2-1~~~~~",
+                                "comment": "aasdfasdf21"
+                            },
+                            {
+                                "subtitle": "sub2-2~~~~~",
+                                "comment": "aasdfasdf22"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.9.1E",
+                "mainList": [
+                    {
+                        "title": "main9=====E",
+                        "subList": [
+                            {
+                                "subtitle": "sub1-1~~~~~9",
+                                "comment": "aasdfasdf119"
+                            },
+                            {
+                                "subtitle": "sub1-2~~~~~9",
+                                "comment": "aasdfasdf129"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "main=====E",
+                        "subList": [
+                            {
+                                "subtitle": "sub2-1~~~~~9",
+                                "comment": "aasdfasdf219"
+                            },
+                            {
+                                "subtitle": "sub2-2~~~~~9",
+                                "comment": "aasdfasdf229"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 }
