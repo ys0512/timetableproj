@@ -2,10 +2,10 @@
     "versionHistory": [
         {
             "version":"1.10.1",
-            "main":[
+            "mainList":[
                 {
                     "title":"main=====",
-                    "sub":[
+                    "subList":[
                         {
                             "subtitle":"sub1-1~~~~~",
                             "comment":"aasdfasdf11"
@@ -21,7 +21,7 @@
                 },
                 {
                     "title":"main=====",
-                    "sub":[
+                    "subList":[
                         {
                             "subtitle":"sub2-1~~~~~",
                             "comment":"aasdfasdf21"
@@ -36,10 +36,10 @@
         },
         {
             "version":"1.9.1",
-            "main":[
+            "mainList":[
                 {
                     "title":"main9=====",
-                    "sub":[
+                    "subList":[
                         {
                             "subtitle":"sub1-1~~~~~9",
                             "comment":"aasdfasdf119"
@@ -52,7 +52,7 @@
                 },
                 {
                     "title":"main=====",
-                    "sub":[
+                    "subList":[
                         {
                             "subtitle":"sub2-1~~~~~9",
                             "comment":"aasdfasdf219"
