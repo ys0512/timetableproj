@@ -156,9 +156,6 @@
                         "aaa": "twitter",
                         "subList": [
                             {
-                                "subtitle": "言語切り替え（日本語/英語）"
-                            },
-                            {
                                 "subtitle": "ライブ一覧で地域を絞り込む機能"
                             }
                         ]
@@ -177,16 +174,7 @@
                         "aaa": "これ以前はenなし",
                         "subList": [
                             {
-                                "subtitle": "グループにいいねを２段階でつけてお気に入り度合いを管理"
-                            },
-                            {
-                                "subtitle": "いいねの数に応じた絞り込み表示"
-                            },
-                            {
-                                "subtitle": "現在時刻の位置がタイムテーブル上に表示されどのアーティストまで進んでいるのか簡単に確認"
-                            },
-                            {
-                                "subtitle": "アーティスト一覧からでもいいねを付ける"
+                                "subtitle": "言語切り替え（日本語/英語）"
                             }
                         ]
                     },
@@ -476,9 +464,6 @@
                         "aaa": "twitter",
                         "subList": [
                             {
-                                "subtitle": "Language Switching (Japanese/English)"
-                            },
-                            {
                                 "subtitle": "Filter Live Events by Region"
                             }
                         ]
@@ -497,16 +482,7 @@
                         "aaa": "これ以前はenなし",
                         "subList": [
                             {
-                                "subtitle": "Manage your favorites with a two-step like system for groups"
-                            },
-                            {
-                                "subtitle": "Filter by the number of likes"
-                            },
-                            {
-                                "subtitle": "Easily see how far you've progressed in the timetable with the current time indicator"
-                            },
-                            {
-                                "subtitle": "Like artists directly from the artist list"
+                                "subtitle": "Language Switching (Japanese/English)"
                             }
                         ]
                     },
