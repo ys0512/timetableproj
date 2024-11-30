@@ -1,137 +1,665 @@
 {
     "versionHistory": {
-        "ja": [
+        "template": [
             {
-                "version": "1.10.1",
-                "date": "10/8",
+                "version": "1.XXX.0",
+                "date": "2024/x/x",
                 "mainList": [
                     {
-                        "title": "main=====",
+                        "title": "機能追加",
                         "subList": [
                             {
-                                "subtitle": "sub1-1~~~~~",
-                                "comment": "aasdfasdf11"
+                                "subtitle": ""
                             },
                             {
-                                "subtitle": "sub1-2~~~~~",
-                                "comment": "aasdfasdf12"
+                                "subtitle": ""
                             },
                             {
-                                "subtitle": "sub1-3~~~~~"
+                                "subtitle": ""
                             }
                         ]
                     },
                     {
-                        "title": "main=====",
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            }
+        ],
+        "ja": [
+            {
+                "version": "1.10.0",
+                "date": "2024/10/8",
+                "mainList": [
+                    {
+                        "title": "機能追加",
                         "subList": [
                             {
-                                "subtitle": "sub2-1~~~~~",
-                                "comment": "aasdfasdf21"
+                                "subtitle": "同じイベントの出演情報を全日程で比較",
+                                "comment": ""
                             },
                             {
-                                "subtitle": "sub2-2~~~~~",
-                                "comment": "aasdfasdf22"
+                                "subtitle": "いいね3段階の利用"
+                            },
+                            {
+                                "subtitle": "ブックマーク昇順/降順"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
+            {
+                "version": "1.9.0",
+                "date": "2024/8/1",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "ステージ時間調整機能"
+                            },
+                            {
+                                "subtitle": "メモ機能"
+                            },
+                            {
+                                "subtitle": "もどるボタン追加"
+                            },
+                            {
+                                "subtitle": "追加した出演枠をドラッグで移動"
+                            },
+                            {
+                                "subtitle": "画面下部のボタンを非表示（スクショ用）"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
+            {
+                "version": "1.8.0",
+                "date": "2024/7/11",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "タイテサイズ調整"
+                            },
+                            {
+                                "subtitle": "操作性向上のため閉じるボタンなどを画面下部に移動"
+                            },
+                            {
+                                "subtitle": "アクションボタンによるメニュー表示"
+                            },
+                            {
+                                "subtitle": "タイテ画面で30分毎に補助線を引く設定を追加"
+                            },
+                            {
+                                "subtitle": "いいねフィルタボタンのデザイン変更"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、軽微な不具合修正"
+                    }
+                ]
+            },
+            {
+                "version": "1.7.0",
+                "date": "2024/5/24",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "１つのライブステージに複数のアーティストが出演するコラボステージに対応"
+                            },
+                            {
+                                "subtitle": "ハートのフィルターボタンデザイン変更"
+                            },
+                            {
+                                "subtitle": "アプリのWebサイトURL/SNSアカウントのQRコードを表示"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、軽微な不具合修正"
+                    }
+                ]
+            },
+            {
+                "version": "1.6.3",
+                "date": "2024/4/2",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "aaa": "onenote",
+                        "subList": [
+                            {
+                                "subtitle": "他アプリ内のXアプリリンクを開こうとしたときに本アプリが開いてしまう問題を解消"
                             }
                         ]
                     }
                 ]
             },
             {
-                "version": "1.9.1",
+                "version": "1.6.0",
+                "date": "2024/2/1",
                 "mainList": [
                     {
-                        "title": "main9=====",
+                        "title": "機能追加",
+                        "aaa": "twitter",
                         "subList": [
                             {
-                                "subtitle": "sub1-1~~~~~9",
-                                "comment": "aasdfasdf119"
+                                "subtitle": "言語切り替え（日本語/英語）"
                             },
                             {
-                                "subtitle": "sub1-2~~~~~9",
-                                "comment": "aasdfasdf129"
+                                "subtitle": "ライブ一覧で地域を絞り込む機能"
                             }
                         ]
                     },
                     {
-                        "title": "main=====",
+                        "title": "他、軽微な改善や不具合修正"
+                    }
+                ]
+            },
+            {
+                "version": "1.5.0",
+                "date": "2024/1/19",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "aaa": "これ以前はenなし",
                         "subList": [
                             {
-                                "subtitle": "sub2-1~~~~~9",
-                                "comment": "aasdfasdf219"
+                                "subtitle": "グループにいいねを２段階でつけてお気に入り度合いを管理"
                             },
                             {
-                                "subtitle": "sub2-2~~~~~9",
-                                "comment": "aasdfasdf229"
+                                "subtitle": "いいねの数に応じた絞り込み表示"
+                            },
+                            {
+                                "subtitle": "現在時刻の位置がタイムテーブル上に表示されどのアーティストまで進んでいるのか簡単に確認"
+                            },
+                            {
+                                "subtitle": "アーティスト一覧からでもいいねを付ける"
                             }
                         ]
+                    },
+                    {
+                        "title": "他、軽微な改善や不具合修正"
+                    }
+                ]
+            },
+            {
+                "version": "1.4.0",
+                "date": "2024/1/8",
+                "aaa": "tweetなし。AppleのHistory参考",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "ライブ一覧を年ごとに切り替える機能"
+                            },
+                            {
+                                "subtitle": "ライブごとに'いいね'をリセットする機能"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、軽微な修正"
+                    }
+                ]
+            },
+            {
+                "version": "1.3.0",
+                "date": "2023/11/6",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "ライブ一覧でジャンル選択メニューを常に表示"
+                            },
+                            {
+                                "subtitle": "出演枠の追加・編集画面で'いいね'をつける"
+                            },
+                            {
+                                "subtitle": "現在時刻のラインを当日だけタイテ画面に表示する設定を追加"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、細かな改善"
+                    }
+                ]
+            },
+            {
+                "version": "1.2.0",
+                "date": "2023/9/7",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "アーティスト名の検索機能を追加"
+                            },
+                            {
+                                "subtitle": "ライブ一覧で一番近い日程まで自動スクロールする'Now'ボタンを追加"
+                            },
+                            {
+                                "subtitle": "ライブ一覧でジャンルごとに表示する機能を追加"
+                            },
+                            {
+                                "subtitle": "ライブ一覧やブックマーク一覧で日付の色変更（土曜は青、日曜は赤）"
+                            },
+                            {
+                                "subtitle": "出演枠の追加機能を強化（編集機能追加、時間入力を改善、不具合修正）"
+                            },
+                            {
+                                "subtitle": "各ライブの'いいね'を一括クリアできる機能を追加"
+                            },
+                            {
+                                "subtitle": "'いいね'の固定状態を再起動しても維持するよう変更"
+                            },
+                            {
+                                "subtitle": "画面下に「その他」ボタンを追加（アプリの設定や今後FAQなどを充実させる予定）"
+                            },
+                            {
+                                "subtitle": "新バージョン公開時にメッセージを表示する機能を追加"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.2",
+                "date": "2023/8/3",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "aaa": "twitter",
+                        "subList": [
+                            {
+                                "subtitle": "タイテ画面の慣性スクロール（指を離してもしばらく滑らかにスクロールする動作）に対応",
+                                "comment22222222222_Update後に表示する": "※iOSのみ改善。Androidは元々対応済"
+                            },
+                            {
+                                "subtitle": "タイテ画面の日付の色を曜日によって切り替える（土曜：青、日曜：赤、それ以外：黒）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.1",
+                "date": "2023/8/3",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "出演枠を個別に追加・削除する機能を実装（イベント主催から発表されていない出演情報や物販ブース情報などを個別に登録）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.0",
+                "date": "2023/8/2",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "タイテ画面の各出番を長押しすることで、各アーティストの詳細画面を表示"
+                            },
+                            {
+                                "subtitle": "鍵アイコンをタッチすることで、いいねを固定（誤操作防止）"
+                            },
+                            {
+                                "subtitle": "時計アイコンをタッチすることで、現在時刻の赤ラインへ移動"
+                            },
+                            {
+                                "subtitle": "ライブ一覧表示を同じライブごとにまとめて表示するよう変更"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、軽微な修正。"
+                    }
+                ]
+            },
+            {
+                "version": "1.0.0",
+                "date": "2023/7/1",
+                "mainList": [
+                    {
+                        "title": "新規開発"
                     }
                 ]
             }
         ],
         "en": [
             {
-                "version": "1.10.1E",
-                "date": "10/8E",
+                "version": "1.10.0",
+                "date": "10/8/2024",
                 "mainList": [
                     {
-                        "title": "main=====E",
+                        "title": "New features",
                         "subList": [
                             {
-                                "subtitle": "sub1-1~~~~~E",
-                                "comment": "aasdfasdf11E"
+                                "subtitle": "Compare performance information for the same event for all dates",
+                                "comment": ""
                             },
                             {
-                                "subtitle": "sub1-2~~~~~E",
-                                "comment": "aasdfasdf12E"
+                                "subtitle": "Enable 3 likes"
                             },
                             {
-                                "subtitle": "sub1-3~~~~~E"
+                                "subtitle": "Bookmarks in ascending/descending order"
                             }
                         ]
                     },
                     {
-                        "title": "main=====E",
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.9.0",
+                "date": "8/1/2024",
+                "mainList": [
+                    {
+                        "title": "New features",
                         "subList": [
                             {
-                                "subtitle": "sub2-1~~~~~",
-                                "comment": "aasdfasdf21"
+                                "subtitle": "Stage time adjustment feature"
                             },
                             {
-                                "subtitle": "sub2-2~~~~~",
-                                "comment": "aasdfasdf22"
+                                "subtitle": "Note-taking function"
+                            },
+                            {
+                                "subtitle": "Added 'back' button"
+                            },
+                            {
+                                "subtitle": "Drag and drop to rearrange added performers"
+                            },
+                            {
+                                "subtitle": "Hide bottom buttons (for screenshots)"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.8.0",
+                "date": "7/1/20241",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Tile Size Adjustment"
+                            },
+                            {
+                                "subtitle": "The close button and other frequently used buttons have been relocated to the bottom of the screen for easier access."
+                            },
+                            {
+                                "subtitle": "A new action button has been added to provide quick access to the app's menu."
+                            },
+                            {
+                                "subtitle": "An optional setting has been introduced to display gridlines every 30 minutes on the timeline screen."
+                            },
+                            {
+                                "subtitle": "Like Filter Button Redesign"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.7.0",
+                "date": "5/2/20244",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Support for collaboration stages where multiple artists can perform on the same live stage."
+                            },
+                            {
+                                "subtitle": "Redesigned heart filter button."
+                            },
+                            {
+                                "subtitle": "Display QR codes for the app's website URL and social media accounts."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.6.3",
+                "date": "4/2/2024",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "aaa": "onenote。enなし",
+                        "subList": [
+                            {
+                                "subtitle": "Resolved an issue where tapping an X app link within another app would unexpectedly open this app instead."
                             }
                         ]
                     }
                 ]
             },
             {
-                "version": "1.9.1E",
+                "version": "1.6.0",
+                "date": "2/1/2024",
                 "mainList": [
                     {
-                        "title": "main9=====E",
+                        "title": "New features",
+                        "aaa": "twitter",
                         "subList": [
                             {
-                                "subtitle": "sub1-1~~~~~9",
-                                "comment": "aasdfasdf119"
+                                "subtitle": "Language Switching (Japanese/English)"
                             },
                             {
-                                "subtitle": "sub1-2~~~~~9",
-                                "comment": "aasdfasdf129"
+                                "subtitle": "Filter Live Events by Region"
                             }
                         ]
                     },
                     {
-                        "title": "main=====E",
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.5.0",
+                "date": "1/19/2024",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "aaa": "これ以前はenなし",
                         "subList": [
                             {
-                                "subtitle": "sub2-1~~~~~9",
-                                "comment": "aasdfasdf219"
+                                "subtitle": "Manage your favorites with a two-step like system for groups"
                             },
                             {
-                                "subtitle": "sub2-2~~~~~9",
-                                "comment": "aasdfasdf229"
+                                "subtitle": "Filter by the number of likes"
+                            },
+                            {
+                                "subtitle": "Easily see how far you've progressed in the timetable with the current time indicator"
+                            },
+                            {
+                                "subtitle": "Like artists directly from the artist list"
                             }
                         ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.4.0",
+                "date": "1/8/2024",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Switch live event listings by year"
+                            },
+                            {
+                                "subtitle": "Reset likes for individual live events"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.3.0",
+                "date": "11/6/2023",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Always display genre selection menu in the live list"
+                            },
+                            {
+                                "subtitle": "Add a 'like' function to the add/edit artist slot screen."
+                            },
+                            {
+                                "subtitle": "Add a setting to display a current time line on the schedule screen only for the current day."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.2.0",
+                "date": "9/7/2023",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Added an artist search function."
+                            },
+                            {
+                                "subtitle": "Added a 'Now' button that automatically scrolls to the nearest upcoming live event."
+                            },
+                            {
+                                "subtitle": "Added a feature to display the live list by genre."
+                            },
+                            {
+                                "subtitle": "Changed the color of dates in the live and bookmark lists (blue for Saturdays, red for Sundays)."
+                            },
+                            {
+                                "subtitle": "Enhanced the artist slot addition feature (new editing features, improved time input, bug fixes)."
+                            },
+                            {
+                                "subtitle": "Added a feature to clear all 'likes' for live events at once."
+                            },
+                            {
+                                "subtitle": "Changed 'likes' to persist across app restarts."
+                            },
+                            {
+                                "subtitle": "Added a 'More' button at the bottom of the screen (to provide access to app settings, FAQs, and more in the future)."
+                            },
+                            {
+                                "subtitle": "Added a feature to display a message upon releasing a new version."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.2",
+                "date": "8/3/2023",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "aaa": "twitter",
+                        "subList": [
+                            {
+                                "subtitle": "Enabled momentum scrolling on the schedule screen.",
+                                "comment22222222222_Update後に表示する": "Implemented a feature to add or remove individual performance slots (e.g., unannounced artists, merchandise booths) on iOS."
+                            },
+                            {
+                                "subtitle": "Changed the color of dates on the schedule based on the day of the week (blue for Saturdays, red for Sundays, black for other days)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.1",
+                "date": "8/3/2023",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "We've added the ability to create and manage custom performance slots."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.1.0",
+                "date": "8/2/2023",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "By long-pressing on each performance slot in the schedule, you can now view detailed information about each artist."
+                            },
+                            {
+                                "subtitle": "Tap the lock icon to lock your likes and prevent accidental changes."
+                            },
+                            {
+                                "subtitle": "Tap the clock icon to jump to the current time on the schedule."
+                            },
+                            {
+                                "subtitle": "The live list now groups performances by the same live event."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
+            {
+                "version": "1.0.0",
+                "date": "7/1/2023",
+                "mainList": [
+                    {
+                        "title": "New development"
                     }
                 ]
             }
