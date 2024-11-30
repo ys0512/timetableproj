@@ -35,10 +35,11 @@
                         "subList": [
                             {
                                 "subtitle": "同じイベントの出演情報を全日程で比較",
-                                "comment": ""
+                                "comment": "comment★"
                             },
                             {
-                                "subtitle": "いいね3段階の利用"
+                                "subtitle": "いいね3段階の利用",
+                                "comment": ""
                             },
                             {
                                 "subtitle": "ブックマーク昇順/降順"
