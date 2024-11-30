@@ -35,7 +35,7 @@
                         "subList": [
                             {
                                 "subtitle": "同じイベントの出演情報を全日程で比較",
-                                "comment": "comment★"
+                                "comment": ""
                             },
                             {
                                 "subtitle": "いいね3段階の利用",
@@ -457,7 +457,7 @@
                 "date": "4/2/2024",
                 "mainList": [
                     {
-                        "title": "不具合修正",
+                        "title": "Bug fixes",
                         "aaa": "onenote。enなし",
                         "subList": [
                             {
