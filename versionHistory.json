@@ -16,6 +16,9 @@
                             },
                             {
                                 "subtitle": ""
+                            },
+                            {
+                                "subtitle": ""
                             }
                         ]
                     },
@@ -26,6 +29,32 @@
             }
         ],
         "ja": [
+            {
+                "version": "1.11.0",
+                "date": "2024/12/2",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "スマホ画面の回転に対応"
+                            },
+                            {
+                                "subtitle": "画面下部ボタンの高さ調整（スマホのホームバーとの重なりを回避）"
+                            },
+                            {
+                                "subtitle": "いいねの絞り込みで左に寄せない機能の追加"
+                            },
+                            {
+                                "subtitle": "バージョン履歴画面の追加"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
             {
                 "version": "1.10.0",
                 "date": "2024/10/8",
@@ -275,7 +304,7 @@
                         "subList": [
                             {
                                 "subtitle": "タイテ画面の慣性スクロール（指を離してもしばらく滑らかにスクロールする動作）に対応",
-                                "comment22222222222_Update後に表示する": "※iOSのみ改善。Androidは元々対応済"
+                                "comment": "※iOSのみ改善。Androidは元々対応済"
                             },
                             {
                                 "subtitle": "タイテ画面の日付の色を曜日によって切り替える（土曜：青、日曜：赤、それ以外：黒）"
@@ -335,6 +364,32 @@
             }
         ],
         "en": [
+            {
+                "version": "1.11.0",
+                "date": "2024/12/2",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Added support for screen rotation"
+                            },
+                            {
+                                "subtitle": "Adjusted bottom button height to avoid overlap with phone's home bar"
+                            },
+                            {
+                                "subtitle": "Added option to disable left alignment in like filter"
+                            },
+                            {
+                                "subtitle": "Added version history screen"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
             {
                 "version": "1.10.0",
                 "date": "10/8/2024",
@@ -582,7 +637,7 @@
                         "subList": [
                             {
                                 "subtitle": "Enabled momentum scrolling on the schedule screen.",
-                                "comment22222222222_Update後に表示する": "Implemented a feature to add or remove individual performance slots (e.g., unannounced artists, merchandise booths) on iOS."
+                                "comment": "Implemented a feature to add or remove individual performance slots (e.g., unannounced artists, merchandise booths) on iOS."
                             },
                             {
                                 "subtitle": "Changed the color of dates on the schedule based on the day of the week (blue for Saturdays, red for Sundays, black for other days)."
