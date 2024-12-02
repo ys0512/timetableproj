@@ -30,6 +30,20 @@
         ],
         "ja": [
             {
+                "version": "1.11.1",
+                "date": "2024/12/3",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "一部の端末で、画面回転時にライブ一覧のボタン（ジャンル、TOP）が画面からはみ出てしまう問題の修正"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.11.0",
                 "date": "2024/12/2",
                 "mainList": [
@@ -365,8 +379,22 @@
         ],
         "en": [
             {
+                "version": "1.11.1",
+                "date": "12/3/2024",
+                "mainList": [
+                    {
+                        "title": "Bug fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed an issue where the live list buttons (genre, TOP) would go off the screen when rotating the screen on some devices."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.11.0",
-                "date": "2024/12/2",
+                "date": "12/2/2024",
                 "mainList": [
                     {
                         "title": "New features",
@@ -637,7 +665,7 @@
                         "subList": [
                             {
                                 "subtitle": "Enabled momentum scrolling on the schedule screen.",
-                                "comment": "Implemented a feature to add or remove individual performance slots (e.g., unannounced artists, merchandise booths) on iOS."
+                                "comment": "*Improved for iOS only. Android is already supported."
                             },
                             {
                                 "subtitle": "Changed the color of dates on the schedule based on the day of the week (blue for Saturdays, red for Sundays, black for other days)."
