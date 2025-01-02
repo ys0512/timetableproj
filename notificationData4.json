@@ -22,6 +22,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "1/2",
+      "message": "ARIM FES (1/4 @渋谷 アイドル) に対応しました。",
+      "message_en": "ARIM FES (1/4 @shibuya idol) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "12/28",
       "message": "アイドル初夢ライブ 2025 @ JAM (1/2-3 @お台場 アイドル) に対応しました。",
       "message_en": "アイドル初夢ライブ 2025 @ JAM (1/2-3 @odaiba idol) is supported."
