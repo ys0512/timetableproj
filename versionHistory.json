@@ -30,6 +30,23 @@
         ],
         "ja": [
             {
+                "version": "1.12.0",
+                "date": "2025/2/3",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "タイ語対応"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
+            {
                 "version": "1.11.1",
                 "date": "2024/12/3",
                 "mainList": [
@@ -378,6 +395,23 @@
             }
         ],
         "en": [
+            {
+                "version": "1.12.0",
+                "date": "2/3/2025",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Thai language is now supported."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
             {
                 "version": "1.11.1",
                 "date": "12/3/2024",
