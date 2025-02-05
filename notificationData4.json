@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.11.1",
-  "updateMessage": "バージョン1.11.1をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
+  "updateVersion": "1.12.0",
+  "updateMessage": "バージョン1.12.0をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
   "deleteEnd": 300,
   "eventCode":["test121"],
