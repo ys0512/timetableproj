@@ -22,15 +22,27 @@
   "notificationList": [
     {
       "icon": "mdi-star-box",
-      "date": "2/3",
+      "date": "",
       "message": "★★★★★★★★★ バージョンアップ後に「ライブ一覧」が表示されない場合がありますが､10分ほど後にもう一度アプリを開くと正しく表示されます｡ご不便をおかけして申し訳ありません｡",
       "message_en": "★★★★★★★★★ After the version update, the \"Live List\" may not be displayed. If this happens, please reopen the app after about 10 minutes."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "2/20",
+      "message": "見放題 東京2025 (3/1 @新宿 バンド) に対応しました。",
+      "message_en": "見放題 東京2025 (3/1 @Shinjuku BAND) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "2/12",
       "message": "OSAKA GIRLS GIRLS CIRCUIT (2/16 @大阪 アイドル) に対応しました。",
       "message_en": "OSAKA GIRLS GIRLS CIRCUIT (2/16 @osaka IDLE) is supported."
+    },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "2/3",
+      "message": "機能追加を行いました(ver1.12.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "New features added (ver1.12.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
       "icon": "mdi-alarm-plus",
@@ -109,60 +121,6 @@
       "date": "12/3",
       "message": "機能追加を行いました(ver1.11.1)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "New features added (ver1.11.1). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "12/2",
-      "message": "機能追加を行いました(ver1.11.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.11.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "11/15",
-      "message": "SOUNDGARDEN (11/23-24 @名古屋 アイドル) に対応しました。",
-      "message_en": "SOUNDGARDEN (11/23-24 @nagoya IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "11/8",
-      "message": "超明星現象 (11/14 @渋谷 アイドル) に対応しました。",
-      "message_en": "超明星現象 (11/14 @shibuya IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "11/8",
-      "message": "よっちゃばれフェス (11/9-10 @山梨 アイドル) に対応しました。",
-      "message_en": "よっちゃばれフェス (11/9-10 @yamanashi IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "11/8",
-      "message": "IDOL CRUISING (11/9 @下北沢 アイドル) に対応しました。",
-      "message_en": "IDOL CRUISING (11/9 @shimokitazawa IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/24",
-      "message": "大阪造船所アイドルフェス (10/26-27) に対応しました。",
-      "message_en": "大阪造船所アイドルフェス (10/26-27) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/24",
-      "message": "Killer Tune SHIBUYA (10/26 @渋谷) に対応しました。",
-      "message_en": "Killer Tune SHIBUYA (10/26 @ @shibuya) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "10/23",
-      "message": "秋葉原アイドルサーキット vol.4 (11/3) に対応しました。",
-      "message_en": "秋葉原アイドルサーキット vol.4 (11/3 @akihabara) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "10/8",
-      "message": "機能追加を行いました(ver1.10.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "New features added (ver1.10.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     }
   ]
 }
