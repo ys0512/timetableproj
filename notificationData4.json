@@ -28,6 +28,12 @@
     },
     {
       "icon": "mdi-alarm-plus",
+      "date": "3/7",
+      "message": "miniちかっぱ祭ver.19.0inOSAKA (3/15-16 @ アイドル) に対応しました。",
+      "message_en": "miniちかっぱ祭ver.19.0inOSAKA (3/15-16 @ IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "3/6",
       "message": "OOPARTS (4/12-13 @岐阜 バンド&アイドル) に対応しました。",
       "message_en": "OOPARTS (4/12-13 @gifu BAND & idol) is supported."
