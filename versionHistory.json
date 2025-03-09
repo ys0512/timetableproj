@@ -3,7 +3,7 @@
         "template": [
             {
                 "version": "1.XXX.0",
-                "date": "2024/x/x",
+                "date": "2025/x/x",
                 "mainList": [
                     {
                         "title": "機能追加",
@@ -29,6 +29,43 @@
             }
         ],
         "ja": [
+            {
+                "version": "1.12.1",
+                "date": "2025/3/11予定",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "タイムテーブル画面がLoading状態のままになることがある不具合の修正"
+                            },
+                            {
+                                "subtitle": "インストール後／アップデート後にライブ一覧画面が一定時間更新されないことがある不具合の修正"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "時刻調整機能のテンキー操作性改善"
+                            },
+                            {
+                                "subtitle": "ピンチアウトで画面拡大中にポップアップが表示されないよう修正"
+                            },
+                            {
+                                "subtitle": "いいねダブルタップによる画面拡大の抑制"
+                            },
+                            {
+                                "subtitle": "ブックマーク一覧にサブメニューのボタンを追加"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "※Stellaではピンチアウト操作を無効化していますが一部の機種でピンチアウトが効いているためその場合の操作性改善を含んでいます｡全ての機種で拡大縮小ができるわけではありません｡"
+                    }
+                ]
+            },
             {
                 "version": "1.12.0",
                 "date": "2025/2/3",
@@ -395,6 +432,43 @@
             }
         ],
         "en": [
+            {
+                "version": "1.12.1",
+                "date": "Scheduled to be released on 3/11/2025",
+                "mainList": [
+                    {
+                        "title": "Bug Fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed an issue where the timetable screen would sometimes remain in a loading state."
+                            },
+                            {
+                                "subtitle": "Fixed an issue where the live list screen would sometimes fail to update for a certain period of time after installation or update."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Improved the keypad operability of the time adjustment function."
+                            },
+                            {
+                                "subtitle": "Modified the app so that pop-ups are not displayed while the screen is zoomed in with a pinch-out gesture."
+                            },
+                            {
+                                "subtitle": "Suppressed screen enlargement due to double-tapping 'Like.'"
+                            },
+                            {
+                                "subtitle": "Added submenu buttons to the bookmark list."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "* Stella has disabled pinch out operation, but pinch out is still effective on some devices, so we have included improvements to the operation in those cases. Zooming in and out is not possible on all devices."
+                    }
+                ]
+            },
             {
                 "version": "1.12.0",
                 "date": "2/3/2025",
