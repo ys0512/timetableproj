@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.12.0",
-  "updateMessage": "バージョン1.12.0をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
+  "updateVersion": "1.12.1",
+  "updateMessage": "バージョン1.12.1をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
   "deleteEnd": 300,
   "eventCode":["test121"],
@@ -17,14 +17,20 @@
       "message": "ABCABC (2/20 @渋谷 バンド) に対応しました。",
       "message_en": "ABCABC (2/20 @Shibuya BAND) is supported."
     },
-    {}
-  ],
-  "notificationList": [
     {
       "icon": "mdi-star-box",
       "date": "",
       "message": "★★★★★★★★★ バージョンアップ後に「ライブ一覧」が表示されない場合がありますが､10分ほど後にもう一度アプリを開くと正しく表示されます｡ご不便をおかけして申し訳ありません｡",
       "message_en": "★★★★★★★★★ After the version update, the \"Live List\" may not be displayed. If this happens, please reopen the app after about 10 minutes."
+    },
+    {}
+  ],
+  "notificationList": [
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "3/10",
+      "message": "機能改善を行いました(ver1.12.1)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Features improved (ver1.12.1). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
       "icon": "mdi-alarm-plus",
