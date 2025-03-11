@@ -1,0 +1,807 @@
+{
+    "ja": {
+        "general": {
+            "apply": "適用",
+            "back": "戻る",
+            "cancel": "キャンセル",
+            "clear": "クリア",
+            "close": "閉じる",
+            "delete": "削除",
+            "reset": "リセット",
+            "save": "保存",
+            "timeTable": "タイムテーブル",
+            "message": {
+                "offline": "インターネットに繋がっていないか、サーバに問題が発生しています。\nライブ情報をダウンロードできませんでした。\nしばらくしてから再度お試しください。"
+            }
+        },
+        "footer": {
+            "home": "ホーム",
+            "live": "ライブ",
+            "bookmark": "ブックマーク",
+            "howToUse": "使い方",
+            "other": "その他"
+        },
+        "dayOfWeek": [
+            "ー",
+            "月",
+            "火",
+            "水",
+            "木",
+            "金",
+            "土",
+            "日"
+        ],
+        "pref": [
+            "すべて",
+            "北海道",
+            "青森",
+            "岩手",
+            "宮城",
+            "秋田",
+            "山形",
+            "福島",
+            "茨城",
+            "栃木",
+            "群馬",
+            "埼玉",
+            "千葉",
+            "東京",
+            "神奈川",
+            "新潟",
+            "富山",
+            "石川",
+            "福井",
+            "山梨",
+            "長野",
+            "岐阜",
+            "静岡",
+            "愛知",
+            "三重",
+            "滋賀",
+            "京都",
+            "大阪",
+            "兵庫",
+            "奈良",
+            "和歌山",
+            "鳥取",
+            "島根",
+            "岡山",
+            "広島",
+            "山口",
+            "徳島",
+            "香川",
+            "愛媛",
+            "高知",
+            "福岡",
+            "佐賀",
+            "長崎",
+            "熊本",
+            "大分",
+            "宮崎",
+            "鹿児島",
+            "沖縄",
+            "タイ"
+        ],
+        "home": {
+            "menu": {
+                "developer": "開発元",
+                "firstUse": "はじめてご利用の方",
+                "notification": "お知らせ",
+                "version": "バージョン",
+                "versionHistory": "アップデート履歴"
+            },
+            "message": {
+                "firstTimeUser": "をご覧ください",
+                "marshmallow": "匿名でのご連絡はこちら。必要に応じてX(Twitter)の投稿にてお答えいたしますができる限りXでのご連絡をお願いします。",
+                "noNotification": "お知らせ情報を受信できませんでした",
+                "sns": "ご意見・ライブ追加のご要望などは、X(旧Twitter)アカウントへのリプまたはDMへ。",
+                "web": "WebサイトではアプリStoreやプライバシーポリシー等を掲載。"
+            },
+            "notificationTitle": "お知らせ",
+            "versionHistory": "バージョン履歴"
+        },
+        "liveList": {
+            "area": "地域",
+            "genre": "ジャンル",
+            "genreAll": "すべて",
+            "genreIdol": "アイドル",
+            "genreJazz": "ジャズ",
+            "genreRockPop": "ロック",
+            "menu": "ライブ一覧",
+            "month": "月",
+            "noData": "データが見つかりませんでした",
+            "slash": "",
+            "year": "年"
+        },
+        "bookMarkList": {
+            "menu": "ブックマーク一覧",
+            "message": {
+                "noBookmark": "ブックマークが登録されていません"
+            }
+        },
+        "howToUse": {
+            "menu": "",
+            "startApp": "はじめる",
+            "message": [
+                "画面下の「ライブ」をタップし、表示したいライブのタイムテーブルを開きます。\nライブはブックマークで保存できます。",
+                "お目当てのアーティスト出演枠をタップすることで「いいね(❤)」がつきます。\n(なし→❤１→❤２の３段階) \n 画面下の３つのボタンで「いいね」の数に応じた表示ができます。\nメニューボタンで様々な機能を利用できます。",
+                "アーティスト名を長押しするとアーティストの全ての出番を確認できます。\nこの画面はアーティスト検索画面からも表示できます。",
+                "現在時刻に赤いラインが表示されます。ライブ観戦中にご活用ください。\n時計ボタンで現在時刻ラインの位置まで画面移動できます。",
+                "イベント主催から発表されていない出演情報や物販ブース情報などを個別に追加・削除できます。\n追加情報はアーティスト一覧に表示されます。",
+                "開演時間が遅れた時などに、ステージ毎の時間を各自で調整できます。\nステージ名をタップするか、左下メニューの「ツール」からでも変更できます。",
+                "ライブ出演や物販ごとにメモを追加できます。\n設定でOFFになっているのでONにしてください。\n各出番を長押しした時の画面で、アイコンをタップして文章を追加してください。",
+                "この「使い方」のページはいつでも画面下をタップすることで確認することができます。"
+            ]
+        },
+        "other": {
+            "activateComment": "メモ機能を有効化",
+            "confirmDetail": "詳細を確認",
+            "eventCode": "イベントコード",
+            "fabSpeechBubble": "メニューボタンの吹き出しを表示する",
+            "good3": "❤３を使う",
+            "keepGenre": "ライブ一覧のジャンル選択を記憶する",
+            "liveName": "ライブ名",
+            "lockMessage": "いいね固定中にタップしたときのメッセージを表示しない",
+            "menu": {
+                "eventCode": "特別イベントコード β版",
+                "other": "その他",
+                "faq": "FAQ",
+                "howToUseDetail": "使い方（詳細）",
+                "license": "ソフトウェアライセンス",
+                "setting": "設定"
+            },
+            "nowLine": "現在時刻ラインは当日のみ表示する",
+            "overlayLine": "30分毎に白い点線を重ねて表示する",
+            "preparation": "準備中",
+            "message": {
+                "addedBookmark": "ブックマークを追加しました",
+                "errorAddBookmark": "入力された値は無効です",
+                "faq": "（問題が発生した場合、アプリの最新バージョンがあればアップデートしてください）",
+                "licenseLink": "ソフトウェアライセンス一覧を表示"
+            },
+            "regist": "登録",
+            "tallFooter": "画面下のボタンを高くする"
+        },
+        "ttTable": {
+            "addCustom": "出演枠を追加",
+            "addCustom2": "出演枠の追加",
+            "artistList": "アーティスト一覧",
+            "artistName": "アーティスト名",
+            "artistSearch": "アーティスト検索",
+            "collabArtist": "参加アーティスト",
+            "customContent": "内容",
+            "customContent2": "(50文字まで)",
+            "customExample": "〇〇の物販 など",
+            "delete": "削除",
+            "edit": "編集",
+            "editCustom": "出演枠の編集",
+            "endTime": "終了時刻",
+            "lockLikes": "\"いいね♡\"を固定する",
+            "message": {
+                "addCustom": "※主催者から発表されない出演情報や物販ブース情報など、必要に応じて追加できます。",
+                "confirmDelete": "削除しますか？",
+                "customFormatError": "追加いただいた出演枠に異常が発生したので削除しました。\n再度作成をお願いします。\nお手数をおかけして申し訳ありません。",
+                "lockLikes": "\"いいね♡\"を固定しました",
+                "lockLikesExplain": "\"いいね♡\"が固定されています。",
+                "lockLikesExplain2": "左下メニューから固定解除できます。",
+                "noGood": "アーティスト名をタップしてください",
+                "noNotification": "お知らせはありません",
+                "notDownloaded": "インターネットに接続されていないため、過去に取得したデータが表示されています。",
+                "notDownloaded2": "最新のデータを確認するには、インターネットに接続してください。",
+                "editCustom": "※追加した出演枠を編集します",
+                "editableLikes": "\"いいね♡\"を編集できます"
+            },
+            "min": "分",
+            "move": "移動",
+            "notification": "お知らせ",
+            "orMore": "以上",
+            "overwrite": "上書き",
+            "register": "登録",
+            "search": "検索",
+            "settingsAndMore": "ツール",
+            "startTime": "開始時刻",
+            "unlockLikes": "\"いいね♡\"を編集する"
+        },
+        "adjustTimeDialog": {
+            "addedStage": "[追加ステージ]",
+            "adjustTime": "時間調整",
+            "bulkEdit": "まとめて編集",
+            "message": {
+                "info": "開演時間が遅れた時など、ステージ毎にタイムテーブルを調整して表示できます。\nステージ名をタップして、調整時間を指定してください。"
+            },
+            "min": "分",
+            "stage": "ステージ"
+        },
+        "bundleDialog": {
+            "SummaryDescription": "選択行の○合計",
+            "tapDescription": "※タッチで○を集計"
+        },
+        "areaSelectDialog": {
+            "allArea": "すべての地域",
+            "title": "地域選択",
+            "japanArea1": "北海道",
+            "japanArea1s": "東北",
+            "japanArea2": "関東",
+            "japanArea3": "中部",
+            "japanArea4": "近畿",
+            "japanArea5": "中国",
+            "japanArea6": "四国",
+            "japanArea7": "九州",
+            "japanArea7s": "沖縄"
+        },
+        "liveSettingDialog": {
+            "adjustTime": "時間調整",
+            "adjustTimeExplain": "開演時間の遅れをタイムテーブルに反映する",
+            "bundleDiff": "全日程の比較",
+            "bundleDiffExplain": "同一ライブの全日程を比較する",
+            "clearCache": "キャッシュの削除",
+            "clearCacheExplain": "キャッシュをすべて削除する",
+            "changeHeight": "出演枠のサイズ調整",
+            "deleteCustomAll": "追加した出演枠の削除",
+            "deleteCustomAllExplain": "追加した出演枠をすべて削除する",
+            "filterWithoutLeftAligned": "左詰めせずに'いいね'の絞り込みを行う",
+            "hideButtonGroup": "ボタンを一時的に消す",
+            "hideButtonGroupExplain": "タイテ画面のボタンを一時的に消す（スクショ用）",
+            "message": {
+                "clearCacheExplain": "（インターネット通信できているのにタイテ画面が表示できない場合にお試しください。選択したライブの「いいね」や「追加した出演枠」なども削除されます）",
+                "deleteCustomAllExplain": "（インターネット通信できているのにタイテ画面が表示できない場合、追加した出演枠に不具合がある可能性があります。削除をお試しください）",
+                "DialogTitleForDeleteConfirm": "削除しますか？",
+                "DialogTitleForResetConfirm": "リセットしますか？"
+            },
+            "resetLikes": "\"いいね♡\"のリセット",
+            "resetLikesExplain": "\"いいね♡\"をすべてリセットする"
+        },
+        "turnCommentDialog": {
+            "commentExample": "メモを記入（50文字以内）",
+            "register": "登録",
+            "title": "メモ"
+        }
+    },
+    "en": {
+        "general": {
+            "apply": "APPLY",
+            "back": "BACK",
+            "cancel": "CANCEL",
+            "clear": "CLEAR",
+            "close": "CLOSE",
+            "delete": "DELETE",
+            "reset": "RESET",
+            "save": "SAVE",
+            "timeTable": "TIME TABLE",
+            "message": {
+                "offline": "Error: Either your internet connection is down or the server is experiencing problems.\nWe were unable to download the live information.\nPlease try again later."
+            }
+        },
+        "footer": {
+            "home": "HOME",
+            "live": "LIVE",
+            "bookmark": "BOOKMARK",
+            "howToUse": "HOW-TO",
+            "other": "OTHER"
+        },
+        "dayOfWeek": [
+            "ー",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+        ],
+        "pref": [
+            "ALL",
+            "Hokkaido",
+            "Aomori",
+            "Iwate",
+            "Miyagi",
+            "Akita",
+            "Yamagata",
+            "Fukushima",
+            "Ibaraki",
+            "Tochigi",
+            "Gunma",
+            "Saitama",
+            "Chiba",
+            "Tokyo",
+            "Kanagawa",
+            "Niigata",
+            "Toyama",
+            "Ishikawa",
+            "Fukui",
+            "Yamanashi",
+            "Nagano",
+            "Gifu",
+            "Shizuoka",
+            "Aichi",
+            "Mie",
+            "Shiga",
+            "Kyoto",
+            "Osaka",
+            "Hyogo",
+            "Nara",
+            "Wakayama",
+            "Tottori",
+            "Shimane",
+            "Okayama",
+            "Hiroshima",
+            "Yamaguchi",
+            "Tokushima",
+            "Kagawa",
+            "Ehime",
+            "Kochi",
+            "Fukuoka",
+            "Saga",
+            "Nagasaki",
+            "Kumamoto",
+            "Oita",
+            "Miyazaki",
+            "Kagoshima",
+            "Okinawa",
+            "Thailand"
+        ],
+        "home": {
+            "menu": {
+                "developer": "DEVELOPER",
+                "firstUse": "FIRST TIME USER",
+                "notification": "NOTIFICATION",
+                "version": "VERSION",
+                "versionHistory": "UPDATE HISTORY"
+            },
+            "message": {
+                "firstTimeUser": " ... Please read this link first.",
+                "marshmallow": "For anonymous contact, please use this URL. If possible, please contact us via X (Twitter).",
+                "noNotification": "Notification information was not received.",
+                "sns": "Please send your feedback, requests for additional live streams, etc. to X (Twitter) account via reply or DM.",
+                "web": "This website provides information about the app store, privacy policy, etc."
+            },
+            "notificationTitle": "NOTIFICATION",
+            "versionHistory": "Version History"
+        },
+        "liveList": {
+            "area": "AREA",
+            "genre": "GENRE",
+            "genreAll": "ALL",
+            "genreIdol": "IDOL",
+            "genreJazz": "JAZZ",
+            "genreRockPop": "ROCK",
+            "menu": "LIVE LIST",
+            "month": "",
+            "noData": "No data found.",
+            "slash": "/ ",
+            "year": ""
+        },
+        "bookMarkList": {
+            "menu": "BOOKMARK LIST",
+            "message": {
+                "noBookmark": "No Bookmark"
+            }
+        },
+        "howToUse": {
+            "menu": "",
+            "startApp": "Start App",
+            "message": [
+                "Tap the \"Live\" tab at the bottom of the screen to open the schedule for the live you want to see.\nYou can save live streams to your bookmarks.",
+                "To like something, tap it.\nThe number of likes will increase from 0 to 1 to 2.\nUse the buttons at the bottom of the screen to filter the results.\nAccess a variety of features using the menu button.",
+                "Long press an artist's name to see all their performances.\nThis screen can also be accessed from the artist search screen.",
+                "A red line is displayed at the current time. Please use it during live viewing. \nJump to current time with the clock button.",
+                "You can add or delete information that has not been made public.\nAdded information will be displayed in the artist list.",
+                "Adjust stage start times as needed. Tap a stage or go to \"Tools\" to make changes.",
+                "Add notes for each act. Enable this feature in settings.\nLong-press each act to show the note-adding screen.",
+                "You can always check this \"How to Use\" page by tapping the bottom of the screen."
+            ]
+        },
+        "other": {
+            "activateComment": "Activate Memo Function",
+            "confirmDetail": "confirm detail",
+            "eventCode": "Event Code",
+            "fabSpeechBubble": "Show menu button tooltip",
+            "good3": "Enable ❤3",
+            "keepGenre": "Keep the genre selection in the live list",
+            "liveName": "Live name",
+            "lockMessage": "Do not display messages when tapping during like♡ fixation",
+            "menu": {
+                "eventCode": "SPECIAL EVENT CODE (β)",
+                "other": "OTHER",
+                "faq": "FAQ",
+                "howToUseDetail": "HOW TO USE - DETAIL",
+                "license": "SOFTWARE LICENSE",
+                "setting": "SETTING"
+            },
+            "nowLine": "The line for the current time is only displayed on the current day",
+            "overlayLine": "Overlay white dotted lines every 30 minutes",
+            "preparation": " In preparation",
+            "message": {
+                "addedBookmark": "Bookmark added",
+                "errorAddBookmark": "The code you entered is invalid",
+                "faq": "If you encounter any issues, please update to the latest version if available.",
+                "licenseLink": "Show the software license list"
+            },
+            "regist": "regist",
+            "tallFooter": "Raise Bottom Buttons"
+        },
+        "ttTable": {
+            "addCustom": "Add performance slot",
+            "addCustom2": "Add performance slot",
+            "artistList": "ARTIST LIST",
+            "artistName": "ARTIST NAME",
+            "artistSearch": "Artist search",
+            "collabArtist": "Lineup",
+            "customContent": "Content",
+            "customContent2": "*Up to 50 characters are allowed*",
+            "customExample": "ex. Goods sales",
+            "delete": "DELETE",
+            "edit": "EDIT",
+            "editCustom": "Edit performance slot",
+            "endTime": "End Time",
+            "lockLikes": "Lock \"like♡\" count",
+            "message": {
+                "addCustom": "*Unannounced appearance information, etc., can be added as necessary.*",
+                "confirmDelete": "Do you want to delete it?",
+                "customFormatError": "The performance slot you added was deleted due to an error.\nPlease create it again.\nWe apologize for the inconvenience.",
+                "lockLikes": "\"likes♡\" has been pinned.",
+                "lockLikesExplain": "\"likes♡\" has been pinned.",
+                "lockLikesExplain2": "Clicking the menu on the bottom left will unlock it.",
+                "noGood": "Tap on the artist name",
+                "noNotification": "No notification",
+                "notDownloaded": "Since there is no internet connection, previously acquired data is displayed.",
+                "notDownloaded2": "Please connect to the internet for the latest data.",
+                "editCustom": "**",
+                "editableLikes": "\"likes♡\" can be edited."
+            },
+            "min": "min",
+            "move": "move",
+            "notification": "Notification",
+            "orMore": "＋",
+            "overwrite": "Overwrite",
+            "register": "Register",
+            "search": "Search",
+            "settingsAndMore": "Tool",
+            "startTime": "Start Time",
+            "unlockLikes": "Unlock \"like♡\" count"
+        },
+        "adjustTimeDialog": {
+            "addedStage": "[Added Stage]",
+            "adjustTime": "Adjust Time",
+            "bulkEdit": "Bulk Edit",
+            "message": {
+                "info": "Adjust the timetable for each stage if the show starts late or other unexpected delays occur. \nTap the stage name to set the adjustment time."
+            },
+            "min": "min",
+            "stage": "Stage"
+        },
+        "bundleDialog": {
+            "SummaryDescription": "Summary of \"◯\"",
+            "tapDescription": "Tap to count \"◯\""
+        },
+        "areaSelectDialog": {
+            "allArea": "ALL AREA",
+            "title": "Select Area",
+            "japanArea1": "Hokkaido",
+            "japanArea1s": "Tohoku",
+            "japanArea2": "Kanto",
+            "japanArea3": "Chubu",
+            "japanArea4": "Kinki",
+            "japanArea5": "Chugoku",
+            "japanArea6": "Shikoku",
+            "japanArea7": "Kyusyu",
+            "japanArea7s": "Okinawa"
+        },
+        "liveSettingDialog": {
+            "adjustTime": "Adjust Time",
+            "adjustTimeExplain": "Update the schedule with the delayed showtime.",
+            "bundleDiff": "Comparison of all dates",
+            "bundleDiffExplain": "Compare all dates of the same live",
+            "clearCache": "Clear Cache",
+            "clearCacheExplain": "Clear all caches for this live",
+            "changeHeight": "Adjust the size of the performance slot",
+            "deleteCustomAll": "Delete all the performance slot",
+            "deleteCustomAllExplain": "Delete all the performance slot",
+            "filterWithoutLeftAligned": "Filtered items will not be left-aligned",
+            "hideButtonGroup": "Hide buttons",
+            "hideButtonGroupExplain": "Hide buttons on timetable screen for screenshot",
+            "message": {
+                "clearCacheExplain": "(Please try this if you cannot see the schedule screen even if you have an internet connection. This will also delete your \"likes\" and added appearances for the selected live show.)",
+                "deleteCustomAllExplain": "（If you are able to connect to the internet but the timetable is not displayed, there may be a problem with the added performance slots. Please try deleting them.）",
+                "DialogTitleForDeleteConfirm": "Are you sure you want to delete it?",
+                "DialogTitleForResetConfirm": "Are you sure you want to reset these?"
+            },
+            "resetLikes": "reset \"likes♡\"",
+            "resetLikesExplain": "Reset all \"likes♡\""
+        },
+        "turnCommentDialog": {
+            "commentExample": "0 - 50 characters",
+            "register": "Register",
+            "title": "Memo"
+        }
+    },
+    "th": {
+        "general": {
+            "apply": "ใช้",
+            "back": "ย้อนกลับ",
+            "cancel": "ยกเลิก",
+            "clear": "ล้างข้อมูล",
+            "close": "ปิด",
+            "delete": "ลบ",
+            "reset": "รีเซ็ต",
+            "save": "บันทึก",
+            "timeTable": "ตารางเวลา",
+            "message": {
+                "offline": "ข้อผิดพลาด: การเชื่อมต่ออินเทอร์เน็ตของคุณขาดหาย หรือเซิร์ฟเวอร์มีปัญหา\nไม่สามารถดาวน์โหลดข้อมูลสดได้\nโปรดลองอีกครั้งในภายหลัง"
+            }
+        },
+        "footer": {
+            "_home": "หน้าแรก",
+            "_live": "สด",
+            "_bookmark": "บุ๊กมาร์ก",
+            "_howToUse": "วิธีใช้",
+            "_other": "อื่นๆ",
+            "home": "HOME",
+            "live": "LIVE",
+            "bookmark": "BOOKMARK",
+            "howToUse": "HOW-TO",
+            "other": "OTHER"
+        },
+        "dayOfWeek": [
+            "ー",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+        ],
+        "pref": [
+            "ALL",
+            "Hokkaido",
+            "Aomori",
+            "Iwate",
+            "Miyagi",
+            "Akita",
+            "Yamagata",
+            "Fukushima",
+            "Ibaraki",
+            "Tochigi",
+            "Gunma",
+            "Saitama",
+            "Chiba",
+            "Tokyo",
+            "Kanagawa",
+            "Niigata",
+            "Toyama",
+            "Ishikawa",
+            "Fukui",
+            "Yamanashi",
+            "Nagano",
+            "Gifu",
+            "Shizuoka",
+            "Aichi",
+            "Mie",
+            "Shiga",
+            "Kyoto",
+            "Osaka",
+            "Hyogo",
+            "Nara",
+            "Wakayama",
+            "Tottori",
+            "Shimane",
+            "Okayama",
+            "Hiroshima",
+            "Yamaguchi",
+            "Tokushima",
+            "Kagawa",
+            "Ehime",
+            "Kochi",
+            "Fukuoka",
+            "Saga",
+            "Nagasaki",
+            "Kumamoto",
+            "Oita",
+            "Miyazaki",
+            "Kagoshima",
+            "Okinawa",
+            "Thailand"
+        ],
+        "home": {
+            "menu": {
+                "developer": "นักพัฒนา",
+                "firstUse": "ผู้ใช้ครั้งแรก",
+                "notification": "การแจ้งเตือน",
+                "version": "เวอร์ชั่น",
+                "versionHistory": "ประวัติการอัปเดต"
+            },
+            "message": {
+                "firstTimeUser": " ... โปรดอ่านลิงค์นี้ก่อน",
+                "marshmallow": "สำหรับการติดต่อแบบไม่ระบุชื่อ โปรดใช้ URL นี้ หากเป็นไปได้ โปรดติดต่อเราผ่าน X (Twitter)",
+                "noNotification": "ไม่พบข้อมูลการแจ้งเตือน",
+                "sns": "โปรดส่งความคิดเห็น ข้อเสนอแนะสำหรับการถ่ายทอดสดเพิ่มเติม ฯลฯ ไปยังบัญชี X (Twitter) ผ่านการตอบกลับหรือ DM",
+                "web": "ส่งคอมเมนต์ ข้อเสนอ ติชม แนะนำเกี่ยวกับไลฟ์อีเวนท์หรือสเตจเพิ่มเติมได้ผ่านทางบัญชี X (Twitter) หรือผ่านทาง DM"
+            },
+            "notificationTitle": "การแจ้งเตือน",
+            "versionHistory": "ประวัติการอัปเดต"
+        },
+        "liveList": {
+            "area": "AREA",
+            "genre": "GENRE",
+            "genreAll": "ALL",
+            "genreIdol": "IDOL",
+            "genreJazz": "JAZZ",
+            "genreRockPop": "ROCK",
+            "menu": "LIVE LIST",
+            "month": "",
+            "noData": "ไม่พบข้อมูล",
+            "slash": "/ ",
+            "year": ""
+        },
+        "___________liveList": {
+            "area": "พื้นที่",
+            "genre": "ประเภท",
+            "genreAll": "ทั้งหมด",
+            "genreIdol": "ไอดอล",
+            "genreJazz": "แจ๊ส",
+            "genreRockPop": "ร็อค",
+            "menu": "รายการสด",
+            "month": "",
+            "noData": "ไม่พบข้อมูล",
+            "slash": "/ ",
+            "year": ""
+        },
+        "bookMarkList": {
+            "menu": "รายการบุ๊กมาร์ก",
+            "message": {
+                "noBookmark": "ไม่มีบุ๊กมาร์ก"
+            }
+        },
+        "howToUse": {
+            "menu": "",
+            "startApp": "เริ่มแอป",
+            "message": [
+                "แตะที่แท็บ \"ไลฟ์\" ด้านล่างของหน้าจอเพื่อเปิดตารางเวลาสเตจที่คุณต้องการรับชม\nคุณสามารถบันทึกสเตจที่ต้องการลงในหน้าบุ๊กมาร์กของคุณได้",
+                "หากต้องการรับชมศิลปินหรือวงที่คุณชื่นชอบ ให้คลิกที่ไอคอนชื่อนั้น จํานวนไลค์ (หัวใจ) จะเพิ่มขึ้นจาก 0 เป็น 1 และ 2 ตามลำดับจำนวนครั้งที่กด คลิกปุ่มที่ด้านล่างของหน้าจอเพื่อกรองตารางสเตจตามจำนวนไลค์ที่กด\nคุณสามารถเข้าถึงคุณสมบัติต่าง ๆ ได้โดยใช้ปุ่มเมนู",
+                "กดค้างที่ชื่อศิลปินหรือวง เพื่อดูช่วงสเตจและกิจกรรมอื่น ๆ ทั้งหมดในวันนั้น\nคุณสามารถเข้าถึงหน้าจอนี้ได้จากเมนู \"ค้นหาศิลปิน\" เช่นเดียวกัน",
+                "เส้นสีแดงจะแสดงผลเป็นเวลาปัจจุบัน โปรดใช้อ้างอิงระหว่างรับชมสเตจ\nคุณสามารถข้ามไปยังเวลาปัจจุบันได้ เพียงกดปุ่มไอคอนนาฬิกา",
+                "คุณสามารถเพิ่มหรือลบข้อมูลสเตจหรือกิจกรรมหลังจบสเตจที่ทางผู้จัดงานยังไม่ได้ประกาศหรือเผยแพร่ได้เองตามต้องการ\nข้อมูลที่เพิ่มลงไปจะแสดงผลใน \"รายชื่อศิลปิน\"",
+                "หากเวลาสเตจถูกเลื่อนหรือล้าช้า คุณสามารถปรับเวลาที่เริ่มทำการแสดงได้ตามความเหมาะสม แตะที่ชื่อสเตจ หรือไปที่เมนู \"เครื่องมือ\" เพื่อทำการเปลี่ยนแปลง",
+                "คุณสามารถสร้างบันทึกเพิ่มเติมสำหรับแต่ละสเตจหรือช่วงกิจกรรมหลังจบสเตจได้ ด้วยการเปิดใช้งานบันทึก จากเมนู \"การตั้งค่า\"",
+                "คุณสามารถเปิดดู \"วิธีใช้\" ได้ตลอดเวลา โดยแตะที่เมนูด้านล่างหน้าจอ"
+            ]
+        },
+        "other": {
+            "activateComment": "เปิดใช้งานฟังก์ชั่นบันทึกย่อ",
+            "confirmDetail": "ยืนยันรายละเอียด",
+            "eventCode": "รหัสอีเวนต์",
+            "fabSpeechBubble": "แสดงคำแนะนำปุ่มเมนู",
+            "good3": "เปิดใช้งาน ❤3",
+            "keepGenre": "เก็บการเลือกประเภทไว้ในรายการสด",
+            "liveName": "ชื่อการแสดงสด",
+            "lockMessage": "ไม่แสดงข้อความเมื่อแตะระหว่างการแก้ไข \"ถูกใจ♡\"",
+            "menu": {
+                "eventCode": "รหัสอีเวนต์พิเศษ (β)",
+                "other": "อื่นๆ",
+                "faq": "คำถามที่พบบ่อย",
+                "howToUseDetail": "วิธีใช้ - รายละเอียด",
+                "license": "ใบอนุญาตซอฟต์แวร์",
+                "setting": "การตั้งค่า"
+            },
+            "nowLine": "เส้นสำหรับเวลาปัจจุบันจะแสดงเฉพาะในวันปัจจุบันเท่านั้น",
+            "overlayLine": "ซ้อนทับเส้นประสีขาวทุก 30 นาที",
+            "preparation": " กำลังเตรียมการ",
+            "message": {
+                "addedBookmark": "เพิ่มบุ๊กมาร์กแล้ว",
+                "errorAddBookmark": "รหัสที่คุณป้อนไม่ถูกต้อง",
+                "faq": "หากพบปัญหาใดๆ โปรดอัปเดตเป็นเวอร์ชันล่าสุดหากมี",
+                "licenseLink": "แสดงรายการใบอนุญาตซอฟต์แวร์"
+            },
+            "regist": "ลงทะเบียน",
+            "tallFooter": "ยกปุ่มด้านล่างขึ้น"
+        },
+        "ttTable": {
+            "addCustom": "เพิ่มช่วงเวลาแสดง",
+            "addCustom2": "เพิ่มช่วงเวลาสเตจ",
+            "artistList": "รายชื่อศิลปิน",
+            "artistName": "ชื่อศิลปิน",
+            "artistSearch": "ค้นหาศิลปิน",
+            "collabArtist": "ศิลปินร่วม",
+            "customContent": "รายละเอียดเพิ่มเติม",
+            "customContent2": "(สูงสุด 50 ตัวอักษร)",
+            "customExample": "เช่น บูธจำหน่ายสินค้าของ oo",
+            "delete": "ลบ",
+            "edit": "แก้ไข",
+            "editCustom": "แก้ไขช่วงเวลาแสดง",
+            "endTime": "เวลาสิ้นสุด",
+            "lockLikes": "ล็อค '❤'",
+            "message": {
+                "addCustom": "* คุณสามารถเพิ่มข้อมูลที่ทางผู้จัดงานไม่ได้เผยแพร่ \nเช่น ช่วงเวลาสเตจหรือบูธจำหน่ายสินค้า ได้ตามต้องการ",
+                "confirmDelete": "ต้องการลบใช่หรือไม่?",
+                "customFormatError": "เกิดข้อผิดพลาดในข้อมูลที่เพิ่มเข้ามา จึงได้ทำการลบแล้ว\nกรุณาลองเพิ่มใหม่อีกครั้ง\nขออภัยในความไม่สะดวก",
+                "lockLikes": "ล็อค '♡' แล้ว",
+                "lockLikesExplain": "ได้ทำการล็อค '♡' แล้ว",
+                "lockLikesExplain2": "ยกเลิกการล็อคได้จากเมนูมุมซ้ายล่าง",
+                "noGood": "กรุณาแตะที่ชื่อศิลปิน",
+                "noNotification": "ไม่มีการแจ้งเตือน",
+                "notDownloaded": "เนื่องจากไม่ได้เชื่อมต่ออินเทอร์เน็ต ข้อมูลที่ได้รับก่อนหน้านี้จึงแสดงอยู่",
+                "notDownloaded2": "หากต้องการตรวจสอบข้อมูลล่าสุด โปรดเชื่อมต่ออินเทอร์เน็ต",
+                "editCustom": "※ แก้ไขข้อมูลที่เพิ่มเข้ามา",
+                "editableLikes": "สามารถแก้ไข '♡' ได้"
+            },
+            "min": "min",
+            "move": "ย้าย",
+            "notification": "การแจ้งเตือน",
+            "orMore": "＋",
+            "overwrite": "เขียนทับ",
+            "register": "ลงทะเบียน",
+            "search": "ค้นหา",
+            "settingsAndMore": "เครื่องมือ",
+            "startTime": "เวลาเริ่มต้น",
+            "unlockLikes": "แก้ไข '♡'"
+        },
+        "adjustTimeDialog": {
+            "addedStage": "[ช่วงเวลาแสดงที่เพิ่ม]",
+            "adjustTime": "ปรับเวลา",
+            "bulkEdit": "แก้ไขแบบกลุ่ม",
+            "message": {
+                "info": "เมื่อเวลาเริ่มสเตจเกิดความล่าช้า สามารถปรับเวลาตารางขึ้นสเตจได้ในแต่ละสเตจ โดยการคลิกที่ชื่อสเตจนั้น เพื่อระบุช่วงเวลาที่ต้องการปรับเปลี่ยน"
+            },
+            "min": "นาที",
+            "stage": "ช่วงเวลาแสดง"
+        },
+        "bundleDialog": {
+            "SummaryDescription": "บทสรุปของ \"◯\"",
+            "tapDescription": "※สัมผัสเพื่อนับ ○"
+        },
+        "areaSelectDialog": {
+            "allArea": "ALL AREA",
+            "title": "Select Area",
+            "japanArea1": "Hokkaido",
+            "japanArea1s": "Tohoku",
+            "japanArea2": "Kanto",
+            "japanArea3": "Chubu",
+            "japanArea4": "Kinki",
+            "japanArea5": "Chugoku",
+            "japanArea6": "Shikoku",
+            "japanArea7": "Kyusyu",
+            "japanArea7s": "Okinawa"
+        },
+        "___________areaSelectDialog": {
+            "allArea": "ทุกภูมิภาค",
+            "title": "เลือกภูมิภาค",
+            "japanArea1": "ฮอกไกโด",
+            "japanArea1s": "โทโฮคุ",
+            "japanArea2": "คันโต",
+            "japanArea3": "จูบุ",
+            "japanArea4": "คินคิ",
+            "japanArea5": "จูโกคุ",
+            "japanArea6": "ชิโกกุ",
+            "japanArea7": "คิวชู",
+            "japanArea7s": "โอกินาว่า"
+        },
+        "liveSettingDialog": {
+            "adjustTime": "ปรับเวลา",
+            "adjustTimeExplain": "ปรับเวลาเริ่มต้นที่ล่าช้าให้ตรงกับตารางเวลา",
+            "bundleDiff": "เปรียบเทียบทั้งหมด",
+            "bundleDiffExplain": "เปรียบเทียบตารางเวลาทั้งหมดของงานเดียวกัน",
+            "clearCache": "ล้างแคช",
+            "clearCacheExplain": "ล้างข้อมูลแคชทั้งหมด",
+            "changeHeight": "ปรับขนาดช่วงเวลาแสดง",
+            "deleteCustomAll": "ลบช่วงเวลาแสดงที่เพิ่มเองทั้งหมด",
+            "deleteCustomAllExplain": "ลบช่วงเวลาแสดงที่เพิ่มเองทั้งหมด",
+            "filterWithoutLeftAligned": "ค้นหา '♡' โดยไม่จำกัดตำแหน่ง",
+            "hideButtonGroup": "ซ่อนปุ่มชั่วคราว",
+            "hideButtonGroupExplain": "ซ่อนปุ่มในหน้าตารางเวลาชั่วคราว (สำหรับแคปเจอร์หน้าจอ)",
+            "message": {
+                "clearCacheExplain": "（หากไม่สามารถแสดงตารางเวลาได้ แม้ว่าจะเชื่อมต่ออินเทอร์เน็ตแล้ว ให้ลองล้างแคชดูค่ะ ข้อมูล '♡' และช่วงเวลาแสดงที่เพิ่มเองก็จะถูกลบด้วย）",
+                "deleteCustomAllExplain": "（หากไม่สามารถแสดงตารางเวลาได้ แม้ว่าจะเชื่อมต่ออินเทอร์เน็ตแล้ว อาจมีปัญหาในช่วงเวลาแสดงที่เพิ่มเอง ลองลบดูค่ะ）",
+                "DialogTitleForDeleteConfirm": "ต้องการลบใช่หรือไม่?",
+                "DialogTitleForResetConfirm": "ต้องการรีเซ็ตใช่หรือไม่?"
+            },
+            "resetLikes": "รีเซ็ต '♡'",
+            "resetLikesExplain": "รีเซ็ต '♡' ทั้งหมด"
+        },
+        "turnCommentDialog": {
+            "commentExample": "ป้อนข้อความ (สูงสุด 50 ตัวอักษร)",
+            "register": "ลงทะเบียน",
+            "title": "บันทึก"
+        }
+    }
+}

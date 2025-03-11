@@ -1,0 +1,143 @@
+[
+    {
+        "name": "stage-red",
+        "backgroundColor": "#f44336",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-pink",
+        "backgroundColor": "#e91e63",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-purple",
+        "backgroundColor": "#9c27b0",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-deep-purple",
+        "backgroundColor": "#673ab7",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-indigo",
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-blue",
+        "backgroundColor": "#2196f3",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-blue2",
+        "memo": "独自",
+        "backgroundColor": "#2144f3",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-lightBlue",
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-cyan",
+        "backgroundColor": "#00bcd4",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-teal",
+        "backgroundColor": "#009688",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-green",
+        "backgroundColor": "#4caf50",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-light-green",
+        "backgroundColor": "#8bc34a",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-light-green2",
+        "memo": "独自",
+        "backgroundColor": "#b2ff59",
+        "fontColor": "#000000"
+    },
+    {
+        "name": "stage-lime",
+        "backgroundColor": "#cddc39",
+        "fontColor": "#000000"
+    },
+    {
+        "name": "stage-yellow",
+        "backgroundColor": "#ffeb3b",
+        "fontColor": "#000000"
+    },
+    {
+        "name": "stage-amber",
+        "backgroundColor": "#ffc107",
+        "fontColor": "#000000"
+    },
+    {
+        "name": "stage-orange",
+        "backgroundColor": "#ff9800",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-deepOrange",
+        "backgroundColor": "#ff5722",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-brown",
+        "backgroundColor": "#795548",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-brown2",
+        "memo": "独自",
+        "backgroundColor": "#a1887f",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-blueGrey",
+        "backgroundColor": "#607d8b",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-grey",
+        "backgroundColor": "#9e9e9e",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-black",
+        "backgroundColor": "#000000",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-white",
+        "backgroundColor": "#ffffff",
+        "fontColor": "#000000"
+    },
+    {
+        "name": "stage-redGrey",
+        "memo": "独自",
+        "backgroundColor": "#ab8282",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-greenGrey",
+        "memo": "独自",
+        "backgroundColor": "#82ab82",
+        "fontColor": "#ffffff"
+    },
+    {
+        "name": "stage-yellowGrey",
+        "memo": "独自",
+        "backgroundColor": "#b1b17a",
+        "fontColor": "#ffffff"
+    }
+]

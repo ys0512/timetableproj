@@ -4,7 +4,7 @@
             {
                 "version": "1.XXX.0",
                 "date": "2025/x/x",
-                "date（x/xx予定）": "Scheduled to be released on 3/11/2025",
+                "date（xx/xx予定）": "Scheduled to be released on 3/11/2025",
                 "mainList": [
                     {
                         "title": "機能追加",
@@ -32,7 +32,7 @@
         "ja": [
             {
                 "version": "1.12.1",
-                "date": "2025/3/11",
+                "date": "2025/3/10",
                 "mainList": [
                     {
                         "title": "不具合修正",
@@ -435,7 +435,7 @@
         "en": [
             {
                 "version": "1.12.1",
-                "date": "3/11/2025",
+                "date": "3/10/2025",
                 "mainList": [
                     {
                         "title": "Bug Fixes",
