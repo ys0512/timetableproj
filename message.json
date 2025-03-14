@@ -94,11 +94,11 @@
                 "firstTimeUser": "をご覧ください",
                 "marshmallow": "匿名でのご連絡はこちら。必要に応じてX(Twitter)の投稿にてお答えいたしますができる限りXでのご連絡をお願いします。",
                 "noNotification": "お知らせ情報を受信できませんでした",
-                "sns": "ご意見・ライブ追加のご要望などは、X(旧Twitter)アカウントへのリプまたはDMへ。",
+                "sns": "ご意見・ライブ追加のご要望などは、X(旧Twitter)アカウントのDMまで。",
                 "web": "WebサイトではアプリStoreやプライバシーポリシー等を掲載。"
             },
             "notificationTitle": "お知らせ",
-            "versionHistory": "バージョン履歴"
+            "versionHistory": "アップデート履歴"
         },
         "liveList": {
             "area": "地域",
@@ -352,11 +352,11 @@
                 "firstTimeUser": " ... Please read this link first.",
                 "marshmallow": "For anonymous contact, please use this URL. If possible, please contact us via X (Twitter).",
                 "noNotification": "Notification information was not received.",
-                "sns": "Please send your feedback, requests for additional live streams, etc. to X (Twitter) account via reply or DM.",
+                "sns": "Please send your feedback, requests for additional live streams, etc. to X (Twitter) account DM.",
                 "web": "This website provides information about the app store, privacy policy, etc."
             },
             "notificationTitle": "NOTIFICATION",
-            "versionHistory": "Version History"
+            "versionHistory": "Update History"
         },
         "liveList": {
             "area": "AREA",
