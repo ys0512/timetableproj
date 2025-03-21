@@ -28,6 +28,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "3/22",
+      "message": "かがやきフェスSpring 2025 〜feat.ガラフェス〜 (4/19-20 @石川 アイドル) に対応しました。",
+      "message_en": "かがやきフェスSpring 2025 〜feat.ガラフェス〜 (4/19-20 @ishikawa IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "3/20",
       "message": "ARABAKI ROCK FEST. (4/26-27 @宮城) に対応しました。",
       "message_en": "ARABAKI ROCK FEST. (4/26-27 @miyagi) is supported."
