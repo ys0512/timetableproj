@@ -181,6 +181,8 @@
                 "addCustom": "※主催者から発表されない出演情報や物販ブース情報など、必要に応じて追加できます。",
                 "confirmDelete": "削除しますか？",
                 "customFormatError": "追加いただいた出演枠に異常が発生したので削除しました。\n再度作成をお願いします。\nお手数をおかけして申し訳ありません。",
+                "editCustom": "※追加した出演枠を編集します",
+                "editableLikes": "\"いいね♡\"を編集できます",
                 "lockLikes": "\"いいね♡\"を固定しました",
                 "lockLikesExplain": "\"いいね♡\"が固定されています。",
                 "lockLikesExplain2": "左下メニューから固定解除できます。",
@@ -188,8 +190,7 @@
                 "noNotification": "お知らせはありません",
                 "notDownloaded": "インターネットに接続されていないため、過去に取得したデータが表示されています。",
                 "notDownloaded2": "最新のデータを確認するには、インターネットに接続してください。",
-                "editCustom": "※追加した出演枠を編集します",
-                "editableLikes": "\"いいね♡\"を編集できます"
+                "updated": "タイムテーブルのデータが更新されました"
             },
             "min": "分",
             "move": "移動",
@@ -200,7 +201,8 @@
             "search": "検索",
             "settingsAndMore": "ツール",
             "startTime": "開始時刻",
-            "unlockLikes": "\"いいね♡\"を編集する"
+            "unlockLikes": "\"いいね♡\"を編集する",
+            "update": "アップデート"
         },
         "adjustTimeDialog": {
             "addedStage": "[追加ステージ]",
@@ -439,6 +441,8 @@
                 "addCustom": "*Unannounced appearance information, etc., can be added as necessary.*",
                 "confirmDelete": "Do you want to delete it?",
                 "customFormatError": "The performance slot you added was deleted due to an error.\nPlease create it again.\nWe apologize for the inconvenience.",
+                "editCustom": "**",
+                "editableLikes": "\"likes♡\" can be edited.",
                 "lockLikes": "\"likes♡\" has been pinned.",
                 "lockLikesExplain": "\"likes♡\" has been pinned.",
                 "lockLikesExplain2": "Clicking the menu on the bottom left will unlock it.",
@@ -446,8 +450,7 @@
                 "noNotification": "No notification",
                 "notDownloaded": "Since there is no internet connection, previously acquired data is displayed.",
                 "notDownloaded2": "Please connect to the internet for the latest data.",
-                "editCustom": "**",
-                "editableLikes": "\"likes♡\" can be edited."
+                "updated": "Timetable data has been updated"
             },
             "min": "min",
             "move": "move",
@@ -458,7 +461,8 @@
             "search": "Search",
             "settingsAndMore": "Tool",
             "startTime": "Start Time",
-            "unlockLikes": "Unlock \"like♡\" count"
+            "unlockLikes": "Unlock \"like♡\" count",
+            "update": "UPDATE"
         },
         "adjustTimeDialog": {
             "addedStage": "[Added Stage]",
@@ -715,6 +719,8 @@
                 "addCustom": "* คุณสามารถเพิ่มข้อมูลที่ทางผู้จัดงานไม่ได้เผยแพร่ \nเช่น ช่วงเวลาสเตจหรือบูธจำหน่ายสินค้า ได้ตามต้องการ",
                 "confirmDelete": "ต้องการลบใช่หรือไม่?",
                 "customFormatError": "เกิดข้อผิดพลาดในข้อมูลที่เพิ่มเข้ามา จึงได้ทำการลบแล้ว\nกรุณาลองเพิ่มใหม่อีกครั้ง\nขออภัยในความไม่สะดวก",
+                "editCustom": "※ แก้ไขข้อมูลที่เพิ่มเข้ามา",
+                "editableLikes": "สามารถแก้ไข '♡' ได้",
                 "lockLikes": "ล็อค '♡' แล้ว",
                 "lockLikesExplain": "ได้ทำการล็อค '♡' แล้ว",
                 "lockLikesExplain2": "ยกเลิกการล็อคได้จากเมนูมุมซ้ายล่าง",
@@ -722,8 +728,7 @@
                 "noNotification": "ไม่มีการแจ้งเตือน",
                 "notDownloaded": "เนื่องจากไม่ได้เชื่อมต่ออินเทอร์เน็ต ข้อมูลที่ได้รับก่อนหน้านี้จึงแสดงอยู่",
                 "notDownloaded2": "หากต้องการตรวจสอบข้อมูลล่าสุด โปรดเชื่อมต่ออินเทอร์เน็ต",
-                "editCustom": "※ แก้ไขข้อมูลที่เพิ่มเข้ามา",
-                "editableLikes": "สามารถแก้ไข '♡' ได้"
+                "updated": "ข้อมูลตารางเวลาได้รับการอัปเดตแล้ว"
             },
             "min": "min",
             "move": "ย้าย",
@@ -734,7 +739,8 @@
             "search": "ค้นหา",
             "settingsAndMore": "เครื่องมือ",
             "startTime": "เวลาเริ่มต้น",
-            "unlockLikes": "แก้ไข '♡'"
+            "unlockLikes": "แก้ไข '♡'",
+            "update": "UPDATE"
         },
         "adjustTimeDialog": {
             "addedStage": "[ช่วงเวลาแสดงที่เพิ่ม]",
