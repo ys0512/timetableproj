@@ -28,6 +28,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "4/26",
+      "message": "JCIF (5/3-4 @内海海岸(愛知) アイドル) に対応しました。",
+      "message_en": "JCIF (5/3-4 @aichi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "4/23",
       "message": "HUG ROCK (5/1 @渋谷 女性ボーカル) に対応しました。",
       "message_en": "HUG ROCK (5/1 @Shibuya female vocals) is supported."
