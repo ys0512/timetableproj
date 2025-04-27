@@ -129,8 +129,10 @@
                 "現在時刻に赤いラインが表示されます。ライブ観戦中にご活用ください。\n時計ボタンで現在時刻ラインの位置まで画面移動できます。",
                 "イベント主催から発表されていない出演情報や物販ブース情報などを個別に追加・削除できます。\n追加情報はアーティスト一覧に表示されます。",
                 "開演時間が遅れた時などに、ステージ毎の時間を各自で調整できます。\nステージ名をタップするか、左下メニューの「ツール」からでも変更できます。",
-                "ライブ出演や物販ごとにメモを追加できます。\n設定でOFFになっているのでONにしてください。\n各出番を長押しした時の画面で、アイコンをタップして文章を追加してください。",
                 "この「使い方」のページはいつでも画面下をタップすることで確認することができます。"
+            ],
+            "old_message":[
+                "ライブ出演や物販ごとにメモを追加できます。\n設定でOFFになっているのでONにしてください。\n各出番を長押しした時の画面で、アイコンをタップして文章を追加してください。"
             ]
         },
         "other": {
@@ -389,8 +391,10 @@
                 "A red line is displayed at the current time. Please use it during live viewing. \nJump to current time with the clock button.",
                 "You can add or delete information that has not been made public.\nAdded information will be displayed in the artist list.",
                 "Adjust stage start times as needed. Tap a stage or go to \"Tools\" to make changes.",
-                "Add notes for each act. Enable this feature in settings.\nLong-press each act to show the note-adding screen.",
                 "You can always check this \"How to Use\" page by tapping the bottom of the screen."
+            ],
+            "old_message":[
+                "Add notes for each act. Enable this feature in settings.\nLong-press each act to show the note-adding screen."
             ]
         },
         "other": {
@@ -667,8 +671,10 @@
                 "เส้นสีแดงจะแสดงผลเป็นเวลาปัจจุบัน โปรดใช้อ้างอิงระหว่างรับชมสเตจ\nคุณสามารถข้ามไปยังเวลาปัจจุบันได้ เพียงกดปุ่มไอคอนนาฬิกา",
                 "คุณสามารถเพิ่มหรือลบข้อมูลสเตจหรือกิจกรรมหลังจบสเตจที่ทางผู้จัดงานยังไม่ได้ประกาศหรือเผยแพร่ได้เองตามต้องการ\nข้อมูลที่เพิ่มลงไปจะแสดงผลใน \"รายชื่อศิลปิน\"",
                 "หากเวลาสเตจถูกเลื่อนหรือล้าช้า คุณสามารถปรับเวลาที่เริ่มทำการแสดงได้ตามความเหมาะสม แตะที่ชื่อสเตจ หรือไปที่เมนู \"เครื่องมือ\" เพื่อทำการเปลี่ยนแปลง",
-                "คุณสามารถสร้างบันทึกเพิ่มเติมสำหรับแต่ละสเตจหรือช่วงกิจกรรมหลังจบสเตจได้ ด้วยการเปิดใช้งานบันทึก จากเมนู \"การตั้งค่า\"",
                 "คุณสามารถเปิดดู \"วิธีใช้\" ได้ตลอดเวลา โดยแตะที่เมนูด้านล่างหน้าจอ"
+            ],
+            "old_message":[
+                "คุณสามารถสร้างบันทึกเพิ่มเติมสำหรับแต่ละสเตจหรือช่วงกิจกรรมหลังจบสเตจได้ ด้วยการเปิดใช้งานบันทึก จากเมนู \"การตั้งค่า\""
             ]
         },
         "other": {
