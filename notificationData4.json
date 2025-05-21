@@ -28,6 +28,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "5/21",
+      "message": "mistFES (5/31-6/1 @愛知 アイドル) に対応しました。",
+      "message_en": "mistFES (5/31-6/1 @aichi IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "4/26",
       "message": "MAWA LOOP OSAKA (5/10-11 @大阪 アイドル) に対応しました。",
       "message_en": "MAWA LOOP OSAKA (5/10-11 @osaka IDLE) is supported."
