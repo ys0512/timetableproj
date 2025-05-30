@@ -32,6 +32,23 @@
         ],
         "ja": [
             {
+                "version": "1.13.1",
+                "date": "2025/5/31",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "1.13.0の不具合修正（画面上部のボタンがステータスバーのアイコンに隠れる）"
+                            },
+                            {
+                                "subtitle": "通信中のローディングアニメーションがフリーズする問題の解消"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.13.0",
                 "date": "2025/5/30",
                 "mainList": [
@@ -454,6 +471,23 @@
             }
         ],
         "en": [
+            {
+                "version": "1.13.1",
+                "date": "5/31/2025",
+                "mainList": [
+                    {
+                        "title": "Bug Fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed a bug in version 1.13.0 where buttons at the top of the screen were hidden by status bar icons."
+                            },
+                            {
+                                "subtitle": "Resolved an issue where the loading animation would freeze during communication."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.13.0",
                 "date": "5/30/2025",
