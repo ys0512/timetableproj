@@ -27,9 +27,30 @@
                         "title": "他、操作性の改善や不具合修正など"
                     }
                 ]
-            }
+            },
+            {}
         ],
         "ja": [
+            {
+                "version": "1.13.0",
+                "date": "2025/5/30",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "サーバのタイテ情報が更新されたら通知とアップデートを行う"
+                            },
+                            {
+                                "subtitle": "処理速度が著しく遅くなるタイテについて､処理速度を向上（スクロールすると順にデータが読み込まれるよう改善）"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
             {
                 "version": "1.12.1",
                 "date": "2025/3/10",
@@ -433,6 +454,26 @@
             }
         ],
         "en": [
+            {
+                "version": "1.13.0",
+                "date": "5/30/2025",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Notifications and updates will now occur when server timetable information is refreshed."
+                            },
+                            {
+                                "subtitle": "Improved processing speed for timetables that caused significant slowdowns (data now loads progressively when scrolling)."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
             {
                 "version": "1.12.1",
                 "date": "3/10/2025",
