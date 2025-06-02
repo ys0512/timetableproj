@@ -32,6 +32,20 @@
         ],
         "ja": [
             {
+                "version": "1.13.2",
+                "date": "2025/6/2",
+                "mainList": [
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "ライブ一覧の地域選択で「台湾」を選択できるよう修正"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.13.1",
                 "date": "2025/5/31",
                 "mainList": [
@@ -471,6 +485,20 @@
             }
         ],
         "en": [
+            {
+                "version": "1.13.2",
+                "date": "6/2/2025",
+                "mainList": [
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Added Taiwan to the region selection in the Live list screen."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.13.1",
                 "date": "5/31/2025",
