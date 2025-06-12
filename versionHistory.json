@@ -32,6 +32,23 @@
         ],
         "ja": [
             {
+                "version": "1.13.3",
+                "date": "2025/6/12",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "全日程比較機能の日付順が入れ替わることがある不具合を修正"
+                            },
+                            {
+                                "subtitle": "タイテ画面の拡大率25％､50％でアーティスト名が隠れてしまうことがある点を改善"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.13.2",
                 "date": "2025/6/2",
                 "mainList": [
@@ -485,6 +502,23 @@
             }
         ],
         "en": [
+            {
+                "version": "1.13.3",
+                "date": "6/12/2025",
+                "mainList": [
+                    {
+                        "title": "Bug Fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed a bug where dates in the 'Compare All Schedules' feature sometimes appeared out of order."
+                            },
+                            {
+                                "subtitle": "Improved the display in the 'Time Table' screen so that artist names are no longer hidden at 25% and 50% zoom levels."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.13.2",
                 "date": "6/2/2025",
