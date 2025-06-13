@@ -1,6 +1,6 @@
 {
-  "updateVersion": "1.13.2",
-  "updateMessage": "バージョン1.13.2をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
+  "updateVersion": "1.13.3",
+  "updateMessage": "バージョン1.13.3をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
   "deleteEnd": 300,
   "eventCode": [
@@ -28,6 +28,12 @@
     {}
   ],
   "notificationList": [
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "6/13",
+      "message":    "機能改善を行いました(ver1.13.3)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Features improved (ver1.13.3). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
     {
       "icon": "mdi-star",
       "date": "6/12",
