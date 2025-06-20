@@ -30,6 +30,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "6/20",
+      "message":    "超NATSUZOME (7/5-6 @千葉 アイドル) に対応しました。",
+      "message_en": "超NATSUZOME (7/5-6 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/17",
       "message":    "見放題 大阪/名古屋 (7/5-6 バンド) に対応しました。",
       "message_en": "見放題 大阪/名古屋 (7/5-6 BAND) is supported."
