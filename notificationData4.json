@@ -30,6 +30,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "6/28",
+      "message":    "TAIPEI City Idol Expo (7/5-6 @台湾 アイドル) に対応しました。",
+      "message_en": "TAIPEI City Idol Expo (7/5-6 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/26",
       "message":    "SPARK 渋谷納涼祭 (7/12-13 @渋谷 アイドル) に対応しました。",
       "message_en": "SPARK 渋谷納涼祭 (7/12-13 IDLE) is supported."
