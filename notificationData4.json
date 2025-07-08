@@ -5,7 +5,7 @@
   "deleteEnd": 300,
   "eventCode": [
     "test121",
-    "fukuoka13"
+    "fukuoka013"
   ],
   "template": [
     {
@@ -31,19 +31,25 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
-      "date": "7/8",
+      "date": "7/9",
       "message":    "UTAGE FES (7/22 @新宿 アイドル) に対応しました。",
       "message_en": "UTAGE FES (7/22 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "7/8",
+      "date": "7/9",
       "message":    "ROCK IN JAPAN FES (9/13-14 @千葉 バンド) に対応しました。",
       "message_en": "ROCK IN JAPAN FES (9/13-14 BAND) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "7/8",
+      "date": "7/9",
+      "message":    "SWEET LOVE SHOWER (8/29-31 @山梨 バンド) に対応しました。",
+      "message_en": "SWEET LOVE SHOWER (8/29-31 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/9",
       "message":    "MURO FESTIVAL (7/26-27 @横浜 バンド) に対応しました。",
       "message_en": "MURO FESTIVAL (7/26-27 BAND) is supported."
     },
