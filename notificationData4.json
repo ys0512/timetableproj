@@ -31,6 +31,24 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "7/8",
+      "message":    "UTAGE FES (7/22 @新宿 アイドル) に対応しました。",
+      "message_en": "UTAGE FES (7/22 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/8",
+      "message":    "ROCK IN JAPAN FES (9/13-14 @千葉 バンド) に対応しました。",
+      "message_en": "ROCK IN JAPAN FES (9/13-14 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/8",
+      "message":    "MURO FESTIVAL (7/26-27 @横浜 バンド) に対応しました。",
+      "message_en": "MURO FESTIVAL (7/26-27 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "7/1",
       "message":    "関ケ原唄姫合戦 (7/19-21 @岐阜 アイドル) に対応しました。",
       "message_en": "関ケ原唄姫合戦 (7/19-21 IDLE) is supported."
