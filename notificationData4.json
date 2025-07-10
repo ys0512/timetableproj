@@ -32,6 +32,12 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "7/9",
+      "message":    "TIF (8/1-3 @台場 アイドル) に対応しました。",
+      "message_en": "TIF (8/1-3 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/9",
       "message":    "UTAGE FES (7/22 @新宿 アイドル) に対応しました。",
       "message_en": "UTAGE FES (7/22 IDLE) is supported."
     },
