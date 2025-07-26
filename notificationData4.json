@@ -32,6 +32,12 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "7/27",
+      "message":    "SWEET SUMMER (7/30 @渋谷 アイドル) に対応しました。",
+      "message_en": "SWEET SUMMER (7/30 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "7/27",
       "message":    "NEO KASSEN (8/13 @渋谷 アイドル) に対応しました。",
       "message_en": "NEO KASSEN (8/13 IDLE) is supported."
     },
