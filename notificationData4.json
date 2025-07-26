@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "7/27",
+      "message":    "NEO KASSEN (8/13 @渋谷 アイドル) に対応しました。",
+      "message_en": "NEO KASSEN (8/13 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "7/16",
       "message":    "FUJI ROCK (7/25-27 @新潟) に対応しました。",
       "message_en": "FUJI ROCK (7/25-27) is supported."
