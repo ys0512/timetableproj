@@ -162,6 +162,7 @@
                 "faq": "（問題が発生した場合、アプリの最新バージョンがあればアップデートしてください）",
                 "licenseLink": "ソフトウェアライセンス一覧を表示"
             },
+            "multiLikesButton": "まとめて\"♥\"をつけるボタンを表示する",
             "regist": "登録",
             "tallFooter": "画面下のボタンを高くする"
         },
@@ -426,6 +427,7 @@
                 "faq": "If you encounter any issues, please update to the latest version if available.",
                 "licenseLink": "Show the software license list"
             },
+            "multiLikesButton": "Display a button to add a ♥ to multiple locations at once.",
             "regist": "regist",
             "tallFooter": "Raise Bottom Buttons"
         },
@@ -708,6 +710,7 @@
                 "faq": "หากพบปัญหาใดๆ โปรดอัปเดตเป็นเวอร์ชันล่าสุดหากมี",
                 "licenseLink": "แสดงรายการใบอนุญาตซอฟต์แวร์"
             },
+            "multiLikesButton": "แสดงปุ่มสำหรับเพิ่ม ♥ ในหลายตำแหน่งพร้อมกัน",
             "regist": "ลงทะเบียน",
             "tallFooter": "ยกปุ่มด้านล่างขึ้น"
         },
