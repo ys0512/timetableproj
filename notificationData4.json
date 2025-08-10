@@ -26,6 +26,12 @@
       "message":    "ABCABC (2/20 @渋谷 バンド) に対応しました。",
       "message_en": "ABCABC (2/20 BAND) is supported."
     },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "8/10",
+      "message":   "機能改善を行いました(ver1.14.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Features improved (ver1.14.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
     {}
   ],
   "notificationList": [
