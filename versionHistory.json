@@ -32,6 +32,20 @@
         ],
         "ja": [
             {
+                "version": "1.14.1",
+                "date": "2025/8/11",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "まとめて\"いいね\"するボタンの初期設定をonからoffに修正"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.14.0",
                 "date": "2025/8/10",
                 "mainList": [
@@ -522,6 +536,20 @@
             }
         ],
         "en": [
+            {
+                "version": "1.14.1",
+                "date": "8/11/2025",
+                "mainList": [
+                    {
+                        "title": "Bug Fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed an issue where the \"Like All\" button was not functioning properly. The default setting has been changed from on to off."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.14.0",
                 "date": "8/10/2025",
