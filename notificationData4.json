@@ -36,12 +36,6 @@
   ],
   "notificationList": [
     {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "8/10",
-      "message":   "機能改善を行いました(ver1.14.0)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "Features improved (ver1.14.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
       "icon": "mdi-alarm-plus",
       "date": "8/9",
       "message":    "SUMMER SONIC, SONIC MANIA (8/15-17 @大阪・東京) に対応しました。",
