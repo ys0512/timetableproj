@@ -32,6 +32,26 @@
         ],
         "ja": [
             {
+                "version": "1.14.0",
+                "date": "2025/8/10",
+                "mainList": [
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "長押し画面にコラボステージの名前を表示"
+                            },
+                            {
+                                "subtitle": "長押し画面にまとめて\"いいね\"するボタンを追加"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
+            {
                 "version": "1.13.3",
                 "date": "2025/6/12",
                 "mainList": [
@@ -502,6 +522,26 @@
             }
         ],
         "en": [
+            {
+                "version": "1.14.0",
+                "date": "8/10/2025",
+                "mainList": [
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Added collaboration stage names to the long-press screen."
+                            },
+                            {
+                                "subtitle": "Added a \"Like All\" button to the long-press screen."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
             {
                 "version": "1.13.3",
                 "date": "6/12/2025",
