@@ -23,12 +23,30 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "/",
-      "message":    "ABCABC (2/20 @渋谷 バンド) に対応しました。",
+      "message":    "ABCABC (2/20 @ バンド) に対応しました。",
       "message_en": "ABCABC (2/20 BAND) is supported."
     },
     {}
   ],
   "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "8/20",
+      "message":    "エンドレスサマー (8/26 @渋谷 アイドル) に対応しました。",
+      "message_en": "エンドレスサマー (8/26 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "8/20",
+      "message":    "RA\"ど\"JAM (8/23-24 @愛知 アイドル) に対応しました。",
+      "message_en": "RA\"ど\"JAM (8/23-24 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "8/20",
+      "message":    "MONSTER baSH (8/23-24 @香川 バンド) に対応しました。",
+      "message_en": "MONSTER baSH (8/23-24 BAND) is supported."
+    },
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "8/11",
