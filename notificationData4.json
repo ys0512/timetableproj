@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "8/27",
+      "message":    "クロフェス (9/13-15 @海の森水上競技場) に対応しました。",
+      "message_en": "クロフェス (9/13-15 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "8/24",
       "message":    "くさのねアイドルフェスティバル (9/7 @千葉) に対応しました。",
       "message_en": "くさのねアイドルフェスティバル (9/7) is supported."
