@@ -360,7 +360,7 @@
                 "firstTimeUser": " ... Please read this link first.",
                 "marshmallow": "For anonymous contact, please use this URL. If possible, please contact us via X (Twitter).",
                 "noNotification": "Notification information was not received.",
-                "sns": "Please send your feedback, requests for additional live streams, etc. to X (Twitter) account DM.",
+                "sns": "Please send your feedback, requests for additional live streams, etc. to X (Twitter) account DM.(X is our only social media account.)",
                 "web": "This website provides information about the app store, privacy policy, etc."
             },
             "notificationTitle": "NOTIFICATION",
@@ -630,7 +630,7 @@
                 "firstTimeUser": " ... โปรดอ่านลิงค์นี้ก่อน",
                 "marshmallow": "สำหรับการติดต่อแบบไม่ระบุชื่อ โปรดใช้ URL นี้ หากเป็นไปได้ โปรดติดต่อเราผ่าน X (Twitter)",
                 "noNotification": "ไม่พบข้อมูลการแจ้งเตือน",
-                "sns": "โปรดส่งความคิดเห็น ข้อเสนอแนะสำหรับการถ่ายทอดสดเพิ่มเติม ฯลฯ ไปยังบัญชี X (Twitter) ผ่านการตอบกลับหรือ DM",
+                "sns": "โปรดส่งความคิดเห็น ข้อเสนอแนะสำหรับการถ่ายทอดสดเพิ่มเติม ฯลฯ ไปยังบัญชี X (Twitter) ผ่าน DM (เราใช้โซเชียลมีเดียเพียงแค่ X เท่านั้น)",
                 "web": "ส่งคอมเมนต์ ข้อเสนอ ติชม แนะนำเกี่ยวกับไลฟ์อีเวนท์หรือสเตจเพิ่มเติมได้ผ่านทางบัญชี X (Twitter) หรือผ่านทาง DM"
             },
             "notificationTitle": "การแจ้งเตือน",
