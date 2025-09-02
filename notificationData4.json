@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "9/2",
+      "message":    "TOKYO CALLING (9/23,27-28 @東京) に対応しました。",
+      "message_en": "TOKYO CALLING (9/23,27-28 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "9/1",
       "message":    "SPARK (9/13-15 @幕張) に対応しました。",
       "message_en": "SPARK (9/13-15 IDLE) is supported."
