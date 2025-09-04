@@ -2,7 +2,7 @@
   "updateVersion": "1.14.1",
   "updateMessage": "バージョン1.14.1をリリースしました(「その他」に設定が追加されます)\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
-  "deleteEnd": 400,
+  "deleteEnd": 411,
   "eventCode": [
     "test121",
     "fukuoka013"
