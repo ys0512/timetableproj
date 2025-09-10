@@ -132,7 +132,7 @@
                 "開演時間が遅れた時などに、ステージ毎の時間を各自で調整できます。\nステージ名をタップするか、左下メニューの「ツール」からでも変更できます。",
                 "この「使い方」のページはいつでも画面下をタップすることで確認することができます。"
             ],
-            "old_message":[
+            "old_message": [
                 "ライブ出演や物販ごとにメモを追加できます。\n設定でOFFになっているのでONにしてください。\n各出番を長押しした時の画面で、アイコンをタップして文章を追加してください。"
             ]
         },
@@ -255,8 +255,16 @@
                 "DialogTitleForDeleteConfirm": "削除しますか？",
                 "DialogTitleForResetConfirm": "リセットしますか？"
             },
+            "remainingLikes": "残りの出演に♥1",
+            "remainingLikesExplain": "♥がついているアーティストの残り全ての出演に♥1をつける\n（例：特典会が追加されたとき）",
             "resetLikes": "\"いいね♡\"のリセット",
             "resetLikesExplain": "\"いいね♡\"をすべてリセットする"
+        },
+        "remainingLikesDialog": {
+            "confirmMessage": "実行しますか？",
+            "errorMessage": "エラーが発生しました｡\n再発する場合は開発元Xアカウントまでご連絡ください｡",
+            "finishedMessage": "完了しました",
+            "title": "残りの出演に♥1"
         },
         "turnCommentDialog": {
             "commentExample": "メモを記入（50文字以内）",
@@ -397,7 +405,7 @@
                 "Adjust stage start times as needed. Tap a stage or go to \"Tools\" to make changes.",
                 "You can always check this \"How to Use\" page by tapping the bottom of the screen."
             ],
-            "old_message":[
+            "old_message": [
                 "Add notes for each act. Enable this feature in settings.\nLong-press each act to show the note-adding screen."
             ]
         },
@@ -520,8 +528,16 @@
                 "DialogTitleForDeleteConfirm": "Are you sure you want to delete it?",
                 "DialogTitleForResetConfirm": "Are you sure you want to reset these?"
             },
+            "remainingLikes": "♥1 to remaining appearances",
+            "remainingLikesExplain": "Add ♥1 to all remaining appearances of artists with ♥\n(e.g. when a bonus event is added)",
             "resetLikes": "reset \"likes♡\"",
             "resetLikesExplain": "Reset all \"likes♡\""
+        },
+        "remainingLikesDialog": {
+            "confirmMessage": "Proceed?",
+            "errorMessage": "An error occurred.\nIf it happens again, please contact the developer’s X account.",
+            "finishedMessage": "Completed",
+            "title": "♥1 to remaining appearances"
         },
         "turnCommentDialog": {
             "commentExample": "0 - 50 characters",
@@ -680,7 +696,7 @@
                 "หากเวลาสเตจถูกเลื่อนหรือล้าช้า คุณสามารถปรับเวลาที่เริ่มทำการแสดงได้ตามความเหมาะสม แตะที่ชื่อสเตจ หรือไปที่เมนู \"เครื่องมือ\" เพื่อทำการเปลี่ยนแปลง",
                 "คุณสามารถเปิดดู \"วิธีใช้\" ได้ตลอดเวลา โดยแตะที่เมนูด้านล่างหน้าจอ"
             ],
-            "old_message":[
+            "old_message": [
                 "คุณสามารถสร้างบันทึกเพิ่มเติมสำหรับแต่ละสเตจหรือช่วงกิจกรรมหลังจบสเตจได้ ด้วยการเปิดใช้งานบันทึก จากเมนู \"การตั้งค่า\""
             ]
         },
@@ -816,8 +832,16 @@
                 "DialogTitleForDeleteConfirm": "ต้องการลบใช่หรือไม่?",
                 "DialogTitleForResetConfirm": "ต้องการรีเซ็ตใช่หรือไม่?"
             },
+            "remainingLikes": "♥1 ไปยังการแสดงที่เหลือ",
+            "remainingLikesExplain": "เพิ่ม ♥1 ให้กับการแสดงที่เหลือทั้งหมดของศิลปินที่มี ♥\n(เช่น เมื่อมีการเพิ่มอีเวนต์พิเศษ)",
             "resetLikes": "รีเซ็ต '♡'",
             "resetLikesExplain": "รีเซ็ต '♡' ทั้งหมด"
+        },
+        "remainingLikesDialog": {
+            "confirmMessage": "ดำเนินการหรือไม่?",
+            "errorMessage": "เกิดข้อผิดพลาด\nหากเกิดซ้ำ โปรดติดต่อบัญชี X ของผู้พัฒนา",
+            "finishedMessage": "เสร็จสิ้น",
+            "title": "♥1 ไปยังการแสดงที่เหลือ"
         },
         "turnCommentDialog": {
             "commentExample": "ป้อนข้อความ (สูงสุด 50 ตัวอักษร)",
