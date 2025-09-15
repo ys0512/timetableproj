@@ -32,6 +32,26 @@
         ],
         "ja": [
             {
+                "version": "1.14.2",
+                "date": "2025/9/16",
+                "mainList": [
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "開発元のXアカウントや公式サイトのリンクボタンを追加"
+                            },
+                            {
+                                "subtitle": "開発元情報をホーム画面からその他画面に移動"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "他、操作性の改善や不具合修正など"
+                    }
+                ]
+            },
+            {
                 "version": "1.14.1",
                 "date": "2025/8/11",
                 "mainList": [
@@ -536,6 +556,26 @@
             }
         ],
         "en": [
+            {
+                "version": "1.14.2",
+                "date": "9/16/2025",
+                "mainList": [
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Added link buttons for the developer’s X account and official website."
+                            },
+                            {
+                                "subtitle": "Moved developer information from the Home screen to the Other screen."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other usability improvements, bug fixes, etc"
+                    }
+                ]
+            },
             {
                 "version": "1.14.1",
                 "date": "8/11/2025",
