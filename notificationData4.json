@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "9/16",
+      "message":    "NAKAYOSHI FES (9/20 @渋谷 アイドル) に対応しました。",
+      "message_en": "NAKAYOSHI FES (9/20 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "9/12",
       "message":    "MINAMI WHEEL (10/11-13 @大阪 BAND) に対応しました。",
       "message_en": "MINAMI WHEEL (10/11-13) is supported."
