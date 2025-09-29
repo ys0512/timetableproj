@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "9/30",
+      "message":    "Girl’s bomb!! 秋の大祭典 @東京ドイツ村 (10/4-5 アイドル) に対応しました。",
+      "message_en": "Girl’s bomb!! 秋の大祭典 @東京ドイツ村 (10/4-5 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "9/25",
       "message":    "KABUKILLING CIRCUIT!! (10/11 @新宿 アイドル) に対応しました。",
       "message_en": "KABUKILLING CIRCUIT!! (10/11 IDLE) is supported."

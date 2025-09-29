@@ -32,6 +32,20 @@
         ],
         "ja": [
             {
+                "version": "1.14.3",
+                "date": "2025/9/29",
+                "mainList": [
+                    {
+                        "title": "不具合修正",
+                        "subList": [
+                            {
+                                "subtitle": "出演枠を追加した状態でいいねリセットを行うと画面表示が崩れる不具合を修正"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.14.2",
                 "date": "2025/9/16",
                 "mainList": [
@@ -557,6 +571,20 @@
         ],
         "en": [
             {
+                "version": "1.14.3",
+                "date": "9/29/2025",
+                "mainList": [
+                    {
+                        "title": "Bug Fixes",
+                        "subList": [
+                            {
+                                "subtitle": "Fixed an issue where the screen display would break when resetting likes while having added performance slots."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.14.2",
                 "date": "9/16/2025",
                 "mainList": [
@@ -1079,6 +1107,4 @@
             }
         ]
     }
-
 }
-
