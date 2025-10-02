@@ -270,6 +270,24 @@
             "commentExample": "メモを記入（50文字以内）",
             "register": "登録",
             "title": "メモ"
+        },
+        "dataBackupDialog": {
+            "backup": "保存",
+            "dataBackup": "データ保存",
+            "dataRestore": "データ復元",
+            "errorCode": "エラーコード",
+            "message": {
+                "backupExplain": "サーバにデータを保存します。\nID/パスワードどちらも英数字混在8文字以上で設定してください。",
+                "error": "エラーが発生しました。開発元に問い合わせてください。",
+                "idRule": "IDは英数字混在8文字以上",
+                "passwordErrorDetail": "パスワードが間違えています。登録した覚えがないのにこの表示が出る場合は、そのIDはすでに他のユーザーに使用されています。別のIDで再度お試しください。",
+                "passwordRule": "パスワードは英数字混在8文字以上",
+                "restoreExplain": "サーバからデータを復元します。\nID/パスワードどちらも英数字混在8文字以上で設定してください。",
+                "required": "必須項目です",
+                "successBackup": "保存が成功しました",
+                "successRestore": "復元が成功しました"
+            },
+            "restore": "復元"
         }
     },
     "en": {
@@ -543,6 +561,24 @@
             "commentExample": "0 - 50 characters",
             "register": "Register",
             "title": "Memo"
+        },
+        "dataBackupDialog": {
+            "backup": "save",
+            "dataBackup": "Data Backup",
+            "dataRestore": "Data Restore",
+            "errorCode": "Error Code",
+            "message": {
+                "backupExplain": "Save your data to the server.\nSet both ID and password to at least 8 characters, mixing letters and numbers.",
+                "error": "An error has occurred. Please contact the developer.",
+                "idRule": "ID must be at least 8 characters, mixing letters and numbers.",
+                "passwordErrorDetail": "The password is incorrect. If you don't remember registering, this ID may already be used by another user. Please try a different ID.",
+                "passwordRule": "Password must be at least 8 characters, mixing letters and numbers.",
+                "restoreExplain": "Restore your data from the server.\nSet both ID and password to at least 8 characters, mixing letters and numbers.",
+                "required": "This field is required.",
+                "successBackup": "Saved successfully.",
+                "successRestore": "Restored successfully."
+            },
+            "restore": "restore"
         }
     },
     "th": {
@@ -847,6 +883,24 @@
             "commentExample": "ป้อนข้อความ (สูงสุด 50 ตัวอักษร)",
             "register": "ลงทะเบียน",
             "title": "บันทึก"
+        },
+        "dataBackupDialog": {
+            "backup": "บันทึก",
+            "dataBackup": "สำรองข้อมูล",
+            "dataRestore": "กู้คืนข้อมูล",
+            "errorCode": "รหัสข้อผิดพลาด",
+            "message": {
+                "backupExplain": "บันทึกข้อมูลไปยังเซิร์ฟเวอร์\nID และรหัสผ่านต้องมีตัวอักษรและตัวเลขอย่างน้อย 8 ตัว",
+                "error": "เกิดข้อผิดพลาด กรุณาติดต่อผู้พัฒนา",
+                "idRule": "ID ต้องมีตัวอักษรและตัวเลขอย่างน้อย 8 ตัว",
+                "passwordErrorDetail": "รหัสผ่านไม่ถูกต้อง หากไม่เคยสมัคร อาจมีผู้ใช้ ID นี้แล้ว กรุณาลอง ID อื่น",
+                "passwordRule": "รหัสผ่านต้องมีตัวอักษรและตัวเลขอย่างน้อย 8 ตัว",
+                "restoreExplain": "กู้คืนข้อมูลจากเซิร์ฟเวอร์\nID และรหัสผ่านต้องมีตัวอักษรและตัวเลขอย่างน้อย 8 ตัว",
+                "required": "จำเป็นต้องกรอก",
+                "successBackup": "บันทึกสำเร็จ",
+                "successRestore": "กู้คืนสำเร็จ"
+            },
+            "restore": "กู้คืน"
         }
     }
 }
