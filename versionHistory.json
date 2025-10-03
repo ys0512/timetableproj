@@ -32,6 +32,20 @@
         ],
         "ja": [
             {
+                "version": "1.15.0",
+                "date": "2025/10/4",
+                "mainList": [
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "データ引っ越し機能を追加"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.14.3",
                 "date": "2025/9/30",
                 "mainList": [
@@ -570,6 +584,20 @@
             }
         ],
         "en": [
+            {
+                "version": "1.15.0",
+                "date": "10/4/2025",
+                "mainList": [
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Added data migration feature."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.14.3",
                 "date": "9/30/2025",

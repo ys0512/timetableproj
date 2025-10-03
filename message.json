@@ -138,7 +138,9 @@
         },
         "other": {
             "activateComment": "メモ機能を有効化",
+            "backupToServer": "サーバにデータを保存",
             "confirmDetail": "詳細を確認",
+            "dataBackup": "データ引っ越し",
             "eventCode": "イベントコード",
             "fabSpeechBubble": "メニューボタンの吹き出しを表示する",
             "good3": "❤３を使う",
@@ -158,12 +160,14 @@
             "preparation": "準備中",
             "message": {
                 "addedBookmark": "ブックマークを追加しました",
+                "dataBackup": "新しいスマホにデータを移したいときにご利用ください。\nサーバのデータは2週間残しますが、それ以降は予告なく削除されます。\n保管対象は「ブックマーク」「各ライブの\"いいね♥\"」「ユーザによって追加された出演枠」です。",
                 "errorAddBookmark": "入力された値は無効です",
                 "faq": "（問題が発生した場合、アプリの最新バージョンがあればアップデートしてください）",
                 "licenseLink": "ソフトウェアライセンス一覧を表示"
             },
             "multiLikesButton": "まとめて\"♥\"をつけるボタンを表示する",
             "regist": "登録",
+            "restoreFromServer": "サーバからデータを復元",
             "tallFooter": "画面下のボタンを高くする"
         },
         "ttTable": {
@@ -429,7 +433,9 @@
         },
         "other": {
             "activateComment": "Activate Memo Function",
+            "backupToServer": "Backup to Server",
             "confirmDetail": "confirm detail",
+            "dataBackup": "Data Migration",
             "eventCode": "Event Code",
             "fabSpeechBubble": "Show menu button tooltip",
             "good3": "Enable ❤3",
@@ -449,6 +455,7 @@
             "preparation": " In preparation",
             "message": {
                 "addedBookmark": "Bookmark added",
+                "dataBackup": "Use this when you want to transfer data to a new smartphone.\nServer data will be stored for two weeks, after which it will be deleted without notice.\nThe stored items are \"Bookmarks\", \"Likes♥\" for each live, and \"Performance slots added by users.\"",
                 "errorAddBookmark": "The code you entered is invalid",
                 "faq": "If you encounter any issues, please update to the latest version if available.",
                 "licenseLink": "Show the software license list"
@@ -738,7 +745,9 @@
         },
         "other": {
             "activateComment": "เปิดใช้งานฟังก์ชั่นบันทึกย่อ",
+            "backupToServer": "สำรองข้อมูลไปยังเซิร์ฟเวอร์",
             "confirmDetail": "ยืนยันรายละเอียด",
+            "dataBackup": "การย้ายข้อมูล",
             "eventCode": "รหัสอีเวนต์",
             "fabSpeechBubble": "แสดงคำแนะนำปุ่มเมนู",
             "good3": "เปิดใช้งาน ❤3",
@@ -758,6 +767,7 @@
             "preparation": " กำลังเตรียมการ",
             "message": {
                 "addedBookmark": "เพิ่มบุ๊กมาร์กแล้ว",
+                "dataBackup": "ใช้เมื่อคุณต้องการย้ายข้อมูลไปยังสมาร์ทโฟนเครื่องใหม่\nข้อมูลบนเซิร์ฟเวอร์จะถูกเก็บไว้เป็นเวลาสองสัปดาห์ หลังจากนั้นจะถูกลบโดยไม่แจ้งให้ทราบล่วงหน้า\nรายการที่ถูกเก็บไว้ ได้แก่ \"บุ๊กมาร์ก\" \"ถูกใจ♥\" สำหรับแต่ละไลฟ์ และ \"ช่วงสเตจที่ผู้ใช้เพิ่มเอง\"",
                 "errorAddBookmark": "รหัสที่คุณป้อนไม่ถูกต้อง",
                 "faq": "หากพบปัญหาใดๆ โปรดอัปเดตเป็นเวอร์ชันล่าสุดหากมี",
                 "licenseLink": "แสดงรายการใบอนุญาตซอฟต์แวร์"
