@@ -284,7 +284,7 @@
                 "backupExplain": "サーバにデータを保存します。\nID/パスワードどちらも英数字混在8文字以上で設定してください。",
                 "error": "エラーが発生しました。開発元に問い合わせてください。",
                 "idRule": "IDは英数字混在8文字以上",
-                "passwordErrorDetail": "パスワードが間違えています。登録した覚えがないのにこの表示が出る場合は、そのIDはすでに他のユーザーに使用されています。別のIDで再度お試しください。",
+                "passwordErrorDetail": "IDまたはパスワードが正しくありません。もし登録した覚えがない場合は、そのIDはすでに使用されています。別のIDをお試しください。",
                 "passwordRule": "パスワードは英数字混在8文字以上",
                 "restoreExplain": "サーバからデータを復元します。\nID/パスワードどちらも英数字混在8文字以上で設定してください。",
                 "required": "必須項目です",
@@ -462,6 +462,7 @@
             },
             "multiLikesButton": "Display a button to add a ♥ to multiple locations at once.",
             "regist": "regist",
+            "restoreFromServer": "Restore from Server",
             "tallFooter": "Raise Bottom Buttons"
         },
         "ttTable": {
@@ -774,6 +775,7 @@
             },
             "multiLikesButton": "แสดงปุ่มสำหรับเพิ่ม ♥ ในหลายตำแหน่งพร้อมกัน",
             "regist": "ลงทะเบียน",
+            "restoreFromServer": "กู้คืนจากเซิร์ฟเวอร์",
             "tallFooter": "ยกปุ่มด้านล่างขึ้น"
         },
         "ttTable": {
