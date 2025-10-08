@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/9",
+      "message":    "六本木アイドルフェスティバル (10/12) に対応しました。",
+      "message_en": "六本木アイドルフェスティバル (10/12 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/7",
       "message":    "大阪造船所アイドルフェス (10/18-19 @大阪) に対応しました。",
       "message_en": "大阪造船所アイドルフェス (10/18-19 IDLE) is supported."
