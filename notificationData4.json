@@ -32,6 +32,12 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "10/9",
+      "message":    "ぐんまちゃんアイドルフェスティバル (10/13 @群馬) に対応しました。",
+      "message_en": "ぐんまちゃんアイドルフェスティバル (10/13 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "10/9",
       "message":    "六本木アイドルフェスティバル (10/12) に対応しました。",
       "message_en": "六本木アイドルフェスティバル (10/12 IDLE) is supported."
     },
