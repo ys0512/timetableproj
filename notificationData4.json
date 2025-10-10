@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/10",
+      "message":    "雨ソラフェス - Festival in the Rain - (10/12 @下北沢 アイドル) に対応しました。",
+      "message_en": "雨ソラフェス - Festival in the Rain - (10/12 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/9",
       "message":    "ぐんまちゃんアイドルフェスティバル (10/13 @群馬) に対応しました。",
       "message_en": "ぐんまちゃんアイドルフェスティバル (10/13 IDLE) is supported."
