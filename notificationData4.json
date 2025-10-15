@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "10/15",
+      "message":    "秋葉原アイドルサーキット vol.5 (11/3) に対応しました。",
+      "message_en": "秋葉原アイドルサーキット vol.5 (11/3 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "10/10",
       "message":    "雨ソラフェス - Festival in the Rain - (10/12 @下北沢 アイドル) に対応しました。",
       "message_en": "雨ソラフェス - Festival in the Rain - (10/12 IDLE) is supported."
