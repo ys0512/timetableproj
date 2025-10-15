@@ -2,7 +2,7 @@
   "updateVersion": "1.15.0",
   "updateMessage": "バージョン1.15.0をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
-  "deleteEnd": 426,
+  "deleteEnd": 463,
   "eventCode": [
     "test121",
     "fukuoka013"
