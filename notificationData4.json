@@ -31,7 +31,13 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
-      "date": "11/7",
+      "date": "11/8",
+      "message":    "exPoP!!!!!再会 (11/9 @渋谷 バンド) に対応しました。",
+      "message_en": "exPoP!!!!!再会 (11/9 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/8",
       "message":    "WEEKEND無限脱却SPECIAL (11/9 @下北沢 アイドル) に対応しました。",
       "message_en": "WEEKEND無限脱却SPECIAL (11/9 IDLE) is supported."
     },
