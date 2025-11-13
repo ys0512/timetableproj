@@ -31,6 +31,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "11/13",
+      "message":    "SOUNDGARDEN (11/29-30 @栄 アイドル) に対応しました。",
+      "message_en": "SOUNDGARDEN (11/29-30 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "11/13",
+      "message":    "over fest (11/29 @渋谷 バンド) に対応しました。",
+      "message_en": "over fest (11/29 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "11/8",
       "message":    "exPoP!!!!!再会 (11/9 @渋谷 バンド) に対応しました。",
       "message_en": "exPoP!!!!!再会 (11/9 IDLE) is supported."
