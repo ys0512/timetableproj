@@ -31,6 +31,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "12/22",
+      "message":    "Appare!クリスマス2025 (12/24-25 @品川 アイドル) に対応しました。",
+      "message_en": "Appare!クリスマス2025 (12/24-25 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "12/22",
+      "message":    "LEADING PREMIUM 年末感謝祭'25 (12/28 @渋谷 アイドル) に対応しました。",
+      "message_en": "LEADING PREMIUM 年末感謝祭'25 (12/28 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "12/19",
       "message":    "COUNTDOWN JAPAN 25/26 (12/27-31 @幕張) に対応しました。",
       "message_en": "COUNTDOWN JAPAN 25/26 (12/27-31 BAND) is supported."
