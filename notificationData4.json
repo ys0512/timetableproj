@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "2/22",
+      "message":    "IDORISE!! FESTIVAL (3/7-8 @渋谷 アイドル) に対応しました。",
+      "message_en": "IDORISE!! FESTIVAL (3/7-8 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "2/21",
       "message":    "GIRLS☆DELIGHT#382-猫の日アイドル大集合SP- (2/22 @五反田 アイドル) に対応しました。",
       "message_en": "GIRLS☆DELIGHT#382-猫の日アイドル大集合SP- (2/22 IDLE) is supported."
