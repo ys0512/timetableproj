@@ -1,15 +1,36 @@
 {
   "default_notice_message": "このライブではステージ遅延情報機能（ベータ）を利用できます。",
+  "default_confidence_thresholds": {
+    "_comment": "規模に応じて各liveで上書き可能。未指定時はこの値を使用。",
+    "high_min_votes": 5,
+    "high_max_stddev": 10,
+    "medium_min_votes": 3,
+    "medium_max_stddev": 20
+  },
   "targets": [
     {
       "live_id": 503
     },
     {
       "live_id": 504,
-      "notice_message": "このライブは検証強化中のため、遅延情報の投稿にご協力ください。"
+      "notice_message": "このライブは検証強化中のため、遅延情報の投稿にご協力ください。",
+      "_comment": "大規模イベント想定（投稿数が多いためしきい値を上げる）",
+      "confidence_thresholds": {
+        "high_min_votes": 10,
+        "high_max_stddev": 10,
+        "medium_min_votes": 5,
+        "medium_max_stddev": 20
+      }
     },
     {
-      "live_id": 505
+      "live_id": 505,
+      "_comment": "小規模イベント想定（投稿数が少ないためしきい値を下げる）",
+      "confidence_thresholds": {
+        "high_min_votes": 3,
+        "high_max_stddev": 10,
+        "medium_min_votes": 2,
+        "medium_max_stddev": 20
+      }
     }
   ]
 }
