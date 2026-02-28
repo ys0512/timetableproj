@@ -1,0 +1,61 @@
+{
+  "title": "IDOL FEVER EVER CIRCUIT",
+  "sections": [
+    {
+      "type": "banner",
+      "imageUrl": "https://placehold.co/800x400/e91e63/white?text=IDOL+FEVER+EVER+CIRCUIT"
+    },
+    {
+      "type": "ticket",
+      "url": "https://tiget.net/events/468174",
+      "prices": [
+        { "name": "前売りチケット", "price": "¥4,000" },
+        { "name": "当日券", "price": "¥4,500" },
+        { "name": "VIP（最前列優先エリア付）", "price": "¥8,000" },
+        { "name": "学生チケット（学生証提示）", "price": "¥3,000" }
+      ]
+    },
+    {
+      "type": "message",
+      "messages": [
+        { "text": "出演者50組以上が集結！", "color": "#e53935" },
+        { "text": "新宿の複数会場をまたぐ大規模サーキットイベント。お気に入りのアイドルを見つけよう！" },
+        { "text": "開場 11:00 ／ 開演 11:30 ／ 終演 21:30（予定）" },
+        { "text": "※タイムテーブルは当日変更になる場合があります。", "color": "#888888" }
+      ]
+    },
+    {
+      "type": "links",
+      "items": [
+        { "media": "website", "label": "公式サイト", "url": "https://example.com/idolfever" },
+        { "media": "x", "label": "公式Xアカウント", "url": "https://x.com/idolfever_official" },
+        { "media": "x_post", "label": "出演者発表ポスト", "url": "https://x.com/idolfever_official/status/1234567890" },
+        { "media": "instagram", "label": "公式Instagram", "url": "https://www.instagram.com/idolfever/" },
+        { "media": "youtube", "label": "ダイジェスト映像", "url": "https://www.youtube.com/watch?v=example" },
+        { "media": "line", "label": "LINE公式", "url": "https://line.me/R/ti/p/@example" },
+        { "media": "tiktok", "label": "TikTok", "url": "https://www.tiktok.com/@example" },
+        { "media": "discord", "label": "ファンDiscord", "url": "https://discord.gg/example" }
+      ]
+    },
+    {
+      "type": "map",
+      "address": "東京都新宿区歌舞伎町1丁目 周辺",
+      "center": { "lat": 35.6945, "lng": 139.7036 },
+      "zoom": 16,
+      "pins": [
+        { "lat": 35.69469, "lng": 139.70310, "label": "WALLY", "color": "#e53935" },
+        { "lat": 35.69520, "lng": 139.70230, "label": "Zirco Tokyo", "color": "#FDD835" },
+        { "lat": 35.69380, "lng": 139.70150, "label": "Shinjuku DHNoA", "color": "#3F51B5" },
+        { "lat": 35.69440, "lng": 139.70080, "label": "NINE SPICES", "color": "#9C27B0" },
+        { "lat": 35.69350, "lng": 139.70280, "label": "HOLIDAY SHINJUKU", "color": "#673AB7" }
+      ]
+    },
+    {
+      "type": "message",
+      "messages": [
+        { "text": "※各会場間は徒歩5分以内です。", "color": "#1565C0" },
+        { "text": "再入場可能。リストバンドを必ず着用してください。" }
+      ]
+    }
+  ]
+}
