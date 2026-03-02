@@ -38,8 +38,15 @@
       ]
     },
     {
-      "type": "map",
-      "address": "東京都新宿区歌舞伎町1丁目 周辺",
+      "type": "map_access",
+      "venueName": "新宿エリア（複数会場）",
+      "address": "東京都新宿区歌舞伎町1丁目周辺",
+      "lat": 35.6945,
+      "lng": 139.7036
+    },
+    {
+      "type": "map_stages",
+      "note": "各会場は徒歩5分以内の距離にあります",
       "center": { "lat": 35.6945, "lng": 139.7036 },
       "zoom": 16,
       "pins": [
