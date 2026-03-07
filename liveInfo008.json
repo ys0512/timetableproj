@@ -1,0 +1,59 @@
+{
+  "title": "mistFES",
+  "sections": [
+    {
+      "type": "banner",
+      "imageUrl": "https://placehold.co/1280x720/f48fb1/ffffff?text=mistFES",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "message",
+      "messages": [
+        { "text": "名古屋・栄 / 大須 / 新栄エリアを横断するサーキットフェス。", "color": "#e91e63" },
+        { "text": "地図は会場間の位置関係を把握しやすいように配置しています。" },
+        { "text": "移動前に各会場の入場導線・再入場可否・物販会場を確認してください。", "color": "#666666" }
+      ]
+    },
+    {
+      "type": "map_access",
+      "venueName": "mistFES 会場エリア中心",
+      "address": "愛知県名古屋市中区 栄・大須・新栄 周辺",
+      "lat": 35.1679,
+      "lng": 136.9092
+    },
+    {
+      "type": "map_stages",
+      "note": "主要会場の位置関係が把握できるよう、名古屋・栄 / 大須 / 新栄エリアの会場をまとめています。",
+      "center": { "lat": 35.1679, "lng": 136.9092 },
+      "zoom": 15,
+      "pins": [
+        { "lat": 35.1694704, "lng": 136.9062885, "label": "サンシャイン栄", "color": "#ef5350", "accuracy": "verified", "source": "OpenStreetMap/Nominatim" },
+        { "lat": 35.1647495, "lng": 136.9090343, "label": "エディオン広場", "color": "#ec407a", "accuracy": "verified", "source": "OpenStreetMap/Nominatim" },
+        { "lat": 35.1613460, "lng": 136.9067210, "label": "RAD HALL", "color": "#ab47bc", "accuracy": "verified", "source": "LiveWalker" },
+        { "lat": 35.1600443, "lng": 136.9019487, "label": "X-HALL", "color": "#7e57c2", "accuracy": "verified", "source": "LiveWalker" },
+        { "lat": 35.1687000, "lng": 136.9088000, "label": "Y-CITY HALL", "color": "#5c6bc0", "accuracy": "estimated", "source": "栄エリア配置用" },
+        { "lat": 35.1596000, "lng": 136.9037000, "label": "Dt3F", "color": "#42a5f5", "accuracy": "estimated", "source": "大須エリア配置用" },
+        { "lat": 35.1699000, "lng": 136.9068000, "label": "BSJ theater", "color": "#26c6da", "accuracy": "estimated", "source": "栄エリア配置用" },
+        { "lat": 35.1684000, "lng": 136.9118000, "label": "Zion", "color": "#26a69a", "accuracy": "estimated", "source": "栄R.A.D近接会場として配置" },
+        { "lat": 35.1692000, "lng": 136.9078000, "label": "OYS", "color": "#66bb6a", "accuracy": "estimated", "source": "栄エリア配置用" },
+        { "lat": 35.1704000, "lng": 136.9059000, "label": "バーサスホール", "color": "#9ccc65", "accuracy": "estimated", "source": "栄エリア配置用" },
+        { "lat": 35.1588000, "lng": 136.9034000, "label": "ライオンシアター", "color": "#d4e157", "accuracy": "estimated", "source": "大須エリア配置用" },
+        { "lat": 35.1586000, "lng": 136.9033000, "label": "ライオンカフェ", "color": "#ffee58", "accuracy": "estimated", "source": "大須エリア配置用" },
+        { "lat": 35.1587000, "lng": 136.9036000, "label": "ライオンリミテッド", "color": "#ffca28", "accuracy": "estimated", "source": "大須エリア配置用" },
+        { "lat": 35.1585000, "lng": 136.9038000, "label": "シアターZONE", "color": "#ffa726", "accuracy": "estimated", "source": "大須エリア配置用" },
+        { "lat": 35.1681059, "lng": 136.9112913, "label": "RAD", "color": "#ff7043", "accuracy": "verified", "source": "LiveWalker" },
+        { "lat": 35.1703500, "lng": 136.9161500, "label": "DIVA", "color": "#8d6e63", "accuracy": "estimated", "source": "新栄エリア配置用" },
+        { "lat": 35.1705600, "lng": 136.9164200, "label": "DEEP", "color": "#78909c", "accuracy": "estimated", "source": "新栄エリア配置用" },
+        { "lat": 35.1697399, "lng": 136.9161834, "label": "RAD SEVEN", "color": "#ef5350", "accuracy": "verified", "source": "LiveWalker" },
+        { "lat": 35.1700190, "lng": 136.9167310, "label": "DAYTRIVE", "color": "#ec407a", "accuracy": "verified", "source": "OpenStreetMap/Nominatim / Mapion" }
+      ]
+    },
+    {
+      "type": "message",
+      "messages": [
+        { "text": "サンシャイン栄〜エディオン広場〜栄会場と、大須・新栄会場は移動時間に余裕を持つのがおすすめです。", "color": "#1565c0" },
+        { "text": "※地図上の位置は会場位置関係の把握用です。最終的な入場口や集合場所は主催案内を確認してください。", "color": "#777777" }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,8 @@
   "sections": [
     {
       "type": "banner",
-      "imageUrl": "https://placehold.co/500x500/e91e63/white?text=IDOL+FEVER+EVER+CIRCUIT"
+      "imageUrl": "https://placehold.co/500x500/e91e63/white?text=IDOL+FEVER+EVER+CIRCUIT",
+      "aspectRatio": "16:9"
     },
     {
       "type": "ticket",
