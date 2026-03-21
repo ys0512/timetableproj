@@ -1,9 +1,9 @@
 {
-  "title": "mistFES",
+  "title": " 関ケ原唄姫合戦 ",
   "sections": [
     {
-      "type": "banner____",
-      "imageUrl": "sekigahara.jpg",
+      "type": "banner",
+      "imageUrl": "sekigahara.png",
       "___imageUrl": "http://mistfes.com/images/mistfes2024.jpg",
       "aspectRatio": "16:9"
     },
@@ -38,7 +38,7 @@
     {
       "type": "map_access",
       "venueName": "桃配運動公園 (岐阜県不破郡関ケ原町野上)",
-      "address": "桃配運動公園 (岐阜県不破郡関ケ原町野上 asdfad sadfsdf asdfasdf  fdfsadfa )",
+      "address__": "桃配運動公園 (岐阜県不破郡関ケ原町野上 asdfad sadfsdf asdfasdf  fdfsadfa )",
       "lat": 35.36625176690186,
       "lng": 136.49361348788258
     },
