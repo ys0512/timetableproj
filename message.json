@@ -219,7 +219,7 @@
             "adjustTime": "時間調整",
             "bulkEdit": "まとめて編集",
             "message": {
-                "info": "開演時間が遅れた時など、ステージ毎にタイムテーブルを調整して表示できます。\nステージ名をタップして、調整時間を指定してください。"
+                "info": "ステージをタップして調整時間を入力"
             },
             "min": "分",
             "stage": "ステージ"
@@ -515,7 +515,7 @@
             "adjustTime": "Adjust Time",
             "bulkEdit": "Bulk Edit",
             "message": {
-                "info": "Adjust the timetable for each stage if the show starts late or other unexpected delays occur. \nTap the stage name to set the adjustment time."
+                "info": "Tap a stage to set delay time"
             },
             "min": "min",
             "stage": "Stage"
@@ -829,7 +829,7 @@
             "adjustTime": "ปรับเวลา",
             "bulkEdit": "แก้ไขแบบกลุ่ม",
             "message": {
-                "info": "เมื่อเวลาเริ่มสเตจเกิดความล่าช้า สามารถปรับเวลาตารางขึ้นสเตจได้ในแต่ละสเตจ โดยการคลิกที่ชื่อสเตจนั้น เพื่อระบุช่วงเวลาที่ต้องการปรับเปลี่ยน"
+                "info": "แตะชื่อสเตจเพื่อปรับเวลา"
             },
             "min": "นาที",
             "stage": "ช่วงเวลาแสดง"
