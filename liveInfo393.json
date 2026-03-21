@@ -1,0 +1,85 @@
+{
+  "title": "mistFES",
+  "sections": [
+    {
+      "type": "banner____",
+      "imageUrl": "sekigahara.jpg",
+      "___imageUrl": "http://mistfes.com/images/mistfes2024.jpg",
+      "aspectRatio": "16:9"
+    },
+    {
+      "type": "ticket",
+      "url": "https://tiget.net/events/407817",
+      "prices": [
+        { "name": "【プレミアチケット】3DAYS", "price": "¥50,000" },
+        { "name": "【プレミアチケット】前2DAYS", "price": "¥36,000" },
+        { "name": "【プレミアチケット】後2DAYS", "price": "¥36,000" },
+        { "name": "【プレミアチケット】1DAY（7/19土）", "price": "¥19,500" },
+        { "name": "【プレミアチケット】1DAY（7/20日）", "price": "¥19,500" },
+        { "name": "【プレミアチケット】1DAY（7/21月祝）", "price": "¥19,500" },
+        { "name": "【一般】3DAYS", "price": "¥18,000" },
+        { "name": "【一般】前2DAYS", "price": "¥13,000" },
+        { "name": "【一般】後2DAYS", "price": "¥13,000" },
+        { "name": "【一般】1DAY（7/19土）", "price": "¥7,000" },
+        { "name": "【一般】1DAY（7/20日）", "price": "¥7,000" },
+        { "name": "【一般】1DAY（7/21月祝）", "price": "¥7,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/19土）", "price": "¥6,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/20日）", "price": "¥6,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/21月祝）", "price": "¥6,000" }
+      ]
+    },
+    {
+      "type": "message__",
+      "messages": [
+        { "text": "名古屋・栄 / 大須 / 新栄エリアを横断するサーキットフェス。", "color": "#e91e63" },
+        { "text": "移動前に各会場の入場導線・再入場可否・物販会場を確認してください。", "color": "#666666" }
+      ]
+    },
+    {
+      "type": "map_access",
+      "venueName": "桃配運動公園 (岐阜県不破郡関ケ原町野上)",
+      "address": "桃配運動公園 (岐阜県不破郡関ケ原町野上)",
+      "lat": 35.36625176690186,
+      "lng": 136.49361348788258
+    },
+    {
+      "type": "map_stages",
+      "mapTitle": "venue",
+      
+      "byLiveId": {
+        "common": {
+          "_MEMO_":"commonは全ライブ共通の設定。ライブごとならliveIDの数値を指定。数値とcommon両方に同じキーがある場合はライブごとの設定が優先される。",
+          "center": { "lat": 35.36625176690186, "lng": 136.49361348788258 },
+          "zoom": 15,
+          "note": "会場エリア",
+          "pins": [
+            { "lat": 35.3653221, "lng": 136.4922128, "label":"徳川", "stageId":0  },
+            { "lat": 35.3657816, "lng": 136.4932842, "label":"豊臣", "stageId":1  },
+            { "lat": 35.3660131, "lng": 136.4935027, "label":"戦国", "stageId":2  },
+            { "lat": 35.36598134115368, "lng": 136.49311101390032, "label":"桃配", "stageId":3  },
+            { "lat": 35.3658905, "lng": 136.4933308, "label":"下剋上", "stageId":4  },
+            { "lat": 35.3651023, "lng": 136.4921374, "label":"特典会会場" },
+            { "lat": 35.36634432857953, "lng": 136.49347716657167, "label":"受付" },
+            { "lat": 35.36636042879045, "lng": 136.4937517810752, "label":"駐車場" }
+          ]
+        }
+      }
+    },
+    {
+      "type": "message____",
+      "messages": [
+        { "text": "サンシャイン栄〜エディオン広場〜栄会場と、大須・新栄会場は移動時間に余裕を持つのがおすすめです。", "color": "#1565c0" },
+        { "text": "※地図上の位置は会場位置関係の把握用です。最終的な入場口や集合場所は主催案内を確認してください。", "color": "#777777" }
+      ]
+    },
+    {
+      "type": "links",
+      "items": [
+        { "media": "website", "label": "公式サイト", "url": "https://sekigahara-idolwars.net/" },
+        { "media": "x", "label": "公式Xアカウント", "url": "https://x.com/_IDOLWARS" },
+        { "media": "instagram", "label": "公式Instagramアカウント", "url": "https://www.instagram.com/_idolwars" },
+        { "media": "youtube", "label": "[公式]SEKIGAHARA IDOL WARS  PRチャンネル", "url": "https://www.youtube.com/@sekigaharaidolwarspr7582" }
+      ]
+    }
+  ]
+}
