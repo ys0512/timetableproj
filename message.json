@@ -88,6 +88,7 @@
                 "developer": "開発元",
                 "firstUse": "はじめてご利用の方",
                 "notification": "お知らせ",
+                "sponsor": "PR",
                 "version": "バージョン",
                 "versionHistory": "アップデート履歴"
             },
@@ -384,6 +385,7 @@
                 "developer": "DEVELOPER",
                 "firstUse": "FIRST TIME USER",
                 "notification": "NOTIFICATION",
+                "sponsor": "PR",
                 "version": "VERSION",
                 "versionHistory": "UPDATE HISTORY"
             },
@@ -685,6 +687,7 @@
                 "developer": "นักพัฒนา",
                 "firstUse": "ผู้ใช้ครั้งแรก",
                 "notification": "การแจ้งเตือน",
+                "sponsor": "PR",
                 "version": "เวอร์ชั่น",
                 "versionHistory": "ประวัติการอัปเดต"
             },

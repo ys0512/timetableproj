@@ -31,6 +31,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "5/19",
+      "message":    "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 @神奈川 アイドル) に対応しました。",
+      "message_en": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "5/8",
       "message":    "COMING KOBE (5/10 @神戸) に対応しました。",
       "message_en": "COMING KOBE (5/10 IDLE) is supported."
@@ -299,5 +305,30 @@
       "message":   "機能改善を行いました(ver1.14.1)。アップデートしてください。※機能の詳細はX(Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "Features improved (ver1.14.1). Please update. For more information on the new features, please refer to our X(Twitter) account"
     }
-  ]
+  ],  
+  "adBanner": {
+    "publish": true,
+    "list": [
+      {
+        "id": "ad001",
+        "sponsorName": "サンプル企業（管理用）",
+        "enabled": true,
+        "imageUrlJa": "ad/sampleCompany/fes_test_2026/banner_ja_v1.svg",
+        "imageUrlEn": "ad/sampleCompany/fes_test_2026/banner_en_v1.svg",
+        "linkUrl": "https://sekigahara-idolwars.net/about",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31"
+      },
+      {
+        "id": "ad002",
+        "sponsorName": "サンプル企業（管理用）",
+        "enabled": true,
+        "imageUrlJa": "ad/sampleCompany/fes_test_2026/banner_ja_v1.svg",
+        "imageUrlEn": "ad/sampleCompany/fes_test_2026/banner_en_v1.svg",
+        "linkUrl": "https://sekigahara-idolwars.net/about",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31"
+      }
+    ]
+  }
 }
