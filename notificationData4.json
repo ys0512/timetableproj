@@ -2,15 +2,21 @@
   "updateVersion": "1.15.1",
   "updateMessage": "バージョン1.15.1をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
-  "deleteEnd": 526,
+  "deleteEnd": 557,
   "eventCode": [
     "test121",
     "fukuoka013"
   ],
   "template": [
     {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "/",
+      "message":   "機能改善を行いました(ver1.14.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Features improved (ver1.14.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
+    {
       "icon": "mdi-star-box",
-      "date": "",
+      "date": "/",
       "message":    "★★★★★★★★★ バージョンアップ後に「ライブ一覧」が表示されない場合がありますが､10分ほど後にもう一度アプリを開くと正しく表示されます｡ご不便をおかけして申し訳ありません｡",
       "message_en": "★★★★★★★★★ After the version update, the \"Live List\" may not be displayed. If this happens, please reopen the app after about 10 minutes."
     },
@@ -26,9 +32,21 @@
       "message":    "ABCABC (2/1 @ バンド) に対応しました。",
       "message_en": "ABCABC (2/1 BAND) is supported."
     },
+    {
+      "icon": "mdi-cellphone-arrow-down",
+      "date": "6/2/",
+      "message":   "機能改善を行いました(ver1.16.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message_en": "Features improved (ver1.16.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
+    },
     {}
   ],
   "notificationList": [
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "6/2",
+      "message":    "mistFES (6/13-14 @名古屋 アイドル) に対応しました。",
+      "message_en": "mistFES (6/13-14 IDLE) is supported."
+    },
     {
       "icon": "mdi-alarm-plus",
       "date": "5/24",
