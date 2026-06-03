@@ -78,7 +78,14 @@
             { "lat": 35.1669934, "lng": 136.8961481, "label": "studiofix名古屋", "stageType":"booth" },
             { "lat": 35.1679408, "lng": 136.8946351, "label": "伏見駅前会議室", "stageType":"booth" },
             { "lat": 35.1613403, "lng": 136.9041182, "label": "矢場町中駒ビル", "stageType":"booth" },
-            { "lat": 35.15993, "lng": 136.9037613, "label": "静かの海", "stageType":"booth" }
+            { "lat": 35.15993, "lng": 136.9037613, "label": "静かの海", "stageType":"booth" },
+
+            { "lat": 35.1654084, "lng": 136.9057178, "label": "リファレンス会議室", "stageType":"booth" },
+            { "lat": 35.1629481, "lng": 136.9049632, "label": "アイドル共和国", "stageType":"booth" },
+            { "lat": 35.161281, "lng": 136.8990472, "label": "西大須AURA", "stageType":"booth" },
+            { "lat": 35.1681387, "lng": 136.9098378, "label": "Party'z", "stageType":"booth" },
+            { "lat": 35.1681943, "lng": 136.902113, "label": "TRIM", "stageType":"booth" }
+
           ]
         }
       }
