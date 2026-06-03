@@ -278,6 +278,7 @@
         "liveInfo": {
             "buttonLiveInfo": "ライブ情報",
             "buttonLiveInfoDetail": "ライブ情報を見る",
+            "buttonMapFab": "配置マップ",
             "buttonMapApp": "地図アプリで開く",
             "buttonOpenMap": "配置マップを開く",
             "buttonTicketSite": "チケット購入サイト",
@@ -646,6 +647,7 @@
         "liveInfo": {
             "buttonLiveInfo": "Live Info",
             "buttonLiveInfoDetail": "View Live Info",
+            "buttonMapFab": "Venue Map",
             "buttonMapApp": "Open in Map App",
             "buttonOpenMap": "Open Map",
             "buttonTicketSite": "Ticket Purchase Site",
@@ -1032,6 +1034,7 @@
         "liveInfo": {
             "buttonLiveInfo": "Live Info",
             "buttonLiveInfoDetail": "View Live Info",
+            "buttonMapFab": "Venue Map",
             "buttonMapApp": "Open in Map App",
             "buttonOpenMap": "Open Map",
             "buttonTicketSite": "Ticket Purchase Site",
