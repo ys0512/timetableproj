@@ -32,6 +32,26 @@
         ],
         "ja": [
             {
+                "version": "1.16.0",
+                "date": "2026/6/3",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "ライブ情報（チケット情報やマップなど）を表示する機能を追加"
+                            },
+                            {
+                                "subtitle": "時刻調整機能の改善"
+                            },
+                            {
+                                "subtitle": "軽微な不具合修正"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.15.0",
                 "date": "2025/10/5",
                 "mainList": [
@@ -584,6 +604,26 @@
             }
         ],
         "en": [
+            {
+                "version": "1.16.0",
+                "date": "6/3/2026",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Added a feature to display live event information, including ticket details and maps."
+                            },
+                            {
+                                "subtitle": "Improved the time adjustment feature."
+                            },
+                            {
+                                "subtitle": "Fixed minor bugs."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.15.0",
                 "date": "10/5/2025",
