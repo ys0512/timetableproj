@@ -61,6 +61,36 @@
             { "lat": 35.365252390650475, "lng": 136.492805642433, "label":"特典会会場" },
             { "lat": 35.36634432857953, "lng": 136.49347716657167, "label":"受付" },
             { "lat": 35.36632172387317, "lng": 136.49438139198267, "label":"駐車場" }
+          ],
+          
+          "overlayImages": [
+            {
+              "type": "area",
+              "imageUrl": "baseball1.png",
+              "bounds": {
+                "northEast": { "lat": 35.36594, "lng": 136.49163 },
+                "southWest": { "lat": 35.36488, "lng": 136.49293 }
+              },
+              "opacity": 0.7
+            },
+            {
+              "type": "area",
+              "imageUrl": "map_all_test3.png",
+              "bounds": {
+                "northEast": { "lat": 35.3668075130399, "lng": 136.49153888151676 },
+                "southWest": { "lat": 35.36485907755353, "lng": 136.4951941386632 }
+              },
+              "opacity": 0.9
+            },
+            {
+              "type": "area",
+              "imageUrl": "official_logo_2026.png",
+              "bounds": {
+                "northEast": { "lat": 35.36542181578966, "lng": 136.49332143798068 },
+                "southWest": { "lat": 35.364881785627894, "lng": 136.49511361638977 }
+              },
+              "opacity": 1.0
+            }
           ]
         }
       }
