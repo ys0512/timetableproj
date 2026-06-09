@@ -22,7 +22,8 @@
   "sections": [
     {
       "type": "banner",
-      "imageUrl": "mistfes2026_small.jpg",
+      "imageUrl": "mistfes2026_.png",
+      "imageUrl_": "mistfes2026_small.jpg",
       "aspectRatio": "16:9"
     },
     {
@@ -32,7 +33,7 @@
       ]
     },
     {
-      "type": "ticket_multiple",
+      "type": "ticket_link",
       "memo":"1.16.3用",
       "urls": [
         { "title": "チケット購入サイト 1日目", "url": "https://user.my-th.jp/tickets/event/mistfes2026-0613" },
