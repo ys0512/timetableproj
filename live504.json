@@ -5,7 +5,12 @@
     "closeTime": "23",
     "notificationVersion": "2",
     "notification": "オープニングアクト（Menkoiガールズ）を追加しました。開演時間が明記されていないため画像から推測で登録しています。",
-    "adjust_from_vote_enabled":true,
+    "__xx___adjust_from_vote_enabled":true,
+    
+    "report_type": "official",
+    "_report_type": "community",
+    "__report_type": "off",
+
     "___adjust_from_official_enabled":true,
     "artList": [
         {

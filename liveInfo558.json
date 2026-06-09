@@ -26,7 +26,14 @@
       "aspectRatio": "16:9"
     },
     {
+      "type": "message______",
+      "messages": [
+        { "text": "※画像使用は公式許諾済です。", "color": "#AAAAAA" }
+      ]
+    },
+    {
       "type": "ticket",
+      "memo":"1.16.3用",
       "urls": [
         { "title": "チケット購入サイト 1日目", "url": "https://user.my-th.jp/tickets/event/mistfes2026-0613" },
         { "title": "チケット購入サイト 2日目", "url": "https://user.my-th.jp/tickets/event/mistfes2026-0614" }
@@ -35,6 +42,25 @@
         { "name": "2日通し券※前売のみ", "price": "14,400円 (2ドリンク代 1,400円含む)" },
         { "name": "1日券 前売", "price": " 7,700円 (1ドリンク代700円含む)" },
         { "name": "1日券 当日", "price": " 8,700円 (1ドリンク代700円含む)" }
+      ]
+    },
+    {
+      "type": "ticket",
+      "memo":"1.16.0用A",
+      "url": "https://user.my-th.jp/tickets/event/mistfes2026-0613",
+      "prices": [
+        { "name": "2日通し券※前売のみ", "price": "14,400円 (2ドリンク代 1,400円含む)" },
+        { "name": "1日券 前売", "price": " 7,700円 (1ドリンク代700円含む)" },
+        { "name": "1日券 当日", "price": " 8,700円 (1ドリンク代700円含む)" },
+        { "name": "1日目" }
+      ]
+    },
+    {
+      "type": "ticket",
+      "memo":"1.16.0用B",
+      "url": "https://user.my-th.jp/tickets/event/mistfes2026-0614",
+      "prices": [
+        { "name": "2日目" }
       ]
     },
     {

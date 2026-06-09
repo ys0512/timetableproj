@@ -258,7 +258,6 @@
             "statusText": "を投票済み",
             "tabAdjust": "時刻調整",
             "tabPost": "投稿",
-            "tabSokuho": "速報",
             "tabTt": "タイテ",
             "voteLabel": "を投稿",
             "votesCount": "件",
@@ -268,11 +267,17 @@
                 "autoReflectDescOn": "全ステージの公式情報を自動でタイテに反映します",
                 "buttonResetAll": "全ステージを定刻に戻す",
                 "buttonUndoAll": "すべての投票を取り消す",
-                "communityHint": "参加者の報告を集計 — 数分おきに更新",
                 "cooldownMinutesLeft": "分で変更できます",
+                "helpBodyCommunity": "参加者から投稿された遅延・早まりの報告を集計して表示しています。報告数が多いほど信頼度が高くなり、直近の報告ほど重視されます。「タイテに反映」を押すと、集計結果を自分のタイムテーブルに反映できます。",
+                "helpBodyOfficial": "主催者・スタッフが投稿した公式の遅延・入場規制情報です。自動反映モードをONにすると、更新のたびに自動であなたのタイムテーブルへ反映されます。OFFのときは、ステージごとに「タイテに反映」を押した分だけ反映されます。",
+                "helpBodyPost": "ステージをタップして、遅延・早まりの時間を投稿できます。みなさんの投稿が集まることで「みんなの集計」が作られます。投稿後はしばらく取り消しや変更ができなくなるのでご注意ください。なお、投稿した内容はそのまま自分のタイテ（時刻調整）にも即座に反映されます。",
+                "helpTitleCommunity": "「みんなの集計」について",
+                "helpTitleOfficial": "「公式情報」について",
+                "helpTitlePost": "「投稿」について",
                 "hintReflectable": "タイムテーブルへ反映できます",
-                "postHint": "ステージをタップして開き、遅延時間を選んで投票。",
-                "votesHint": "参加者の報告を集計 — 数分おきに更新"
+                "infoBannerCommunity": "参加者の投稿を集計してここに表示。気になる遅延・規制情報はそのままタイテに反映できます。",
+                "infoBannerOfficial": "主催者・スタッフによる公式の遅延・規制情報を表示。自動反映の設定に応じてタイテに反映されます。",
+                "postHint": "ステージをタップして開き、遅延時間を選んで投票。"
             }
         },
         "liveInfo": {
@@ -627,7 +632,6 @@
             "statusText": " voted",
             "tabAdjust": "Adjust",
             "tabPost": "Vote",
-            "tabSokuho": "Updates",
             "tabTt": "TimeTable",
             "voteLabel": "Vote",
             "votesCount": "votes",
@@ -637,11 +641,17 @@
                 "autoReflectDescOn": "Automatically reflect all official delays to TimeTable",
                 "buttonResetAll": "Reset all to on-time",
                 "buttonUndoAll": "Cancel all votes",
-                "communityHint": "Community updates every few minutes",
                 "cooldownMinutesLeft": " min to change",
+                "helpBodyCommunity": "Reports submitted by attendees are aggregated and shown here. The more reports there are, the higher the confidence, and recent reports are weighted more heavily. Tap \"Reflect to TimeTable\" to apply the aggregated result to your own timetable.",
+                "helpBodyOfficial": "Official delay and entry-restriction info posted by the organizer/staff. When Auto Reflect mode is ON, updates are automatically applied to your timetable. When OFF, only the stages you tap \"Reflect to TimeTable\" on are applied.",
+                "helpBodyPost": "Tap a stage to vote how delayed or early it is running. Everyone's votes are combined to build the Community Aggregate. Note that votes can't be canceled or changed for a while after you submit them. Your vote is also applied to your own timetable (Time Adjust) immediately.",
+                "helpTitleCommunity": "About \"Community Aggregate\"",
+                "helpTitleOfficial": "About \"Official\"",
+                "helpTitlePost": "About \"Vote\"",
                 "hintReflectable": "Ready to reflect",
-                "postHint": "Tap a stage to select and vote the delay time.",
-                "votesHint": "Updated every few minutes"
+                "infoBannerCommunity": "Attendee reports are aggregated and shown here. Delay and restriction info you find useful can be reflected to your timetable as-is.",
+                "infoBannerOfficial": "Official delay and restriction info from the organizer/staff is shown here. It's reflected to your timetable according to your Auto Reflect setting.",
+                "postHint": "Tap a stage to select and vote the delay time."
             }
         },
         "liveInfo": {
@@ -1014,7 +1024,6 @@
             "statusText": " voted",
             "tabAdjust": "Adjust",
             "tabPost": "Vote",
-            "tabSokuho": "Updates",
             "tabTt": "TimeTable",
             "voteLabel": "Vote",
             "votesCount": "votes",
@@ -1024,11 +1033,17 @@
                 "autoReflectDescOn": "ปรับเวลาเริ่มต้นที่ล่าช้าให้ตรงกับตารางเวลา",
                 "buttonResetAll": "รีเซ็ตทั้งหมด",
                 "buttonUndoAll": "ยกเลิกการโหวตทั้งหมด",
-                "communityHint": "อัปเดตทุกสองสามนาที",
                 "cooldownMinutesLeft": " นาที เพื่อเปลี่ยน",
+                "helpBodyCommunity": "รวบรวมรายงานความล่าช้า/เร็วกว่ากำหนดที่ผู้เข้าร่วมโพสต์ไว้มาแสดงที่นี่ ยิ่งมีรายงานมากความน่าเชื่อถือก็ยิ่งสูงขึ้น และรายงานล่าสุดจะมีน้ำหนักมากกว่า กดปุ่ม \"ปรับเวลาตามตาราง\" เพื่อนำผลการรวบรวมไปใช้กับตารางเวลาของคุณ",
+                "helpBodyOfficial": "ข้อมูลความล่าช้า/ข้อจำกัดการเข้างานอย่างเป็นทางการที่โพสต์โดยผู้จัดงาน/สตาฟ หากเปิดโหมดปรับอัตโนมัติ ข้อมูลจะถูกนำไปใช้กับตารางเวลาของคุณโดยอัตโนมัติทุกครั้งที่อัปเดต หากปิดโหมดนี้ จะปรับเฉพาะสเตจที่คุณกด \"ปรับเวลาตามตาราง\" เท่านั้น",
+                "helpBodyPost": "แตะชื่อสเตจเพื่อโหวตว่าล่าช้าหรือเร็วกว่ากำหนดกี่นาที การโหวตของทุกคนจะถูกรวบรวมเป็น \"การรวบรวมจากผู้เข้าร่วม\" หลังจากโหวตแล้วจะไม่สามารถยกเลิกหรือเปลี่ยนแปลงได้ชั่วขณะหนึ่ง โปรดระวัง นอกจากนี้ การโหวตของคุณจะถูกนำไปใช้กับตารางเวลาของคุณเอง (ปรับเวลา) ทันที",
+                "helpTitleCommunity": "เกี่ยวกับ \"การรวบรวมจากผู้เข้าร่วม\"",
+                "helpTitleOfficial": "เกี่ยวกับ \"ข้อมูลทางการ\"",
+                "helpTitlePost": "เกี่ยวกับ \"การโหวต\"",
                 "hintReflectable": "พร้อมที่จะปรับเวลา",
-                "postHint": "แตะชื่อสเตจเพื่อเลือกและโหวตเวลาล่าช้า",
-                "votesHint": "อัปเดตทุกสองสามนาที"
+                "infoBannerCommunity": "รวบรวมโพสต์จากผู้เข้าร่วมมาแสดงที่นี่ ข้อมูลความล่าช้า/ข้อจำกัดที่สนใจสามารถนำไปปรับตารางเวลาได้ทันที",
+                "infoBannerOfficial": "แสดงข้อมูลความล่าช้า/ข้อจำกัดอย่างเป็นทางการจากผู้จัดงาน/สตาฟ และจะถูกนำไปปรับตารางเวลาตามการตั้งค่าโหมดปรับอัตโนมัติของคุณ",
+                "postHint": "แตะชื่อสเตจเพื่อเลือกและโหวตเวลาล่าช้า"
             }
         },
         "liveInfo": {
