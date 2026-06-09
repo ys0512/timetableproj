@@ -32,7 +32,7 @@
       ]
     },
     {
-      "type": "ticket",
+      "type": "ticket_multiple",
       "memo":"1.16.3用",
       "urls": [
         { "title": "チケット購入サイト 1日目", "url": "https://user.my-th.jp/tickets/event/mistfes2026-0613" },
