@@ -67,9 +67,9 @@
     {
       "type": "message",
       "messages": [
-        { "text": "名古屋・栄 / 大須 / 新栄エリアを横断するサーキットフェス。", "color": "#e91e63" },
         { "text": "移動前に各会場の入場導線・再入場可否・物販会場をご確認ください。", "color": "#666666" }
-      ]
+      ],
+      "bak":{ "text_": "名古屋・栄 / 大須 / 新栄エリアを横断するサーキットフェス。", "color": "#e91e63" }
     },
     {
       "type": "map_access",
@@ -94,10 +94,9 @@
             { "lat": 35.161346, "lng": 136.9041407, "label": "RAD HALL", "stageId": 999 },
             { "lat": 35.1608064, "lng": 136.904001, "label": "大須TOYS", "stageId": 999 },
             { "lat": 35.1642455, "lng": 136.9011769, "label": "HOLIDAY NEXT NAGOYA", "stageId": 999 },
-            { "lat": 35.1600443, "lng": 136.8993684, "label": "X-HALL -ZEN-", "stageId": 999 },
+            { "lat": 35.1600443, "lng": 136.8993684, "label": "X-HALL", "stageId": 999 },
             { "lat": 35.1600018, "lng": 136.8967494, "label": "Dt.BLD 3F", "stageId": 999 },
-            { "lat": 35.159671, "lng": 136.898681, "label": "アンリミッツ大須", "stageId": 999 },
-            { "lat": 35.1670255, "lng": 136.8958992, "label": "VERSUS東海ホール", "stageId": 999 },
+            { "lat": 35.159671, "lng": 136.898681, "label": "UNLIMITS大須", "stageId": 999 },
             { "lat": 35.1647409, "lng": 136.8929436, "label": "伏見ライオンシアター", "stageId": 999 },
             { "lat": 35.1647812, "lng": 136.8930592, "label": "伏見ライオンカフェ", "stageId": 999 },
             { "lat": 35.1689767, "lng": 136.909088, "label": "Lion Limited（ライオンリミテッド）", "stageId": 999 },
@@ -115,17 +114,24 @@
             { "lat": 35.1637923, "lng": 136.9099474, "label": "シアターZONE駐車場", "stageType":"booth" },
             { "lat": 35.1712876, "lng": 136.9047726, "label": "TKPガーデンシティ栄", "stageType":"booth" },
             { "lat": 35.1659639, "lng": 136.9165056, "label": "Live HOUSE 51", "stageType":"booth" },
-            { "lat": 35.1693289, "lng": 136.9150795, "label": "Fj theater", "stageType":"booth" },
+            { "lat": 35.1693289, "lng": 136.9150795, "label": "FJ theatre", "stageType":"booth" },@
             { "lat": 35.1669934, "lng": 136.8961481, "label": "studiofix名古屋", "stageType":"booth" },
             { "lat": 35.1679408, "lng": 136.8946351, "label": "伏見駅前会議室", "stageType":"booth" },
             { "lat": 35.1613403, "lng": 136.9041182, "label": "矢場町中駒ビル", "stageType":"booth" },
-            { "lat": 35.15993, "lng": 136.9037613, "label": "静かの海", "stageType":"booth" },
+            { "lat": 35.15993, "lng": 136.9037613, "label": "静かの海", "stageType":"booth" },@
 
-            { "lat": 35.1654084, "lng": 136.9057178, "label": "リファレンス会議室", "stageType":"booth" },
-            { "lat": 35.1629481, "lng": 136.9049632, "label": "アイドル共和国", "stageType":"booth" },
+            { "lat": 35.1654084, "lng": 136.9057178, "label": "リファレンス会議室", "stageType":"booth" },@
+            { "lat": 35.1629481, "lng": 136.9049632, "label": "アイドル共和国", "stageType":"booth" },@
             { "lat": 35.161281, "lng": 136.8990472, "label": "西大須AURA", "stageType":"booth" },
             { "lat": 35.1681387, "lng": 136.9098378, "label": "Party'z", "stageType":"booth" },
-            { "lat": 35.1681943, "lng": 136.902113, "label": "TRIM", "stageType":"booth" }
+            { "lat": 35.1681943, "lng": 136.902113, "label": "TRIM", "stageType":"booth" },
+            { "lat": 5.1599316, "lng": 136.9005881, "label": "大須アウラ", "stageType":"booth" },@
+            { "lat": 35.1659695, "lng": 136.9139289, "label": "寿司処 五一", "stageType":"booth" },
+            { "lat": 3, "lng": 1, "label": "", "stageType":"booth" },
+            { "lat": 3, "lng": 1, "label": "", "stageType":"booth" },
+            { "lat": 3, "lng": 1, "label": "", "stageType":"booth" },
+
+            { "lat": 35.1670255, "lng": 136.8958992, "label": "VERSUS東海ホール", "stageId": 999 },
 
           ]
         }
