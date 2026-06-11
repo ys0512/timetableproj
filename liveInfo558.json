@@ -21,7 +21,7 @@
   ],
   "sections": [
     {
-      "type": "banner______",
+      "type": "banner",
       "imageUrl": "mistfes2026_.png",
       "imageUrl_": "mistfes2026_small.jpg",
       "aspectRatio": "16:9"
@@ -89,25 +89,26 @@
           "zoom": 15,
           "note": "会場エリア",
           "pins": [
-            { "lat": 35.1660017, "lng": 136.9075894, "label": "NAGOYA ReNY limited", "stageId": 999 },
-            { "lat": 35.1708525, "lng": 136.9035044, "label": "Zephyr Hall", "stageId": 999 },
-            { "lat": 35.161346, "lng": 136.9041407, "label": "RAD HALL", "stageId": 999 },
-            { "lat": 35.1608064, "lng": 136.904001, "label": "大須TOYS", "stageId": 999 },
-            { "lat": 35.1642455, "lng": 136.9011769, "label": "HOLIDAY NEXT NAGOYA", "stageId": 999 },
-            { "lat": 35.1600443, "lng": 136.8993684, "label": "X-HALL", "stageId": 999 },
-            { "lat": 35.1600018, "lng": 136.8967494, "label": "Dt.BLD 3F", "stageId": 999 },
-            { "lat": 35.159671, "lng": 136.898681, "label": "UNLIMITS大須", "stageId": 999 },
-            { "lat": 35.1647409, "lng": 136.8929436, "label": "伏見ライオンシアター", "stageId": 999 },
-            { "lat": 35.1647812, "lng": 136.8930592, "label": "伏見ライオンカフェ", "stageId": 999 },
-            { "lat": 35.1689767, "lng": 136.909088, "label": "Lion Limited（ライオンリミテッド）", "stageId": 999 },
-            { "lat": 35.1637923, "lng": 136.9099474, "label": "シアターZONE", "stageId": 999 },
-            { "lat": 35.1689766, "lng": 136.9090773, "label": "R.A.D", "stageId": 999 },
-            { "lat": 35.1667653, "lng": 136.9107893, "label": "Sound Space DIVA", "stageId": 999 },
-            { "lat": 35.1667401, "lng": 136.910801, "label": "DEEP@名古屋栄 \"DIVAの4階\"", "stageId": 999 },
-            { "lat": 35.1673372, "lng": 136.9118273, "label": "RAD NINE", "stageId": 999 },
-            { "lat": 35.1697399, "lng": 136.9136031, "label": "RAD SEVEN", "stageId": 999 },
-            { "lat": 35.170036, "lng": 136.9141686, "label": "新栄DAYTRIVE&TRIM", "stageId": 999 },
-            { "lat": 35.169662, "lng": 136.9183507, "label": "新栄シャングリラ", "stageId": 999 },
+            { "lat": 35.1660017, "lng": 136.9075894, "label": "NAGOYA ReNY limited", "stageId": 0 },
+            { "lat": 35.1708525, "lng": 136.9035044, "label": "Zephyr Hall", "stageId": 1 },
+            { "lat": 35.161346, "lng": 136.9041407, "label": "RAD HALL", "stageId": 2 },
+            { "lat": 35.1608064, "lng": 136.904001, "label": "大須TOYS", "stageId": 3 },
+            { "lat": 35.1642455, "lng": 136.9011769, "label": "HOLIDAY NEXT NAGOYA", "stageId": 4 },
+            { "lat": 35.1600443, "lng": 136.8993684, "label": "X-HALL", "stageId": 5 },
+            { "lat": 35.1600018, "lng": 136.8967494, "label": "Dt.BLD 3F", "stageId": 6 },
+            { "lat": 35.159671, "lng": 136.898681, "label": "UNLIMITS大須", "stageId": 7 },
+            { "lat": 35.1670255, "lng": 136.8984795, "label": "バーサスホール", "stageId": 8 },
+            { "lat": 35.1647409, "lng": 136.8929436, "label": "伏見ライオンシアター", "stageId": 9 },
+            { "lat": 35.1647812, "lng": 136.8930592, "label": "伏見ライオンカフェ", "stageId": 10 },
+            { "lat": 35.1689767, "lng": 136.909088, "label": "ライオンリミテッド", "stageId": 11 },
+            { "lat": 35.1637923, "lng": 136.9099474, "label": "シアターZONE", "stageId": 12 },
+            { "lat": 35.1689766, "lng": 136.9090773, "label": "R.A.D", "stageId": 13 },
+            { "lat": 35.1667653, "lng": 136.9107893, "label": "DIVA", "stageId": 14 },
+            { "lat": 35.1667401, "lng": 136.910801, "label": "DEEP@名古屋栄 \"DIVAの4階\"", "stageId": 15 },
+            { "lat": 35.1673372, "lng": 136.9118273, "label": "RAD NINE", "stageId": 16 },
+            { "lat": 35.1697399, "lng": 136.9136031, "label": "RAD SEVEN", "stageId": 17 },
+            { "lat": 35.170036, "lng": 136.9141686, "label": "新栄DAYTRIVE&TRIM", "stageId": 18 },
+            { "lat": 35.169662, "lng": 136.9183507, "label": "新栄シャングリラ", "stageId": 19 },
 
             { "lat": 35.1659804, "lng": 136.9071793, "label": "CHUTOホール", "stageType":"booth" },
             { "lat": 35.166155, "lng": 136.90487, "label": "栄ガスビル", "stageType":"booth" },
@@ -124,11 +125,8 @@
             { "lat": 35.1629481, "lng": 136.9049632, "label": "アイドル共和国", "stageType":"booth" },
             { "lat": 35.161281, "lng": 136.8990472, "label": "西大須AURA", "stageType":"booth" },
             { "lat": 35.1681387, "lng": 136.9098378, "label": "Party'z", "stageType":"booth" },
-            { "lat": 35.1681943, "lng": 136.902113, "label": "TRIM", "stageType":"booth" },
-            { "lat": 35.1599316, "lng": 136.9005881, "label": "大須アウラ", "stageType":"booth" },
-            { "lat": 35.1659695, "lng": 136.9139289, "label": "寿司処 五一", "stageType":"booth" },
-
-            { "lat": 35.1670255, "lng": 136.8958992, "label": "VERSUS東海ホール", "stageId": 999 }
+            { "lat": 35.1598995, "lng": 136.9125764, "label": "TRIM", "stageType":"booth" },
+            { "lat": 35.1659695, "lng": 136.9139289, "label": "寿司処 五一", "stageType":"booth" }
 
           ]
         }
