@@ -4,15 +4,16 @@
     "openTime": "11",
     "closeTime": "23",
     "notificationVersion": "1",
-    "notification": "",
+    "notification": ".",
     "____adjust_from_vote_enabled":true,
     "____adjust_from_official_enabled":false,
     "____restriction_vote": true,
 
     "report_type": "community",
+    "restriction_vote": true,
+    
     "_report_type": "official",
     "__report_type": "off",
-    "restriction_vote": true,
 
     "artList": [
         {
