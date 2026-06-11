@@ -11,6 +11,9 @@
     "_report_type": "community",
     "__report_type": "off",
 
+    "restriction_official": true,
+    "restriction_vote": true,
+
     "___adjust_from_official_enabled":true,
     "artList": [
         {
