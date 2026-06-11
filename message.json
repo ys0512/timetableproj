@@ -272,7 +272,7 @@
                 "autoReflectDescManual": "「タイテに反映」を押したステージだけ反映します",
                 "autoReflectDescOn": "全ステージの公式情報を自動でタイテに反映します",
                 "buttonResetAll": "全ステージを定刻に戻す",
-                "buttonUndoAll": "すべての投票を取り消す",
+                "buttonUndoAll": "すべての投稿を取り消す",
                 "cooldownMinutesLeft": "分で変更できます",
                 "helpBodyCommunity": "参加者から投稿された遅延・早まり情報を集計して表示しています。報告数が多いほど信頼度が高く、直近の報告ほど重視されます。\n\n「タイテに反映」を押すと、集計結果を自分のタイムテーブルへ反映できます。\n\n※参加者同士で情報を共有するための機能です。誤情報やいたずら投稿はお控えください。不正利用が確認された場合は、機能の停止や制限を行う場合があります。みなさまのご協力をお願いします。",
                 "helpBodyOfficial": "主催者・スタッフが投稿した公式の遅延・入場規制情報です。自動反映モードをONにすると、更新のたびに自動であなたのタイムテーブルへ反映されます。OFFのときは、ステージごとに「タイテに反映」を押した分だけ反映されます。",
@@ -284,6 +284,7 @@
                 "infoBannerCommunity": "参加者の投稿を数分おきに集計してここに表示。気になる遅延・規制情報はそのままタイテに反映できます。",
                 "infoBannerOfficial": "主催者・スタッフによる公式の遅延・規制情報を表示。自動反映の設定に応じてタイテに反映されます。",
                 "postHint": "ステージをタップして開き、遅延時間を選んで投票。",
+                "postCaution": "※不正な投稿が確認された場合、本サービスの提供を停止させていただく場合があります。",
                 "restrictionTapToCancel": "もう一度タップすると取り消せます",
                 "restrictionCooldownNote": "投稿後10分間は内容を変更できません（取り消した場合はすぐに再投稿できます）"
             }
@@ -666,6 +667,7 @@
                 "infoBannerCommunity": "Attendee reports are aggregated here every few minutes. Delay and restriction info you find useful can be reflected to your timetable as-is.",
                 "infoBannerOfficial": "Official delay and restriction info from the organizer/staff is shown here. It's reflected to your timetable according to your Auto Reflect setting.",
                 "postHint": "Tap a stage to select and vote the delay time.",
+                "postCaution": "Note: This service may be suspended if improper posts are detected.",
                 "restrictionTapToCancel": "Tap again to cancel",
                 "restrictionCooldownNote": "You can't change your report for 10 minutes after posting (you can repost right away after canceling)."
             }
@@ -1066,6 +1068,7 @@
                 "infoBannerCommunity": "รวบรวมโพสต์จากผู้เข้าร่วมทุก ๆ สองสามนาทีมาแสดงที่นี่ ข้อมูลความล่าช้า/ข้อจำกัดที่สนใจสามารถนำไปปรับตารางเวลาได้ทันที",
                 "infoBannerOfficial": "แสดงข้อมูลความล่าช้า/ข้อจำกัดอย่างเป็นทางการจากผู้จัดงาน/สตาฟ และจะถูกนำไปปรับตารางเวลาตามการตั้งค่าโหมดปรับอัตโนมัติของคุณ",
                 "postHint": "แตะชื่อสเตจเพื่อเลือกและโหวตเวลาล่าช้า",
+                "postCaution": "หมายเหตุ: หากพบการโพสต์ที่ไม่เหมาะสม บริการนี้อาจถูกระงับการให้บริการ",
                 "restrictionTapToCancel": "แตะอีกครั้งเพื่อยกเลิก",
                 "restrictionCooldownNote": "หลังโพสต์แล้วจะไม่สามารถเปลี่ยนแปลงได้ภายใน 10 นาที (หากยกเลิกแล้วสามารถโพสต์ใหม่ได้ทันที)"
             }
