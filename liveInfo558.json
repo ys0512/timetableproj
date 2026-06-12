@@ -27,6 +27,15 @@
       "aspectRatio": "16:9"
     },
     {
+      "type": "message",
+      "messages": [
+        { "text": "ℹ️当日のリストバンド交換場所", "color": "#C92712" },
+        { "text": "焼肉HIDEYOSHI 8:00-", "color": "#333333" },
+        { "text": "ReNY 9:00- （RAD HALLからReNYへ変更）", "color": "#333333" },
+        { "text": "Dt.BLD 8:00-", "color": "#333333" }
+      ]
+    },
+    {
       "type": "message______",
       "messages": [
         { "text": "※画像使用は公式許諾済です。", "color": "#AAAAAA" }
