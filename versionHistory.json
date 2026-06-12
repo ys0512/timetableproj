@@ -32,6 +32,20 @@
         ],
         "ja": [
             {
+                "version": "1.16.3",
+                "date": "2026/6/12",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "遅延時間の投稿・集計機能に加え、入場規制の投稿機能を追加"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.16.0",
                 "date": "2026/6/3",
                 "mainList": [
@@ -604,6 +618,20 @@
             }
         ],
         "en": [
+            {
+                "version": "1.16.3",
+                "date": "6/12/2026",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Added entry restriction reporting in addition to delay reporting and aggregation."
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.16.0",
                 "date": "6/3/2026",
