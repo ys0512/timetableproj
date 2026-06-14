@@ -36,6 +36,12 @@
   ],
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "date": "6/14",
+      "message":    "Tokyo GIRLS GIRLS (6/16 @新宿 アイドル) に対応しました。",
+      "message_en": "Tokyo GIRLS GIRLS (6/16 IDLE) is supported."
+    },
+    {
       "icon": "mdi-cellphone-arrow-down",
       "date": "6/13",
       "message":   "機能改善を行いました(ver1.16.4)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
