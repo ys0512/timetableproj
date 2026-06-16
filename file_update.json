@@ -1,1 +1,11 @@
-[{"liveId":0,"version":6,"note":"versionはjsonVersion"},{"liveId":569,"version":6}]
+[
+    {
+        "liveId": 0,
+        "version": 6,
+        "note": "versionはjsonVersion"
+    },
+    {
+        "liveId": 569,
+        "version": 6
+    }
+]
