@@ -37,6 +37,12 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "6/17",
+      "message":    "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
+      "message_en": "超NATSUZOME (7/4-5 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/14",
       "message":    "Tokyo GIRLS GIRLS (6/16 @新宿 アイドル) に対応しました。",
       "message_en": "Tokyo GIRLS GIRLS (6/16 IDLE) is supported."
