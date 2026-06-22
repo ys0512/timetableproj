@@ -37,6 +37,18 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "date": "6/23",
+      "message":    "HERO SONIC (6/27-28 @横浜 アイドル) に対応しました。",
+      "message_en": "HERO SONIC (6/27-28 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "date": "6/23",
+      "message":    "アイドル甲子園 FESTIVAL (6/27-28 @お台場 アイドル) に対応しました。",
+      "message_en": "アイドル甲子園 FESTIVAL (6/27-28 IDLE) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/17",
       "message":    "∞Beats-エイトビーツ- (6/19-21 @大阪 アイドル) に対応しました。",
       "message_en": "∞Beats-エイトビーツ- (6/19-21 IDLE) is supported."
