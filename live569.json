@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 569,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "・特典会を追加しました\\n・タイテのデータ変更により一部の\\\"♥\\\"の付け直しが発生してしまいます。申し訳ありません。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "・特典会を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生してしまいます。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
   "artList": [
