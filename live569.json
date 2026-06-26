@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 569,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "3",
   "notification": "・特典会を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生してしまいます。申し訳ありません。",
   "openTime": "9",
@@ -557,6 +557,62 @@
     {
       "artId": 137,
       "name": "ミクチャ出演権争奪特別賞"
+    },
+    {
+      "artId": 138,
+      "name": "CAL&RES"
+    },
+    {
+      "artId": 139,
+      "name": "LADYBABY"
+    },
+    {
+      "artId": 140,
+      "name": "MEGAFON"
+    },
+    {
+      "artId": 141,
+      "name": "Pastel Closet"
+    },
+    {
+      "artId": 142,
+      "name": "ZUTTOMOTTO"
+    },
+    {
+      "artId": 143,
+      "name": "chuLa"
+    },
+    {
+      "artId": 144,
+      "name": "lol"
+    },
+    {
+      "artId": 145,
+      "name": "ナナコロビヤオキ"
+    },
+    {
+      "artId": 146,
+      "name": "パラディーク"
+    },
+    {
+      "artId": 147,
+      "name": "パラレルサイダー"
+    },
+    {
+      "artId": 148,
+      "name": "ヒロインズ研究生大阪"
+    },
+    {
+      "artId": 149,
+      "name": "ヒロインズ研究生（東京）"
+    },
+    {
+      "artId": 150,
+      "name": "フルコース"
+    },
+    {
+      "artId": 151,
+      "name": "テンシンランマン"
     }
   ],
   "stageList": [
@@ -715,18 +771,39 @@
       "stageOrder": 21
     },
     {
+      "stageId": 24,
+      "stageName": "特典会Q",
+      "stageNameShort": "特典会Q",
+      "colorName": "stage-grey",
+      "stageOrder": 22
+    },
+    {
       "stageId": 22,
       "stageName": "特典会R",
       "stageNameShort": "特典会R",
       "colorName": "stage-grey",
-      "stageOrder": 22
+      "stageOrder": 23
+    },
+    {
+      "stageId": 25,
+      "stageName": "特典会S",
+      "stageNameShort": "特典会S",
+      "colorName": "stage-grey",
+      "stageOrder": 24
+    },
+    {
+      "stageId": 26,
+      "stageName": "特典会T",
+      "stageNameShort": "特典会T",
+      "colorName": "stage-grey",
+      "stageOrder": 25
     },
     {
       "stageId": 23,
       "stageName": "特典会U",
       "stageNameShort": "特典会U",
       "colorName": "stage-grey",
-      "stageOrder": 23
+      "stageOrder": 26
     }
   ],
   "turnList": [
@@ -1397,192 +1474,192 @@
     },
     {
       "turnId": 95,
-      "startTime": "10:35",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 96,
-      "startTime": "10:50",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 97,
-      "startTime": "11:05",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 98,
-      "startTime": "11:20",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 99,
-      "startTime": "11:35",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 100,
-      "startTime": "11:55",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 101,
-      "startTime": "12:10",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 102,
-      "startTime": "12:25",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 103,
-      "startTime": "12:40",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 104,
-      "startTime": "13:00",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 105,
-      "startTime": "13:15",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 106,
-      "startTime": "13:30",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 107,
-      "startTime": "13:45",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 108,
-      "startTime": "14:00",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 109,
-      "startTime": "14:15",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 110,
-      "startTime": "14:35",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 111,
-      "startTime": "14:50",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 112,
-      "startTime": "15:05",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 113,
-      "startTime": "15:20",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 114,
-      "startTime": "15:35",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 115,
-      "startTime": "15:50",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 116,
-      "startTime": "16:10",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 117,
-      "startTime": "16:25",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 118,
       "startTime": "16:40",
-      "min": 15,
+      "min": 20,
       "artId": 19,
       "stageId": 3
     },
     {
       "turnId": 119,
-      "startTime": "16:55",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 120,
-      "startTime": "17:10",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 121,
-      "startTime": "17:25",
-      "min": 15,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 122,
@@ -2398,10 +2475,10 @@
     },
     {
       "turnId": 238,
-      "startTime": "15:05",
-      "min": 60,
-      "artId": 115,
-      "stageId": 10
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 239,
@@ -2447,10 +2524,10 @@
     },
     {
       "turnId": 245,
-      "startTime": "15:10",
-      "min": 60,
-      "artId": 1,
-      "stageId": 11
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 246,
@@ -2489,10 +2566,10 @@
     },
     {
       "turnId": 251,
-      "startTime": "15:15",
-      "min": 60,
-      "artId": 75,
-      "stageId": 12
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 252,
@@ -2839,10 +2916,10 @@
     },
     {
       "turnId": 301,
-      "startTime": "13:50",
-      "min": 60,
-      "artId": 30,
-      "stageId": 20
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 302,
@@ -2916,44 +2993,450 @@
     },
     {
       "turnId": 312,
-      "startTime": "12:15",
-      "min": 60,
-      "artId": 106,
-      "stageId": 23
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 313,
-      "startTime": "13:20",
-      "min": 60,
-      "artId": 67,
-      "stageId": 23
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 314,
-      "startTime": "14:25",
-      "min": 60,
-      "artId": 10,
-      "stageId": 23
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 315,
-      "startTime": "15:30",
-      "min": 60,
-      "artId": 5,
-      "stageId": 23
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 316,
-      "startTime": "16:40",
-      "min": 60,
-      "artId": 2,
-      "stageId": 23
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 317,
-      "startTime": "17:50",
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
+    },
+    {
+      "turnId": 318,
+      "startTime": "10:35",
+      "min": 15,
+      "artId": 148,
+      "stageId": 3
+    },
+    {
+      "turnId": 319,
+      "startTime": "10:50",
+      "min": 15,
+      "artId": 141,
+      "stageId": 3
+    },
+    {
+      "turnId": 320,
+      "startTime": "11:05",
+      "min": 15,
+      "artId": 147,
+      "stageId": 3
+    },
+    {
+      "turnId": 321,
+      "startTime": "11:20",
+      "min": 15,
+      "artId": 73,
+      "stageId": 3
+    },
+    {
+      "turnId": 322,
+      "startTime": "11:35",
+      "min": 15,
+      "artId": 138,
+      "stageId": 3
+    },
+    {
+      "turnId": 323,
+      "startTime": "11:50",
+      "min": 15,
+      "artId": 102,
+      "stageId": 3
+    },
+    {
+      "turnId": 324,
+      "startTime": "12:10",
+      "min": 15,
+      "artId": 149,
+      "stageId": 3
+    },
+    {
+      "turnId": 325,
+      "startTime": "12:25",
+      "min": 15,
+      "artId": 146,
+      "stageId": 3
+    },
+    {
+      "turnId": 326,
+      "startTime": "12:40",
+      "min": 15,
+      "artId": 150,
+      "stageId": 3
+    },
+    {
+      "turnId": 327,
+      "startTime": "12:55",
+      "min": 15,
+      "artId": 142,
+      "stageId": 3
+    },
+    {
+      "turnId": 328,
+      "startTime": "13:10",
+      "min": 15,
+      "artId": 84,
+      "stageId": 3
+    },
+    {
+      "turnId": 329,
+      "startTime": "13:25",
+      "min": 15,
+      "artId": 139,
+      "stageId": 3
+    },
+    {
+      "turnId": 330,
+      "startTime": "13:40",
+      "min": 15,
+      "artId": 17,
+      "stageId": 3
+    },
+    {
+      "turnId": 331,
+      "startTime": "14:00",
+      "min": 15,
+      "artId": 143,
+      "stageId": 3
+    },
+    {
+      "turnId": 332,
+      "startTime": "14:15",
+      "min": 15,
+      "artId": 145,
+      "stageId": 3
+    },
+    {
+      "turnId": 333,
+      "startTime": "14:30",
+      "min": 15,
+      "artId": 88,
+      "stageId": 3
+    },
+    {
+      "turnId": 334,
+      "startTime": "14:45",
+      "min": 20,
+      "artId": 72,
+      "stageId": 3
+    },
+    {
+      "turnId": 335,
+      "startTime": "15:05",
+      "min": 20,
+      "artId": 132,
+      "stageId": 3
+    },
+    {
+      "turnId": 336,
+      "startTime": "15:25",
+      "min": 20,
+      "artId": 61,
+      "stageId": 3
+    },
+    {
+      "turnId": 337,
+      "startTime": "15:55",
+      "min": 15,
+      "artId": 144,
+      "stageId": 3
+    },
+    {
+      "turnId": 338,
+      "startTime": "16:10",
+      "min": 15,
+      "artId": 128,
+      "stageId": 3
+    },
+    {
+      "turnId": 339,
+      "startTime": "16:25",
+      "min": 15,
+      "artId": 7,
+      "stageId": 3
+    },
+    {
+      "turnId": 340,
+      "startTime": "17:00",
+      "min": 20,
+      "artId": 140,
+      "stageId": 3
+    },
+    {
+      "turnId": 341,
+      "startTime": "17:20",
+      "min": 20,
+      "artId": 131,
+      "stageId": 3
+    },
+    {
+      "turnId": 342,
+      "startTime": "16:55",
       "min": 60,
       "artId": 135,
+      "stageId": 6
+    },
+    {
+      "turnId": 343,
+      "startTime": "15:05",
+      "min": 60,
+      "artId": 10,
+      "stageId": 10
+    },
+    {
+      "turnId": 344,
+      "startTime": "15:10",
+      "min": 60,
+      "artId": 115,
+      "stageId": 11
+    },
+    {
+      "turnId": 345,
+      "startTime": "15:15",
+      "min": 60,
+      "artId": 1,
+      "stageId": 12
+    },
+    {
+      "turnId": 346,
+      "startTime": "16:40",
+      "min": 60,
+      "artId": 2,
+      "stageId": 15
+    },
+    {
+      "turnId": 347,
+      "startTime": "15:35",
+      "min": 60,
+      "artId": 5,
+      "stageId": 16
+    },
+    {
+      "turnId": 348,
+      "startTime": "12:30",
+      "min": 60,
+      "artId": 106,
+      "stageId": 18
+    },
+    {
+      "turnId": 349,
+      "startTime": "17:20",
+      "min": 60,
+      "artId": 30,
+      "stageId": 21
+    },
+    {
+      "turnId": 350,
+      "startTime": "11:10",
+      "min": 60,
+      "artId": 60,
+      "stageId": 24
+    },
+    {
+      "turnId": 351,
+      "startTime": "12:15",
+      "min": 60,
+      "artId": 138,
+      "stageId": 24
+    },
+    {
+      "turnId": 352,
+      "startTime": "13:20",
+      "min": 60,
+      "artId": 102,
+      "stageId": 24
+    },
+    {
+      "turnId": 353,
+      "startTime": "14:45",
+      "min": 75,
+      "artId": 131,
+      "stageId": 24
+    },
+    {
+      "turnId": 354,
+      "startTime": "16:10",
+      "min": 90,
+      "artId": 61,
+      "stageId": 24
+    },
+    {
+      "turnId": 355,
+      "startTime": "11:10",
+      "min": 60,
+      "artId": 148,
+      "stageId": 22
+    },
+    {
+      "turnId": 356,
+      "startTime": "12:20",
+      "min": 60,
+      "artId": 73,
+      "stageId": 22
+    },
+    {
+      "turnId": 357,
+      "startTime": "13:40",
+      "min": 60,
+      "artId": 142,
+      "stageId": 22
+    },
+    {
+      "turnId": 358,
+      "startTime": "14:55",
+      "min": 60,
+      "artId": 145,
+      "stageId": 22
+    },
+    {
+      "turnId": 359,
+      "startTime": "17:45",
+      "min": 60,
+      "artId": 151,
+      "stageId": 22
+    },
+    {
+      "turnId": 360,
+      "startTime": "11:30",
+      "min": 60,
+      "artId": 141,
+      "stageId": 25
+    },
+    {
+      "turnId": 361,
+      "startTime": "12:50",
+      "min": 60,
+      "artId": 149,
+      "stageId": 25
+    },
+    {
+      "turnId": 362,
+      "startTime": "13:55",
+      "min": 60,
+      "artId": 84,
+      "stageId": 25
+    },
+    {
+      "turnId": 363,
+      "startTime": "15:00",
+      "min": 60,
+      "artId": 88,
+      "stageId": 25
+    },
+    {
+      "turnId": 364,
+      "startTime": "16:05",
+      "min": 90,
+      "artId": 132,
+      "stageId": 25
+    },
+    {
+      "turnId": 365,
+      "startTime": "17:40",
+      "min": 60,
+      "artId": 7,
+      "stageId": 25
+    },
+    {
+      "turnId": 366,
+      "startTime": "11:45",
+      "min": 60,
+      "artId": 147,
+      "stageId": 26
+    },
+    {
+      "turnId": 367,
+      "startTime": "13:05",
+      "min": 60,
+      "artId": 146,
+      "stageId": 26
+    },
+    {
+      "turnId": 368,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 139,
+      "stageId": 26
+    },
+    {
+      "turnId": 369,
+      "startTime": "15:25",
+      "min": 80,
+      "artId": 72,
+      "stageId": 26
+    },
+    {
+      "turnId": 370,
+      "startTime": "16:50",
+      "min": 60,
+      "artId": 128,
+      "stageId": 26
+    },
+    {
+      "turnId": 371,
+      "startTime": "12:05",
+      "min": 60,
+      "artId": 17,
+      "stageId": 23
+    },
+    {
+      "turnId": 372,
+      "startTime": "13:20",
+      "min": 60,
+      "artId": 150,
+      "stageId": 23
+    },
+    {
+      "turnId": 373,
+      "startTime": "14:25",
+      "min": 70,
+      "artId": 140,
+      "stageId": 23
+    },
+    {
+      "turnId": 374,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 143,
+      "stageId": 23
+    },
+    {
+      "turnId": 375,
+      "startTime": "16:45",
+      "min": 60,
+      "artId": 128,
       "stageId": 23
     }
   ]
