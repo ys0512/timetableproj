@@ -1,9 +1,9 @@
 ﻿{
   "liveId": 568,
-  "jsonVersion": 6,
-  "notificationVersion": "2",
-  "notification": "・特典会を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
-  "openTime": "9",
+  "jsonVersion": 7,
+  "notificationVersion": "3",
+  "notification": "・6/26版タイテに対応しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
+  "openTime": "10",
   "closeTime": "21",
   "artList": [
     {
