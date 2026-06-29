@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 569,
-  "jsonVersion": 8,
-  "notificationVersion": "4",
-  "notification": "・6/26版タイテに対応しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
+  "jsonVersion": 9,
+  "notificationVersion": "5",
+  "notification": "・6/27版タイテに対応しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
   "artList": [
@@ -613,6 +613,22 @@
     {
       "artId": 151,
       "name": "テンシンランマン"
+    },
+    {
+      "artId": 152,
+      "name": "Hello♡DayDream!"
+    },
+    {
+      "artId": 153,
+      "name": "Ill"
+    },
+    {
+      "artId": 154,
+      "name": "きゅんﾀﾋに一生を!?"
+    },
+    {
+      "artId": 155,
+      "name": "ヒトノユメ"
     }
   ],
   "stageList": [
@@ -1320,10 +1336,10 @@
     },
     {
       "turnId": 73,
-      "startTime": "13:35",
-      "min": 15,
-      "artId": 89,
-      "stageId": 2
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 74,
@@ -1390,10 +1406,10 @@
     },
     {
       "turnId": 83,
-      "startTime": "16:25",
-      "min": 15,
-      "artId": 107,
-      "stageId": 2
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 84,
@@ -1635,10 +1651,10 @@
     },
     {
       "turnId": 118,
-      "startTime": "16:40",
-      "min": 20,
-      "artId": 19,
-      "stageId": 3
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 119,
@@ -1740,10 +1756,10 @@
     },
     {
       "turnId": 133,
-      "startTime": "11:30",
-      "min": 15,
-      "artId": 56,
-      "stageId": 4
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 134,
@@ -2496,10 +2512,10 @@
     },
     {
       "turnId": 241,
-      "startTime": "10:50",
-      "min": 60,
-      "artId": 89,
-      "stageId": 11
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 242,
@@ -2685,10 +2701,10 @@
     },
     {
       "turnId": 268,
-      "startTime": "10:05",
-      "min": 60,
-      "artId": 137,
-      "stageId": 15
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 269,
@@ -2860,10 +2876,10 @@
     },
     {
       "turnId": 293,
-      "startTime": "18:00",
-      "min": 60,
-      "artId": 107,
-      "stageId": 18
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 294,
@@ -3436,8 +3452,64 @@
       "turnId": 375,
       "startTime": "16:45",
       "min": 60,
-      "artId": 128,
+      "artId": 153,
       "stageId": 23
+    },
+    {
+      "turnId": 376,
+      "startTime": "13:35",
+      "min": 15,
+      "artId": 152,
+      "stageId": 2
+    },
+    {
+      "turnId": 377,
+      "startTime": "16:25",
+      "min": 15,
+      "artId": 154,
+      "stageId": 2
+    },
+    {
+      "turnId": 378,
+      "startTime": "16:40",
+      "min": 20,
+      "artId": 151,
+      "stageId": 3
+    },
+    {
+      "turnId": 379,
+      "startTime": "11:30",
+      "min": 15,
+      "artId": 155,
+      "stageId": 4
+    },
+    {
+      "turnId": 380,
+      "startTime": "10:50",
+      "min": 60,
+      "artId": 152,
+      "stageId": 11
+    },
+    {
+      "turnId": 381,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 154,
+      "stageId": 18
+    },
+    {
+      "turnId": 382,
+      "startTime": "12:45",
+      "min": 60,
+      "artId": 67,
+      "stageId": 20
+    },
+    {
+      "turnId": 383,
+      "startTime": "13:45",
+      "min": 60,
+      "artId": 155,
+      "stageId": 20
     }
   ]
 }
