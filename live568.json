@@ -1,9 +1,9 @@
 ﻿{
   "liveId": 568,
-  "jsonVersion": 7,
-  "notificationVersion": "3",
-  "notification": "・6/26版タイテに対応しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
-  "openTime": "10",
+  "jsonVersion": 8,
+  "notificationVersion": "4",
+  "notification": "・6/27版タイテに対応しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
+  "openTime": "9",
   "closeTime": "21",
   "artList": [
     {
@@ -533,6 +533,18 @@
     {
       "artId": 131,
       "name": "ラストシーン"
+    },
+    {
+      "artId": 132,
+      "name": "ソライロの涙"
+    },
+    {
+      "artId": 133,
+      "name": "ネクスタリア"
+    },
+    {
+      "artId": 134,
+      "name": "猫の眼に宇宙"
     }
   ],
   "stageList": [
@@ -1261,10 +1273,10 @@
     },
     {
       "turnId": 76,
-      "startTime": "13:55",
-      "min": 15,
-      "artId": 87,
-      "stageId": 2
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 77,
@@ -1324,10 +1336,10 @@
     },
     {
       "turnId": 85,
-      "startTime": "16:40",
-      "min": 15,
-      "artId": 92,
-      "stageId": 2
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 86,
@@ -2003,10 +2015,10 @@
     },
     {
       "turnId": 182,
-      "startTime": "16:10",
-      "min": 10,
-      "artId": 86,
-      "stageId": 5
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 183,
@@ -2206,10 +2218,10 @@
     },
     {
       "turnId": 211,
-      "startTime": "12:25",
-      "min": 60,
-      "artId": 47,
-      "stageId": 6
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 212,
@@ -2752,10 +2764,10 @@
     },
     {
       "turnId": 289,
-      "startTime": "15:40",
-      "min": 60,
-      "artId": 87,
-      "stageId": 17
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 290,
@@ -2815,10 +2827,10 @@
     },
     {
       "turnId": 298,
-      "startTime": "18:00",
-      "min": 60,
-      "artId": 86,
-      "stageId": 18
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 299,
@@ -3116,10 +3128,10 @@
     },
     {
       "turnId": 341,
-      "startTime": "17:10",
-      "min": 60,
-      "artId": 92,
-      "stageId": 7
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 342,
@@ -3414,6 +3426,55 @@
       "min": 60,
       "artId": 131,
       "stageId": 26
+    },
+    {
+      "turnId": 384,
+      "startTime": "13:55",
+      "min": 15,
+      "artId": 132,
+      "stageId": 2
+    },
+    {
+      "turnId": 385,
+      "startTime": "16:40",
+      "min": 15,
+      "artId": 133,
+      "stageId": 2
+    },
+    {
+      "turnId": 386,
+      "startTime": "16:10",
+      "min": 10,
+      "artId": 134,
+      "stageId": 5
+    },
+    {
+      "turnId": 387,
+      "startTime": "17:10",
+      "min": 60,
+      "artId": 133,
+      "stageId": 7
+    },
+    {
+      "turnId": 388,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 132,
+      "stageId": 17
+    },
+    {
+      "turnId": 389,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 134,
+      "stageId": 18
+    },
+    {
+      "turnId": 390,
+      "startTime": "17:40",
+      "min": 60,
+      "artId": 130,
+      "stageId": 24
     }
   ]
 }
