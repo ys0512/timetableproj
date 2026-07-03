@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        613
+      ],
+      "date": "7/4",
+      "message": "UTAGE FES vol.5 (7/22 @新宿 アイドル) に対応しました。",
+      "message_en": "UTAGE FES vol.5 (7/22 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         610,
         611,
         612
