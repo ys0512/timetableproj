@@ -1,4 +1,4 @@
-{
+﻿{
   "updateVersion": "1.16.4",
   "updateMessage": "バージョン1.16.4をリリースしました\nアプリStoreにてアップデートをお願いします。\n\nKindly update your app.",
   "deleteStart": 6,
@@ -11,25 +11,25 @@
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "/",
-      "message":   "機能改善を行いました(ver1.XX.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message": "機能改善を行いました(ver1.XX.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "Features improved (ver1.XX.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
       "icon": "mdi-star-box",
       "date": "/",
-      "message":    "★★★★★★★★★ バージョンアップ後に「ライブ一覧」が表示されない場合がありますが､10分ほど後にもう一度アプリを開くと正しく表示されます｡ご不便をおかけして申し訳ありません｡",
+      "message": "★★★★★★★★★ バージョンアップ後に「ライブ一覧」が表示されない場合がありますが､10分ほど後にもう一度アプリを開くと正しく表示されます｡ご不便をおかけして申し訳ありません｡",
       "message_en": "★★★★★★★★★ After the version update, the \"Live List\" may not be displayed. If this happens, please reopen the app after about 10 minutes."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "/",
-      "message":    "ABCABC (2/1 @ アイドル) に対応しました。",
+      "message": "ABCABC (2/1 @ アイドル) に対応しました。",
       "message_en": "ABCABC (2/1 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "/",
-      "message":    "ABCABC (2/1 @ バンド) に対応しました。",
+      "message": "ABCABC (2/1 @ バンド) に対応しました。",
       "message_en": "ABCABC (2/1 BAND) is supported."
     },
     {}
@@ -37,140 +37,151 @@
   "notificationList": [
     {
       "icon": "mdi-alarm-plus",
+      "liveId": [
+        610,
+        611,
+        612
+      ],
+      "date": "7/4",
+      "message": "関ケ原唄姫合戦 (7/18-20 @岐阜 アイドル) に対応しました。",
+      "message_en": "関ケ原唄姫合戦 (7/18-20 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
       "date": "6/23",
-      "message":    "HERO SONIC (6/27-28 @横浜 アイドル) に対応しました。",
+      "message": "HERO SONIC (6/27-28 @横浜 アイドル) に対応しました。",
       "message_en": "HERO SONIC (6/27-28 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/23",
-      "message":    "アイドル甲子園 FESTIVAL (6/27-28 @お台場 アイドル) に対応しました。",
+      "message": "アイドル甲子園 FESTIVAL (6/27-28 @お台場 アイドル) に対応しました。",
       "message_en": "アイドル甲子園 FESTIVAL (6/27-28 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/17",
-      "message":    "∞Beats-エイトビーツ- (6/19-21 @大阪 アイドル) に対応しました。",
+      "message": "∞Beats-エイトビーツ- (6/19-21 @大阪 アイドル) に対応しました。",
       "message_en": "∞Beats-エイトビーツ- (6/19-21 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/17",
-      "message":    "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
+      "message": "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
       "message_en": "超NATSUZOME (7/4-5 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/14",
-      "message":    "Tokyo GIRLS GIRLS (6/16 @新宿 アイドル) に対応しました。",
+      "message": "Tokyo GIRLS GIRLS (6/16 @新宿 アイドル) に対応しました。",
       "message_en": "Tokyo GIRLS GIRLS (6/16 IDLE) is supported."
     },
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "6/13",
-      "message":   "機能改善を行いました(ver1.16.4)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message": "機能改善を行いました(ver1.16.4)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "Features improved (ver1.16.4). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/6",
-      "message":    "#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』 (6/10 @渋谷 アイドル) に対応しました。",
+      "message": "#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』 (6/10 @渋谷 アイドル) に対応しました。",
       "message_en": "#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』 (6/10 IDLE) is supported."
     },
     {
       "icon": "mdi-cellphone-arrow-down",
       "date": "6/4",
-      "message":   "機能改善を行いました(ver1.16.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
+      "message": "機能改善を行いました(ver1.16.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "Features improved (ver1.16.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "6/2",
-      "message":    "mistFES (6/13-14 @名古屋 アイドル) に対応しました。",
+      "message": "mistFES (6/13-14 @名古屋 アイドル) に対応しました。",
       "message_en": "mistFES (6/13-14 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "5/24",
-      "message":    "踊祭！circuit！ (5/31 @五反田 アイドル) に対応しました。",
+      "message": "踊祭！circuit！ (5/31 @五反田 アイドル) に対応しました。",
       "message_en": "踊祭！circuit！ (5/31 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "5/20",
-      "message":    "さとりモンスター 春のわくわく大サーキット (5/24 @下北沢 アイドル) に対応しました。",
+      "message": "さとりモンスター 春のわくわく大サーキット (5/24 @下北沢 アイドル) に対応しました。",
       "message_en": "さとりモンスター 春のわくわく大サーキット (5/24 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "5/19",
-      "message":    "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 @神奈川 アイドル) に対応しました。",
+      "message": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 @神奈川 アイドル) に対応しました。",
       "message_en": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "5/8",
-      "message":    "COMING KOBE (5/10 @神戸) に対応しました。",
+      "message": "COMING KOBE (5/10 @神戸) に対応しました。",
       "message_en": "COMING KOBE (5/10 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/30",
-      "message":    "MAWA LOOP OSAKA (5/9-10 @大阪 アイドル) に対応しました。",
+      "message": "MAWA LOOP OSAKA (5/9-10 @大阪 アイドル) に対応しました。",
       "message_en": "MAWA LOOP OSAKA (5/9-10 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/29",
-      "message":    "WAR DECLARATION (5/9-10 @豊橋 アイドル等) に対応しました。",
+      "message": "WAR DECLARATION (5/9-10 @豊橋 アイドル等) に対応しました。",
       "message_en": "WAR DECLARATION (5/9-10 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/29",
-      "message":    "歌舞伎町UP GATE↑↑ (5/4-5 @新宿 アイドル) に対応しました。",
+      "message": "歌舞伎町UP GATE↑↑ (5/4-5 @新宿 アイドル) に対応しました。",
       "message_en": "歌舞伎町UP GATE↑↑ (5/4-5 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/27",
-      "message":    "FUJIN circuit!! (5/8 @池袋 アイドル) に対応しました。",
+      "message": "FUJIN circuit!! (5/8 @池袋 アイドル) に対応しました。",
       "message_en": "FUJIN circuit!! (5/8 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/26",
-      "message":    "IDOL SUMMER JUNGLE (5/2-3 @台場 アイドル) に対応しました。",
+      "message": "IDOL SUMMER JUNGLE (5/2-3 @台場 アイドル) に対応しました。",
       "message_en": "IDOL SUMMER JUNGLE (5/2-3 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/19",
-      "message":    "大阪造船所アイドルフェス (4/25-26) に対応しました。",
+      "message": "大阪造船所アイドルフェス (4/25-26) に対応しました。",
       "message_en": "大阪造船所アイドルフェス (4/25-26 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/19",
-      "message":    "ARABAKI ROCK FEST (4/25-26 @宮城) に対応しました。",
+      "message": "ARABAKI ROCK FEST (4/25-26 @宮城) に対応しました。",
       "message_en": "ARABAKI ROCK FEST (4/25-26 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/18",
-      "message":    "JAPAN CENTRAL IDOL FESTIVAL (5/2-4 @愛知 アイドル) に対応しました。",
+      "message": "JAPAN CENTRAL IDOL FESTIVAL (5/2-4 @愛知 アイドル) に対応しました。",
       "message_en": "JAPAN CENTRAL IDOL FESTIVAL (5/2-4 ) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/6",
-      "message":    "TOKYO GIRLS GIRLS (4/6-7 @新宿 アイドル) に対応しました。",
+      "message": "TOKYO GIRLS GIRLS (4/6-7 @新宿 アイドル) に対応しました。",
       "message_en": "TOKYO GIRLS GIRLS (4/6-7 ) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
       "date": "4/4",
-      "message":    "かがやきフェスSpring (4/18-19 @金沢 アイドル) に対応しました。",
+      "message": "かがやきフェスSpring (4/18-19 @金沢 アイドル) に対応しました。",
       "message_en": "かがやきフェスSpring (4/18-19 ) is supported."
     }
   ],
