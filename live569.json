@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 569,
-  "jsonVersion": 10,
-  "notificationVersion": "6",
-  "notification": "・7/3版タイテに対応し、縁日を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
+  "jsonVersion": 11,
+  "notificationVersion": "7",
+  "notification": "・7/4版タイテに対応し、縁日を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
   "artList": [
@@ -364,55 +364,55 @@
     },
     {
       "artId": 89,
-      "name": "ミクチャ出演権争奪優勝"
+      "name": "..."
     },
     {
       "artId": 90,
-      "name": "メイン争奪11位"
+      "name": "metarium"
     },
     {
       "artId": 91,
-      "name": "メイン争奪12位"
+      "name": "コングラッチェ！"
     },
     {
       "artId": 92,
-      "name": "メイン争奪13位"
+      "name": "MORE*"
     },
     {
       "artId": 93,
-      "name": "メイン争奪14位"
+      "name": "月とソーダ"
     },
     {
       "artId": 94,
-      "name": "メイン争奪1位"
+      "name": "SAI²Rium"
     },
     {
       "artId": 95,
-      "name": "メイン争奪2位"
+      "name": "MEOWMEW"
     },
     {
       "artId": 96,
-      "name": "メイン争奪3位"
+      "name": "Cherie!"
     },
     {
       "artId": 97,
-      "name": "メイン争奪4位"
+      "name": "ポラリスマイル"
     },
     {
       "artId": 98,
-      "name": "メイン争奪5位"
+      "name": "宵越しのアンサンブル"
     },
     {
       "artId": 99,
-      "name": "メイン争奪6位"
+      "name": "AND CaaaLL"
     },
     {
       "artId": 100,
-      "name": "メイン争奪7位"
+      "name": "マリークラウン"
     },
     {
       "artId": 101,
-      "name": "メイン争奪8位"
+      "name": "MiX BeRRY"
     },
     {
       "artId": 102,
@@ -444,7 +444,7 @@
     },
     {
       "artId": 109,
-      "name": "愛乙女☆DOLL"
+      "name": "."
     },
     {
       "artId": 110,
@@ -500,7 +500,7 @@
     },
     {
       "artId": 123,
-      "name": "メイン争奪10位"
+      "name": "きゅ～くる"
     },
     {
       "artId": 124,
@@ -544,11 +544,11 @@
     },
     {
       "artId": 134,
-      "name": "a"
+      "name": ".."
     },
     {
       "artId": 135,
-      "name": "メイン争奪9位"
+      "name": "ROOKEY♡ROOKEYS"
     },
     {
       "artId": 136,
@@ -556,7 +556,7 @@
     },
     {
       "artId": 137,
-      "name": "ミクチャ出演権争奪特別賞"
+      "name": "...."
     },
     {
       "artId": 138,
@@ -829,105 +829,105 @@
       "stageId": 27,
       "stageName": "縁日01",
       "stageNameShort": "縁日01",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 27
     },
     {
       "stageId": 28,
       "stageName": "縁日02",
       "stageNameShort": "縁日02",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 28
     },
     {
       "stageId": 29,
       "stageName": "縁日03",
       "stageNameShort": "縁日03",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 29
     },
     {
       "stageId": 30,
       "stageName": "縁日04",
       "stageNameShort": "縁日04",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 30
     },
     {
       "stageId": 31,
       "stageName": "縁日05",
       "stageNameShort": "縁日05",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 31
     },
     {
       "stageId": 32,
       "stageName": "縁日06",
       "stageNameShort": "縁日06",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 32
     },
     {
       "stageId": 33,
       "stageName": "縁日07",
       "stageNameShort": "縁日07",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 33
     },
     {
       "stageId": 34,
       "stageName": "縁日08",
       "stageNameShort": "縁日08",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 34
     },
     {
       "stageId": 35,
       "stageName": "縁日09",
       "stageNameShort": "縁日09",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 35
     },
     {
       "stageId": 36,
       "stageName": "縁日10",
       "stageNameShort": "縁日10",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 36
     },
     {
       "stageId": 37,
       "stageName": "縁日11",
       "stageNameShort": "縁日11",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 37
     },
     {
       "stageId": 38,
       "stageName": "縁日12",
       "stageNameShort": "縁日12",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 38
     },
     {
       "stageId": 39,
       "stageName": "縁日13",
       "stageNameShort": "縁日13",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 39
     },
     {
       "stageId": 40,
       "stageName": "縁日14",
       "stageNameShort": "縁日14",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 40
     },
     {
       "stageId": 41,
       "stageName": "縁日15",
       "stageNameShort": "縁日15",
-      "colorName": "stage-grey",
+      "colorName": "stage-blueGrey",
       "stageOrder": 41
     }
   ],
@@ -4036,8 +4036,8 @@
     {
       "turnId": 443,
       "startTime": "10:55",
-      "min": 60,
-      "artId": 28,
+      "min": 1,
+      "artId": 109,
       "stageId": 37
     },
     {
