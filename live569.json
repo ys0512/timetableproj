@@ -364,7 +364,7 @@
     },
     {
       "artId": 89,
-      "name": "..."
+      "name": ""
     },
     {
       "artId": 90,
@@ -444,7 +444,7 @@
     },
     {
       "artId": 109,
-      "name": "."
+      "name": ""
     },
     {
       "artId": 110,
@@ -544,7 +544,7 @@
     },
     {
       "artId": 134,
-      "name": ".."
+      "name": ""
     },
     {
       "artId": 135,
@@ -556,7 +556,7 @@
     },
     {
       "artId": 137,
-      "name": "...."
+      "name": ""
     },
     {
       "artId": 138,
@@ -791,18 +791,25 @@
       "stageOrder": 21
     },
     {
-      "stageId": 24,
-      "stageName": "特典会Q",
-      "stageNameShort": "特典会Q",
-      "colorName": "stage-grey",
-      "stageOrder": 22
-    },
-    {
       "stageId": 22,
       "stageName": "特典会R",
       "stageNameShort": "特典会R",
       "colorName": "stage-grey",
       "stageOrder": 23
+    },
+    {
+      "stageId": 23,
+      "stageName": "特典会U",
+      "stageNameShort": "特典会U",
+      "colorName": "stage-grey",
+      "stageOrder": 26
+    },
+    {
+      "stageId": 24,
+      "stageName": "特典会Q",
+      "stageNameShort": "特典会Q",
+      "colorName": "stage-grey",
+      "stageOrder": 22
     },
     {
       "stageId": 25,
@@ -817,13 +824,6 @@
       "stageNameShort": "特典会T",
       "colorName": "stage-grey",
       "stageOrder": 25
-    },
-    {
-      "stageId": 23,
-      "stageName": "特典会U",
-      "stageNameShort": "特典会U",
-      "colorName": "stage-grey",
-      "stageOrder": 26
     },
     {
       "stageId": 27,
