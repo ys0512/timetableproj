@@ -141,7 +141,7 @@
     }
   ],
   "adBanner": {
-    "publish": true,
+    "publish": false,
     "list": [
       {
         "id": "ad001",
