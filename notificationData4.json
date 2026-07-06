@@ -156,7 +156,7 @@
       {
         "id": "ad002",
         "sponsorName": "サンプル企業（管理用）",
-        "enabled": true,
+        "enabled": false,
         "imageUrlJa": "ad/sampleCompany/fes_test_2026/banner_ja_v1.svg",
         "imageUrlEn": "ad/sampleCompany/fes_test_2026/banner_en_v1.svg",
         "linkUrl": "https://sekigahara-idolwars.net/about",
