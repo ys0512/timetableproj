@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        616,
+        617
+      ],
+      "date": "7/8",
+      "message": "SPARK2026 渋谷納涼祭 (7/11-12 @渋谷 アイドル) に対応しました。",
+      "message_en": "SPARK2026 渋谷納涼祭 (7/11-12 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         614
       ],
       "date": "7/7",
