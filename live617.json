@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 5,
+  "jsonVersion": 6,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "9",
@@ -1169,6 +1169,10 @@
     {
       "artId": 290,
       "name": "文翠麗"
+    },
+    {
+      "artId": 291,
+      "name": "LOVE C!DER"
     }
   ],
   "stageList": [
@@ -3194,7 +3198,7 @@
       "turnId": 276,
       "startTime": "19:00",
       "min": 20,
-      "artId": 58,
+      "artId": 291,
       "stageId": 10
     },
     {
