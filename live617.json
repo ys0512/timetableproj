@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "9",
@@ -800,7 +800,7 @@
     },
     {
       "artId": 198,
-      "name": "スターチスノラブレター"
+      "name": ""
     },
     {
       "artId": 199,
@@ -1116,7 +1116,7 @@
     },
     {
       "artId": 277,
-      "name": "豆柴の大群"
+      "name": ""
     },
     {
       "artId": 278,
@@ -1125,6 +1125,10 @@
     {
       "artId": 279,
       "name": "遥か、彼方。"
+    },
+    {
+      "artId": 280,
+      "name": "愛乙女★DOLL"
     }
   ],
   "stageList": [
@@ -1316,7 +1320,7 @@
       "turnId": 14,
       "startTime": "14:40",
       "min": 20,
-      "artId": 277,
+      "artId": 280,
       "stageId": 0
     },
     {
