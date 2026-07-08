@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 7,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 8,
+  "notificationVersion": "2",
+  "notification": "特典会タイテを追加しました",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
