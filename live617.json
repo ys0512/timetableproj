@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "9",
@@ -1164,7 +1164,11 @@
     },
     {
       "artId": 289,
-      "name": "文翠嶺"
+      "name": ""
+    },
+    {
+      "artId": 290,
+      "name": "文翠麗"
     }
   ],
   "stageList": [
@@ -3351,7 +3355,7 @@
       "turnId": 299,
       "startTime": "17:45",
       "min": 20,
-      "artId": 289,
+      "artId": 290,
       "stageId": 11
     },
     {
