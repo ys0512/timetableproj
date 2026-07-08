@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        618,
+        619
+      ],
+      "date": "7/9",
+      "message": "六本木アイドルフェスティバル2026 (7/25-26 @有明 アイドル) に対応しました。",
+      "message_en": "六本木アイドルフェスティバル2026 (7/25-26 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         616,
         617
       ],

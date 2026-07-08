@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 618,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "10",
@@ -271,6 +271,90 @@
       "stageNameShort": "PRIME",
       "colorName": "stage-red",
       "stageOrder": 3
+    },
+    {
+      "stageId": 4,
+      "stageName": "特典会A",
+      "stageNameShort": "特典会A",
+      "colorName": "stage-grey",
+      "stageOrder": 4
+    },
+    {
+      "stageId": 5,
+      "stageName": "特典会B",
+      "stageNameShort": "特典会B",
+      "colorName": "stage-grey",
+      "stageOrder": 5
+    },
+    {
+      "stageId": 6,
+      "stageName": "特典会C",
+      "stageNameShort": "特典会C",
+      "colorName": "stage-grey",
+      "stageOrder": 6
+    },
+    {
+      "stageId": 7,
+      "stageName": "特典会D",
+      "stageNameShort": "特典会D",
+      "colorName": "stage-grey",
+      "stageOrder": 7
+    },
+    {
+      "stageId": 8,
+      "stageName": "特典会E",
+      "stageNameShort": "特典会E",
+      "colorName": "stage-grey",
+      "stageOrder": 8
+    },
+    {
+      "stageId": 9,
+      "stageName": "特典会F",
+      "stageNameShort": "特典会F",
+      "colorName": "stage-grey",
+      "stageOrder": 9
+    },
+    {
+      "stageId": 10,
+      "stageName": "特典会G",
+      "stageNameShort": "特典会G",
+      "colorName": "stage-grey",
+      "stageOrder": 10
+    },
+    {
+      "stageId": 11,
+      "stageName": "特典会H",
+      "stageNameShort": "特典会H",
+      "colorName": "stage-grey",
+      "stageOrder": 11
+    },
+    {
+      "stageId": 12,
+      "stageName": "特典会I",
+      "stageNameShort": "特典会I",
+      "colorName": "stage-grey",
+      "stageOrder": 12
+    },
+    {
+      "stageId": 13,
+      "stageName": "特典会J",
+      "stageNameShort": "特典会J",
+      "colorName": "stage-grey",
+      "stageOrder": 13
+    },
+    {
+      "stageId": 14,
+      "stageName": "特典会K",
+      "stageNameShort": "特典会K",
+      "colorName": "stage-grey",
+      "stageOrder": 14
+    },
+    {
+      "stageId": 15,
+      "stageName": "特典会L",
+      "stageNameShort": "特典会L",
+      "colorName": "stage-grey",
+      "stageOrder": 15
     }
   ],
   "turnList": [
@@ -870,6 +954,372 @@
       "min": 25,
       "artId": 33,
       "stageId": 3
+    },
+    {
+      "turnId": 85,
+      "startTime": "16:10",
+      "min": 60,
+      "artId": 11,
+      "stageId": 5,
+      "title": "LinQ OG"
+    },
+    {
+      "turnId": 86,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 57,
+      "stageId": 6,
+      "title": "高嶺のなでしこ（物販のみ）"
+    },
+    {
+      "turnId": 87,
+      "startTime": "11:30",
+      "min": 60,
+      "artId": 10,
+      "stageId": 4
+    },
+    {
+      "turnId": 88,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 1,
+      "stageId": 4
+    },
+    {
+      "turnId": 89,
+      "startTime": "16:10",
+      "min": 60,
+      "artId": 11,
+      "stageId": 4
+    },
+    {
+      "turnId": 90,
+      "startTime": "17:30",
+      "min": 60,
+      "artId": 33,
+      "stageId": 4
+    },
+    {
+      "turnId": 91,
+      "startTime": "12:50",
+      "min": 60,
+      "artId": 24,
+      "stageId": 5
+    },
+    {
+      "turnId": 92,
+      "startTime": "14:50",
+      "min": 60,
+      "artId": 25,
+      "stageId": 5
+    },
+    {
+      "turnId": 93,
+      "startTime": "18:10",
+      "min": 60,
+      "artId": 17,
+      "stageId": 5
+    },
+    {
+      "turnId": 94,
+      "startTime": "13:30",
+      "min": 60,
+      "artId": 26,
+      "stageId": 6
+    },
+    {
+      "turnId": 95,
+      "startTime": "16:50",
+      "min": 60,
+      "artId": 55,
+      "stageId": 6
+    },
+    {
+      "turnId": 96,
+      "startTime": "12:00",
+      "min": 60,
+      "artId": 42,
+      "stageId": 7
+    },
+    {
+      "turnId": 97,
+      "startTime": "13:25",
+      "min": 60,
+      "artId": 8,
+      "stageId": 7
+    },
+    {
+      "turnId": 98,
+      "startTime": "14:50",
+      "min": 60,
+      "artId": 37,
+      "stageId": 7
+    },
+    {
+      "turnId": 99,
+      "startTime": "16:30",
+      "min": 60,
+      "artId": 3,
+      "stageId": 7
+    },
+    {
+      "turnId": 100,
+      "startTime": "18:25",
+      "min": 60,
+      "artId": 27,
+      "stageId": 7
+    },
+    {
+      "turnId": 101,
+      "startTime": "12:20",
+      "min": 60,
+      "artId": 43,
+      "stageId": 8
+    },
+    {
+      "turnId": 102,
+      "startTime": "13:45",
+      "min": 60,
+      "artId": 4,
+      "stageId": 8
+    },
+    {
+      "turnId": 103,
+      "startTime": "15:15",
+      "min": 60,
+      "artId": 47,
+      "stageId": 8
+    },
+    {
+      "turnId": 104,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 0,
+      "stageId": 8
+    },
+    {
+      "turnId": 105,
+      "startTime": "18:45",
+      "min": 60,
+      "artId": 28,
+      "stageId": 8
+    },
+    {
+      "turnId": 106,
+      "startTime": "13:05",
+      "min": 60,
+      "artId": 54,
+      "stageId": 9
+    },
+    {
+      "turnId": 107,
+      "startTime": "14:25",
+      "min": 60,
+      "artId": 14,
+      "stageId": 9
+    },
+    {
+      "turnId": 108,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 40,
+      "stageId": 9
+    },
+    {
+      "turnId": 109,
+      "startTime": "18:05",
+      "min": 60,
+      "artId": 35,
+      "stageId": 9
+    },
+    {
+      "turnId": 110,
+      "startTime": "11:50",
+      "min": 60,
+      "artId": 22,
+      "stageId": 10
+    },
+    {
+      "turnId": 111,
+      "startTime": "13:00",
+      "min": 60,
+      "artId": 50,
+      "stageId": 10
+    },
+    {
+      "turnId": 112,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 12,
+      "stageId": 10
+    },
+    {
+      "turnId": 113,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 2,
+      "stageId": 10
+    },
+    {
+      "turnId": 114,
+      "startTime": "16:35",
+      "min": 60,
+      "artId": 51,
+      "stageId": 10
+    },
+    {
+      "turnId": 115,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 44,
+      "stageId": 10
+    },
+    {
+      "turnId": 116,
+      "startTime": "12:10",
+      "min": 60,
+      "artId": 6,
+      "stageId": 11
+    },
+    {
+      "turnId": 117,
+      "startTime": "13:20",
+      "min": 60,
+      "artId": 30,
+      "stageId": 11
+    },
+    {
+      "turnId": 118,
+      "startTime": "14:30",
+      "min": 60,
+      "artId": 52,
+      "stageId": 11
+    },
+    {
+      "turnId": 119,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 31,
+      "stageId": 11
+    },
+    {
+      "turnId": 120,
+      "startTime": "16:55",
+      "min": 60,
+      "artId": 36,
+      "stageId": 11
+    },
+    {
+      "turnId": 121,
+      "startTime": "18:50",
+      "min": 60,
+      "artId": 23,
+      "stageId": 11
+    },
+    {
+      "turnId": 122,
+      "startTime": "12:30",
+      "min": 60,
+      "artId": 16,
+      "stageId": 12
+    },
+    {
+      "turnId": 123,
+      "startTime": "13:40",
+      "min": 60,
+      "artId": 48,
+      "stageId": 12
+    },
+    {
+      "turnId": 124,
+      "startTime": "14:50",
+      "min": 60,
+      "artId": 46,
+      "stageId": 12
+    },
+    {
+      "turnId": 125,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 29,
+      "stageId": 12
+    },
+    {
+      "turnId": 126,
+      "startTime": "17:20",
+      "min": 60,
+      "artId": 56,
+      "stageId": 12
+    },
+    {
+      "turnId": 127,
+      "startTime": "12:05",
+      "min": 60,
+      "artId": 9,
+      "stageId": 13
+    },
+    {
+      "turnId": 128,
+      "startTime": "13:50",
+      "min": 60,
+      "artId": 45,
+      "stageId": 13
+    },
+    {
+      "turnId": 129,
+      "startTime": "15:30",
+      "min": 60,
+      "artId": 7,
+      "stageId": 13
+    },
+    {
+      "turnId": 130,
+      "startTime": "16:45",
+      "min": 60,
+      "artId": 20,
+      "stageId": 13
+    },
+    {
+      "turnId": 131,
+      "startTime": "12:30",
+      "min": 60,
+      "artId": 13,
+      "stageId": 14
+    },
+    {
+      "turnId": 132,
+      "startTime": "14:40",
+      "min": 60,
+      "artId": 18,
+      "stageId": 14
+    },
+    {
+      "turnId": 133,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 41,
+      "stageId": 14
+    },
+    {
+      "turnId": 134,
+      "startTime": "13:25",
+      "min": 60,
+      "artId": 19,
+      "stageId": 15
+    },
+    {
+      "turnId": 135,
+      "startTime": "15:05",
+      "min": 60,
+      "artId": 21,
+      "stageId": 15
+    },
+    {
+      "turnId": 136,
+      "startTime": "16:25",
+      "min": 60,
+      "artId": 5,
+      "stageId": 15
     }
   ]
 }
