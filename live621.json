@@ -1,10 +1,10 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
-  "openTime": "09:45",
-  "closeTime": "21:00",
+  "openTime": "9",
+  "closeTime": "23",
   "artList": [
     {
       "artId": 0,
