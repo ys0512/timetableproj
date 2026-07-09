@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 616,
-  "jsonVersion": 4,
-  "notificationVersion": "2",
-  "notification": "特典会タイテを追加しました",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "特典会タイテを追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
@@ -1005,6 +1005,14 @@
     {
       "artId": 249,
       "name": ""
+    },
+    {
+      "artId": 250,
+      "name": "LumiDay"
+    },
+    {
+      "artId": 251,
+      "name": "OTOMICHI"
     }
   ],
   "stageList": [
@@ -1083,315 +1091,343 @@
       "stageName": "特典会A",
       "stageNameShort": "特典会A",
       "colorName": "stage-grey",
-      "stageOrder": 10
+      "stageOrder": 11
     },
     {
       "stageId": 11,
       "stageName": "特典会B",
       "stageNameShort": "特典会B",
       "colorName": "stage-grey",
-      "stageOrder": 11
+      "stageOrder": 12
     },
     {
       "stageId": 12,
       "stageName": "特典会C",
       "stageNameShort": "特典会C",
       "colorName": "stage-grey",
-      "stageOrder": 12
+      "stageOrder": 13
     },
     {
       "stageId": 13,
       "stageName": "特典会D",
       "stageNameShort": "特典会D",
       "colorName": "stage-grey",
-      "stageOrder": 13
+      "stageOrder": 14
     },
     {
       "stageId": 14,
       "stageName": "特典会E",
       "stageNameShort": "特典会E",
       "colorName": "stage-grey",
-      "stageOrder": 14
+      "stageOrder": 15
     },
     {
       "stageId": 15,
       "stageName": "特典会F",
       "stageNameShort": "特典会F",
       "colorName": "stage-grey",
-      "stageOrder": 15
+      "stageOrder": 16
     },
     {
       "stageId": 16,
       "stageName": "特典会G",
       "stageNameShort": "特典会G",
       "colorName": "stage-grey",
-      "stageOrder": 16
+      "stageOrder": 17
     },
     {
       "stageId": 17,
       "stageName": "特典会H",
       "stageNameShort": "特典会H",
       "colorName": "stage-grey",
-      "stageOrder": 17
+      "stageOrder": 18
     },
     {
       "stageId": 18,
       "stageName": "特典会I",
       "stageNameShort": "特典会I",
       "colorName": "stage-grey",
-      "stageOrder": 18
+      "stageOrder": 19
     },
     {
       "stageId": 19,
       "stageName": "特典会J",
       "stageNameShort": "特典会J",
       "colorName": "stage-grey",
-      "stageOrder": 19
+      "stageOrder": 20
     },
     {
       "stageId": 20,
       "stageName": "特典会K",
       "stageNameShort": "特典会K",
       "colorName": "stage-grey",
-      "stageOrder": 20
+      "stageOrder": 21
     },
     {
       "stageId": 21,
       "stageName": "特典会L",
       "stageNameShort": "特典会L",
       "colorName": "stage-grey",
-      "stageOrder": 21
+      "stageOrder": 22
     },
     {
       "stageId": 22,
       "stageName": "特典会M",
       "stageNameShort": "特典会M",
       "colorName": "stage-grey",
-      "stageOrder": 22
+      "stageOrder": 23
     },
     {
       "stageId": 23,
       "stageName": "特典会N",
       "stageNameShort": "特典会N",
       "colorName": "stage-grey",
-      "stageOrder": 23
+      "stageOrder": 24
     },
     {
       "stageId": 24,
       "stageName": "特典会O",
       "stageNameShort": "特典会O",
       "colorName": "stage-grey",
-      "stageOrder": 24
+      "stageOrder": 25
     },
     {
       "stageId": 25,
       "stageName": "特典会P",
       "stageNameShort": "特典会P",
       "colorName": "stage-grey",
-      "stageOrder": 25
+      "stageOrder": 26
     },
     {
       "stageId": 26,
       "stageName": "特典会Q",
       "stageNameShort": "特典会Q",
       "colorName": "stage-grey",
-      "stageOrder": 26
+      "stageOrder": 27
     },
     {
       "stageId": 27,
       "stageName": "特典会R",
       "stageNameShort": "特典会R",
       "colorName": "stage-grey",
-      "stageOrder": 27
+      "stageOrder": 28
     },
     {
       "stageId": 28,
       "stageName": "特典会S",
       "stageNameShort": "特典会S",
       "colorName": "stage-grey",
-      "stageOrder": 28
+      "stageOrder": 29
     },
     {
       "stageId": 29,
       "stageName": "特典会T",
       "stageNameShort": "特典会T",
       "colorName": "stage-grey",
-      "stageOrder": 29
+      "stageOrder": 30
     },
     {
       "stageId": 30,
       "stageName": "特典会U",
       "stageNameShort": "特典会U",
       "colorName": "stage-grey",
-      "stageOrder": 30
+      "stageOrder": 31
     },
     {
       "stageId": 31,
       "stageName": "特典会V",
       "stageNameShort": "特典会V",
       "colorName": "stage-grey",
-      "stageOrder": 31
+      "stageOrder": 32
     },
     {
       "stageId": 32,
       "stageName": "特典会W",
       "stageNameShort": "特典会W",
       "colorName": "stage-grey",
-      "stageOrder": 32
+      "stageOrder": 33
     },
     {
       "stageId": 33,
       "stageName": "特典会X",
       "stageNameShort": "特典会X",
       "colorName": "stage-grey",
-      "stageOrder": 33
+      "stageOrder": 34
     },
     {
       "stageId": 34,
       "stageName": "特典会Y",
       "stageNameShort": "特典会Y",
       "colorName": "stage-grey",
-      "stageOrder": 34
+      "stageOrder": 35
     },
     {
       "stageId": 35,
       "stageName": "特典会Z",
       "stageNameShort": "特典会Z",
       "colorName": "stage-grey",
-      "stageOrder": 35
+      "stageOrder": 36
     },
     {
       "stageId": 36,
       "stageName": "特典会A'",
       "stageNameShort": "特典会A'",
       "colorName": "stage-grey",
-      "stageOrder": 36
+      "stageOrder": 37
     },
     {
       "stageId": 37,
       "stageName": "特典会B'",
       "stageNameShort": "特典会B'",
       "colorName": "stage-grey",
-      "stageOrder": 37
+      "stageOrder": 38
     },
     {
       "stageId": 38,
       "stageName": "特典会C'",
       "stageNameShort": "特典会C'",
       "colorName": "stage-grey",
-      "stageOrder": 38
+      "stageOrder": 39
     },
     {
       "stageId": 39,
       "stageName": "特典会D'",
       "stageNameShort": "特典会D'",
       "colorName": "stage-grey",
-      "stageOrder": 39
+      "stageOrder": 40
     },
     {
       "stageId": 40,
       "stageName": "特典会E'",
       "stageNameShort": "特典会E'",
       "colorName": "stage-grey",
-      "stageOrder": 40
+      "stageOrder": 41
     },
     {
       "stageId": 41,
       "stageName": "特典会F'",
       "stageNameShort": "特典会F'",
       "colorName": "stage-grey",
-      "stageOrder": 41
+      "stageOrder": 42
     },
     {
       "stageId": 42,
       "stageName": "特典会G'",
       "stageNameShort": "特典会G'",
       "colorName": "stage-grey",
-      "stageOrder": 42
+      "stageOrder": 43
     },
     {
       "stageId": 43,
       "stageName": "特典会H'",
       "stageNameShort": "特典会H'",
       "colorName": "stage-grey",
-      "stageOrder": 43
+      "stageOrder": 44
     },
     {
       "stageId": 44,
       "stageName": "特典会I'",
       "stageNameShort": "特典会I'",
       "colorName": "stage-grey",
-      "stageOrder": 44
+      "stageOrder": 45
     },
     {
       "stageId": 45,
       "stageName": "終演後ベルサールメイン",
       "stageNameShort": "終演後ベルサールメイン",
       "colorName": "stage-grey",
-      "stageOrder": 45
+      "stageOrder": 46
     },
     {
       "stageId": 46,
       "stageName": "終演後ベルサールサブ",
       "stageNameShort": "終演後ベルサールサブ",
       "colorName": "stage-grey",
-      "stageOrder": 46
+      "stageOrder": 47
     },
     {
       "stageId": 47,
       "stageName": "終演後O-nest",
       "stageNameShort": "終演後O-nest",
       "colorName": "stage-grey",
-      "stageOrder": 47
+      "stageOrder": 48
     },
     {
       "stageId": 48,
       "stageName": "終演後DESEO",
       "stageNameShort": "終演後DESEO",
       "colorName": "stage-grey",
-      "stageOrder": 48
+      "stageOrder": 49
     },
     {
       "stageId": 49,
       "stageName": "終演後THE GAME",
       "stageNameShort": "終演後THE GAME",
       "colorName": "stage-grey",
-      "stageOrder": 49
+      "stageOrder": 50
     },
     {
       "stageId": 50,
       "stageName": "終演後チェルシーホテル",
       "stageNameShort": "終演後チェルシーホテル",
       "colorName": "stage-grey",
-      "stageOrder": 50
+      "stageOrder": 51
     },
     {
       "stageId": 51,
       "stageName": "終演後Star Lounge",
       "stageNameShort": "終演後Star Lounge",
       "colorName": "stage-grey",
-      "stageOrder": 51
+      "stageOrder": 52
     },
     {
       "stageId": 52,
       "stageName": "終演後Studio Freedom",
       "stageNameShort": "終演後Studio Freedom",
       "colorName": "stage-grey",
-      "stageOrder": 52
+      "stageOrder": 53
     },
     {
       "stageId": 53,
       "stageName": "終演後LIVE STAGE GUILTY",
       "stageNameShort": "終演後LIVE STAGE GUILTY",
       "colorName": "stage-grey",
-      "stageOrder": 53
+      "stageOrder": 54
     },
     {
       "stageId": 54,
       "stageName": "終演後FOWS",
       "stageNameShort": "終演後FOWS",
       "colorName": "stage-grey",
-      "stageOrder": 54
+      "stageOrder": 55
+    },
+    {
+      "stageId": 55,
+      "stageName": "miimステージ",
+      "stageNameShort": "miimステージ",
+      "colorName": "stage-blue2",
+      "stageOrder": 10
+    },
+    {
+      "stageId": 56,
+      "stageName": "特典会miim1",
+      "stageNameShort": "特典会miim",
+      "colorName": "stage-grey",
+      "stageOrder": 56
+    },
+    {
+      "stageId": 57,
+      "stageName": "特典会miim2",
+      "stageNameShort": "特典会miim2",
+      "colorName": "stage-grey",
+      "stageOrder": 57
+    },
+    {
+      "stageId": 58,
+      "stageName": "特典会miim3",
+      "stageNameShort": "特典会miim3",
+      "colorName": "stage-grey",
+      "stageOrder": 58
     }
   ],
   "turnList": [
@@ -4790,6 +4826,202 @@
       "min": 60,
       "artId": 59,
       "stageId": 44
+    },
+    {
+      "turnId": 478,
+      "startTime": "11:00",
+      "min": 25,
+      "artId": 218,
+      "stageId": 55
+    },
+    {
+      "turnId": 479,
+      "startTime": "11:30",
+      "min": 25,
+      "artId": 250,
+      "stageId": 55
+    },
+    {
+      "turnId": 480,
+      "startTime": "12:00",
+      "min": 25,
+      "artId": 228,
+      "stageId": 55
+    },
+    {
+      "turnId": 481,
+      "startTime": "12:30",
+      "min": 25,
+      "artId": 164,
+      "stageId": 55
+    },
+    {
+      "turnId": 482,
+      "startTime": "13:00",
+      "min": 25,
+      "artId": 172,
+      "stageId": 55
+    },
+    {
+      "turnId": 483,
+      "startTime": "13:30",
+      "min": 25,
+      "artId": 135,
+      "stageId": 55
+    },
+    {
+      "turnId": 484,
+      "startTime": "14:00",
+      "min": 25,
+      "artId": 150,
+      "stageId": 55
+    },
+    {
+      "turnId": 485,
+      "startTime": "14:30",
+      "min": 25,
+      "artId": 251,
+      "stageId": 55
+    },
+    {
+      "turnId": 486,
+      "startTime": "15:00",
+      "min": 25,
+      "artId": 225,
+      "stageId": 55
+    },
+    {
+      "turnId": 487,
+      "startTime": "15:30",
+      "min": 25,
+      "artId": 184,
+      "stageId": 55
+    },
+    {
+      "turnId": 488,
+      "startTime": "16:00",
+      "min": 25,
+      "artId": 22,
+      "stageId": 55
+    },
+    {
+      "turnId": 489,
+      "startTime": "16:30",
+      "min": 25,
+      "artId": 248,
+      "stageId": 55
+    },
+    {
+      "turnId": 490,
+      "startTime": "17:00",
+      "min": 25,
+      "artId": 98,
+      "stageId": 55
+    },
+    {
+      "turnId": 491,
+      "startTime": "17:30",
+      "min": 25,
+      "artId": 102,
+      "stageId": 55
+    },
+    {
+      "turnId": 492,
+      "startTime": "11:40",
+      "min": 90,
+      "artId": 218,
+      "stageId": 56
+    },
+    {
+      "turnId": 493,
+      "startTime": "12:10",
+      "min": 90,
+      "artId": 250,
+      "stageId": 57
+    },
+    {
+      "turnId": 494,
+      "startTime": "12:40",
+      "min": 90,
+      "artId": 228,
+      "stageId": 58
+    },
+    {
+      "turnId": 495,
+      "startTime": "13:10",
+      "min": 90,
+      "artId": 164,
+      "stageId": 56
+    },
+    {
+      "turnId": 496,
+      "startTime": "13:40",
+      "min": 90,
+      "artId": 172,
+      "stageId": 57
+    },
+    {
+      "turnId": 497,
+      "startTime": "14:10",
+      "min": 90,
+      "artId": 135,
+      "stageId": 58
+    },
+    {
+      "turnId": 498,
+      "startTime": "14:40",
+      "min": 90,
+      "artId": 150,
+      "stageId": 56
+    },
+    {
+      "turnId": 499,
+      "startTime": "15:10",
+      "min": 90,
+      "artId": 251,
+      "stageId": 57
+    },
+    {
+      "turnId": 500,
+      "startTime": "15:40",
+      "min": 90,
+      "artId": 225,
+      "stageId": 58
+    },
+    {
+      "turnId": 501,
+      "startTime": "16:10",
+      "min": 90,
+      "artId": 184,
+      "stageId": 56
+    },
+    {
+      "turnId": 502,
+      "startTime": "16:40",
+      "min": 90,
+      "artId": 22,
+      "stageId": 57
+    },
+    {
+      "turnId": 503,
+      "startTime": "17:10",
+      "min": 90,
+      "artId": 248,
+      "stageId": 58
+    },
+    {
+      "turnId": 504,
+      "startTime": "17:40",
+      "min": 90,
+      "artId": 98,
+      "stageId": 56
+    },
+    {
+      "turnId": 505,
+      "startTime": "18:10",
+      "min": 90,
+      "artId": 102,
+      "stageId": 57
     }
   ]
 }
