@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "9",
@@ -567,12 +567,12 @@
       "turnId": 4,
       "startTime": "17:35",
       "min": 25,
-      "artId": 36,
+      "artId": 83,
       "stageId": 2,
       "collabArtList": [
-        36,
+        83,
         47,
-        83
+        36
       ],
       "title": "IDOL SUMMER JAMBOREE DAY１"
     },
@@ -914,7 +914,8 @@
       "startTime": "12:50",
       "min": 20,
       "artId": 92,
-      "stageId": 2
+      "stageId": 2,
+      "title": "灼熱！真夏のアイドルメドレー 〜A-RIN BEYOND THE LIMIT〜"
     },
     {
       "turnId": 50,

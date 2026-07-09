@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        620,
+        621,
+        622
+      ],
+      "date": "7/9",
+      "message": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 @お台場 アイドル) に対応しました。",
+      "message_en": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         618,
         619
       ],
