@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 9,
+  "jsonVersion": 10,
   "notificationVersion": "3",
   "notification": "特典会タイテを追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
@@ -5876,14 +5876,14 @@
     },
     {
       "turnId": 594,
-      "startTime": "15:00",
+      "startTime": "14:00",
       "min": 25,
       "artId": 137,
       "stageId": 62
     },
     {
       "turnId": 595,
-      "startTime": "15:30",
+      "startTime": "15:00",
       "min": 25,
       "artId": 105,
       "stageId": 62
@@ -5893,7 +5893,7 @@
       "startTime": "12:10",
       "min": 90,
       "artId": 199,
-      "stageId": 63
+      "stageId": 65
     },
     {
       "turnId": 597,
@@ -5907,14 +5907,14 @@
       "startTime": "13:10",
       "min": 90,
       "artId": 169,
-      "stageId": 65
+      "stageId": 63
     },
     {
       "turnId": 599,
       "startTime": "13:40",
       "min": 90,
       "artId": 153,
-      "stageId": 63
+      "stageId": 65
     },
     {
       "turnId": 600,
@@ -5932,14 +5932,14 @@
     },
     {
       "turnId": 602,
-      "startTime": "15:40",
+      "startTime": "14:40",
       "min": 90,
       "artId": 137,
       "stageId": 63
     },
     {
       "turnId": 603,
-      "startTime": "16:10",
+      "startTime": "15:40",
       "min": 90,
       "artId": 105,
       "stageId": 64
