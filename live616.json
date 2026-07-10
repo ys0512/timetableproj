@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 616,
-  "jsonVersion": 10,
-  "notificationVersion": "5",
-  "notification": "縁日のデータを追加しました。\n特典会の場所情報を追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
+  "jsonVersion": 11,
+  "notificationVersion": "6",
+  "notification": "終演後特典会の場所が明確に示されていませんが、各グループのライブ会場と同一として表示しています。公式アナウンスも合わせてご確認ください。\n縁日のデータを追加しました。\n特典会の場所情報を追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
