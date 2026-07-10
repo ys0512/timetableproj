@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 616,
-  "jsonVersion": 8,
+  "jsonVersion": 9,
   "notificationVersion": "5",
   "notification": "縁日のデータを追加しました。\n特典会の場所情報を追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
@@ -1431,100 +1431,100 @@
     },
     {
       "stageId": 59,
-      "stageName": "ステージ0",
+      "stageName": "縁日1",
       "stageNameShort": "ステージ0",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 59
     },
     {
       "stageId": 60,
-      "stageName": "ステージ1",
+      "stageName": "縁日2",
       "stageNameShort": "ステージ1",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 60
     },
     {
       "stageId": 61,
-      "stageName": "ステージ2",
+      "stageName": "縁日3",
       "stageNameShort": "ステージ2",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 61
     },
     {
       "stageId": 62,
-      "stageName": "ステージ3",
+      "stageName": "縁日4",
       "stageNameShort": "ステージ3",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 62
     },
     {
       "stageId": 63,
-      "stageName": "ステージ4",
+      "stageName": "縁日5",
       "stageNameShort": "ステージ4",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 63
     },
     {
       "stageId": 64,
-      "stageName": "ステージ5",
+      "stageName": "縁日6",
       "stageNameShort": "ステージ5",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 64
     },
     {
       "stageId": 65,
-      "stageName": "ステージ6",
+      "stageName": "縁日7",
       "stageNameShort": "ステージ6",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 65
     },
     {
       "stageId": 66,
-      "stageName": "ステージ7",
+      "stageName": "縁日8",
       "stageNameShort": "ステージ7",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 66
     },
     {
       "stageId": 67,
-      "stageName": "ステージ8",
+      "stageName": "縁日9",
       "stageNameShort": "ステージ8",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 67
     },
     {
       "stageId": 68,
-      "stageName": "ステージ9",
+      "stageName": "縁日10",
       "stageNameShort": "ステージ9",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 68
     },
     {
       "stageId": 69,
-      "stageName": "ステージ10",
+      "stageName": "縁日11",
       "stageNameShort": "ステージ10",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 69
     },
     {
       "stageId": 70,
-      "stageName": "ステージ11",
+      "stageName": "縁日12",
       "stageNameShort": "ステージ11",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 70
     },
     {
       "stageId": 71,
-      "stageName": "ステージ12",
+      "stageName": "縁日13",
       "stageNameShort": "ステージ12",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 71
     },
     {
       "stageId": 72,
-      "stageName": "ステージ13",
+      "stageName": "縁日14",
       "stageNameShort": "ステージ13",
-      "colorName": "stage-grey",
+      "colorName": "stage-redGrey",
       "stageOrder": 72
     }
   ],
