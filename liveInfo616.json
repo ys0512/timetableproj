@@ -33,7 +33,10 @@
             { "lat": 35.65999540064969, "lng": 139.69593421632058, "label": "Freedom", "stageId": 7 },
             { "lat": 35.656827699599944, "lng": 139.6970184165667, "label": "LIVE STAGE GUILTY", "stageId": 8 },
             { "lat": 35.66155919241954, "lng": 139.6979538752534, "label": "FOWS", "stageId": 9 },
-            { "lat": 35.657583151037166, "lng": 139.70305203242592, "label": "miim", "stageId": 10 }
+            { "lat": 35.657583151037166, "lng": 139.70305203242592, "label": "miim", "stageId": 10 },
+
+            { "lat": 35.658305851682584, "lng": 139.69540447445385, "label": "ATOM", "stageType":"booth" },
+            { "lat": 35.66177528051896, "lng": 139.69807675608132, "label": "VIZEL", "stageType":"booth" }
           ]
         },
         "617": {
@@ -53,7 +56,11 @@
             { "lat": 35.65999540064969, "lng": 139.69593421632058, "label": "Freedom", "stageId": 9 },
             { "lat": 35.66155919241954, "lng": 139.6979538752534, "label": "FOWS", "stageId": 10 },
             { "lat": 35.661119845614245, "lng": 139.69743161673165, "label": "TAKE OFF7", "stageId": 11 },
-            { "lat": 35.657583151037166, "lng": 139.70305203242592, "label": "miim", "stageId": 12 }
+            { "lat": 35.657583151037166, "lng": 139.70305203242592, "label": "miim", "stageId": 12 },
+            
+            { "lat": 35.658305851682584, "lng": 139.69540447445385, "label": "ATOM", "stageType":"booth" },
+            { "lat": 35.66177528051896, "lng": 139.69807675608132, "label": "VIZEL", "stageType":"booth" },
+            { "lat": 35.65830635820375, "lng": 139.69527638311735, "label": "Z MARUYAMA", "stageType":"booth" }
           ]
         }
       }
