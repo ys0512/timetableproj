@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 16,
-  "notificationVersion": "7",
-  "notification": "7/10版のタイムテーブルに更新しました。\n終演後特典会の場所が明確に示されていませんが、各グループのライブ会場と同一として表示しています。公式アナウンスも合わせてご確認ください。\n縁日、特典会、miinステージ（渋谷ストリーム前）を追加しました。",
+  "jsonVersion": 17,
+  "notificationVersion": "8",
+  "notification": "7/10版のタイムテーブルに更新しました。一部グループに出番の重複があるので、公式からの最新情報をあわせてご確認ください。\n終演後特典会の場所が明確に示されていませんが、各グループのライブ会場と同一として表示しています。公式アナウンスも合わせてご確認ください。\n縁日、特典会、miinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
@@ -256,7 +256,7 @@
     },
     {
       "artId": 62,
-      "name": "Lily"
+      "name": ""
     },
     {
       "artId": 63,
@@ -1192,7 +1192,7 @@
     },
     {
       "artId": 296,
-      "name": "Lit★V"
+      "name": "調整"
     }
   ],
   "stageList": [
@@ -4270,17 +4270,17 @@
     },
     {
       "turnId": 350,
-      "startTime": "15:15",
+      "startTime": "16:55",
       "min": 70,
       "artId": 74,
-      "stageId": 17
+      "stageId": 18
     },
     {
       "turnId": 351,
-      "startTime": "16:30",
+      "startTime": "16:05",
       "min": 70,
       "artId": 194,
-      "stageId": 17
+      "stageId": 19
     },
     {
       "turnId": 352,
@@ -4326,17 +4326,17 @@
     },
     {
       "turnId": 358,
-      "startTime": "15:40",
+      "startTime": "15:15",
       "min": 70,
       "artId": 233,
-      "stageId": 18
+      "stageId": 17
     },
     {
       "turnId": 359,
-      "startTime": "16:55",
+      "startTime": "16:30",
       "min": 70,
       "artId": 275,
-      "stageId": 18
+      "stageId": 17
     },
     {
       "turnId": 360,
@@ -4382,10 +4382,10 @@
     },
     {
       "turnId": 366,
-      "startTime": "16:05",
+      "startTime": "15:40",
       "min": 70,
       "artId": 55,
-      "stageId": 19
+      "stageId": 18
     },
     {
       "turnId": 367,
@@ -4851,10 +4851,10 @@
     },
     {
       "turnId": 433,
-      "startTime": "15:35",
-      "min": 60,
-      "artId": 62,
-      "stageId": 27
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 434,
@@ -5642,10 +5642,10 @@
     },
     {
       "turnId": 546,
-      "startTime": "16:45",
+      "startTime": "14:00",
       "min": 60,
       "artId": 65,
-      "stageId": 44
+      "stageId": 45
     },
     {
       "turnId": 547,
@@ -5684,10 +5684,10 @@
     },
     {
       "turnId": 552,
-      "startTime": "14:00",
+      "startTime": "16:45",
       "min": 60,
       "artId": 197,
-      "stageId": 45
+      "stageId": 44
     },
     {
       "turnId": 553,
