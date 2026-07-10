@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 15,
-  "notificationVersion": "6",
-  "notification": "終演後特典会の場所が明確に示されていませんが、各グループのライブ会場と同一として表示しています。公式アナウンスも合わせてご確認ください。\n縁日のデータを追加しました。\n特典会の場所情報を追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
+  "jsonVersion": 16,
+  "notificationVersion": "7",
+  "notification": "7/10版のタイムテーブルに更新しました。\n終演後特典会の場所が明確に示されていませんが、各グループのライブ会場と同一として表示しています。公式アナウンスも合わせてご確認ください。\n縁日、特典会、miinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
@@ -1189,6 +1189,10 @@
     {
       "artId": 295,
       "name": "Cheriecla"
+    },
+    {
+      "artId": 296,
+      "name": "Lit★V"
     }
   ],
   "stageList": [
@@ -2043,35 +2047,35 @@
     },
     {
       "turnId": 41,
-      "startTime": "14:40",
+      "startTime": "16:20",
       "min": 25,
       "artId": 74,
       "stageId": 1
     },
     {
       "turnId": 42,
-      "startTime": "15:05",
+      "startTime": "14:40",
       "min": 25,
       "artId": 233,
       "stageId": 1
     },
     {
       "turnId": 43,
-      "startTime": "15:30",
+      "startTime": "15:05",
       "min": 25,
       "artId": 55,
       "stageId": 1
     },
     {
       "turnId": 44,
-      "startTime": "15:55",
+      "startTime": "15:30",
       "min": 25,
       "artId": 194,
       "stageId": 1
     },
     {
       "turnId": 45,
-      "startTime": "16:20",
+      "startTime": "15:55",
       "min": 25,
       "artId": 275,
       "stageId": 1
@@ -2624,10 +2628,10 @@
     },
     {
       "turnId": 124,
-      "startTime": "15:00",
-      "min": 20,
-      "artId": 62,
-      "stageId": 4
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 125,
@@ -3576,7 +3580,7 @@
     },
     {
       "turnId": 260,
-      "startTime": "13:25",
+      "startTime": "16:10",
       "min": 20,
       "artId": 197,
       "stageId": 10
@@ -3632,7 +3636,7 @@
     },
     {
       "turnId": 268,
-      "startTime": "16:10",
+      "startTime": "13:25",
       "min": 20,
       "artId": 65,
       "stageId": 10
@@ -7014,6 +7018,13 @@
       "min": 50,
       "artId": 65,
       "stageId": 79
+    },
+    {
+      "turnId": 743,
+      "startTime": "15:00",
+      "min": 20,
+      "artId": 296,
+      "stageId": 4
     }
   ]
 }
