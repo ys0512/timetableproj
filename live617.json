@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 617,
-  "jsonVersion": 10,
-  "notificationVersion": "3",
-  "notification": "特典会タイテを追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
+  "jsonVersion": 11,
+  "notificationVersion": "4",
+  "notification": "特典会の場所情報を追加しました。\nmiinステージ（渋谷ストリーム前）を追加しました。",
   "openTime": "9",
   "closeTime": "24",
   "artList": [
@@ -1278,267 +1278,267 @@
     },
     {
       "stageId": 12,
-      "stageName": "特典会A",
-      "stageNameShort": "特典会A",
+      "stageName": "特典会A（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "A（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 13
     },
     {
       "stageId": 13,
-      "stageName": "特典会B",
-      "stageNameShort": "特典会B",
+      "stageName": "特典会B（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "B（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 14
     },
     {
       "stageId": 14,
-      "stageName": "特典会C",
-      "stageNameShort": "特典会C",
+      "stageName": "特典会C（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "C（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 15
     },
     {
       "stageId": 15,
-      "stageName": "特典会D",
-      "stageNameShort": "特典会D",
+      "stageName": "特典会D（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "D（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 16
     },
     {
       "stageId": 16,
-      "stageName": "特典会E",
-      "stageNameShort": "特典会E",
+      "stageName": "特典会E（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "E（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 17
     },
     {
       "stageId": 17,
-      "stageName": "特典会F",
-      "stageNameShort": "特典会F",
+      "stageName": "特典会F（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "F（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 18
     },
     {
       "stageId": 18,
-      "stageName": "特典会G",
-      "stageNameShort": "特典会G",
+      "stageName": "特典会G（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "G（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 19
     },
     {
       "stageId": 19,
-      "stageName": "特典会H",
-      "stageNameShort": "特典会H",
+      "stageName": "特典会H（ベルサール渋谷ガーデン B1F）",
+      "stageNameShort": "H（ベルサール渋谷ガーデン B1F）",
       "colorName": "stage-grey",
       "stageOrder": 20
     },
     {
       "stageId": 20,
-      "stageName": "特典会I",
-      "stageNameShort": "特典会I",
+      "stageName": "特典会I（アットビジネスセンター 渋谷宇田川 301）",
+      "stageNameShort": "I（アットビジネスセンター 渋谷宇田川 301）",
       "colorName": "stage-grey",
       "stageOrder": 21
     },
     {
       "stageId": 21,
-      "stageName": "特典会J",
-      "stageNameShort": "特典会J",
+      "stageName": "特典会J（アットビジネスセンター 渋谷宇田川 301）",
+      "stageNameShort": "J（アットビジネスセンター 渋谷宇田川 301）",
       "colorName": "stage-grey",
       "stageOrder": 22
     },
     {
       "stageId": 22,
-      "stageName": "特典会K",
-      "stageNameShort": "特典会K",
+      "stageName": "特典会K（アットビジネスセンター 渋谷宇田川 301）",
+      "stageNameShort": "K（アットビジネスセンター 渋谷宇田川 301）",
       "colorName": "stage-grey",
       "stageOrder": 23
     },
     {
       "stageId": 23,
-      "stageName": "特典会L",
-      "stageNameShort": "特典会L",
+      "stageName": "特典会L（VIDENT）",
+      "stageNameShort": "L（VIDENT）",
       "colorName": "stage-grey",
       "stageOrder": 24
     },
     {
       "stageId": 24,
-      "stageName": "特典会M",
-      "stageNameShort": "特典会M",
+      "stageName": "特典会M（VIDENT）",
+      "stageNameShort": "M（VIDENT）",
       "colorName": "stage-grey",
       "stageOrder": 25
     },
     {
       "stageId": 25,
-      "stageName": "特典会N",
-      "stageNameShort": "特典会N",
+      "stageName": "特典会N（VIDENT）",
+      "stageNameShort": "N（VIDENT）",
       "colorName": "stage-grey",
       "stageOrder": 26
     },
     {
       "stageId": 26,
-      "stageName": "特典会O",
-      "stageNameShort": "特典会O",
+      "stageName": "特典会O（RING）",
+      "stageNameShort": "O（RING）",
       "colorName": "stage-grey",
       "stageOrder": 27
     },
     {
       "stageId": 27,
-      "stageName": "特典会P",
-      "stageNameShort": "特典会P",
+      "stageName": "特典会P（RING）",
+      "stageNameShort": "P（RING）",
       "colorName": "stage-grey",
       "stageOrder": 28
     },
     {
       "stageId": 28,
-      "stageName": "特典会Q",
-      "stageNameShort": "特典会Q",
+      "stageName": "特典会Q（RING）",
+      "stageNameShort": "Q（RING）",
       "colorName": "stage-grey",
       "stageOrder": 29
     },
     {
       "stageId": 29,
-      "stageName": "特典会R",
-      "stageNameShort": "特典会R",
+      "stageName": "特典会R（ATOM 6F）",
+      "stageNameShort": "R（ATOM 6F）",
       "colorName": "stage-grey",
       "stageOrder": 30
     },
     {
       "stageId": 30,
-      "stageName": "特典会S",
-      "stageNameShort": "特典会S",
+      "stageName": "特典会S（ATOM 6F）",
+      "stageNameShort": "S（ATOM 6F）",
       "colorName": "stage-grey",
       "stageOrder": 31
     },
     {
       "stageId": 31,
-      "stageName": "特典会T",
-      "stageNameShort": "特典会T",
+      "stageName": "特典会T（ATOM 6F）",
+      "stageNameShort": "T（ATOM 6F）",
       "colorName": "stage-grey",
       "stageOrder": 32
     },
     {
       "stageId": 32,
-      "stageName": "特典会U",
-      "stageNameShort": "特典会U",
+      "stageName": "特典会U（VIZEL）",
+      "stageNameShort": "U（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 33
     },
     {
       "stageId": 33,
-      "stageName": "特典会V",
-      "stageNameShort": "特典会V",
+      "stageName": "特典会V（VIZEL）",
+      "stageNameShort": "V（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 34
     },
     {
       "stageId": 34,
-      "stageName": "特典会W",
-      "stageNameShort": "特典会W",
+      "stageName": "特典会W（VIZEL）",
+      "stageNameShort": "W（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 35
     },
     {
       "stageId": 35,
-      "stageName": "特典会X",
-      "stageNameShort": "特典会X",
+      "stageName": "特典会X（VIZEL）",
+      "stageNameShort": "X（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 36
     },
     {
       "stageId": 36,
-      "stageName": "特典会Y",
-      "stageNameShort": "特典会Y",
+      "stageName": "特典会Y（VIZEL）",
+      "stageNameShort": "Y（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 37
     },
     {
       "stageId": 37,
-      "stageName": "特典会Z",
-      "stageNameShort": "特典会Z",
+      "stageName": "特典会Z（VIZEL）",
+      "stageNameShort": "Z（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 38
     },
     {
       "stageId": 38,
-      "stageName": "特典会A'",
-      "stageNameShort": "特典会A'",
+      "stageName": "特典会A'（VIZEL）",
+      "stageNameShort": "A'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 39
     },
     {
       "stageId": 39,
-      "stageName": "特典会B'",
-      "stageNameShort": "特典会B'",
+      "stageName": "特典会B'（VIZEL）",
+      "stageNameShort": "B'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 40
     },
     {
       "stageId": 40,
-      "stageName": "特典会C'",
-      "stageNameShort": "特典会C'",
+      "stageName": "特典会C'（VIZEL）",
+      "stageNameShort": "C'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 41
     },
     {
       "stageId": 41,
-      "stageName": "特典会D'",
-      "stageNameShort": "特典会D'",
+      "stageName": "特典会D'（Z MARUYAMA）",
+      "stageNameShort": "D'（Z MARUYAMA）",
       "colorName": "stage-grey",
       "stageOrder": 42
     },
     {
       "stageId": 42,
-      "stageName": "特典会E'",
-      "stageNameShort": "特典会E'",
+      "stageName": "特典会E'（Z MARUYAMA）",
+      "stageNameShort": "E'（Z MARUYAMA）",
       "colorName": "stage-grey",
       "stageOrder": 43
     },
     {
       "stageId": 43,
-      "stageName": "特典会F'",
-      "stageNameShort": "特典会F'",
+      "stageName": "特典会F'（Z MARUYAMA）",
+      "stageNameShort": "F'（Z MARUYAMA）",
       "colorName": "stage-grey",
       "stageOrder": 44
     },
     {
       "stageId": 44,
-      "stageName": "特典会G'",
-      "stageNameShort": "特典会G'",
+      "stageName": "特典会G'（VIZEL）",
+      "stageNameShort": "G'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 45
     },
     {
       "stageId": 45,
-      "stageName": "特典会H'",
-      "stageNameShort": "特典会H'",
+      "stageName": "特典会H'（VIZEL）",
+      "stageNameShort": "H'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 46
     },
     {
       "stageId": 46,
-      "stageName": "特典会I'",
-      "stageNameShort": "特典会I'",
+      "stageName": "特典会I'（VIZEL）",
+      "stageNameShort": "I'（VIZEL）",
       "colorName": "stage-grey",
       "stageOrder": 47
     },
     {
       "stageId": 47,
-      "stageName": "特典会J'",
-      "stageNameShort": "特典会J'",
+      "stageName": "特典会J'（TAKE OFF'）",
+      "stageNameShort": "J'（TAKE OFF'）",
       "colorName": "stage-grey",
       "stageOrder": 48
     },
     {
       "stageId": 48,
-      "stageName": "特典会K'",
-      "stageNameShort": "特典会K'",
+      "stageName": "特典会K'（VIDENT）",
+      "stageNameShort": "K'（VIDENT）",
       "colorName": "stage-grey",
       "stageOrder": 49
     },
     {
       "stageId": 49,
-      "stageName": "特典会L'",
-      "stageNameShort": "特典会L'",
+      "stageName": "特典会L'（VIDENT）",
+      "stageNameShort": "L'（VIDENT）",
       "colorName": "stage-grey",
       "stageOrder": 50
     },
