@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "artists": {
+    ".Link": [
+      { "type": "x", "data": "idol_dotlink" }
+    ],
+    "antares": [
+      { "type": "x", "data": "antares_info" }
+    ]
+  }
+}
