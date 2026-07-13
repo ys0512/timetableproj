@@ -1,0 +1,957 @@
+{
+  "version": 1,
+  "artists": {
+    "iON!": [
+      {
+        "type": "x",
+        "data": "iON_idol_"
+      }
+    ],
+    "i-COL": [
+      {
+        "type": "x",
+        "data": "icol_official"
+      }
+    ],
+    "I's Merry Go Round": [
+      {
+        "type": "x",
+        "data": "imgr_official"
+      }
+    ],
+    "アイドルカレッジ": [
+      {
+        "type": "x",
+        "data": "ic_idolcollege"
+      }
+    ],
+    "IDOL★ST∀R MINE": [
+      {
+        "type": "x",
+        "data": "IDOL_STAR_MINE"
+      }
+    ],
+    "あおぞらをキミに": [
+      {
+        "type": "x",
+        "data": "aozorawokimini"
+      }
+    ],
+    "アキシブproject": [
+      {
+        "type": "x",
+        "data": "AkishibuProject"
+      }
+    ],
+    "AQA": [
+      {
+        "type": "x",
+        "data": "AQA_info"
+      }
+    ],
+    "アクアリウム。": [
+      {
+        "type": "x",
+        "data": "aquariumu_info"
+      }
+    ],
+    "あくまで天使": [
+      {
+        "type": "x",
+        "data": "akuten_info"
+      }
+    ],
+    "As a Cutie Pomeranian": [
+      {
+        "type": "x",
+        "data": "aacp_official"
+      }
+    ],
+    "AdamLilith": [
+      {
+        "type": "x",
+        "data": "Adamth_official"
+      }
+    ],
+    "UPローチ": [
+      {
+        "type": "x",
+        "data": "uproach_0411"
+      }
+    ],
+    "anemoreel": [
+      {
+        "type": "x",
+        "data": "anemoreel"
+      }
+    ],
+    "アルテミスの翼": [
+      {
+        "type": "x",
+        "data": "artemis_idol7"
+      }
+    ],
+    "THE ENCORE": [
+      {
+        "type": "x",
+        "data": "TheEncore_info"
+      }
+    ],
+    "Ange☆Reve": [
+      {
+        "type": "x",
+        "data": "3rdD_angereve"
+      }
+    ],
+    "UNBS": [
+      {
+        "type": "x",
+        "data": "unbs_official"
+      }
+    ],
+    "INOiZe↯": [
+      {
+        "type": "x",
+        "data": "hf_inoize"
+      }
+    ],
+    "image": [
+      {
+        "type": "x",
+        "data": "image__official"
+      }
+    ],
+    "Ill": [
+      {
+        "type": "x",
+        "data": "Ill_Idol"
+      }
+    ],
+    "iROTORiDOLLY": [
+      {
+        "type": "x",
+        "data": "iROTORiDOLLY_of"
+      }
+    ],
+    "イロハサクラ": [
+      {
+        "type": "x",
+        "data": "irohaskr"
+      }
+    ],
+    "泡沫パーティーズ": [
+      {
+        "type": "x",
+        "data": "utapa_official"
+      }
+    ],
+    "UtaGe!": [
+      {
+        "type": "x",
+        "data": "info_UtaGe"
+      }
+    ],
+    "宇宙∞プラネクシア": [
+      {
+        "type": "x",
+        "data": "space_planexia"
+      }
+    ],
+    "éclatcia": [
+      {
+        "type": "x",
+        "data": "eclatcia_EIP"
+      }
+    ],
+    "ESTLINK☆": [
+      {
+        "type": "x",
+        "data": "estlink2021"
+      }
+    ],
+    "Everglitch": [
+      {
+        "type": "x",
+        "data": "everglitchjp"
+      }
+    ],
+    "ゑんら": [
+      {
+        "type": "x",
+        "data": "wyenra"
+      }
+    ],
+    "愛乙女★DOLL": [
+      {
+        "type": "x",
+        "data": "lovelydoll_jp"
+      }
+    ],
+    "オトメルキュール": [
+      {
+        "type": "x",
+        "data": "otomercure"
+      }
+    ],
+    "限りなく白く": [
+      {
+        "type": "x",
+        "data": "HOKKAIDO__IDOL"
+      }
+    ],
+    "仮面女子": [
+      {
+        "type": "x",
+        "data": "AliceProject_mb"
+      }
+    ],
+    "COLOR of COLOR": [
+      {
+        "type": "x",
+        "data": "CoC___info"
+      }
+    ],
+    "カラフルスクリーム": [
+      {
+        "type": "x",
+        "data": "colorful_scream"
+      }
+    ],
+    "Coloration": [
+      {
+        "type": "x",
+        "data": "coloration_n"
+      }
+    ],
+    "可憐なアイボリー": [
+      {
+        "type": "x",
+        "data": "karennaivory"
+      }
+    ],
+    "君と見るそら": [
+      {
+        "type": "x",
+        "data": "kimisora_JPN"
+      }
+    ],
+    "キミニハネ": [
+      {
+        "type": "x",
+        "data": "kiminihane_info"
+      }
+    ],
+    "君に、胸キュン。": [
+      {
+        "type": "x",
+        "data": "kimikyun_office"
+      }
+    ],
+    "逆転ねこぱんちっ！": [
+      {
+        "type": "x",
+        "data": "tenneko_NAGOYA"
+      }
+    ],
+    "Candy☆Drops": [
+      {
+        "type": "x",
+        "data": "reclash0922"
+      }
+    ],
+    "Qu♡Aly": [
+      {
+        "type": "x",
+        "data": "qualy_info"
+      }
+    ],
+    "九州女子翼": [
+      {
+        "type": "x",
+        "data": "ITR_KGW"
+      }
+    ],
+    "煌めき☆アンフォレント": [
+      {
+        "type": "x",
+        "data": "kirafore_info"
+      }
+    ],
+    "GILTY × GILTY": [
+      {
+        "type": "x",
+        "data": "GILTYxGILTY"
+      }
+    ],
+    "KRD8": [
+      {
+        "type": "x",
+        "data": "KRD_08"
+      }
+    ],
+    "CAL&RES": [
+      {
+        "type": "x",
+        "data": "calresofficial"
+      }
+    ],
+    "SAI ²Rium": [
+      {
+        "type": "x",
+        "data": "sai2rium"
+      }
+    ],
+    "SAISON": [
+      {
+        "type": "x",
+        "data": "saison_idol"
+      }
+    ],
+    "サクヤコノハナ": [
+      {
+        "type": "x",
+        "data": "SKKH_official"
+      }
+    ],
+    "シークレットシャノワール": [
+      {
+        "type": "x",
+        "data": "secretchatnoir"
+      }
+    ],
+    "ジエメイ": [
+      {
+        "type": "x",
+        "data": "jiemei_idol"
+      }
+    ],
+    "JamsCollection": [
+      {
+        "type": "x",
+        "data": "JamsCollection"
+      }
+    ],
+    "終末のアンセム": [
+      {
+        "type": "x",
+        "data": "owathem"
+      }
+    ],
+    "シュレーディンガーの犬": [
+      {
+        "type": "x",
+        "data": "schro_official"
+      }
+    ],
+    "純情のアフィリア": [
+      {
+        "type": "x",
+        "data": "junjo_no_afilia"
+      }
+    ],
+    "シンデレラ宣言！": [
+      {
+        "type": "x",
+        "data": "cinsen_official"
+      }
+    ],
+    "すーぱーぷーばぁー!!": [
+      {
+        "type": "x",
+        "data": "_superpouvoir"
+      }
+    ],
+    "Squall Line": [
+      {
+        "type": "x",
+        "data": "squallline_oa"
+      }
+    ],
+    "ZUTTOMOTTO": [
+      {
+        "type": "x",
+        "data": "zuttomoofficial"
+      }
+    ],
+    "SPRISE": [
+      {
+        "type": "x",
+        "data": "sprise_official"
+      }
+    ],
+    "スポポポポニー": [
+      {
+        "type": "x",
+        "data": "Spopopopony"
+      }
+    ],
+    "SAY-LA": [
+      {
+        "type": "x",
+        "data": "SAY_LA_info"
+      }
+    ],
+    "SEKAIE☆": [
+      {
+        "type": "x",
+        "data": "SEKAIEofficial"
+      }
+    ],
+    "W.ダブルヴィー": [
+      {
+        "type": "x",
+        "data": "w__official"
+      }
+    ],
+    "チキータ": [
+      {
+        "type": "x",
+        "data": "Chegattz"
+      }
+    ],
+    "Chance Movement": [
+      {
+        "type": "x",
+        "data": "_Chance_M_"
+      }
+    ],
+    "Chuu♡Cute": [
+      {
+        "type": "x",
+        "data": "chuu_cute_"
+      }
+    ],
+    "強がりセンセーション": [
+      {
+        "type": "x",
+        "data": "tysn_info"
+      }
+    ],
+    "ティラミス": [
+      {
+        "type": "x",
+        "data": "tiramis_staff"
+      }
+    ],
+    "手羽先センセーション": [
+      {
+        "type": "x",
+        "data": "tebasen_info"
+      }
+    ],
+    "テラテラ": [
+      {
+        "type": "x",
+        "data": "teratera_staff"
+      }
+    ],
+    "天空のシラバス": [
+      {
+        "type": "x",
+        "data": "skysyllabus"
+      }
+    ],
+    "テンシンランマン": [
+      {
+        "type": "x",
+        "data": "tenran_official"
+      }
+    ],
+    "点染テンセイ少女。": [
+      {
+        "type": "x",
+        "data": "tenten_info"
+      }
+    ],
+    "TENRIN": [
+      {
+        "type": "x",
+        "data": "TENRIN_official"
+      }
+    ],
+    "トウトイナ。": [
+      {
+        "type": "x",
+        "data": "toutoina_collet"
+      }
+    ],
+    "虜なるプレリュード": [
+      {
+        "type": "x",
+        "data": "TORIKO_staff"
+      }
+    ],
+    "ドレスコード": [
+      {
+        "type": "x",
+        "data": "dreco_info"
+      }
+    ],
+    "ナナコロビヤオキ": [
+      {
+        "type": "x",
+        "data": "nanakoro_info"
+      }
+    ],
+    "なみだ色の消しごむ": [
+      {
+        "type": "x",
+        "data": "namikeshi_info"
+      }
+    ],
+    "虹色の飛行少女": [
+      {
+        "type": "x",
+        "data": "nijihikoushojo"
+      }
+    ],
+    "にっぽんワチャチャ": [
+      {
+        "type": "x",
+        "data": "nippon_wachacha"
+      }
+    ],
+    "New Crown": [
+      {
+        "type": "x",
+        "data": "newcrown_idol"
+      }
+    ],
+    "NEOTOKYO-TRIBE": [
+      {
+        "type": "x",
+        "data": "NEOTOKYOTRIBE"
+      }
+    ],
+    "NEO BREAK": [
+      {
+        "type": "x",
+        "data": "NEOBREAK_info"
+      }
+    ],
+    "NEFRALISE": [
+      {
+        "type": "x",
+        "data": "NEFRALISE"
+      }
+    ],
+    "脳内パステル": [
+      {
+        "type": "x",
+        "data": "Nopas_Official"
+      }
+    ],
+    "のんふぃく！": [
+      {
+        "type": "x",
+        "data": "nonfic_official"
+      }
+    ],
+    "白地図プロローグ": [
+      {
+        "type": "x",
+        "data": "hcpl_official"
+      }
+    ],
+    "Pastel Closet": [
+      {
+        "type": "x",
+        "data": "Pasclo_official"
+      }
+    ],
+    "花いろは": [
+      {
+        "type": "x",
+        "data": "hanairoha_ww"
+      }
+    ],
+    "ハニースパイスRe.": [
+      {
+        "type": "x",
+        "data": "honeyspice_re"
+      }
+    ],
+    "Bunny La Crew": [
+      {
+        "type": "x",
+        "data": "BunnyLaCrew"
+      }
+    ],
+    "Panic Monster !n Wonderland": [
+      {
+        "type": "x",
+        "data": "pmiw_info"
+      }
+    ],
+    "パラディーク": [
+      {
+        "type": "x",
+        "data": "para_deeq"
+      }
+    ],
+    "パラレルサイダー": [
+      {
+        "type": "x",
+        "data": "parasai_info"
+      }
+    ],
+    "ハルカエコー": [
+      {
+        "type": "x",
+        "data": "HARUKAECHO_IDOL"
+      }
+    ],
+    "Palette Parade": [
+      {
+        "type": "x",
+        "data": "O_PaletteParade"
+      }
+    ],
+    "ハレとハレ！": [
+      {
+        "type": "x",
+        "data": "_HARETOHARE"
+      }
+    ],
+    "Beloved": [
+      {
+        "type": "x",
+        "data": "be_loved2024"
+      }
+    ],
+    "Peel the Apple": [
+      {
+        "type": "x",
+        "data": "PtA_staff"
+      }
+    ],
+    "vVibe!": [
+      {
+        "type": "x",
+        "data": "vvibemuse"
+      }
+    ],
+    "BNSI": [
+      {
+        "type": "x",
+        "data": "BNSI_official"
+      }
+    ],
+    "FES☆TIVE": [
+      {
+        "type": "x",
+        "data": "FESTIVEofficial"
+      }
+    ],
+    "プラチナリボン": [
+      {
+        "type": "x",
+        "data": "platinumribbon"
+      }
+    ],
+    "FLAPSTAR": [
+      {
+        "type": "x",
+        "data": "FLAPSTAR_info"
+      }
+    ],
+    "フルーティー": [
+      {
+        "type": "x",
+        "data": "fruity_lp"
+      }
+    ],
+    "フルコース": [
+      {
+        "type": "x",
+        "data": "FullCourse_idol"
+      }
+    ],
+    "BrainBeat": [
+      {
+        "type": "x",
+        "data": "brainbeat_idol"
+      }
+    ],
+    "放課後プリンセス": [
+      {
+        "type": "x",
+        "data": "houkagoprincess"
+      }
+    ],
+    "星合いのライラック": [
+      {
+        "type": "x",
+        "data": "hoshiai_lilac"
+      }
+    ],
+    "星のカケラ": [
+      {
+        "type": "x",
+        "data": "_hoshikake_"
+      }
+    ],
+    "HOT DOG CAT": [
+      {
+        "type": "x",
+        "data": "HOTDOGCAT_info"
+      }
+    ],
+    "Poppin' Parade": [
+      {
+        "type": "x",
+        "data": "official_popipa"
+      }
+    ],
+    "ポラライト": [
+      {
+        "type": "x",
+        "data": "polalight_info"
+      }
+    ],
+    "ポラリスマイル": [
+      {
+        "type": "x",
+        "data": "polarismile0530"
+      }
+    ],
+    "WT☆Egret": [
+      {
+        "type": "x",
+        "data": "WT_Egret"
+      }
+    ],
+    "ポンコツコンポ": [
+      {
+        "type": "x",
+        "data": "ponkotsukonpo"
+      }
+    ],
+    "MyDearDarlin'": [
+      {
+        "type": "x",
+        "data": "MyDear_official"
+      }
+    ],
+    "Ma’Scar’Piece": [
+      {
+        "type": "x",
+        "data": "mascarpiece"
+      }
+    ],
+    "まねきケチャ": [
+      {
+        "type": "x",
+        "data": "maneki_kecak"
+      }
+    ],
+    "未完成のキャラメル": [
+      {
+        "type": "x",
+        "data": "_mikamel_freo_"
+      }
+    ],
+    "ミラクルファンファーレ！": [
+      {
+        "type": "x",
+        "data": "mirafan_info"
+      }
+    ],
+    "メイビーME": [
+      {
+        "type": "x",
+        "data": "MAYBEME0707"
+      }
+    ],
+    "MEGAFON": [
+      {
+        "type": "x",
+        "data": "MEGAFON_idol"
+      }
+    ],
+    "metarium": [
+      {
+        "type": "x",
+        "data": "metarium_info"
+      }
+    ],
+    "メノニューイヤー": [
+      {
+        "type": "x",
+        "data": "menonew_senden"
+      }
+    ],
+    "メリーパレード": [
+      {
+        "type": "x",
+        "data": "merryparade0513"
+      }
+    ],
+    "melnoir": [
+      {
+        "type": "x",
+        "data": "melnoir_"
+      }
+    ],
+    "Y∀KiN": [
+      {
+        "type": "x",
+        "data": "YAKiN_0209"
+      }
+    ],
+    "夜光性アミューズ": [
+      {
+        "type": "x",
+        "data": "Yoruamiofficial"
+      }
+    ],
+    "夕凪のスピカ": [
+      {
+        "type": "x",
+        "data": "yunagi_spica"
+      }
+    ],
+    "宵越しのアンサンブル": [
+      {
+        "type": "x",
+        "data": "koshian_info"
+      }
+    ],
+    "ラストシーン": [
+      {
+        "type": "x",
+        "data": "LASTSCENE_idol"
+      }
+    ],
+    "LOVE 9 LOVE": [
+      {
+        "type": "x",
+        "data": "LOVE9LOVE_info"
+      }
+    ],
+    "LOVEME": [
+      {
+        "type": "x",
+        "data": "LOVEME_idol"
+      }
+    ],
+    "Re:M!ND": [
+      {
+        "type": "x",
+        "data": "ReMIND_info"
+      }
+    ],
+    "Lily scale": [
+      {
+        "type": "x",
+        "data": "Lily_Scale_"
+      }
+    ],
+    "Lily wonder": [
+      {
+        "type": "x",
+        "data": "LW___official"
+      }
+    ],
+    "ルージュブック": [
+      {
+        "type": "x",
+        "data": "rougebook_staff"
+      }
+    ],
+    "Root mimi": [
+      {
+        "type": "x",
+        "data": "Root__mimi"
+      }
+    ],
+    "ルシフェルの園。": [
+      {
+        "type": "x",
+        "data": "felsono_info"
+      }
+    ],
+    "Loulouchouchou": [
+      {
+        "type": "x",
+        "data": "Llcc_info"
+      }
+    ],
+    "LADYBABY": [
+      {
+        "type": "x",
+        "data": "LADYBABY_JP"
+      }
+    ],
+    "READY TO KISS": [
+      {
+        "type": "x",
+        "data": "READYTOKISSoffi"
+      }
+    ],
+    "LEVEL7": [
+      {
+        "type": "x",
+        "data": "level7_koshiki"
+      }
+    ],
+    "わーすた": [
+      {
+        "type": "x",
+        "data": "tws_staff"
+      }
+    ],
+    "ワガママなラストノート": [
+      {
+        "type": "x",
+        "data": "wgln_info"
+      }
+    ],
+    "ワンダーウィード天": [
+      {
+        "type": "x",
+        "data": "wonder__weed"
+      }
+    ],
+    "One Last Bloom": [
+      {
+        "type": "x",
+        "data": "onelastbloom"
+      }
+    ],
+    "XINXIN": [
+      {
+        "type": "x",
+        "data": "xinxin_official"
+      }
+    ]
+
+
+    
+    ,
+    "RAViDAVi": [
+      {
+        "type": "x",
+        "data": "RAViDAVi_info"
+      }
+    ],
+    "SUPER☆GiRLS": [
+      {
+        "type": "x",
+        "data": "SUPERGiRLS_AMG"
+      }
+    ],
+    "dela": [
+      {
+        "type": "x",
+        "data": "dela_nbgf"
+      }
+    ],
+    "elsy2026______": [
+      {
+        "type": "x",
+        "data": "elsyidol"
+      }
+    ]
+  }
+}
