@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 623,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "10",
@@ -838,7 +838,12 @@
       "startTime": "20:30",
       "min": 80,
       "artId": 49,
-      "stageId": 15
+      "stageId": 15,
+      "collabArtList": [
+        49,
+        36,
+        33
+      ]
     },
     {
       "turnId": 73,
@@ -849,17 +854,17 @@
     },
     {
       "turnId": 74,
-      "startTime": "20:30",
-      "min": 80,
-      "artId": 36,
-      "stageId": 15
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 75,
-      "startTime": "20:30",
-      "min": 80,
-      "artId": 33,
-      "stageId": 15
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 76,
@@ -989,24 +994,24 @@
     },
     {
       "turnId": 94,
-      "startTime": "21:20",
-      "min": 80,
-      "artId": 45,
-      "stageId": 7
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 95,
-      "startTime": "21:20",
-      "min": 80,
-      "artId": 11,
-      "stageId": 7
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 96,
-      "startTime": "21:20",
-      "min": 80,
-      "artId": 12,
-      "stageId": 7
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0
     },
     {
       "turnId": 97,
@@ -1160,28 +1165,25 @@
       "startTime": "20:25",
       "min": 80,
       "artId": 20,
-      "stageId": 10
+      "stageId": 10,
+      "collabArtList": [
+        20,
+        21,
+        16,
+        17
+      ]
     },
     {
       "turnId": 119,
-      "startTime": "20:25",
+      "startTime": "21:20",
       "min": 80,
-      "artId": 21,
-      "stageId": 10
-    },
-    {
-      "turnId": 120,
-      "startTime": "20:25",
-      "min": 80,
-      "artId": 16,
-      "stageId": 10
-    },
-    {
-      "turnId": 121,
-      "startTime": "20:25",
-      "min": 80,
-      "artId": 17,
-      "stageId": 10
+      "artId": 45,
+      "stageId": 7,
+      "collabArtList": [
+        45,
+        11,
+        12
+      ]
     }
   ]
 }
