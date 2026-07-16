@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        623
+      ],
+      "date": "7/16",
+      "message": "RAD JAM大作戦 (7/18 @名古屋 アイドル) に対応しました。",
+      "message_en": "RAD JAM大作戦 (7/18 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         620,
         621,
         622
