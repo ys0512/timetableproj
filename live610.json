@@ -5,6 +5,11 @@
   "notification": "特典会タイテを追加しました",
   "openTime": "10",
   "closeTime": "23",
+
+  "report_type": "official",
+  "hasArtistSns": true,
+  "setListButton": {"url": "https://example.com"},
+
   "artList": [
     {
       "artId": 0,
