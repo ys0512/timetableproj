@@ -8,7 +8,7 @@
 
   "report_type": "official",
   "hasArtistSns": true,
-  "setListButton": {"url": "https://example.com"},
+  "setListButton___": {"url": "https://example.com"},
 
   "artList": [
     {
