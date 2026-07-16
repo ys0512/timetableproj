@@ -1,0 +1,188 @@
+{
+  "title": " 関ケ原唄姫合戦 2026",
+  "sections": [
+    {
+      "type": "banner",
+      "imageUrl": "sekigahara2026.jpg",
+      "aspectRatio": "16:9",
+      "credit": {
+        "text": "画像引用元",
+        "url": "https://x.com/_IDOLWARS",
+        "media": "x"
+      }
+    },
+    {
+      "type": "ticket_link",
+      "urls": [
+        { "title": "チケット購入サイト", "url": "https://ticketdive.com/event/SEKIGAHARA_2026" }
+      ],
+      "prices": [
+        { "name": "【プレミアチケット】3DAYS", "price": "¥52,000" },
+        { "name": "【プレミアチケット】前2DAYS", "price": "¥37,000" },
+        { "name": "【プレミアチケット】後2DAYS", "price": "¥37,000" },
+        { "name": "【プレミアチケット】1DAY", "price": "¥19,500" },
+        { "name": "【一般】3DAYS", "price": "¥19,000" },
+        { "name": "【一般】前2DAYS", "price": "¥13,500" },
+        { "name": "【一般】後2DAYS", "price": "¥13,500" },
+        { "name": "【一般】1DAY", "price": "¥7,500" },
+        { "name": "【岐阜県民限定チケット】1DAY", "price": "¥6,000" }
+      ],
+      "prices_old": [
+        { "name": "【プレミアチケット】3DAYS", "price": "¥50,000" },
+        { "name": "【プレミアチケット】前2DAYS", "price": "¥36,000" },
+        { "name": "【プレミアチケット】後2DAYS", "price": "¥36,000" },
+        { "name": "【プレミアチケット】1DAY（7/19土）", "price": "¥19,500" },
+        { "name": "【プレミアチケット】1DAY（7/20日）", "price": "¥19,500" },
+        { "name": "【プレミアチケット】1DAY（7/21月祝）", "price": "¥19,500" },
+        { "name": "【一般】3DAYS", "price": "¥18,000" },
+        { "name": "【一般】前2DAYS", "price": "¥13,000" },
+        { "name": "【一般】後2DAYS", "price": "¥13,000" },
+        { "name": "【一般】1DAY（7/19土）", "price": "¥7,000" },
+        { "name": "【一般】1DAY（7/20日）", "price": "¥7,000" },
+        { "name": "【一般】1DAY（7/21月祝）", "price": "¥7,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/19土）", "price": "¥6,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/20日）", "price": "¥6,000" },
+        { "name": "【岐阜県民限定チケット】1DAY（7/21月祝）", "price": "¥6,000" }
+      ]
+    },
+    {
+      "type": "message__",
+      "messages": [
+        { "text": "名古屋・栄 / 大須 / 新栄エリアを横断するサーキットフェス。", "color": "#e91e63" },
+        { "text": "移動前に各会場の入場導線・再入場可否・物販会場を確認してください。", "color": "#666666" }
+      ]
+    },
+    {
+      "type": "map_access",
+      "venueName": "桃配運動公園 (岐阜県不破郡関ケ原町野上)",
+      "address__": "桃配運動公園 (岐阜県不破郡関ケ原町野上 asdfad sadfsdf asdfasdf  fdfsadfa )",
+      "lat": 35.36625176690186,
+      "lng": 136.49361348788258
+    },
+    {
+      "type": "map_stages",
+      "mapTitle": "venue",
+      
+      "byLiveId": {
+        "common": {
+          "_MEMO_":"commonは全ライブ共通の設定。ライブごとならliveIDの数値を指定。数値とcommon両方に同じキーがある場合はライブごとの設定が優先される。",
+          "center": { "lat": 35.36625176690186, "lng": 136.49361348788258 },
+          "zoom": 15,
+          "note": "会場エリア",
+          "pins": [
+
+
+            { "lat": 35.36551177580217, "lng": 136.49203225343132, "label":"徳川", "stageId":0  },
+            { "lat": 35.365871946783365, "lng": 136.4932168661566, "label":"豊臣", "stageId":1  },
+            { "lat": 35.36594827419467, "lng": 136.49366438648514, "label":"戦国", "stageId":2  },
+            { "lat": 35.3660746913222, "lng": 136.49307793008603, "label":"桃配", "stageId":3  },
+            { "lat": 35.36573129162771, "lng": 136.49374254713166, "label":"下剋上", "stageId":4  },
+
+            
+            { "lat": 35.366083556977024, "lng": 136.492807238648, "label":"プレミア専用入場口","stageType":"booth" },
+            { "lat": 35.366210980918424, "lng": 136.49329550880776, "label":"一般入場口","stageType":"booth" },
+            { "lat": 35.36616094775481, "lng": 136.4933831588597, "label":"再入場口","stageType":"booth" },
+            { "lat": 35.36507632813786, "lng": 136.49255281729873, "label":"特典会会場","stageType":"booth" },
+            { "lat": 35.36547227973607, "lng": 136.49271661559848, "label":"フード","stageType":"booth" },
+            { "lat": 35.36631068891596, "lng": 136.4936101938436, "label":"駐車場出入り口","stageType":"booth" },
+            { "lat": 35.36581098377603, "lng": 136.49250748027188, "label":"給水","stageType":"booth" }
+
+          ],
+          
+          "overlayImages": [
+            {
+              "type": "area",
+              "imageUrl": "toilet.png",
+              "bounds": {
+                "northEast": { "lat": 35.36599106881007, "lng": 136.49280582720274 },
+                "southWest": { "lat": 35.36593024543763, "lng": 136.49273562793226 }
+              },
+              "opacity": 1.0
+            },
+            {
+              "type": "area",
+              "imageUrl": "toilet.png",
+              "bounds": {
+                "northEast": { "lat": 35.365956482976166, "lng": 136.49249285544778 },
+                "southWest": { "lat": 35.36588850388071, "lng": 136.4924138812685 }
+              },
+              "opacity": 1.0
+            },
+            {
+              "type": "area",
+              "imageUrl": "aid.png",
+              "bounds": {
+                "northEast": { "lat": 35.36604799581262, "lng": 136.49274675878655 },
+                "southWest": { "lat": 35.36599546149414, "lng": 136.49268038456367 }
+              },
+              "opacity": 1.0
+            },
+            {
+              "type": "area",
+              "imageUrl": "toilet.png",
+              "bounds": {
+                "northEast": { "lat": 35.36618219523795, "lng": 136.4936957579035 },
+                "southWest": { "lat": 35.366115931465075, "lng": 136.4936227074315 }
+              },
+              "opacity": 1.0
+            },
+
+
+            {
+              "type_": "area",
+              "imageUrl": "baseball1.png",
+              "bounds": {
+                "northEast": { "lat": 35.36594, "lng": 136.49163 },
+                "southWest": { "lat": 35.36488, "lng": 136.49293 }
+              },
+              "opacity": 0.7
+            },
+            {
+              "type_": "area",
+              "imageUrl": "map_all_test3.png",
+              "bounds": {
+                "northEast": { "lat": 35.3668075130399, "lng": 136.49153888151676 },
+                "southWest": { "lat": 35.36485907755353, "lng": 136.4951941386632 }
+              },
+              "opacity": 0.9
+            },
+            {
+              "type__": "area",
+              "imageUrl": "official_logo_2026.png",
+              "bounds": {
+                "northEast": { "lat": 35.36542181578966, "lng": 136.49332143798068 },
+                "southWest": { "lat": 35.364881785627894, "lng": 136.49511361638977 }
+              },
+              "opacity": 1.0
+            },
+            {
+              "type_": "video",
+              "imageUrl": "webm-angel-halo1-blue.webm",
+              "bounds": {
+                "northEast": { "lat": 35.36542181578966, "lng": 136.49332143798068 },
+                "southWest": { "lat": 35.364881785627894, "lng": 136.49511361638977 }
+              },
+              "opacity": 1.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "message____",
+      "messages": [
+        { "text": "サンシャイン栄〜エディオン広場〜栄会場と、大須・新栄会場は移動時間に余裕を持つのがおすすめです。", "color": "#1565c0" },
+        { "text": "※地図上の位置は会場位置関係の把握用です。最終的な入場口や集合場所は主催案内を確認してください。", "color": "#777777" }
+      ]
+    },
+    {
+      "type": "links",
+      "items": [
+        { "media": "website", "label": "公式サイト", "url": "https://sekigahara-idolwars.net/" },
+        { "media": "x", "label": "公式Xアカウント", "url": "https://x.com/_IDOLWARS" },
+        { "media": "instagram", "label": "公式Instagramアカウント", "url": "https://www.instagram.com/_idolwars" },
+        { "media": "youtube", "label": "[公式]SEKIGAHARA IDOL WARS  PRチャンネル", "url": "https://www.youtube.com/@sekigaharaidolwarspr7582" }
+      ]
+    }
+  ]
+}
