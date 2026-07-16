@@ -1,9 +1,8 @@
 ﻿{
   "liveId": 612,
-  "jsonVersion": 2,
-  "hasArtistSns": true,
-  "notificationVersion": "2",
-  "notification": "特典会タイテを追加しました\n※W.ダブルヴィーのライブと特典会に被りがあるため、今後修正されると思われます",
+  "jsonVersion": 3,
+  "notificationVersion": "3",
+  "notification": "特典会タイテを追加しました\n（7/16）最新版に更新しました",
   "openTime": "9",
   "closeTime": "23",
   "artList": [
@@ -1714,8 +1713,8 @@
     },
     {
       "turnId": 166,
-      "startTime": "17:55",
-      "min": 80,
+      "startTime": "17:40",
+      "min": 50,
       "artId": 28,
       "stageId": 7
     },
@@ -1960,7 +1959,7 @@
     {
       "turnId": 201,
       "startTime": "19:35",
-      "min": 80,
+      "min": 105,
       "artId": 28,
       "stageId": 13
     },

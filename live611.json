@@ -1,7 +1,6 @@
 ﻿{
   "liveId": 611,
-  "jsonVersion": 2,
-  "hasArtistSns": true,
+  "jsonVersion": 3,
   "notificationVersion": "2",
   "notification": "特典会タイテを追加しました",
   "openTime": "9",
