@@ -1,8 +1,9 @@
 ﻿{
   "liveId": 612,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "4",
   "notification": "特典会タイテを追加しました\n（7/16）最新版に更新しました\nヒロインズの特典会タイテを追加しました",
+  "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
   "setList": {
@@ -11,7 +12,6 @@
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
-  "hasArtistSns": true,
   "artList": [
     {
       "artId": 0,
