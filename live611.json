@@ -1,15 +1,16 @@
 ﻿{
   "liveId": 611,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "特典会タイテを追加しました",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "特典会タイテを追加しました\nヒロインズの特典会タイテを追加しました",
   "openTime": "9",
   "closeTime": "23",
-
-  "report_type": "official",
-  "hasArtistSns": true,
-  "setListButton___": {"url": "https://example.com"},
-   
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/sekigahara2026/day2/"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
@@ -655,6 +656,41 @@
       "stageNameShort": "特典会24",
       "colorName": "stage-grey",
       "stageOrder": 28
+    },
+    {
+      "stageId": 29,
+      "stageName": "特典会25",
+      "stageNameShort": "特典会25",
+      "colorName": "stage-grey",
+      "stageOrder": 29
+    },
+    {
+      "stageId": 30,
+      "stageName": "特典会26",
+      "stageNameShort": "特典会26",
+      "colorName": "stage-grey",
+      "stageOrder": 30
+    },
+    {
+      "stageId": 31,
+      "stageName": "特典会27",
+      "stageNameShort": "特典会27",
+      "colorName": "stage-grey",
+      "stageOrder": 31
+    },
+    {
+      "stageId": 32,
+      "stageName": "特典会28",
+      "stageNameShort": "特典会28",
+      "colorName": "stage-grey",
+      "stageOrder": 32
+    },
+    {
+      "stageId": 33,
+      "stageName": "特典会29",
+      "stageNameShort": "特典会29",
+      "colorName": "stage-grey",
+      "stageOrder": 33
     }
   ],
   "turnList": [
@@ -2757,6 +2793,137 @@
       "min": 80,
       "artId": 55,
       "stageId": 28
+    },
+    {
+      "turnId": 300,
+      "startTime": "10:40",
+      "min": 60,
+      "artId": 79,
+      "stageId": 29
+    },
+    {
+      "turnId": 301,
+      "startTime": "13:10",
+      "min": 60,
+      "artId": 10,
+      "stageId": 29
+    },
+    {
+      "turnId": 302,
+      "startTime": "15:00",
+      "min": 60,
+      "artId": 17,
+      "stageId": 29
+    },
+    {
+      "turnId": 303,
+      "startTime": "16:20",
+      "min": 60,
+      "artId": 94,
+      "stageId": 29,
+      "wideWidth": 2
+    },
+    {
+      "turnId": 304,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 41,
+      "stageId": 29,
+      "wideWidth": 2
+    },
+    {
+      "turnId": 305,
+      "startTime": "20:00",
+      "min": 60,
+      "artId": 59,
+      "stageId": 29,
+      "wideWidth": 2
+    },
+    {
+      "turnId": 306,
+      "startTime": "11:40",
+      "min": 60,
+      "artId": 81,
+      "stageId": 30
+    },
+    {
+      "turnId": 307,
+      "startTime": "14:40",
+      "min": 60,
+      "artId": 23,
+      "stageId": 30,
+      "wideWidth": 2
+    },
+    {
+      "turnId": 308,
+      "startTime": "13:00",
+      "min": 60,
+      "artId": 63,
+      "stageId": 31
+    },
+    {
+      "turnId": 309,
+      "startTime": "16:20",
+      "min": 60,
+      "artId": 14,
+      "stageId": 31
+    },
+    {
+      "turnId": 310,
+      "startTime": "19:30",
+      "min": 60,
+      "artId": 84,
+      "stageId": 31
+    },
+    {
+      "turnId": 311,
+      "startTime": "13:30",
+      "min": 60,
+      "artId": 49,
+      "stageId": 32
+    },
+    {
+      "turnId": 312,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 50,
+      "stageId": 32,
+      "wideWidth": 2
+    },
+    {
+      "turnId": 313,
+      "startTime": "17:20",
+      "min": 60,
+      "artId": 30,
+      "stageId": 32
+    },
+    {
+      "turnId": 314,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 47,
+      "stageId": 32
+    },
+    {
+      "turnId": 315,
+      "startTime": "19:40",
+      "min": 60,
+      "artId": 63,
+      "stageId": 32
+    },
+    {
+      "turnId": 316,
+      "startTime": "13:30",
+      "min": 60,
+      "artId": 80,
+      "stageId": 33
+    },
+    {
+      "turnId": 317,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 4,
+      "stageId": 33
     }
   ]
 }
