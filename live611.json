@@ -12,6 +12,7 @@
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
+  "hasArtistSns": true,
   "artList": [
     {
       "artId": 0,
