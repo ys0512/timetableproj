@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 569,
-  "jsonVersion": 11,
+  "jsonVersion": 12,
   "notificationVersion": "7",
   "notification": "・7/4版タイテに対応し、縁日を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/natsuzome2026test/day2"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist"
+  },
   "artList": [
     {
       "artId": 0,
@@ -84,7 +90,7 @@
     },
     {
       "artId": 19,
-      "name": "HEROINES TIME"
+      "name": ""
     },
     {
       "artId": 20,
@@ -232,7 +238,7 @@
     },
     {
       "artId": 56,
-      "name": "choco☆milQ"
+      "name": ""
     },
     {
       "artId": 57,
@@ -272,7 +278,7 @@
     },
     {
       "artId": 66,
-      "name": "✝︎Monopolize✝︎"
+      "name": ""
     },
     {
       "artId": 67,
@@ -328,7 +334,7 @@
     },
     {
       "artId": 80,
-      "name": "サンプリングガールズ"
+      "name": ""
     },
     {
       "artId": 81,
@@ -436,7 +442,7 @@
     },
     {
       "artId": 107,
-      "name": "出演権争奪優勝"
+      "name": ""
     },
     {
       "artId": 108,
@@ -444,7 +450,7 @@
     },
     {
       "artId": 109,
-      "name": ""
+      "name": "."
     },
     {
       "artId": 110,
@@ -504,19 +510,19 @@
     },
     {
       "artId": 124,
-      "name": "AsIs"
+      "name": ""
     },
     {
       "artId": 125,
-      "name": "Onephony"
+      "name": ""
     },
     {
       "artId": 126,
-      "name": "TENRIN"
+      "name": ""
     },
     {
       "artId": 127,
-      "name": "α+"
+      "name": ""
     },
     {
       "artId": 128,
@@ -524,15 +530,15 @@
     },
     {
       "artId": 129,
-      "name": "ラフ×ラフ"
+      "name": ""
     },
     {
       "artId": 130,
-      "name": "君に、胸キュン。"
+      "name": ""
     },
     {
       "artId": 131,
-      "name": "夜行性アミューズ"
+      "name": ""
     },
     {
       "artId": 132,
@@ -540,7 +546,7 @@
     },
     {
       "artId": 133,
-      "name": "独占アンフェール"
+      "name": ""
     },
     {
       "artId": 134,
@@ -584,7 +590,7 @@
     },
     {
       "artId": 144,
-      "name": "lol"
+      "name": ""
     },
     {
       "artId": 145,
@@ -3415,8 +3421,7 @@
       "startTime": "16:10",
       "min": 90,
       "artId": 61,
-      "stageId": 24,
-      "wideWidth": 2
+      "stageId": 24
     },
     {
       "turnId": 355,
@@ -4037,7 +4042,7 @@
     {
       "turnId": 443,
       "startTime": "10:55",
-      "min": 0,
+      "min": 1,
       "artId": 109,
       "stageId": 37
     },

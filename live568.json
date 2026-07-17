@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 568,
-  "jsonVersion": 9,
+  "jsonVersion": 10,
   "notificationVersion": "5",
   "notification": "・7/3版タイテに対応し、縁日を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/natsuzome2026test/day1"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist"
+  },
   "artList": [
     {
       "artId": 0,
@@ -84,7 +90,7 @@
     },
     {
       "artId": 19,
-      "name": "HEROINES TIME"
+      "name": ""
     },
     {
       "artId": 20,
@@ -352,11 +358,11 @@
     },
     {
       "artId": 86,
-      "name": "ミクチャ出演権 特別賞"
+      "name": ""
     },
     {
       "artId": 87,
-      "name": "ミクチャ出演権　優勝"
+      "name": ""
     },
     {
       "artId": 88,
@@ -364,7 +370,7 @@
     },
     {
       "artId": 89,
-      "name": "メイン争奪"
+      "name": ""
     },
     {
       "artId": 90,
@@ -376,7 +382,7 @@
     },
     {
       "artId": 92,
-      "name": "出演権争奪 優勝"
+      "name": ""
     },
     {
       "artId": 93,
@@ -396,7 +402,7 @@
     },
     {
       "artId": 97,
-      "name": "山崎夢羽"
+      "name": ""
     },
     {
       "artId": 98,
@@ -416,7 +422,7 @@
     },
     {
       "artId": 102,
-      "name": "約り女王 2位"
+      "name": ""
     },
     {
       "artId": 103,
@@ -440,7 +446,7 @@
     },
     {
       "artId": 108,
-      "name": "夜行性アミューズ"
+      "name": ""
     },
     {
       "artId": 109,
@@ -452,63 +458,63 @@
     },
     {
       "artId": 111,
-      "name": "メイン争奪 14位"
+      "name": ""
     },
     {
       "artId": 112,
-      "name": "メイン争奪 13位"
+      "name": ""
     },
     {
       "artId": 113,
-      "name": "メイン争奪 12位"
+      "name": ""
     },
     {
       "artId": 114,
-      "name": "メイン争奪11位"
+      "name": ""
     },
     {
       "artId": 115,
-      "name": "メイン争奪10位"
+      "name": ""
     },
     {
       "artId": 116,
-      "name": "メイン争奪 10位"
+      "name": ""
     },
     {
       "artId": 117,
-      "name": "メイン争奪 9位"
+      "name": ""
     },
     {
       "artId": 118,
-      "name": "メイン争奪 8位"
+      "name": ""
     },
     {
       "artId": 119,
-      "name": "メイン争奪 7位"
+      "name": ""
     },
     {
       "artId": 120,
-      "name": "メイク争奪3位"
+      "name": ""
     },
     {
       "artId": 121,
-      "name": "メイツ争奪 4位"
+      "name": ""
     },
     {
       "artId": 122,
-      "name": "メイン争奪 1位"
+      "name": ""
     },
     {
       "artId": 123,
-      "name": "メイン争奪 2位"
+      "name": ""
     },
     {
       "artId": 124,
-      "name": "メイン争奪 5位"
+      "name": ""
     },
     {
       "artId": 125,
-      "name": "メイン争奪 6位"
+      "name": ""
     },
     {
       "artId": 126,
@@ -572,7 +578,7 @@
     },
     {
       "artId": 141,
-      "name": "SAI ²Rium"
+      "name": ""
     },
     {
       "artId": 142,
@@ -608,7 +614,7 @@
     },
     {
       "artId": 150,
-      "name": "MiXBeRRY"
+      "name": ""
     },
     {
       "artId": 151,
@@ -616,7 +622,7 @@
     },
     {
       "artId": 152,
-      "name": "きゅ〜くる"
+      "name": ""
     },
     {
       "artId": 153,
@@ -773,8 +779,8 @@
     },
     {
       "stageId": 21,
-      "stageName": "特典会P",
-      "stageNameShort": "特典会P",
+      "stageName": "",
+      "stageNameShort": "",
       "colorName": "stage-grey",
       "stageOrder": 21
     },
