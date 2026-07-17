@@ -5,12 +5,6 @@
   "notification": "・7/3版タイテに対応し、縁日を追加しました\n・タイテのデータ変更により一部の♥の付け直しが発生しているかもしれません。申し訳ありません。",
   "openTime": "9",
   "closeTime": "21",
-  "setList": {
-    "url": "https://idol-schedule.com/fes-setlist/natsuzome2026test/day1"
-  },
-  "setListButton": {
-    "url": "https://idol-schedule.com/fes-setlist"
-  },
   "artList": [
     {
       "artId": 0,
