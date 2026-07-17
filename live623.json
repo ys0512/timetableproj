@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 623,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "2",
   "notification": "サテライトSTAGEのタイムテーブルに対応しました",
   "openTime": "9",
@@ -362,119 +362,119 @@
       "stageName": "Diamond Hall（A）",
       "stageNameShort": "Diamond Hall（A）",
       "colorName": "stage-grey",
-      "stageOrder": 7
+      "stageOrder": 10
     },
     {
       "stageId": 4,
       "stageName": "Diamond Hall（B）",
       "stageNameShort": "Diamond Hall（B）",
       "colorName": "stage-grey",
-      "stageOrder": 8
+      "stageOrder": 11
     },
     {
       "stageId": 5,
       "stageName": "Diamond Hall（C）",
       "stageNameShort": "Diamond Hall（C）",
       "colorName": "stage-grey",
-      "stageOrder": 9
+      "stageOrder": 12
     },
     {
       "stageId": 6,
       "stageName": "Diamond Hall（D）",
       "stageNameShort": "Diamond Hall（D）",
       "colorName": "stage-grey",
-      "stageOrder": 10
+      "stageOrder": 13
     },
     {
       "stageId": 7,
       "stageName": "Diamond Hall（終演後）",
       "stageNameShort": "Diamond Hall（終演後）",
       "colorName": "stage-grey",
-      "stageOrder": 15
+      "stageOrder": 18
     },
     {
       "stageId": 8,
       "stageName": "ReNY limited（A）",
       "stageNameShort": "ReNY limited（A）",
       "colorName": "stage-grey",
-      "stageOrder": 11
+      "stageOrder": 14
     },
     {
       "stageId": 9,
       "stageName": "ReNY limited（B）",
       "stageNameShort": "ReNY limited（B）",
       "colorName": "stage-grey",
-      "stageOrder": 12
+      "stageOrder": 15
     },
     {
       "stageId": 10,
       "stageName": "ReNY limited（終演後）",
       "stageNameShort": "ReNY limited（終演後）",
       "colorName": "stage-grey",
-      "stageOrder": 16
+      "stageOrder": 19
     },
     {
       "stageId": 11,
       "stageName": "Zepp Nagoya（A）",
       "stageNameShort": "Zepp Nagoya（A）",
       "colorName": "stage-grey",
-      "stageOrder": 3
+      "stageOrder": 6
     },
     {
       "stageId": 12,
       "stageName": "Zepp Nagoya（B）",
       "stageNameShort": "Zepp Nagoya（B）",
       "colorName": "stage-grey",
-      "stageOrder": 4
+      "stageOrder": 7
     },
     {
       "stageId": 13,
       "stageName": "Zepp Nagoya（C）",
       "stageNameShort": "Zepp Nagoya（C）",
       "colorName": "stage-grey",
-      "stageOrder": 5
+      "stageOrder": 8
     },
     {
       "stageId": 14,
       "stageName": "Zepp Nagoya（D）",
       "stageNameShort": "Zepp Nagoya（D）",
       "colorName": "stage-grey",
-      "stageOrder": 6
+      "stageOrder": 9
     },
     {
       "stageId": 15,
       "stageName": "Zepp Nagoya（終演後）",
       "stageNameShort": "Zepp Nagoya（終演後）",
       "colorName": "stage-grey",
-      "stageOrder": 14
+      "stageOrder": 17
     },
     {
       "stageId": 16,
       "stageName": "ガスビルヴィーナスルーム",
       "stageNameShort": "ガスビルヴィーナスルーム",
       "colorName": "stage-grey",
-      "stageOrder": 13
+      "stageOrder": 16
     },
     {
       "stageId": 17,
       "stageName": "DIVA",
       "stageNameShort": "DIVA",
       "colorName": "stage-purple",
-      "stageOrder": 17
+      "stageOrder": 3
     },
     {
       "stageId": 18,
       "stageName": "DEEP",
       "stageNameShort": "DEEP",
       "colorName": "stage-cyan",
-      "stageOrder": 18
+      "stageOrder": 4
     },
     {
       "stageId": 19,
       "stageName": "RAD NINE",
       "stageNameShort": "RAD NINE",
       "colorName": "stage-deepOrange",
-      "stageOrder": 19
+      "stageOrder": 5
     },
     {
       "stageId": 20,
@@ -488,70 +488,70 @@
       "stageName": "A(ライオンリミテッド)",
       "stageNameShort": "A(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 21
+      "stageOrder": 22
     },
     {
       "stageId": 22,
       "stageName": "B(ライオンリミテッド)",
       "stageNameShort": "B(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 22
+      "stageOrder": 23
     },
     {
       "stageId": 23,
       "stageName": "終演後(DIVA)",
       "stageNameShort": "終演後(DIVA)",
       "colorName": "stage-grey",
-      "stageOrder": 23
+      "stageOrder": 29
     },
     {
       "stageId": 24,
       "stageName": "並行(DEEP)",
       "stageNameShort": "並行(DEEP)",
       "colorName": "stage-grey",
-      "stageOrder": 24
+      "stageOrder": 21
     },
     {
       "stageId": 25,
       "stageName": "C(ライオンリミテッド)",
       "stageNameShort": "C(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 25
+      "stageOrder": 24
     },
     {
       "stageId": 26,
       "stageName": "D(ライオンリミテッド)",
       "stageNameShort": "D(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 26
+      "stageOrder": 25
     },
     {
       "stageId": 27,
       "stageName": "終演後(DEEP)",
       "stageNameShort": "終演後(DEEP)",
       "colorName": "stage-grey",
-      "stageOrder": 27
+      "stageOrder": 30
     },
     {
       "stageId": 28,
       "stageName": "E(ライオンリミテッド)",
       "stageNameShort": "E(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 28
+      "stageOrder": 26
     },
     {
       "stageId": 29,
       "stageName": "F(ライオンリミテッド)",
       "stageNameShort": "F(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 29
+      "stageOrder": 27
     },
     {
       "stageId": 30,
       "stageName": "G(ライオンリミテッド)",
       "stageNameShort": "G(ライオンリミテッド)",
       "colorName": "stage-grey",
-      "stageOrder": 30
+      "stageOrder": 28
     }
   ],
   "turnList": [
