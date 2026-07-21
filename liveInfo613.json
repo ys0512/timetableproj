@@ -12,7 +12,7 @@
           "note": "会場エリア",
           "pins": [
             { "lat": 35.695492, "lng": 139.700806, "label": "Zepp Shinjuku", "stageId": 0 },
-            { "lat": 35.697694, "lng": 139.700306, "label": "西武新宿付近野外特設ステージ", "stageId": 1 },
+            { "lat": 35.693903, "lng": 139.700418, "label": "西武新宿付近野外特設ステージ", "stageId": 1 },
             { "lat": 35.695685, "lng": 139.700881, "label": "KABUKICHO TOWER STAGE", "stageId": 2 },
             { "lat": 35.695522, "lng": 139.702606, "label": "新宿LOFT", "stageId": 3 },
             { "lat": 35.692806, "lng": 139.705139, "label": "Music Restaurant APEXIA", "stageId": 4 },
@@ -23,7 +23,7 @@
             { "lat": 35.695778, "lng": 139.702332, "label": "新宿ACB HALL", "stageId": 9 },
           
             { "lat": 35.694439, "lng": 139.700300, "label": "新宿プリンスホテル25F", "stageType": "booth" },
-            { "lat": 35.695333, "lng": 139.702000, "label": "歌舞伎町シネシティ広場", "stageType": "booth" },
+            { "lat": 35.695564, "lng": 139.701305, "label": "歌舞伎町シネシティ広場", "stageType": "booth" },
             { "lat": 35.695538, "lng": 139.703491, "label": "新宿club SCIENCE", "stageType": "booth" },
             { "lat": 35.696552, "lng": 139.700363, "label": "LIVE HOUSE SHINJUKU ACE", "stageType": "booth" },
             { "lat": 35.696600, "lng": 139.700420, "label": "新宿 ARASHI", "stageType": "booth" },
