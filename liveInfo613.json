@@ -1,0 +1,42 @@
+{
+  "title": "UTAGE FES vol.5",
+  "sections": [
+    {
+      "type": "map_stages",
+      "mapTitle": "venue",
+      "byLiveId": {
+        "common": {
+          "_MEMO_":"commonは全ライブ共通の設定。ライブごとならliveIDの数値を指定。数値とcommon両方に同じキーがある場合はライブごとの設定が優先される。",
+          "center": { "lat": 35.695958196807545, "lng": 139.70355277641718 },
+          "zoom": 15,
+          "note": "会場エリア",
+          "pins": [
+            { "lat": 35.695492, "lng": 139.700806, "label": "Zepp Shinjuku", "stageId": 0 },
+            { "lat": 35.697694, "lng": 139.700306, "label": "西武新宿付近野外特設ステージ", "stageId": 1 },
+            { "lat": 35.695685, "lng": 139.700881, "label": "KABUKICHO TOWER STAGE", "stageId": 2 },
+            { "lat": 35.695522, "lng": 139.702606, "label": "新宿LOFT", "stageId": 3 },
+            { "lat": 35.692806, "lng": 139.705139, "label": "Music Restaurant APEXIA", "stageId": 4 },
+            { "lat": 35.694851, "lng": 139.704346, "label": "SHINJUKU WALLY", "stageId": 5 },
+            { "lat": 35.693817, "lng": 139.703873, "label": "ZircoTokyo", "stageId": 6 },
+            { "lat": 35.696323, "lng": 139.700470, "label": "新宿Marble", "stageId": 7 },
+            { "lat": 35.698414, "lng": 139.703934, "label": "YOANI LIVE STATION", "stageId": 8 },
+            { "lat": 35.695778, "lng": 139.702332, "label": "新宿ACB HALL", "stageId": 9 },
+          
+            { "lat": 35.694439, "lng": 139.700300, "label": "新宿プリンスホテル25F", "stageType": "booth" },
+            { "lat": 35.695333, "lng": 139.702000, "label": "歌舞伎町シネシティ広場", "stageType": "booth" },
+            { "lat": 35.695538, "lng": 139.703491, "label": "新宿club SCIENCE", "stageType": "booth" },
+            { "lat": 35.696552, "lng": 139.700363, "label": "LIVE HOUSE SHINJUKU ACE", "stageType": "booth" },
+            { "lat": 35.696600, "lng": 139.700420, "label": "新宿 ARASHI", "stageType": "booth" },
+            { "lat": 35.698292, "lng": 139.705780, "label": "GUNKAN東新宿B1F", "stageType": "booth" }
+          ]
+        }
+      }
+    },
+    {
+      "type": "message",
+      "messages": [
+        { "text": "※地図上の位置は会場位置関係の把握用です。最終的な入場口や集合場所は主催案内を確認してください。", "color": "#777777" }
+      ]
+    }
+  ]
+}
