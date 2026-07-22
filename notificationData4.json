@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        626
+      ],
+      "date": "7/22",
+      "message": "ガルデラ道場 (7/25 @新宿 アイドル) に対応しました。",
+      "message_en": "ガルデラ道場 (7/25 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         623
       ],
       "date": "7/16",
