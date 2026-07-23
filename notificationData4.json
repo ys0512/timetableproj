@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        627
+      ],
+      "date": "7/23",
+      "message": "アイドル甲子園 (7/25 @渋谷 アイドル) に対応しました。",
+      "message_en": "アイドル甲子園 (7/25 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         624,
         625
       ],
