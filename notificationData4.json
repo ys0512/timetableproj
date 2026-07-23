@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        628,
+        629
+      ],
+      "date": "7/24",
+      "message": "ムロフェス (7/25-26 バンド) に対応しました。",
+      "message_en": "ムロフェス (7/25-26 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         627
       ],
       "date": "7/23",
