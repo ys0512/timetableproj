@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 630,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "8",
   "closeTime": "24",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/tgg-6th/day1/"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
