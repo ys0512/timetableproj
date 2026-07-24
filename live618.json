@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 618,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "10",
   "closeTime": "22",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/rif2026/day1/"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
