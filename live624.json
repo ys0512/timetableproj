@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 624,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "9",
   "closeTime": "23",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/hngsonic-260725/day1/"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
