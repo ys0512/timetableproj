@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        630,
+        631
+      ],
+      "date": "7/25",
+      "message": "TOKYO GIRLS GIRLS 6th Anniversary (7/25-26 @品川 アイドル) に対応しました。",
+      "message_en": "TOKYO GIRLS GIRLS 6th Anniversary (7/25-26 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         628,
         629
       ],
