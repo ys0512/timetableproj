@@ -1,10 +1,16 @@
 ﻿{
   "liveId": 627,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "2",
   "notification": "本イベントはサーキットではなく各会場で別個にチケットを販売しております。\n一つのチケットでは一つの会場にしか入れませんのでご注意ください。",
   "openTime": "8",
   "closeTime": "24",
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/fes-setlist/idolkoushien-13th/"
+  },
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
