@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 6,
+  "jsonVersion": 7,
   "notificationVersion": "2",
   "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -1118,7 +1118,9 @@
         48,
         17,
         99
-      ]
+      ],
+      "title": "ラジオ体操",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 42,
