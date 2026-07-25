@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 5,
+  "jsonVersion": 6,
   "notificationVersion": "2",
   "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -742,7 +742,8 @@
         9,
         115
       ],
-      "title": "Tシャツ着用者限定ステージ ディアステージ DAY"
+      "title": "Tシャツ着用者限定ステージ ディアステージ DAY",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 1,
@@ -769,7 +770,8 @@
         53,
         0
       ],
-      "title": "IDOL SUMMER JAMBOREE DAY３"
+      "title": "IDOL SUMMER JAMBOREE DAY３",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 3,
@@ -783,7 +785,8 @@
         49,
         109
       ],
-      "title": "にしたんクリニック タンバリンダンス選手権"
+      "title": "にしたんクリニック タンバリンダンス選手権",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 4,
@@ -800,7 +803,8 @@
         160,
         138
       ],
-      "title": "ラフ×ラフ presents アイドル天下一大喜利武道会  〜TIFRound〜"
+      "title": "ラフ×ラフ presents アイドル天下一大喜利武道会  〜TIFRound〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 5,
@@ -819,7 +823,8 @@
         161,
         162
       ],
-      "title": "ミキティー本物アイドル15周年特別企画 ミキティー本物祭"
+      "title": "ミキティー本物アイドル15周年特別企画 ミキティー本物祭",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 6,
@@ -965,7 +970,8 @@
         0,
         163
       ],
-      "title": "グランドフィナーレ"
+      "title": "グランドフィナーレ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 23,
@@ -1155,7 +1161,8 @@
         31,
         63
       ],
-      "title": "ラジオ体操"
+      "title": "ラジオ体操",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 46,
@@ -2323,7 +2330,8 @@
         133,
         142
       ],
-      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜"
+      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 191,
@@ -2340,7 +2348,8 @@
         135,
         140
       ],
-      "title": "アイドルクイズ王決定戦"
+      "title": "アイドルクイズ王決定戦",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 192,
@@ -2359,7 +2368,8 @@
         132,
         127
       ],
-      "title": "TIFゲーム部 2026"
+      "title": "TIFゲーム部 2026",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 193,
@@ -2373,7 +2383,8 @@
         122,
         129
       ],
-      "title": "Road to TIF WINNER STAGE"
+      "title": "Road to TIF WINNER STAGE",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 194,
@@ -2392,7 +2403,8 @@
         149,
         136
       ],
-      "title": "プロ野球大好き部 真夏の球愛かっとばせ！〜セ・リーグ編〜"
+      "title": "プロ野球大好き部 真夏の球愛かっとばせ！〜セ・リーグ編〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 195,
@@ -2409,7 +2421,8 @@
         152,
         154
       ],
-      "title": "歌声喫茶“みてい”"
+      "title": "歌声喫茶“みてい”",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 196,
@@ -2426,7 +2439,8 @@
       "artId": 163,
       "stageId": 7,
       "type": "ライブ",
-      "title": "乃木坂46のオールナイトニッポン in TIF"
+      "title": "乃木坂46のオールナイトニッポン in TIF",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 198,

@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 5,
+  "jsonVersion": 6,
   "notificationVersion": "2",
   "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -726,7 +726,8 @@
         63,
         68
       ],
-      "title": "Tシャツ着用者限定ステージ PEAK SPOT DAY"
+      "title": "Tシャツ着用者限定ステージ PEAK SPOT DAY",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 1,
@@ -754,7 +755,8 @@
         75,
         106
       ],
-      "title": "くまま × 虹のコンキスタドール"
+      "title": "くまま × 虹のコンキスタドール",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 3,
@@ -768,7 +770,8 @@
         68,
         86
       ],
-      "title": "にしたんクリニック タンバリンダンス選手権"
+      "title": "にしたんクリニック タンバリンダンス選手権",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 4,
@@ -782,7 +785,8 @@
         47,
         83
       ],
-      "title": "IDOL SUMMER JAMBOREE DAY１"
+      "title": "IDOL SUMMER JAMBOREE DAY１",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 5,
@@ -824,7 +828,8 @@
         99,
         98
       ],
-      "title": "超アイドルアワード2026ステージ"
+      "title": "超アイドルアワード2026ステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 8,
@@ -837,7 +842,8 @@
         75,
         111
       ],
-      "title": "くまま × 高嶺のなでしこ"
+      "title": "くまま × 高嶺のなでしこ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 9,
@@ -1109,7 +1115,8 @@
         64,
         96
       ],
-      "title": "TIF2026 グランドオープニング"
+      "title": "TIF2026 グランドオープニング",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 42,
@@ -1187,7 +1194,8 @@
         63,
         159
       ],
-      "title": "灼熱！真夏のアイドルメドレー 〜A-RIN BEYOND THE LIMIT〜"
+      "title": "灼熱！真夏のアイドルメドレー 〜A-RIN BEYOND THE LIMIT〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 50,
@@ -1977,7 +1985,8 @@
         49,
         12
       ],
-      "title": "DJ KOO × IDOL DO DANCE PARTY"
+      "title": "DJ KOO × IDOL DO DANCE PARTY",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 148,
@@ -2225,7 +2234,8 @@
         130,
         135
       ],
-      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜"
+      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 178,
@@ -2239,7 +2249,8 @@
         154,
         121
       ],
-      "title": "TIF2026×ミクチャ タテドラ受賞者お披露目ステージ"
+      "title": "TIF2026×ミクチャ タテドラ受賞者お披露目ステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 179,
@@ -2253,7 +2264,8 @@
         117,
         147
       ],
-      "title": "TIF2026×ミクチャ andGIRL受賞者お披露目ステージ"
+      "title": "TIF2026×ミクチャ andGIRL受賞者お披露目ステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 180,
@@ -2272,7 +2284,8 @@
         132,
         122
       ],
-      "title": "アイドル歌会 TIF出張版"
+      "title": "アイドル歌会 TIF出張版",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 181,
@@ -2290,7 +2303,8 @@
         131,
         148
       ],
-      "title": "プロ野球大好き部 真夏の球愛かっとばせ！ 〜パ・リーグ編〜"
+      "title": "プロ野球大好き部 真夏の球愛かっとばせ！ 〜パ・リーグ編〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 182,
@@ -2305,7 +2319,8 @@
         134,
         119
       ],
-      "title": "【教育番組】教育ラジオ in TIF2026"
+      "title": "【教育番組】教育ラジオ in TIF2026",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 183,
@@ -2318,7 +2333,8 @@
         152,
         123
       ],
-      "title": "HKT48 6期⽣‧7期⽣ ＆ NGT48 4期⽣‧5期⽣ × TIF2026ステージ争奪イベント WINNER STAGE"
+      "title": "HKT48 6期⽣‧7期⽣ ＆ NGT48 4期⽣‧5期⽣ × TIF2026ステージ争奪イベント WINNER STAGE",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 184,
@@ -2335,7 +2351,8 @@
         114,
         144
       ],
-      "title": "LOVE&PEACE TIFプロレス2026 トークステージ"
+      "title": "LOVE&PEACE TIFプロレス2026 トークステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 185,
@@ -2356,7 +2373,8 @@
         157,
         125
       ],
-      "title": "黒川在庫処分センター〜物販クロ歴史"
+      "title": "黒川在庫処分センター〜物販クロ歴史",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 186,

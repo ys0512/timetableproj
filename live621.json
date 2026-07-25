@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 5,
+  "jsonVersion": 6,
   "notificationVersion": "2",
   "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -737,7 +737,8 @@
         61,
         30
       ],
-      "title": "iLiFE! × NEO JAPONISM"
+      "title": "iLiFE! × NEO JAPONISM",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 1,
@@ -751,7 +752,8 @@
         24,
         108
       ],
-      "title": "Tシャツ着用者限定ステージ HEROINES DAY"
+      "title": "Tシャツ着用者限定ステージ HEROINES DAY",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 2,
@@ -771,7 +773,8 @@
         7,
         119
       ],
-      "title": "TIF ASIA TOUR 2026 スペシャルライブステージ"
+      "title": "TIF ASIA TOUR 2026 スペシャルライブステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 3,
@@ -785,7 +788,8 @@
         25,
         90
       ],
-      "title": "にしたんクリニック タンバリンダンス選手権"
+      "title": "にしたんクリニック タンバリンダンス選手権",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 4,
@@ -819,7 +823,8 @@
         109,
         126
       ],
-      "title": "IDOL SUMMER JAMBOREE  ACOUSTIC"
+      "title": "IDOL SUMMER JAMBOREE  ACOUSTIC",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 6,
@@ -2257,7 +2262,8 @@
         134,
         131
       ],
-      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜"
+      "title": "TIFで起きた朝は 〜今日ここ行きタイッテ！〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 184,
@@ -2270,7 +2276,8 @@
         147,
         156
       ],
-      "title": "アイふた in TIF出張版"
+      "title": "アイふた in TIF出張版",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 185,
@@ -2290,7 +2297,8 @@
         140,
         139
       ],
-      "title": "ぐんまちゃんアイドルフェスティバル 特別企画"
+      "title": "ぐんまちゃんアイドルフェスティバル 特別企画",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 186,
@@ -2304,7 +2312,8 @@
         130,
         37
       ],
-      "title": "TIF学園祭スペシャルトークステージ"
+      "title": "TIF学園祭スペシャルトークステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 187,
@@ -2313,7 +2322,8 @@
       "artId": 50,
       "stageId": 7,
       "type": "ライブ",
-      "title": "Taskと乾杯！Yakultステージ"
+      "title": "Taskと乾杯！Yakultステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 188,
@@ -2322,7 +2332,8 @@
       "artId": 3,
       "stageId": 7,
       "type": "ライブ",
-      "title": "Appare!と乾杯！Yakultステージ"
+      "title": "Appare!と乾杯！Yakultステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 189,
@@ -2342,7 +2353,8 @@
         157,
         143
       ],
-      "title": "Jリーグ大好き部 〜開幕直前 みんなでJ〜"
+      "title": "Jリーグ大好き部 〜開幕直前 みんなでJ〜",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 190,
@@ -2360,7 +2372,8 @@
         36,
         22
       ],
-      "title": "TIF ASIA TOUR 2026 スペシャルトークステージ"
+      "title": "TIF ASIA TOUR 2026 スペシャルトークステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 191,
