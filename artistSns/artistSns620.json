@@ -1,0 +1,1592 @@
+{
+  "version": 1,
+  "artists": {
+    "#Mooove!": [
+      {
+        "type": "x",
+        "data": "Moooveworld",
+        "url": "https://x.com/Moooveworld"
+      }
+    ],
+    "#よーよーよー": [
+      {
+        "type": "x",
+        "data": "yoyoyo01f",
+        "url": "https://x.com/yoyoyo01f"
+      }
+    ],
+    "AKB48": [
+      {
+        "type": "x",
+        "data": "AKB48_staff",
+        "url": "https://x.com/AKB48_staff"
+      }
+    ],
+    "AOAO": [
+      {
+        "type": "x",
+        "data": "AOAO_info",
+        "url": "https://x.com/AOAO_info"
+      }
+    ],
+    "AVAM": [
+      {
+        "type": "x",
+        "data": "AVAM_Official",
+        "url": "https://x.com/AVAM_Official"
+      }
+    ],
+    "Appare!": [
+      {
+        "type": "x",
+        "data": "official_appare",
+        "url": "https://x.com/official_appare"
+      }
+    ],
+    "AsIs": [
+      {
+        "type": "x",
+        "data": "AsIs_OFC",
+        "url": "https://x.com/AsIs_OFC"
+      }
+    ],
+    "BNSI": [
+      {
+        "type": "x",
+        "data": "BNSI_official",
+        "url": "https://x.com/BNSI_official"
+      }
+    ],
+    "CANDY TUNE": [
+      {
+        "type": "x",
+        "data": "CANDY_TUNE_",
+        "url": "https://x.com/CANDY_TUNE_"
+      }
+    ],
+    "CUTIE STREET": [
+      {
+        "type": "x",
+        "data": "CUTIE_STREET_",
+        "url": "https://x.com/CUTIE_STREET_"
+      }
+    ],
+    "Devil ANTHEM.": [
+      {
+        "type": "x",
+        "data": "devilanthem",
+        "url": "https://x.com/devilanthem"
+      }
+    ],
+    "FES☆TIVE": [
+      {
+        "type": "x",
+        "data": "FESTIVEofficial",
+        "url": "https://x.com/FESTIVEofficial"
+      }
+    ],
+    "FULIT BOX": [
+      {
+        "type": "x",
+        "data": "FULITBOX",
+        "url": "https://x.com/FULITBOX"
+      }
+    ],
+    "HIBANA": [
+      {
+        "type": "x",
+        "data": "HBN_187",
+        "url": "https://x.com/HBN_187"
+      }
+    ],
+    "HKT48": [
+      {
+        "type": "x",
+        "data": "hkt48_official_",
+        "url": "https://x.com/hkt48_official_"
+      }
+    ],
+    "HzMe": [
+      {
+        "type": "x",
+        "data": "hzme_official",
+        "url": "https://x.com/hzme_official"
+      }
+    ],
+    "INUWASI": [
+      {
+        "type": "x",
+        "data": "INUWASI_O",
+        "url": "https://x.com/INUWASI_O"
+      }
+    ],
+    "Jams Collection": [
+      {
+        "type": "x",
+        "data": "JamsCollection",
+        "url": "https://x.com/JamsCollection"
+      }
+    ],
+    "Juice=Juice": [
+      {
+        "type": "x",
+        "data": "JuiceJuice_uf",
+        "url": "https://x.com/JuiceJuice_uf"
+      }
+    ],
+    "KAWAII LAB. MATES": [
+      {
+        "type": "x",
+        "data": "KAWAII__LAB",
+        "url": "https://x.com/KAWAII__LAB"
+      }
+    ],
+    "KAWAII LAB. SOUTH": [
+      {
+        "type": "x",
+        "data": "KAWAII__LAB",
+        "url": "https://x.com/KAWAII__LAB"
+      }
+    ],
+    "KiiiKiii": [
+      {
+        "type": "x",
+        "data": "We_KiiiKiii_JP",
+        "url": "https://x.com/We_KiiiKiii_JP"
+      }
+    ],
+    "LinQ": [
+      {
+        "type": "x",
+        "data": "LinQ_official",
+        "url": "https://x.com/LinQ_official"
+      }
+    ],
+    "MAGICAL SPEC": [
+      {
+        "type": "x",
+        "data": "MAGICALSPEC",
+        "url": "https://x.com/MAGICALSPEC"
+      }
+    ],
+    "MEGAFON": [
+      {
+        "type": "x",
+        "data": "MEGAFON_idol",
+        "url": "https://x.com/MEGAFON_idol"
+      }
+    ],
+    "MORE STAR": [
+      {
+        "type": "x",
+        "data": "MORE_STAR_",
+        "url": "https://x.com/MORE_STAR_"
+      }
+    ],
+    "Ma'Scar'Piece": [
+      {
+        "type": "x",
+        "data": "mascarpiece",
+        "url": "https://x.com/mascarpiece"
+      }
+    ],
+    "Merry BAD TUNE.": [
+      {
+        "type": "x",
+        "data": "merrybadtune",
+        "url": "https://x.com/merrybadtune"
+      }
+    ],
+    "Mirror,Mirror": [
+      {
+        "type": "x",
+        "data": "MirrorMirror_V",
+        "url": "https://x.com/MirrorMirror_V"
+      }
+    ],
+    "MyDearDarlin'": [
+      {
+        "type": "x",
+        "data": "MyDear_official",
+        "url": "https://x.com/MyDear_official"
+      }
+    ],
+    "NANIMONO": [
+      {
+        "type": "x",
+        "data": "NANIMONO_idol",
+        "url": "https://x.com/NANIMONO_idol"
+      }
+    ],
+    "NEO JAPONISM": [
+      {
+        "type": "x",
+        "data": "NEOJAPONISMinfo",
+        "url": "https://x.com/NEOJAPONISMinfo"
+      }
+    ],
+    "NGT48": [
+      {
+        "type": "x",
+        "data": "official_NGT48",
+        "url": "https://x.com/official_NGT48"
+      }
+    ],
+    "NUANCE": [
+      {
+        "type": "x",
+        "data": "nuance_official",
+        "url": "https://x.com/nuance_official"
+      }
+    ],
+    "OCHA NORMA": [
+      {
+        "type": "x",
+        "data": "ocha_norma",
+        "url": "https://x.com/ocha_norma"
+      }
+    ],
+    "PIGGS": [
+      {
+        "type": "x",
+        "data": "PIGGS_idol",
+        "url": "https://x.com/PIGGS_idol"
+      }
+    ],
+    "PassCode": [
+      {
+        "type": "x",
+        "data": "passcodeO",
+        "url": "https://x.com/passcodeO"
+      }
+    ],
+    "Peel the Apple": [
+      {
+        "type": "x",
+        "data": "PtA_staff",
+        "url": "https://x.com/PtA_staff"
+      }
+    ],
+    "Pixel Ribbon": [
+      {
+        "type": "x",
+        "data": "pixel_ribbon",
+        "url": "https://x.com/pixel_ribbon"
+      }
+    ],
+    "RAViDAVi": [
+      {
+        "type": "x",
+        "data": "RAViDAVi_info",
+        "url": "https://x.com/RAViDAVi_info"
+      }
+    ],
+    "ROOKEY♡ROOKEYS": [
+      {
+        "type": "x",
+        "data": "ROOKEYROOKEYS",
+        "url": "https://x.com/ROOKEYROOKEYS"
+      }
+    ],
+    "RiNCENT♯": [
+      {
+        "type": "x",
+        "data": "rincent_idol",
+        "url": "https://x.com/rincent_idol"
+      }
+    ],
+    "Ringwanderung": [
+      {
+        "type": "x",
+        "data": "RWR__OFFICIAL",
+        "url": "https://x.com/RWR__OFFICIAL"
+      }
+    ],
+    "SEKAIE☆": [
+      {
+        "type": "x",
+        "data": "SEKAIEofficial",
+        "url": "https://x.com/SEKAIEofficial"
+      }
+    ],
+    "SITUASION": [
+      {
+        "type": "x",
+        "data": "SITUASION_INFO",
+        "url": "https://x.com/SITUASION_INFO"
+      }
+    ],
+    "STAiNY": [
+      {
+        "type": "x",
+        "data": "STAiNY_official",
+        "url": "https://x.com/STAiNY_official"
+      }
+    ],
+    "SUPER☆GiRLS": [
+      {
+        "type": "x",
+        "data": "SUPERGiRLS_AMG",
+        "url": "https://x.com/SUPERGiRLS_AMG"
+      }
+    ],
+    "SWEET STEADY": [
+      {
+        "type": "x",
+        "data": "SWEET_STEADY",
+        "url": "https://x.com/SWEET_STEADY"
+      }
+    ],
+    "Sepiacode": [
+      {
+        "type": "x",
+        "data": "Sepiacode",
+        "url": "https://x.com/Sepiacode"
+      }
+    ],
+    "Sparkling Eyes": [
+      {
+        "type": "x",
+        "data": "SparklingEyes_T",
+        "url": "https://x.com/SparklingEyes_T"
+      }
+    ],
+    "Sweet Alley": [
+      {
+        "type": "x",
+        "data": "SweetAlley_info",
+        "url": "https://x.com/SweetAlley_info"
+      }
+    ],
+    "TENRIN": [
+      {
+        "type": "x",
+        "data": "TENRIN_official",
+        "url": "https://x.com/TENRIN_official"
+      }
+    ],
+    "THE ENCORE": [
+      {
+        "type": "x",
+        "data": "TheEncore_info",
+        "url": "https://x.com/TheEncore_info"
+      }
+    ],
+    "Tohkei": [
+      {
+        "type": "x",
+        "data": "Tohkei_info",
+        "url": "https://x.com/Tohkei_info"
+      }
+    ],
+    "Toi Toi Toi": [
+      {
+        "type": "x",
+        "data": "toitoitoi_staff",
+        "url": "https://x.com/toitoitoi_staff"
+      }
+    ],
+    "UtaGe!": [
+      {
+        "type": "x",
+        "data": "info_UtaGe",
+        "url": "https://x.com/info_UtaGe"
+      }
+    ],
+    "W.ダブルヴィー": [
+      {
+        "type": "x",
+        "data": "w__official",
+        "url": "https://x.com/w__official"
+      }
+    ],
+    "WHITE SCORPION": [
+      {
+        "type": "x",
+        "data": "whsp_official",
+        "url": "https://x.com/whsp_official"
+      }
+    ],
+    "chuLa": [
+      {
+        "type": "x",
+        "data": "chuLa_official",
+        "url": "https://x.com/chuLa_official"
+      }
+    ],
+    "fav me": [
+      {
+        "type": "x",
+        "data": "_fav_me_",
+        "url": "https://x.com/_fav_me_"
+      }
+    ],
+    "feelNEO": [
+      {
+        "type": "x",
+        "data": "feelhugpro",
+        "url": "https://x.com/feelhugpro"
+      }
+    ],
+    "hakanai": [
+      {
+        "type": "x",
+        "data": "hakanai_story",
+        "url": "https://x.com/hakanai_story"
+      }
+    ],
+    "himawari(船橋)": [
+      {
+        "type": "x",
+        "data": "funabashiidol",
+        "url": "https://x.com/funabashiidol"
+      }
+    ],
+    "iON!": [
+      {
+        "type": "x",
+        "data": "iON_idol_",
+        "url": "https://x.com/iON_idol_"
+      }
+    ],
+    "log you": [
+      {
+        "type": "x",
+        "data": "_log_you_",
+        "url": "https://x.com/_log_you_"
+      }
+    ],
+    "myojou": [
+      {
+        "type": "x",
+        "data": "info_myojou",
+        "url": "https://x.com/info_myojou"
+      }
+    ],
+    "selfish": [
+      {
+        "type": "x",
+        "data": "selfish_staff",
+        "url": "https://x.com/selfish_staff"
+      }
+    ],
+    "いぎなり東北産": [
+      {
+        "type": "x",
+        "data": "madeintohoku",
+        "url": "https://x.com/madeintohoku"
+      }
+    ],
+    "いちごみるく色に染まりたい。": [
+      {
+        "type": "x",
+        "data": "ichigomilk_iro",
+        "url": "https://x.com/ichigomilk_iro"
+      }
+    ],
+    "かすみ草とステラ": [
+      {
+        "type": "x",
+        "data": "Kastella_OFC",
+        "url": "https://x.com/Kastella_OFC"
+      }
+    ],
+    "きゅるりんってしてみて": [
+      {
+        "type": "x",
+        "data": "KYURUSHITE",
+        "url": "https://x.com/KYURUSHITE"
+      }
+    ],
+    "くまま": [
+    ],
+    "こみっきゅおん！": [
+      {
+        "type": "x",
+        "data": "comiqon",
+        "url": "https://x.com/comiqon"
+      }
+    ],
+    "なみだ色の消しごむ": [
+      {
+        "type": "x",
+        "data": "namikeshi_info",
+        "url": "https://x.com/namikeshi_info"
+      }
+    ],
+    "のんふぃく！": [
+      {
+        "type": "x",
+        "data": "nonfic_official",
+        "url": "https://x.com/nonfic_official"
+      }
+    ],
+    "びっくえんじぇる": [
+      {
+        "type": "x",
+        "data": "big_angel5",
+        "url": "https://x.com/big_angel5"
+      }
+    ],
+    "キングサリ": [
+      {
+        "type": "x",
+        "data": "kingsari_0430",
+        "url": "https://x.com/kingsari_0430"
+      }
+    ],
+    "クマリデパート": [
+      {
+        "type": "x",
+        "data": "qumalidepart",
+        "url": "https://x.com/qumalidepart"
+      }
+    ],
+    "シンデレラ宣言！": [
+      {
+        "type": "x",
+        "data": "cinsen_official",
+        "url": "https://x.com/cinsen_official"
+      }
+    ],
+    "ジエメイ": [
+      {
+        "type": "x",
+        "data": "jiemei_idol",
+        "url": "https://x.com/jiemei_idol"
+      }
+    ],
+    "タイトル未定": [
+      {
+        "type": "x",
+        "data": "MiteiTitle",
+        "url": "https://x.com/MiteiTitle"
+      }
+    ],
+    "テンシンランマン": [
+      {
+        "type": "x",
+        "data": "tenran_official",
+        "url": "https://x.com/tenran_official"
+      }
+    ],
+    "ドラマチックレコード": [
+      {
+        "type": "x",
+        "data": "DMRC_info",
+        "url": "https://x.com/DMRC_info"
+      }
+    ],
+    "ドレスコード": [
+      {
+        "type": "x",
+        "data": "dreco_info",
+        "url": "https://x.com/dreco_info"
+      }
+    ],
+    "ファーストプレイリスト": [
+      {
+        "type": "x",
+        "data": "FP_OFC_",
+        "url": "https://x.com/FP_OFC_"
+      }
+    ],
+    "フューチャーサイダー": [
+      {
+        "type": "x",
+        "data": "chaider_info",
+        "url": "https://x.com/chaider_info"
+      }
+    ],
+    "ラフ×ラフ": [
+      {
+        "type": "x",
+        "data": "roughlaugh_o",
+        "url": "https://x.com/roughlaugh_o"
+      }
+    ],
+    "ワガママなラストノート": [
+      {
+        "type": "x",
+        "data": "wgln_info",
+        "url": "https://x.com/wgln_info"
+      }
+    ],
+    "佐々木彩夏（ももいろクローバーZ）": [],
+    "可憐なアイボリー": [
+      {
+        "type": "x",
+        "data": "karennaivory",
+        "url": "https://x.com/karennaivory"
+      }
+    ],
+    "君に、胸キュン。": [
+      {
+        "type": "x",
+        "data": "kimikyun_office",
+        "url": "https://x.com/kimikyun_office"
+      }
+    ],
+    "夜光性アミューズ": [
+      {
+        "type": "x",
+        "data": "Yoruamiofficial",
+        "url": "https://x.com/Yoruamiofficial"
+      }
+    ],
+    "愛乙女★DOLL": [
+      {
+        "type": "x",
+        "data": "lovelydoll_jp",
+        "url": "https://x.com/lovelydoll_jp"
+      }
+    ],
+    "最終未来少女": [
+      {
+        "type": "x",
+        "data": "SMS__Press",
+        "url": "https://x.com/SMS__Press"
+      }
+    ],
+    "有村南海(LinQ)": [],
+    "有栖なのは(アイドル革命)": [],
+    "櫻井優衣": [
+      {
+        "type": "x",
+        "data": "yui_fz0221",
+        "url": "https://x.com/yui_fz0221"
+      }
+    ],
+    "永松波留(ラフ×ラフ)": [],
+    "点染テンセイ少女。": [
+      {
+        "type": "x",
+        "data": "tenten_info",
+        "url": "https://x.com/tenten_info"
+      }
+    ],
+    "真白美央(Pixel Ribbon)": [],
+    "瞬きもせず": [
+      {
+        "type": "x",
+        "data": "mabataki_info",
+        "url": "https://x.com/mabataki_info"
+      }
+    ],
+    "私立恵比寿中学": [
+      {
+        "type": "x",
+        "data": "ebichu_staff",
+        "url": "https://x.com/ebichu_staff"
+      }
+    ],
+    "虹のコンキスタドール": [
+      {
+        "type": "x",
+        "data": "2zicon",
+        "url": "https://x.com/2zicon"
+      }
+    ],
+    "超ときめき♡宣伝部": [
+      {
+        "type": "x",
+        "data": "sendenbu_staff",
+        "url": "https://x.com/sendenbu_staff"
+      }
+    ],
+    "透色ドロップ": [
+      {
+        "type": "x",
+        "data": "sukiiro_drop",
+        "url": "https://x.com/sukiiro_drop"
+      }
+    ],
+    "限りなく白く": [
+      {
+        "type": "x",
+        "data": "HOKKAIDO__IDOL",
+        "url": "https://x.com/HOKKAIDO__IDOL"
+      }
+    ],
+    "風男塾": [
+      {
+        "type": "x",
+        "data": "fudan_juku",
+        "url": "https://x.com/fudan_juku"
+      }
+    ],
+    "高嶺のなでしこ": [
+      {
+        "type": "x",
+        "data": "takanenofficial",
+        "url": "https://x.com/takanenofficial"
+      }
+    ],
+    "黒瀬美蘭(Re:♡)": [],
+    "MORE*": [
+      {
+        "type": "x",
+        "data": "_MORE_official",
+        "url": "https://x.com/_MORE_official"
+      }
+    ],
+    "Mashiro(KLP48)": [],
+    "NEFRALISE": [
+      {
+        "type": "x",
+        "data": "NEFRALISE",
+        "url": "https://x.com/NEFRALISE"
+      }
+    ],
+    "みゆう(UtaGe!)": [],
+    "スナックうめ子": [],
+    "三栗なの(さとりモンスター)": [],
+    "俵万智(リモート出演)・笹公人": [],
+    "北澤百音(NGT48)": [],
+    "双葉しおり(コングラッチェ！)": [],
+    "吉村萌南(ラフ×ラフ)": [],
+    "土屋玲実(可憐なアイボリー)": [],
+    "塩澤みさき(AOAO)": [],
+    "大森莉緒(Ma'Scar'Piece)": [],
+    "山下彩耶(タイトル未定)": [],
+    "川端優(虹のコンキスタドール)": [],
+    "市村愛里(HKT48)": [],
+    "律月ひかる(いぎなり東北産)": [],
+    "成瀬ももか(虹色の飛行少女)": [],
+    "新居歩美(ドラマチックレコード)": [],
+    "日比野芽奈(ラフ×ラフ)": [],
+    "望月唯織(なみだ色の消しごむ)": [],
+    "本気すず(RiNCENT♯)": [],
+    "東山恵里沙(高嶺のなでしこ)": [],
+    "沖口優奈": [
+      {
+        "type": "x",
+        "data": "YunaOkiguchiBox",
+        "url": "https://x.com/YunaOkiguchiBox"
+      }
+    ],
+    "河瀬詩(22/7)": [],
+    "海月らな(LinQ)": [],
+    "灯田にじ(パラディーク)": [],
+    "琴川あみ(FULIT BOX)": [],
+    "的場華鈴(虹のコンキスタドール)": [],
+    "福田ひなた(可憐なアイボリー)": [],
+    "羽賀うるな(UtaGe!)": [],
+    "茅野風花(KRD8)": [],
+    "葉月結菜(いぎなり東北産)": [],
+    "藍沢未羽(限りなく白く)": [],
+    "鍛治島彩(アップアップガールズ（２）)": [],
+    "長島優月(いちごみるく色に染まりたい。)": [],
+    "長野らら(HKT48)": [],
+    "隈本茉莉奈(虹のコンキスタドール)": [],
+    "雛月ひな(パラディーク)": [],
+    "青柳佑芽(アップアップガールズ（仮）)": [],
+    "黎鮫ワナ(ジエメイ)": [],
+    "齋藤有紗(ラフ×ラフ)": [],
+    "小泉遥香(超ときめき♡宣伝部)": [],
+    "スタープラネットアイドルアカデミー": [
+      {
+        "type": "x",
+        "data": "starpla_academy",
+        "url": "https://x.com/starpla_academy"
+      }
+    ],
+    "@onefive": [
+      {
+        "type": "x",
+        "data": "onefive_music",
+        "url": "https://x.com/onefive_music"
+      }
+    ],
+    "AdamLilith": [
+      {
+        "type": "x",
+        "data": "Adamth_official",
+        "url": "https://x.com/Adamth_official"
+      }
+    ],
+    "Axelight": [
+      {
+        "type": "x",
+        "data": "axlt_official",
+        "url": "https://x.com/axlt_official"
+      }
+    ],
+    "CYBERJAPAN DANCERS": [
+      {
+        "type": "x",
+        "data": "cyberjapantv",
+        "url": "https://x.com/cyberjapantv"
+      }
+    ],
+    "CYNHN": [
+      {
+        "type": "x",
+        "data": "CYNHN_DS",
+        "url": "https://x.com/CYNHN_DS"
+      }
+    ],
+    "ChumToto": [
+      {
+        "type": "x",
+        "data": "chum_toto",
+        "url": "https://x.com/chum_toto"
+      }
+    ],
+    "CiON": [
+      {
+        "type": "x",
+        "data": "c_on_official",
+        "url": "https://x.com/c_on_official"
+      }
+    ],
+    "Falench.": [
+      {
+        "type": "x",
+        "data": "falench_idol",
+        "url": "https://x.com/falench_idol"
+      }
+    ],
+    "Ill": [
+      {
+        "type": "x",
+        "data": "Ill_Idol",
+        "url": "https://x.com/Ill_Idol"
+      }
+    ],
+    "KLP48": [
+      {
+        "type": "x",
+        "data": "KLP48official",
+        "url": "https://x.com/KLP48official"
+      }
+    ],
+    "Kolokol": [
+      {
+        "type": "x",
+        "data": "klkl_official",
+        "url": "https://x.com/klkl_official"
+      }
+    ],
+    "Luce Twinkle Wink☆": [
+      {
+        "type": "x",
+        "data": "Luce_TW",
+        "url": "https://x.com/Luce_TW"
+      }
+    ],
+    "NEKIRU": [
+      {
+        "type": "x",
+        "data": "NEKIRU_Official",
+        "url": "https://x.com/NEKIRU_Official"
+      }
+    ],
+    "Onephony": [
+      {
+        "type": "x",
+        "data": "onephony_",
+        "url": "https://x.com/onephony_"
+      }
+    ],
+    "Palette Parade": [
+      {
+        "type": "x",
+        "data": "O_PaletteParade",
+        "url": "https://x.com/O_PaletteParade"
+      }
+    ],
+    "Pastel Closet": [
+      {
+        "type": "x",
+        "data": "Pasclo_official",
+        "url": "https://x.com/Pasclo_official"
+      }
+    ],
+    "Primulav": [
+      {
+        "type": "x",
+        "data": "Primulav_TWidol",
+        "url": "https://x.com/Primulav_TWidol"
+      }
+    ],
+    "Rain Tree": [
+      {
+        "type": "x",
+        "data": "RainTree_RT",
+        "url": "https://x.com/RainTree_RT"
+      }
+    ],
+    "SKE48": [
+      {
+        "type": "x",
+        "data": "ske48official",
+        "url": "https://x.com/ske48official"
+      }
+    ],
+    "THE ORCHESTRA TOKYO": [
+      {
+        "type": "x",
+        "data": "OrchestraTokyo",
+        "url": "https://x.com/OrchestraTokyo"
+      }
+    ],
+    "Task have Fun": [
+      {
+        "type": "x",
+        "data": "TaskhaveFun_ST",
+        "url": "https://x.com/TaskhaveFun_ST"
+      }
+    ],
+    "buGG": [
+      {
+        "type": "x",
+        "data": "buGG_idol",
+        "url": "https://x.com/buGG_idol"
+      }
+    ],
+    "fishbowl": [
+      {
+        "type": "x",
+        "data": "fishbowl2021",
+        "url": "https://x.com/fishbowl2021"
+      }
+    ],
+    "i-COL": [
+      {
+        "type": "x",
+        "data": "icol_official",
+        "url": "https://x.com/icol_official"
+      }
+    ],
+    "iLiFE!": [
+      {
+        "type": "x",
+        "data": "iLiFE_official",
+        "url": "https://x.com/iLiFE_official"
+      }
+    ],
+    "i☆Ris": [
+      {
+        "type": "x",
+        "data": "iris_official_",
+        "url": "https://x.com/iris_official_"
+      }
+    ],
+    "zanka": [
+      {
+        "type": "x",
+        "data": "zanka_info",
+        "url": "https://x.com/zanka_info"
+      }
+    ],
+    "≒JOY": [
+      {
+        "type": "x",
+        "data": "Nearlyequal_joy",
+        "url": "https://x.com/Nearlyequal_joy"
+      }
+    ],
+    "≠ME": [
+      {
+        "type": "x",
+        "data": "Notequal_ME",
+        "url": "https://x.com/Notequal_ME"
+      }
+    ],
+    "きのホ。": [
+      {
+        "type": "x",
+        "data": "kinopo_idol",
+        "url": "https://x.com/kinopo_idol"
+      }
+    ],
+    "きらら(feelNEO)": [],
+    "さとりモンスター": [
+      {
+        "type": "x",
+        "data": "info_satomon",
+        "url": "https://x.com/info_satomon"
+      }
+    ],
+    "さよならステイチューン": [
+      {
+        "type": "x",
+        "data": "sayostay",
+        "url": "https://x.com/sayostay"
+      }
+    ],
+    "すーぱーぷーばぁー!!": [
+      {
+        "type": "x",
+        "data": "_superpouvoir",
+        "url": "https://x.com/_superpouvoir"
+      }
+    ],
+    "つばきファクトリー": [
+      {
+        "type": "x",
+        "data": "tsubakifac_uf",
+        "url": "https://x.com/tsubakifac_uf"
+      }
+    ],
+    "ばってん少女隊": [
+      {
+        "type": "x",
+        "data": "battengirls_jp",
+        "url": "https://x.com/battengirls_jp"
+      }
+    ],
+    "まねきケチャ": [
+      {
+        "type": "x",
+        "data": "maneki_kecak",
+        "url": "https://x.com/maneki_kecak"
+      }
+    ],
+    "わーすた": [
+      {
+        "type": "x",
+        "data": "tws_staff",
+        "url": "https://x.com/tws_staff"
+      }
+    ],
+    "アイテムはてるてるのみ": [
+      {
+        "type": "x",
+        "data": "teruteru_OFC",
+        "url": "https://x.com/teruteru_OFC"
+      }
+    ],
+    "アップアップガールズ（2）": [
+      {
+        "type": "x",
+        "data": "uug2official",
+        "url": "https://x.com/uug2official"
+      }
+    ],
+    "アップアップガールズ（仮）": [
+      {
+        "type": "x",
+        "data": "uugirlsofficial",
+        "url": "https://x.com/uugirlsofficial"
+      }
+    ],
+    "アンスリューム": [
+      {
+        "type": "x",
+        "data": "anthurium0317",
+        "url": "https://x.com/anthurium0317"
+      }
+    ],
+    "カフェオーレ（乃木坂46　五百城茉央＆奥田いろは）": [],
+    "カラフルスクリーム": [
+      {
+        "type": "x",
+        "data": "colorful_scream",
+        "url": "https://x.com/colorful_scream"
+      }
+    ],
+    "シャニムニ=パレード": [
+      {
+        "type": "x",
+        "data": "ShanimuniParade",
+        "url": "https://x.com/ShanimuniParade"
+      }
+    ],
+    "ナナコロビヤオキ": [
+      {
+        "type": "x",
+        "data": "nanakoro_info",
+        "url": "https://x.com/nanakoro_info"
+      }
+    ],
+    "ネコプラpixx.": [
+      {
+        "type": "x",
+        "data": "NECOPLASTIC",
+        "url": "https://x.com/NECOPLASTIC"
+      }
+    ],
+    "ハルニシオン": [
+      {
+        "type": "x",
+        "data": "info_HNS",
+        "url": "https://x.com/info_HNS"
+      }
+    ],
+    "メイビーME": [
+      {
+        "type": "x",
+        "data": "MAYBEME0707",
+        "url": "https://x.com/MAYBEME0707"
+      }
+    ],
+    "ラストシーン": [
+      {
+        "type": "x",
+        "data": "LASTSCENE_idol",
+        "url": "https://x.com/LASTSCENE_idol"
+      }
+    ],
+    "ラナキュラ": [
+      {
+        "type": "x",
+        "data": "ranaqura_info",
+        "url": "https://x.com/ranaqura_info"
+      }
+    ],
+    "ロージークロニクル": [
+      {
+        "type": "x",
+        "data": "Rosy_Chronicle",
+        "url": "https://x.com/Rosy_Chronicle"
+      }
+    ],
+    "二丁目の魁カミングアウト": [
+      {
+        "type": "x",
+        "data": "sakigake_gay",
+        "url": "https://x.com/sakigake_gay"
+      }
+    ],
+    "佐藤倫子(Ringwanderung)": [],
+    "僕が見たかった青空": [
+      {
+        "type": "x",
+        "data": "BOKUAOofficial",
+        "url": "https://x.com/BOKUAOofficial"
+      }
+    ],
+    "冨樫優花(タイトル未定)": [],
+    "広瀬みのり(CYNHN)": [],
+    "後藤真希": [
+      {
+        "type": "x",
+        "data": "gotomaki923",
+        "url": "https://x.com/gotomaki923"
+      }
+    ],
+    "愛佳(CiON)": [],
+    "手羽先センセーション": [
+      {
+        "type": "x",
+        "data": "tebasen_info",
+        "url": "https://x.com/tebasen_info"
+      }
+    ],
+    "木苺FRUCTOSE": [      
+      {
+        "type": "x",
+        "data": "info_kiichigo",
+        "url": "https://x.com/info_kiichigo"
+      }
+    ],
+    "柳美舞(ばってん少女隊)": [],
+    "滝沢ひなの(NEO JAPONISM)": [],
+    "衛星とカラテア": [
+      {
+        "type": "x",
+        "data": "EiseiTo_Karatea",
+        "url": "https://x.com/EiseiTo_Karatea"
+      }
+    ],
+    "西原悠桜(可憐なアイボリー)": [],
+    "諸橋沙夏（＝LOVE）": [],
+    "高橋あきほ(Kolokol)": [],
+    "＝LOVE": [
+      {
+        "type": "x",
+        "data": "Equal_LOVE_12",
+        "url": "https://x.com/Equal_LOVE_12"
+      }
+    ],
+    "AOSTARIA": [
+      {
+        "type": "x",
+        "data": "AOSTARIA",
+        "url": "https://x.com/AOSTARIA"
+      }
+    ],
+    "Jewel☆Garden": [
+      {
+        "type": "x",
+        "data": "_JewelGarden_",
+        "url": "https://x.com/_JewelGarden_"
+      }
+    ],
+    "NATSU(WHITE SCORPION)": [],
+    "あやポン(feelNEO)": [],
+    "あゆり(feelNEO)": [],
+    "ポラリスマイル": [
+      {
+        "type": "x",
+        "data": "polarismile0530",
+        "url": "https://x.com/polarismile0530"
+      }
+    ],
+    "七瀬あい(FES☆TIVE)": [],
+    "与田理央那(FES☆TIVE)": [],
+    "伊吹うに(UtaGe!)": [],
+    "佐々木楓菜(ラフ×ラフ)": [],
+    "佐野心音(Peel the Apple)": [],
+    "凪咲楓(まねきケチャ)": [],
+    "咲乃ゆい(UtaGe!)": [],
+    "多田萌加(タイトル未定)": [],
+    "天宮けい(Peel the Apple)": [],
+    "宇佐美ことは(UtaGe!)": [],
+    "平澤芽衣(THE ORCHESTRA TOKYO)": [],
+    "廣川奈々聖(わーすた)": [],
+    "恩田つむぎ(ジエメイ)": [],
+    "新庄愛(メイビーME)": [],
+    "早瀬結実(まねきケチャ)": [],
+    "春瀬もも(衛星とカラテア)": [],
+    "森嶋あんり(ジエメイ)": [],
+    "楠ろあ(THE ORCHESTRA TOKYO)": [],
+    "永堀ゆめ(Appare!)": [],
+    "葵乃まみ": [
+      {
+        "type": "x",
+        "data": "aoino0105",
+        "url": "https://x.com/aoino0105"
+      }
+    ],
+    "豊永阿紀(HKT48)": [],
+    "22/7": [
+      {
+        "type": "x",
+        "data": "227_staff",
+        "url": "https://x.com/227_staff"
+      }
+    ],
+    "22/7_the 3rd": [],
+    "AQUAPLANET": [
+      {
+        "type": "x",
+        "data": "AQUAPLANET_IDOL",
+        "url": "https://x.com/AQUAPLANET_IDOL"
+      }
+    ],
+    "ExWHYZ": [
+      {
+        "type": "x",
+        "data": "ExWHYZ_official",
+        "url": "https://x.com/ExWHYZ_official"
+      }
+    ],
+    "GANG PARADE": [
+      {
+        "type": "x",
+        "data": "GANG_PARADE",
+        "url": "https://x.com/GANG_PARADE"
+      }
+    ],
+    "GILTY x GILTY": [
+      {
+        "type": "x",
+        "data": "GILTYxGILTY",
+        "url": "https://x.com/GILTYxGILTY"
+      }
+    ],
+    "Gran☆Ciel": [
+      {
+        "type": "x",
+        "data": "Gran_Ciel_0320",
+        "url": "https://x.com/Gran_Ciel_0320"
+      }
+    ],
+    "Hey!Mommy!": [
+      {
+        "type": "x",
+        "data": "heymommy123",
+        "url": "https://x.com/heymommy123"
+      }
+    ],
+    "IS:SUE": [
+      {
+        "type": "x",
+        "data": "issue_is_coming",
+        "url": "https://x.com/issue_is_coming"
+      }
+    ],
+    "KRD8": [
+      {
+        "type": "x",
+        "data": "KRD_08",
+        "url": "https://x.com/KRD_08"
+      }
+    ],
+    "KiSS KiSS": [
+      {
+        "type": "x",
+        "data": "KiSSKiSS_idol",
+        "url": "https://x.com/KiSSKiSS_idol"
+      }
+    ],
+    "LINKL PLANET": [
+      {
+        "type": "x",
+        "data": "plamogirls",
+        "url": "https://x.com/plamogirls"
+      }
+    ],
+    "Move Next Knot": [],
+    "My_Stage": [
+      {
+        "type": "x",
+        "data": "My_Stage_",
+        "url": "https://x.com/My_Stage_"
+      }
+    ],
+    "NMB48": [
+      {
+        "type": "x",
+        "data": "nmb48_official",
+        "url": "https://x.com/nmb48_official"
+      }
+    ],
+    "PRSMIN": [
+      {
+        "type": "x",
+        "data": "prsmin_info",
+        "url": "https://x.com/prsmin_info"
+      }
+    ],
+    "Quubi": [
+      {
+        "type": "x",
+        "data": "quubi_o",
+        "url": "https://x.com/quubi_o"
+      }
+    ],
+    "RE-GE": [
+      {
+        "type": "x",
+        "data": "rege__official",
+        "url": "https://x.com/rege__official"
+      }
+    ],
+    "Root mimi": [
+      {
+        "type": "x",
+        "data": "Root__mimi",
+        "url": "https://x.com/Root__mimi"
+      }
+    ],
+    "STU48": [
+      {
+        "type": "x",
+        "data": "STU48_official_",
+        "url": "https://x.com/STU48_official_"
+      }
+    ],
+    "YOLOZ": [
+      {
+        "type": "x",
+        "data": "YOLOZ_info",
+        "url": "https://x.com/YOLOZ_info"
+      }
+    ],
+    "yosugala": [
+      {
+        "type": "x",
+        "data": "yosugala_info",
+        "url": "https://x.com/yosugala_info"
+      }
+    ],
+    "α＋": [
+      {
+        "type": "x",
+        "data": "alphaplus_idol",
+        "url": "https://x.com/alphaplus_idol"
+      }
+    ],
+    "いにしえ永遠？": [
+      {
+        "type": "x",
+        "data": "inishietowa4",
+        "url": "https://x.com/inishietowa4"
+      }
+    ],
+    "すてねこキャッツ": [
+      {
+        "type": "x",
+        "data": "SUTENEKO_CATS",
+        "url": "https://x.com/SUTENEKO_CATS"
+      }
+    ],
+    "すべての瞬間は君だった。": [
+      {
+        "type": "x",
+        "data": "subekimi_info",
+        "url": "https://x.com/subekimi_info"
+      }
+    ],
+    "りんご娘": [
+      {
+        "type": "x",
+        "data": "ringomusic_sf",
+        "url": "https://x.com/ringomusic_sf"
+      }
+    ],
+    "アイドルカレッジ": [
+      {
+        "type": "x",
+        "data": "ic_idolcollege",
+        "url": "https://x.com/ic_idolcollege"
+      }
+    ],
+    "アルテミスの翼": [
+      {
+        "type": "x",
+        "data": "artemis_idol7",
+        "url": "https://x.com/artemis_idol7"
+      }
+    ],
+    "ウマ娘 プリティーダービー": [
+      {
+        "type": "x",
+        "data": "uma_musu",
+        "url": "https://x.com/uma_musu"
+      }
+    ],
+    "コングラッチェ！": [
+      {
+        "type": "x",
+        "data": "congrazie_R",
+        "url": "https://x.com/congrazie_R"
+      }
+    ],
+    "ハルカエコー": [
+      {
+        "type": "x",
+        "data": "HARUKAECHO_IDOL",
+        "url": "https://x.com/HARUKAECHO_IDOL"
+      }
+    ],
+    "パラディーク": [
+      {
+        "type": "x",
+        "data": "para_deeq",
+        "url": "https://x.com/para_deeq"
+      }
+    ],
+    "ファントムシータ": [
+      {
+        "type": "x",
+        "data": "PhantomSiita",
+        "url": "https://x.com/PhantomSiita"
+      }
+    ],
+    "フルコース": [
+      {
+        "type": "x",
+        "data": "FullCourse_idol",
+        "url": "https://x.com/FullCourse_idol"
+      }
+    ],
+    "ポンコツコンポ": [
+      {
+        "type": "x",
+        "data": "ponkotsukonpo",
+        "url": "https://x.com/ponkotsukonpo"
+      }
+    ],
+    "ミキティー本物": [
+      {
+        "type": "x",
+        "data": "mikity_sakigake",
+        "url": "https://x.com/mikity_sakigake"
+      }
+    ],
+    "ルージュブック": [
+      {
+        "type": "x",
+        "data": "rougebook_staff",
+        "url": "https://x.com/rougebook_staff"
+      }
+    ],
+    "ワッツ◎さーくる": [
+      {
+        "type": "x",
+        "data": "whatscircle",
+        "url": "https://x.com/whatscircle"
+      }
+    ],
+    "乃木坂46": [
+      {
+        "type": "x",
+        "data": "nogizaka46",
+        "url": "https://x.com/nogizaka46"
+      }
+    ],
+    "柏木由紀": [
+      {
+        "type": "x",
+        "data": "Yukiriiiin__K",
+        "url": "https://x.com/Yukiriiiin__K"
+      }
+    ],
+    "虹色の飛行少女": [
+      {
+        "type": "x",
+        "data": "nijihikoushojo",
+        "url": "https://x.com/nijihikoushojo"
+      }
+    ],
+    "豆柴の大群": [
+      {
+        "type": "x",
+        "data": "mameshiba_96",
+        "url": "https://x.com/mameshiba_96"
+      }
+    ],
+    "BYBBiT": [
+      {
+        "type": "x",
+        "data": "BYBBiT_STAFF",
+        "url": "https://x.com/BYBBiT_STAFF"
+      }
+    ],
+    "あみ乃(ラナキュラ)": [],
+    "ゆうか(カラフルスクリーム)": [],
+    "るーるる(Jams Collection)": [],
+    "ハレとハレ！": [
+      {
+        "type": "x",
+        "data": "_HARETOHARE",
+        "url": "https://x.com/_HARETOHARE"
+      }
+    ],
+    "佐倉あむ(キングサリ)": [],
+    "八木遥叶(虹のコンキスタドール)": [],
+    "大塚のりか(メイビーME)": [],
+    "如月優衣(愛乙女★DOLL)": [],
+    "寺嶋由芙(いにしえ永遠？)": [],
+    "川岸瑠那(fav me)": [],
+    "川菜光(かすみ草とステラ)": [],
+    "平山真衣(NMB48)": [],
+    "愛宮歌梨(さよならステイチューン)": [],
+    "春乃きいな(ばってん少女隊)": [],
+    "杉井みぃ(#よーよーよー)": [],
+    "桃乃あや(愛乙女★DOLL)": [],
+    "橘美空(可憐なアイボリー)": [],
+    "清水玲衣(selfish)": [],
+    "玖遠いのり(キングサリ)": [],
+    "甲斐心愛(STU48)": [],
+    "白浜つゆは(なみだ色の消しごむ)": [],
+    "相川奈央(22/7)": [],
+    "福田朱里(STU48)": [],
+    "籾山ひめり(高嶺のなでしこ)": [],
+    "青原優花(NMB48)": [],
+    "風宮ゆめ(アンスリューム)": [],
+    "高橋美羽(α＋)": [],
+    "黒木いろ(ラナキュラ)": [],
+    "岡腰星来(NMB48)": [],
+    "坂田心咲(NMB48)": [],
+    "塩月希依音(NMB48)": [],
+    "栞音(CiON)": [],
+    "松田美里(わーすた)": [],
+    "井上和(乃木坂46)": []
+  }
+}
