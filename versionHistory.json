@@ -32,6 +32,46 @@
         ],
         "ja": [
             {
+                "version": "1.17.1",
+                "date": "2026/7/18",
+                "mainList": [
+                    {
+                        "title": "機能追加",
+                        "subList": [
+                            {
+                                "subtitle": "タイムテーブル画像をSNSでシェアする機能を追加"
+                            },
+                            {
+                                "subtitle": "公式遅延情報に対応（一部のライブで試験運用）"
+                            },
+                            {
+                                "subtitle": "アーティスト画面にSNSリンクボタンを追加（一部のライブで試験運用）"
+                            },
+                            {
+                                "subtitle": "セットリスト投稿サイトへのリンク機能を追加（一部のライブで試験運用）"
+                            },
+                            {
+                                "subtitle": "使い方ページをリニューアル"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.16.4",
+                "date": "2026/6/13",
+                "mainList": [
+                    {
+                        "title": "改善",
+                        "subList": [
+                            {
+                                "subtitle": "データ量の多いライブでのボタンや画面の反応を改善"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "version": "1.16.3",
                 "date": "2026/6/12",
                 "mainList": [
@@ -618,6 +658,46 @@
             }
         ],
         "en": [
+            {
+                "version": "1.17.1",
+                "date": "7/18/2026",
+                "mainList": [
+                    {
+                        "title": "New features",
+                        "subList": [
+                            {
+                                "subtitle": "Added a feature to share timetable images on social media."
+                            },
+                            {
+                                "subtitle": "Added support for official delay information (trial run for some live events)."
+                            },
+                            {
+                                "subtitle": "Added SNS link buttons to the artist screen (trial run for some live events)."
+                            },
+                            {
+                                "subtitle": "Added a link feature to setlist posting sites (trial run for some live events)."
+                            },
+                            {
+                                "subtitle": "Renewed the How to Use page."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "version": "1.16.4",
+                "date": "6/13/2026",
+                "mainList": [
+                    {
+                        "title": "Improvements",
+                        "subList": [
+                            {
+                                "subtitle": "Smoother scrolling & better responsiveness"
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "version": "1.16.3",
                 "date": "6/12/2026",
