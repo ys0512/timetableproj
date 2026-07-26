@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        632,
+        633,
+        634
+      ],
+      "date": "7/27",
+      "message": "IDOL SUMMER JUNGLE 2026 (8/7-9 @お台場 アイドル) に対応しました。",
+      "message_en": "IDOL SUMMER JUNGLE 2026 (8/7-9 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         630,
         631
       ],
