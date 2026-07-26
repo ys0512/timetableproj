@@ -5,6 +5,7 @@
   "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
   "closeTime": "23",
+  "hasArtistSns": true,
   "artList": [
     {
       "artId": 0,
