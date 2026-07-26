@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 619,
-  "jsonVersion": 4,
-  "notificationVersion": "2",
-  "notification": "【FUTURE STAGE】\n大雨の影響により中断、13:55より「Move Next Knot」から再開予定です。\n最新情報はイベント公式アカウントをご確認ください。",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "【FUTURE STAGE】\n大雨の影響により遅延がありましたが、AsIs（16:00〜）より通常タイムテーブルに戻ります。\n最新情報はイベント公式アカウントをご確認ください。",
   "openTime": "10",
   "closeTime": "22",
   "setList": {
