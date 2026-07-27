@@ -6,6 +6,9 @@
   "openTime": "9",
   "closeTime": "23",
   "hasArtistSns": true,
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "artList": [
     {
       "artId": 0,
