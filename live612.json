@@ -357,35 +357,40 @@
       "stageName": "徳川ステージ",
       "stageNameShort": "徳川",
       "colorName": "stage-red",
-      "stageOrder": 0
+      "stageOrder": 0,
+      "type": "ライブ"
     },
     {
       "stageId": 1,
       "stageName": "豊臣ステージ",
       "stageNameShort": "豊臣",
       "colorName": "stage-lightBlue",
-      "stageOrder": 1
+      "stageOrder": 1,
+      "type": "ライブ"
     },
     {
       "stageId": 2,
       "stageName": "戦国ステージ",
       "stageNameShort": "戦国",
       "colorName": "stage-green",
-      "stageOrder": 2
+      "stageOrder": 2,
+      "type": "ライブ"
     },
     {
       "stageId": 3,
       "stageName": "桃配ステージ",
       "stageNameShort": "桃配",
       "colorName": "stage-yellow",
-      "stageOrder": 3
+      "stageOrder": 3,
+      "type": "ライブ"
     },
     {
       "stageId": 4,
       "stageName": "下剋上ステージ",
       "stageNameShort": "下剋上",
       "colorName": "stage-purple",
-      "stageOrder": 4
+      "stageOrder": 4,
+      "type": "ライブ"
     },
     {
       "stageId": 5,
