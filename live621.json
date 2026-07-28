@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 8,
+  "jsonVersion": 9,
   "notificationVersion": "3",
   "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -546,7 +546,7 @@
     },
     {
       "artId": 133,
-      "name": "TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY2"
+      "name": ""
     },
     {
       "artId": 134,
@@ -2827,9 +2827,21 @@
       "turnId": 191,
       "startTime": "10:55",
       "min": 30,
-      "artId": 133,
+      "artId": 226,
       "stageId": 7,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        226,
+        167,
+        208,
+        221,
+        224,
+        201,
+        204,
+        190
+      ],
+      "title": " TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY2",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 192,

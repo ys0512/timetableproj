@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 7,
+  "jsonVersion": 8,
   "notificationVersion": "3",
   "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -478,7 +478,7 @@
     },
     {
       "artId": 116,
-      "name": "TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY1"
+      "name": ""
     },
     {
       "artId": 117,
@@ -486,7 +486,7 @@
     },
     {
       "artId": 118,
-      "name": "【お台場ファンライジング】コラボステージ"
+      "name": ""
     },
     {
       "artId": 119,
@@ -979,6 +979,42 @@
     {
       "artId": 241,
       "name": "霞音あやな"
+    },
+    {
+      "artId": 242,
+      "name": "井上和(乃木坂46)"
+    },
+    {
+      "artId": 243,
+      "name": "山岸奈津美(虹色の飛行少女)"
+    },
+    {
+      "artId": 244,
+      "name": "飴色りんご(chuLa)"
+    },
+    {
+      "artId": 245,
+      "name": "神楽彩加(愛乙女★DOLL)"
+    },
+    {
+      "artId": 246,
+      "name": "KUTSUSHI(シンデレラ宣言!)"
+    },
+    {
+      "artId": 247,
+      "name": "MEI(MAGICAL SPEC)"
+    },
+    {
+      "artId": 248,
+      "name": "籾山ひめり(高嶺のなでしこ)"
+    },
+    {
+      "artId": 249,
+      "name": "柚希関汰(風男塾)"
+    },
+    {
+      "artId": 250,
+      "name": "HANNA(WHITE SCORPION)"
     }
   ],
   "stageList": [
@@ -1511,7 +1547,8 @@
       "collabArtList": [
         93,
         64,
-        96
+        96,
+        242
       ],
       "title": "TIF2026 グランドオープニング",
       "isCombineArrTitle": false
@@ -2729,7 +2766,10 @@
       "type": "ライブ",
       "collabArtList": [
         152,
-        123
+        123,
+        248,
+        249,
+        250
       ],
       "title": "HKT48 6期⽣‧7期⽣ ＆ NGT48 4期⽣‧5期⽣ × TIF2026ステージ争奪イベント WINNER STAGE",
       "isCombineArrTitle": false
@@ -2778,17 +2818,37 @@
       "turnId": 186,
       "startTime": "12:00",
       "min": 30,
-      "artId": 116,
+      "artId": 219,
       "stageId": 7,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        219,
+        187,
+        225,
+        189,
+        234,
+        169,
+        188
+      ],
+      "title": "TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY1",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 187,
       "startTime": "16:40",
       "min": 30,
-      "artId": 118,
+      "artId": 243,
       "stageId": 7,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        243,
+        244,
+        245,
+        246,
+        247
+      ],
+      "title": "【お台場ファンライジング】コラボステージ",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 188,

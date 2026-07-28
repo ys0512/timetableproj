@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 7,
+  "jsonVersion": 8,
   "notificationVersion": "3",
   "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -510,7 +510,7 @@
     },
     {
       "artId": 124,
-      "name": "TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY3"
+      "name": ""
     },
     {
       "artId": 125,
@@ -1023,6 +1023,30 @@
     {
       "artId": 252,
       "name": "黒木りな"
+    },
+    {
+      "artId": 253,
+      "name": "春瀬もも(衛星とカラテア)"
+    },
+    {
+      "artId": 254,
+      "name": "白咲くるみ(衛星とカラテア)"
+    },
+    {
+      "artId": 255,
+      "name": "麻丘真央(22/7)"
+    },
+    {
+      "artId": 256,
+      "name": "折本美玲(22/7)"
+    },
+    {
+      "artId": 257,
+      "name": "神木彩花(FULIT BOX)"
+    },
+    {
+      "artId": 258,
+      "name": "志田実生(FULIT BOX)"
     }
   ],
   "stageList": [
@@ -1884,7 +1908,17 @@
       "min": 30,
       "artId": 71,
       "stageId": 3,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        71,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258
+      ],
+      "title": "【めざましWANGANフェス】コラボステージ"
     },
     {
       "turnId": 83,
@@ -2854,9 +2888,20 @@
       "turnId": 196,
       "startTime": "10:55",
       "min": 30,
-      "artId": 124,
+      "artId": 173,
       "stageId": 7,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        173,
+        250,
+        246,
+        238,
+        200,
+        230,
+        235
+      ],
+      "title": "TOKYO GRAVURE IDOL FESTIVAL 2026トークの部 DAY3",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 197,
