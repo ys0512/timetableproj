@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 8,
+  "jsonVersion": 9,
   "notificationVersion": "3",
   "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -762,15 +762,15 @@
     },
     {
       "artId": 187,
-      "name": "小栗あり"
+      "name": "小栗あり(Amairo-Flip)"
     },
     {
       "artId": 188,
-      "name": "山下ゆづき"
+      "name": "山下ゆづき(Cherie!)"
     },
     {
       "artId": 189,
-      "name": "彭莉嘉"
+      "name": "彭莉嘉(Primulav)"
     },
     {
       "artId": 190,
@@ -890,7 +890,7 @@
     },
     {
       "artId": 219,
-      "name": "福田はな"
+      "name": "福田はな(Cherie!)"
     },
     {
       "artId": 220,
@@ -914,7 +914,7 @@
     },
     {
       "artId": 225,
-      "name": "聖杏華"
+      "name": "聖杏華(MiX BeRRY)"
     },
     {
       "artId": 226,
@@ -946,11 +946,11 @@
     },
     {
       "artId": 233,
-      "name": "西野夢菜"
+      "name": "西野夢菜(恋に落ちる確率は限りなく低いが0じゃない)"
     },
     {
       "artId": 234,
-      "name": "遠藤えみり"
+      "name": "遠藤えみり(Claire♡Dolls)"
     },
     {
       "artId": 235,

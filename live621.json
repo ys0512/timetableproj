@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 9,
+  "jsonVersion": 10,
   "notificationVersion": "3",
   "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
@@ -682,7 +682,7 @@
     },
     {
       "artId": 167,
-      "name": "うたたねゆい"
+      "name": "うたたねゆい(すてねこキャッツ)"
     },
     {
       "artId": 168,
@@ -774,7 +774,7 @@
     },
     {
       "artId": 190,
-      "name": "宮苑みゆ"
+      "name": "宮苑みゆ(As a Cutie Pomeranian)"
     },
     {
       "artId": 191,
@@ -798,7 +798,7 @@
     },
     {
       "artId": 196,
-      "name": "小栗あり"
+      "name": "小栗あり(Amairo-Flip)"
     },
     {
       "artId": 197,
@@ -818,7 +818,7 @@
     },
     {
       "artId": 201,
-      "name": "成瀬かのん"
+      "name": "成瀬かのん(JAPANARIZM)"
     },
     {
       "artId": 202,
@@ -830,7 +830,7 @@
     },
     {
       "artId": 204,
-      "name": "月詩あす"
+      "name": "月詩あす(kimikara（きみから）)"
     },
     {
       "artId": 205,
@@ -898,7 +898,7 @@
     },
     {
       "artId": 221,
-      "name": "瀬川ましろ"
+      "name": "瀬川ましろ(selfish)"
     },
     {
       "artId": 222,
@@ -910,7 +910,7 @@
     },
     {
       "artId": 224,
-      "name": "熊田なつ"
+      "name": "熊田なつ(JAPANARIZM)"
     },
     {
       "artId": 225,
@@ -918,7 +918,7 @@
     },
     {
       "artId": 226,
-      "name": "犬乃かりん"
+      "name": "犬乃かりん(すてねこキャッツ)"
     },
     {
       "artId": 227,
@@ -2904,7 +2904,8 @@
       "collabArtList": [
         191,
         173,
-        174
+        174,
+        226
       ]
     },
     {
@@ -3224,7 +3225,8 @@
       "type": "特典会",
       "collabArtList": [
         214,
-        221
+        221,
+        166
       ]
     },
     {
