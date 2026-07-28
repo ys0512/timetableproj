@@ -1,11 +1,13 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 6,
-  "notificationVersion": "2",
-  "notification": "（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
+  "jsonVersion": 7,
+  "notificationVersion": "3",
+  "notification": "（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "openTime": "9",
   "closeTime": "23",
-  "hasArtistSns": true,
+  "setList": {
+    "url": "https://idol-schedule.com/fes-setlist/tif2026/day3/"
+  },
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -665,6 +667,362 @@
     {
       "artId": 163,
       "name": "井上和(乃木坂46)"
+    },
+    {
+      "artId": 164,
+      "name": "Mii"
+    },
+    {
+      "artId": 165,
+      "name": "あすか/あすまる"
+    },
+    {
+      "artId": 166,
+      "name": "うじえちゃん"
+    },
+    {
+      "artId": 167,
+      "name": "うたたねゆい"
+    },
+    {
+      "artId": 168,
+      "name": "うゆみゆう"
+    },
+    {
+      "artId": 169,
+      "name": "おつる"
+    },
+    {
+      "artId": 170,
+      "name": "にのまえ"
+    },
+    {
+      "artId": 171,
+      "name": "ひじん"
+    },
+    {
+      "artId": 172,
+      "name": "へち"
+    },
+    {
+      "artId": 173,
+      "name": "もものすけ"
+    },
+    {
+      "artId": 174,
+      "name": "ゆめぴりか"
+    },
+    {
+      "artId": 175,
+      "name": "りおてん"
+    },
+    {
+      "artId": 176,
+      "name": "クロノ・ネコノ・ナナコ"
+    },
+    {
+      "artId": 177,
+      "name": "ミスエル・サキ"
+    },
+    {
+      "artId": 178,
+      "name": "メイメイ"
+    },
+    {
+      "artId": 179,
+      "name": "七湖なこ"
+    },
+    {
+      "artId": 180,
+      "name": "不思議乃あむね"
+    },
+    {
+      "artId": 181,
+      "name": "伊吹海未"
+    },
+    {
+      "artId": 182,
+      "name": "優木ゆうな"
+    },
+    {
+      "artId": 183,
+      "name": "兎丸あゆみ"
+    },
+    {
+      "artId": 184,
+      "name": "内藤桃子"
+    },
+    {
+      "artId": 185,
+      "name": "原田一二三"
+    },
+    {
+      "artId": 186,
+      "name": "夢乃 きらり"
+    },
+    {
+      "artId": 187,
+      "name": "大塚のりか"
+    },
+    {
+      "artId": 188,
+      "name": "天使ここな"
+    },
+    {
+      "artId": 189,
+      "name": "奥泉奏"
+    },
+    {
+      "artId": 190,
+      "name": "如月このみ"
+    },
+    {
+      "artId": 191,
+      "name": "姫宮れむ"
+    },
+    {
+      "artId": 192,
+      "name": "宮苑みゆ"
+    },
+    {
+      "artId": 193,
+      "name": "小平明日香"
+    },
+    {
+      "artId": 194,
+      "name": "小鳥遊もか"
+    },
+    {
+      "artId": 195,
+      "name": "山岸奈津美"
+    },
+    {
+      "artId": 196,
+      "name": "恋結める"
+    },
+    {
+      "artId": 197,
+      "name": "愛信えみり."
+    },
+    {
+      "artId": 198,
+      "name": "愛河莉音"
+    },
+    {
+      "artId": 199,
+      "name": "愛瀬あのね"
+    },
+    {
+      "artId": 200,
+      "name": "愛瀬ゆめ"
+    },
+    {
+      "artId": 201,
+      "name": "成宮 さつき"
+    },
+    {
+      "artId": 202,
+      "name": "成瀬ももか"
+    },
+    {
+      "artId": 203,
+      "name": "拍羽想"
+    },
+    {
+      "artId": 204,
+      "name": "新庄愛"
+    },
+    {
+      "artId": 205,
+      "name": "春星めぐ"
+    },
+    {
+      "artId": 206,
+      "name": "晴川こころ"
+    },
+    {
+      "artId": 207,
+      "name": "最中詩乃"
+    },
+    {
+      "artId": 208,
+      "name": "月城キキ"
+    },
+    {
+      "artId": 209,
+      "name": "月島あみ"
+    },
+    {
+      "artId": 210,
+      "name": "木々なえ"
+    },
+    {
+      "artId": 211,
+      "name": "木村夢叶"
+    },
+    {
+      "artId": 212,
+      "name": "木葉あんず"
+    },
+    {
+      "artId": 213,
+      "name": "李夏ちあ"
+    },
+    {
+      "artId": 214,
+      "name": "東莉央"
+    },
+    {
+      "artId": 215,
+      "name": "桃辿まいる"
+    },
+    {
+      "artId": 216,
+      "name": "桜井もも"
+    },
+    {
+      "artId": 217,
+      "name": "楠 つきみ"
+    },
+    {
+      "artId": 218,
+      "name": "楠木あきの"
+    },
+    {
+      "artId": 219,
+      "name": "橘美琴"
+    },
+    {
+      "artId": 220,
+      "name": "櫻井みお"
+    },
+    {
+      "artId": 221,
+      "name": "歌戯るな"
+    },
+    {
+      "artId": 222,
+      "name": "水乃なり"
+    },
+    {
+      "artId": 223,
+      "name": "水瀬あすか"
+    },
+    {
+      "artId": 224,
+      "name": "江﨑葵"
+    },
+    {
+      "artId": 225,
+      "name": "沙良さらさ"
+    },
+    {
+      "artId": 226,
+      "name": "泉まふゆ"
+    },
+    {
+      "artId": 227,
+      "name": "渡辺陽菜"
+    },
+    {
+      "artId": 228,
+      "name": "犬乃かりん"
+    },
+    {
+      "artId": 229,
+      "name": "猫ノ井うい"
+    },
+    {
+      "artId": 230,
+      "name": "田島怜華"
+    },
+    {
+      "artId": 231,
+      "name": "白咲ゆきあ"
+    },
+    {
+      "artId": 232,
+      "name": "石原すずか"
+    },
+    {
+      "artId": 233,
+      "name": "神楽らん"
+    },
+    {
+      "artId": 234,
+      "name": "神谷心春"
+    },
+    {
+      "artId": 235,
+      "name": "穂村 ゆうか"
+    },
+    {
+      "artId": 236,
+      "name": "美波まお"
+    },
+    {
+      "artId": 237,
+      "name": "美波海音"
+    },
+    {
+      "artId": 238,
+      "name": "花守雛"
+    },
+    {
+      "artId": 239,
+      "name": "花村かれん"
+    },
+    {
+      "artId": 240,
+      "name": "葵つむぎ"
+    },
+    {
+      "artId": 241,
+      "name": "藤原奈穂"
+    },
+    {
+      "artId": 242,
+      "name": "藤宮ゆな"
+    },
+    {
+      "artId": 243,
+      "name": "藤田 芽愛"
+    },
+    {
+      "artId": 244,
+      "name": "西園寺まりあ"
+    },
+    {
+      "artId": 245,
+      "name": "西沢さなみ"
+    },
+    {
+      "artId": 246,
+      "name": "西野夢菜"
+    },
+    {
+      "artId": 247,
+      "name": "谷あやか"
+    },
+    {
+      "artId": 248,
+      "name": "雪紫乃ななか"
+    },
+    {
+      "artId": 249,
+      "name": "青柳しずく"
+    },
+    {
+      "artId": 250,
+      "name": "風愛ことり"
+    },
+    {
+      "artId": 251,
+      "name": "麗日りん"
+    },
+    {
+      "artId": 252,
+      "name": "黒木りな"
     }
   ],
   "stageList": [
@@ -731,6 +1089,70 @@
       "colorName": "stage-purple",
       "stageOrder": 7,
       "type": "ライブ"
+    },
+    {
+      "stageId": 8,
+      "stageName": "TGIF(A)",
+      "stageNameShort": "TGIF(A)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 8,
+      "type": "特典会"
+    },
+    {
+      "stageId": 9,
+      "stageName": "TGIF(B)",
+      "stageNameShort": "TGIF(B)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 9,
+      "type": "特典会"
+    },
+    {
+      "stageId": 10,
+      "stageName": "TGIF(C)",
+      "stageNameShort": "TGIF(C)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 10,
+      "type": "特典会"
+    },
+    {
+      "stageId": 11,
+      "stageName": "TGIF(D)",
+      "stageNameShort": "TGIF(D)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 11,
+      "type": "特典会"
+    },
+    {
+      "stageId": 12,
+      "stageName": "TGIF(E)",
+      "stageNameShort": "TGIF(E)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 12,
+      "type": "特典会"
+    },
+    {
+      "stageId": 13,
+      "stageName": "TGIF(F)",
+      "stageNameShort": "TGIF(F)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 13,
+      "type": "特典会"
+    },
+    {
+      "stageId": 14,
+      "stageName": "TGIF(G)",
+      "stageNameShort": "TGIF(G)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 14,
+      "type": "特典会"
+    },
+    {
+      "stageId": 15,
+      "stageName": "TGIF(H)",
+      "stageNameShort": "TGIF(H)",
+      "colorName": "stage-redGrey",
+      "stageOrder": 15,
+      "type": "特典会"
     }
   ],
   "turnList": [
@@ -2461,6 +2883,649 @@
       "artId": 128,
       "stageId": 7,
       "type": "ライブ"
+    },
+    {
+      "turnId": 200,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 214,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        214,
+        224,
+        225
+      ]
+    },
+    {
+      "turnId": 201,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 170,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        170,
+        203
+      ]
+    },
+    {
+      "turnId": 202,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 232,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        232,
+        187,
+        216
+      ]
+    },
+    {
+      "turnId": 203,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 170,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        170,
+        203,
+        174
+      ]
+    },
+    {
+      "turnId": 204,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 228,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        228,
+        250
+      ]
+    },
+    {
+      "turnId": 205,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 182,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        182,
+        252
+      ]
+    },
+    {
+      "turnId": 206,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 206,
+      "stageId": 8,
+      "type": "特典会",
+      "collabArtList": [
+        206,
+        183,
+        208
+      ]
+    },
+    {
+      "turnId": 207,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 184,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        184,
+        202
+      ]
+    },
+    {
+      "turnId": 208,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 219,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        219,
+        226,
+        231,
+        190
+      ]
+    },
+    {
+      "turnId": 209,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 193,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        193,
+        204,
+        218
+      ]
+    },
+    {
+      "turnId": 210,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 219,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        219,
+        226,
+        231,
+        190
+      ]
+    },
+    {
+      "turnId": 211,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 240,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        240,
+        167
+      ]
+    },
+    {
+      "turnId": 212,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 165,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        165,
+        221
+      ]
+    },
+    {
+      "turnId": 213,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 166,
+      "stageId": 9,
+      "type": "特典会",
+      "collabArtList": [
+        166,
+        176,
+        177,
+        198
+      ]
+    },
+    {
+      "turnId": 214,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 207,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        207,
+        195,
+        216
+      ]
+    },
+    {
+      "turnId": 215,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 180,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        180,
+        197
+      ]
+    },
+    {
+      "turnId": 216,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 247,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        247,
+        241,
+        236
+      ]
+    },
+    {
+      "turnId": 217,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 180,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        180,
+        197
+      ]
+    },
+    {
+      "turnId": 218,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 168,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        168,
+        210,
+        220
+      ]
+    },
+    {
+      "turnId": 219,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 194,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        194,
+        209,
+        223
+      ]
+    },
+    {
+      "turnId": 220,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 181,
+      "stageId": 10,
+      "type": "特典会",
+      "collabArtList": [
+        181,
+        169,
+        248
+      ]
+    },
+    {
+      "turnId": 221,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 249,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        249,
+        244,
+        222,
+        213
+      ]
+    },
+    {
+      "turnId": 222,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 191,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        191,
+        173,
+        227
+      ]
+    },
+    {
+      "turnId": 223,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 249,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        249,
+        244,
+        222,
+        213
+      ]
+    },
+    {
+      "turnId": 224,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 245,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        245,
+        178,
+        173,
+        227
+      ]
+    },
+    {
+      "turnId": 225,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 234,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        234,
+        171,
+        185,
+        189
+      ]
+    },
+    {
+      "turnId": 226,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 245,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        245,
+        178,
+        174
+      ]
+    },
+    {
+      "turnId": 227,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 234,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        234,
+        171,
+        185,
+        189
+      ]
+    },
+    {
+      "turnId": 228,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 192,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        192,
+        175,
+        186
+      ]
+    },
+    {
+      "turnId": 229,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 239,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        239,
+        237,
+        242
+      ]
+    },
+    {
+      "turnId": 230,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 192,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        192,
+        175,
+        186
+      ]
+    },
+    {
+      "turnId": 231,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 201,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        201,
+        230,
+        243,
+        164
+      ]
+    },
+    {
+      "turnId": 232,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 229,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        229,
+        205,
+        235,
+        217
+      ]
+    },
+    {
+      "turnId": 233,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 201,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        201,
+        230,
+        243
+      ]
+    },
+    {
+      "turnId": 234,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 229,
+      "stageId": 12,
+      "type": "特典会",
+      "collabArtList": [
+        229,
+        205,
+        250
+      ]
+    },
+    {
+      "turnId": 235,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 200,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        200,
+        188,
+        251
+      ]
+    },
+    {
+      "turnId": 236,
+      "startTime": "12:00",
+      "min": 30,
+      "artId": 164,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        164,
+        246
+      ]
+    },
+    {
+      "turnId": 237,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 200,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        200,
+        188,
+        251
+      ]
+    },
+    {
+      "turnId": 238,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 239,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        239,
+        237,
+        242,
+        246
+      ]
+    },
+    {
+      "turnId": 239,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 206,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        206,
+        183,
+        208
+      ]
+    },
+    {
+      "turnId": 240,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 228,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        228,
+        238
+      ]
+    },
+    {
+      "turnId": 241,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 235,
+      "stageId": 13,
+      "type": "特典会",
+      "collabArtList": [
+        235,
+        217
+      ]
+    },
+    {
+      "turnId": 242,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 233,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        233,
+        172,
+        215,
+        212
+      ]
+    },
+    {
+      "turnId": 243,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 233,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        233,
+        172,
+        215,
+        212
+      ]
+    },
+    {
+      "turnId": 244,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 182,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        182,
+        238,
+        196,
+        199
+      ]
+    },
+    {
+      "turnId": 245,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 166,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        166,
+        176,
+        177,
+        198
+      ]
+    },
+    {
+      "turnId": 246,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 211,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        211,
+        196,
+        199,
+        179
+      ]
+    },
+    {
+      "turnId": 247,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 165,
+      "stageId": 15,
+      "type": "特典会",
+      "collabArtList": [
+        165,
+        221,
+        211,
+        179
+      ]
+    },
+    {
+      "turnId": 248,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 181,
+      "stageId": 15,
+      "type": "特典会",
+      "collabArtList": [
+        181,
+        169,
+        248
+      ]
     }
   ]
 }
