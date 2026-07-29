@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 12,
+  "jsonVersion": 13,
   "notificationVersion": "5",
   "notification": "（7/30）縁日および登録いただいた98組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\n（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "report_type": "community",
@@ -1865,8 +1865,8 @@
     },
     {
       "stageId": 99,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会E-4(シンデレラ宣言！)",
+      "stageNameShort": "E-4(シンデレラ宣言！)",
       "colorName": "stage-blueGrey",
       "stageOrder": 60,
       "type": "特典会"
@@ -5683,6 +5683,15 @@
       "artId": 3,
       "stageId": 98,
       "type": "特典会"
+    },
+    {
+      "turnId": 379,
+      "startTime": "16:45",
+      "min": 105,
+      "artId": 88,
+      "stageId": 99,
+      "type": "特典会",
+      "title": "特典会"
     }
   ]
 }
