@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 14,
+  "jsonVersion": 15,
   "notificationVersion": "6",
   "notification": "（7/30）133組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
@@ -1207,27 +1207,27 @@
     },
     {
       "artId": 298,
-      "name": ""
+      "name": "さよならステイチューン"
     },
     {
       "artId": 299,
-      "name": ""
+      "name": "綾瀬志希"
     },
     {
       "artId": 300,
-      "name": ""
+      "name": "青柳透(CYNHN)"
     },
     {
       "artId": 301,
-      "name": ""
+      "name": "隈本茉莉奈(虹のコンキスタドール)"
     },
     {
       "artId": 302,
-      "name": ""
+      "name": "沖口優奈"
     },
     {
       "artId": 303,
-      "name": ""
+      "name": "KLP48"
     },
     {
       "artId": 304,
@@ -2645,8 +2645,8 @@
     },
     {
       "stageId": 136,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "TIFプロレス",
+      "stageNameShort": "TIFプロレス",
       "colorName": "stage-deepOrange",
       "stageOrder": 8,
       "type": "ライブ"
@@ -6727,6 +6727,52 @@
         12
       ],
       "title": "特典会"
+    },
+    {
+      "turnId": 397,
+      "startTime": "11:00",
+      "min": 90,
+      "artId": 298,
+      "stageId": 136,
+      "type": "ライブ",
+      "collabArtList": [
+        298,
+        299,
+        300,
+        259,
+        301,
+        302
+      ],
+      "title": "LOVE&PEACE TIFプロレス2026 午前の部",
+      "isCombineArrTitle": false
+    },
+    {
+      "turnId": 398,
+      "startTime": "12:40",
+      "min": 30,
+      "artId": 303,
+      "stageId": 136,
+      "type": "ライブ",
+      "collabArtList": [
+        303
+      ],
+      "title": "KLP48スペシャルライブ",
+      "isCombineArrTitle": false
+    },
+    {
+      "turnId": 399,
+      "startTime": "15:00",
+      "min": 90,
+      "artId": 267,
+      "stageId": 136,
+      "type": "ライブ",
+      "collabArtList": [
+        267,
+        104,
+        302
+      ],
+      "title": "LOVE&PEACE TIFプロレス2026 午後の部",
+      "isCombineArrTitle": false
     }
   ]
 }

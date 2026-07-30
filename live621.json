@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 15,
+  "jsonVersion": 16,
   "notificationVersion": "6",
   "notification": "（7/30）133組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
@@ -1119,15 +1119,15 @@
     },
     {
       "artId": 276,
-      "name": ""
+      "name": "NGT48"
     },
     {
       "artId": 277,
-      "name": ""
+      "name": "Ma'Scar'Piece"
     },
     {
       "artId": 278,
-      "name": ""
+      "name": "Sparkling Eyes"
     }
   ],
   "stageList": [
@@ -2221,8 +2221,8 @@
     },
     {
       "stageId": 136,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "TIFプロレス",
+      "stageNameShort": "TIFプロレス",
       "colorName": "stage-deepOrange",
       "stageOrder": 8,
       "type": "ライブ"
@@ -6363,6 +6363,34 @@
         33
       ],
       "title": "特典会"
+    },
+    {
+      "turnId": 410,
+      "startTime": "11:00",
+      "min": 90,
+      "artId": 276,
+      "stageId": 136,
+      "type": "ライブ",
+      "collabArtList": [
+        276
+      ],
+      "title": "LOVE&PEACE TIFプロレス2026 午前の部",
+      "isCombineArrTitle": false
+    },
+    {
+      "turnId": 411,
+      "startTime": "15:00",
+      "min": 90,
+      "artId": 58,
+      "stageId": 136,
+      "type": "ライブ",
+      "collabArtList": [
+        58,
+        277,
+        278
+      ],
+      "title": "LOVE&PEACE TIFプロレス2026 午後の部",
+      "isCombineArrTitle": false
     }
   ]
 }
