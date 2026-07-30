@@ -1,0 +1,79 @@
+{
+  "title": "TIF2026",
+  "sections": [
+    {
+      "type": "banner",
+      "imageUrl": "tif2026_logo2.png",
+      "aspectRatio": "16:9",
+      "credit": {
+        "text": "画像引用元",
+        "url": "https://official.idolfes.com"
+      }
+    },
+    {
+      "type": "ticket_link",
+      "urls": [
+        { "title": "チケット購入サイト", "url": "https://official.idolfes.com/s/tif2026/page/ticket?ima=0000" }
+      ],
+      "prices__": [
+        { "name": "【プレミアチケット】3DAYS", "price": "¥00,000" }
+      ]
+    },
+    {
+      "type": "map_stages",
+      "mapTitle": "venue",
+
+      "byLiveId": {
+        "common": {
+          "_MEMO_":"commonは全ライブ共通の設定。ライブごとならliveIDの数値を指定。数値とcommon両方に同じキーがある場合はライブごとの設定が優先される。",
+          "center": { "lat": 35.62189766539862, "lng": 139.77606431501647 },
+          "zoom": 17,
+          "note": "特典会エリアに詳細のマップ画像を表示していますが、GPS位置が多少ズレているのでご了承ください",
+          "pins": [
+
+            { "lat": 35.62245928594899, "lng": 139.77342833964838, "label": "HOT STAGE", "stageId": 0 },
+            { "lat": 35.62444721549876, "lng": 139.77469923719738, "label": "HEAT GARAGE", "stageId": 1 },
+            { "lat": 35.6195250809985, "lng": 139.7780357816804, "label": "SMILE GARDEN", "stageId": 2 },
+            { "lat": 35.62081895432805, "lng": 139.778535928706, "label": "DOLL FACTORY", "stageId": 3 },
+            { "lat": 35.62051677772013, "lng": 139.7780087467018, "label": "SKY STAGE", "stageId": 4 },
+            { "lat": 35.62136827784719, "lng": 139.77411237353542, "label": "TOROCCO PARK", "stageId": 5 },
+            { "lat": 35.621883793274165, "lng": 139.773381824975, "label": "浮島STAGE", "stageId": 6 },
+            { "lat": 35.620151417205584, "lng": 139.77817771529288, "label": "INFO CENTRE", "stageId": 7 },
+
+            { "lat": 35.622400912866156, "lng": 139.774670048917665, "label": "TGIF会場", "stageType": "booth" },
+            { "lat": 35.622008843795085, "lng": 139.77510370439665, "label": "クローク/インフォメーション", "stageType": "booth" },
+            { "lat": 35.621650000000000, "lng": 139.77490000000000, "label": "TIFプロレス", "stageType": "booth" },
+            { "lat": 35.62051632070632,  "lng": 139.7765970736314, "label": "リストバンド交換所", "stageType": "booth" },
+            { "lat": 35.622135200000000, "lng": 139.7749250000000, "label": "GREETING AREA(特典会)入口", "stageType": "booth" }
+
+          ],
+
+          "overlayImages": [
+            {
+              "type": "area",
+              "imageUrl": "greet_area.png",
+              "bounds": {
+                "northEast": { "lat": 35.62282020484755, "lng": 139.77562318324263 }, "southWest": { "lat": 35.621067554043634, "lng": 139.77322736407962 }
+              },
+              "opacity": 1.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "message",
+      "messages___": [
+        { "text": "※マップの", "color": "#777777" }
+      ]
+    },
+    {
+      "type": "links",
+      "items": [
+        { "media": "website", "label": "公式サイト", "url": "https://official.idolfes.com/" },
+        { "media": "x", "label": "公式Xアカウント", "url": "https://x.com/TIP_TIF_staff" },
+        { "media": "youtube", "label": "TOKYO IDOL PROJECT", "url": "https://www.youtube.com/c/tokyoidol/videos" }
+      ]
+    }
+  ]
+}
