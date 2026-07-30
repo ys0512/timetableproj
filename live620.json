@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 13,
-  "notificationVersion": "5",
-  "notification": "（7/30）縁日および登録いただいた98組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\n（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
+  "jsonVersion": 14,
+  "notificationVersion": "6",
+  "notification": "（7/30）133組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
@@ -495,7 +495,7 @@
     },
     {
       "artId": 120,
-      "name": "スナックうめ子"
+      "name": ""
     },
     {
       "artId": 121,
@@ -1060,6 +1060,118 @@
     {
       "artId": 261,
       "name": "遥か、彼方。"
+    },
+    {
+      "artId": 262,
+      "name": "藍井すず(Appare!)"
+    },
+    {
+      "artId": 263,
+      "name": "森川なつ(Appare!)"
+    },
+    {
+      "artId": 264,
+      "name": "川村結衣(AKB48)"
+    },
+    {
+      "artId": 265,
+      "name": "八木愛月(AKB48)"
+    },
+    {
+      "artId": 266,
+      "name": "市川こころ(かすみ草とステラ)"
+    },
+    {
+      "artId": 267,
+      "name": "大原誉(かすみ草とステラ)"
+    },
+    {
+      "artId": 268,
+      "name": "佐藤心遥(かすみ草とステラ)"
+    },
+    {
+      "artId": 269,
+      "name": "花井詩(かすみ草とステラ)"
+    },
+    {
+      "artId": 270,
+      "name": "鎌田彩樺(SUPER☆GiRLS)"
+    },
+    {
+      "artId": 271,
+      "name": "竹内ななみ(SUPER☆GiRLS)"
+    },
+    {
+      "artId": 272,
+      "name": "櫻井陽夏(SUPER☆GiRLS)"
+    },
+    {
+      "artId": 273,
+      "name": "眠岸ぷりん(NANIMONO)"
+    },
+    {
+      "artId": 274,
+      "name": "ひなたゆま(NANIMONO)"
+    },
+    {
+      "artId": 275,
+      "name": "紫苑りんか(NANIMONO)"
+    },
+    {
+      "artId": 276,
+      "name": "浅原凜(Peel the Apple)"
+    },
+    {
+      "artId": 277,
+      "name": "天宮けい(Peel the Apple)"
+    },
+    {
+      "artId": 278,
+      "name": "岸上いお(Peel the Apple)"
+    },
+    {
+      "artId": 279,
+      "name": "英城凛空(風男塾)"
+    },
+    {
+      "artId": 280,
+      "name": "天堂太陽(風男塾)"
+    },
+    {
+      "artId": 281,
+      "name": "高梨結(ラフ×ラフ)"
+    },
+    {
+      "artId": 282,
+      "name": "藤崎未来(ラフ×ラフ)"
+    },
+    {
+      "artId": 283,
+      "name": "琴吹ゆず(RiNCENT♯)"
+    },
+    {
+      "artId": 284,
+      "name": "森本栞菜(RiNCENT♯)"
+    },
+    {
+      "artId": 285,
+      "name": "雪乃椛鈴(RiNCENT♯)"
+    },
+    {
+      "artId": 286,
+      "name": "加山三稀(RiNCENT♯)"
+    },
+    {
+      "artId": 287,
+      "name": ""
+    },
+    {
+      "artId": 288,
+      "name": ""
+    },
+    {
+      "artId": 289,
+      "name": ""
     }
   ],
   "stageList": [
@@ -1132,7 +1244,7 @@
       "stageName": "TGIF(A)",
       "stageNameShort": "TGIF(A)",
       "colorName": "stage-redGrey",
-      "stageOrder": 129,
+      "stageOrder": 130,
       "type": "特典会"
     },
     {
@@ -1140,7 +1252,7 @@
       "stageName": "TGIF(B)",
       "stageNameShort": "TGIF(B)",
       "colorName": "stage-redGrey",
-      "stageOrder": 130,
+      "stageOrder": 131,
       "type": "特典会"
     },
     {
@@ -1148,7 +1260,7 @@
       "stageName": "TGIF(C)",
       "stageNameShort": "TGIF(C)",
       "colorName": "stage-redGrey",
-      "stageOrder": 131,
+      "stageOrder": 132,
       "type": "特典会"
     },
     {
@@ -1156,7 +1268,7 @@
       "stageName": "TGIF(D)",
       "stageNameShort": "TGIF(D)",
       "colorName": "stage-redGrey",
-      "stageOrder": 132,
+      "stageOrder": 133,
       "type": "特典会"
     },
     {
@@ -1164,7 +1276,7 @@
       "stageName": "TGIF(E)",
       "stageNameShort": "TGIF(E)",
       "colorName": "stage-redGrey",
-      "stageOrder": 133,
+      "stageOrder": 134,
       "type": "特典会"
     },
     {
@@ -1172,7 +1284,7 @@
       "stageName": "TGIF(F)",
       "stageNameShort": "TGIF(F)",
       "colorName": "stage-redGrey",
-      "stageOrder": 134,
+      "stageOrder": 135,
       "type": "特典会"
     },
     {
@@ -1180,7 +1292,7 @@
       "stageName": "TGIF(G)",
       "stageNameShort": "TGIF(G)",
       "colorName": "stage-redGrey",
-      "stageOrder": 135,
+      "stageOrder": 136,
       "type": "特典会"
     },
     {
@@ -1188,7 +1300,7 @@
       "stageName": "TGIF(H)",
       "stageNameShort": "TGIF(H)",
       "colorName": "stage-redGrey",
-      "stageOrder": 136,
+      "stageOrder": 137,
       "type": "特典会"
     },
     {
@@ -1196,7 +1308,7 @@
       "stageName": "特典会A-1(AOAO)",
       "stageNameShort": "A-1(AOAO)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 8,
+      "stageOrder": 9,
       "type": "特典会"
     },
     {
@@ -1204,7 +1316,7 @@
       "stageName": "特典会H-4(AsIs)",
       "stageNameShort": "H-4(AsIs)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 95,
+      "stageOrder": 96,
       "type": "特典会"
     },
     {
@@ -1212,7 +1324,7 @@
       "stageName": "特典会B-10(BNSI)",
       "stageNameShort": "B-10(BNSI)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 30,
+      "stageOrder": 31,
       "type": "特典会"
     },
     {
@@ -1220,7 +1332,7 @@
       "stageName": "特典会A-9(Devil ANTHEM.)",
       "stageNameShort": "A-9(Devil ANTHEM.)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 16,
+      "stageOrder": 17,
       "type": "特典会"
     },
     {
@@ -1228,7 +1340,7 @@
       "stageName": "特典会C-4(HIBANA)",
       "stageNameShort": "C-4(HIBANA)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 36,
+      "stageOrder": 37,
       "type": "特典会"
     },
     {
@@ -1236,7 +1348,7 @@
       "stageName": "特典会D-5(HzMe)",
       "stageNameShort": "D-5(HzMe)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 48,
+      "stageOrder": 49,
       "type": "特典会"
     },
     {
@@ -1244,7 +1356,7 @@
       "stageName": "特典会A-8(INUWASI)",
       "stageNameShort": "A-8(INUWASI)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 15,
+      "stageOrder": 16,
       "type": "特典会"
     },
     {
@@ -1252,7 +1364,7 @@
       "stageName": "特典会D-4(Jams Collection)",
       "stageNameShort": "D-4(Jams Collection)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 47,
+      "stageOrder": 48,
       "type": "特典会"
     },
     {
@@ -1260,7 +1372,7 @@
       "stageName": "特典会C-9,10(Merry BAD TUNE.)",
       "stageNameShort": "C-9,10(Merry BAD TUNE.)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 41,
+      "stageOrder": 42,
       "type": "特典会"
     },
     {
@@ -1268,7 +1380,7 @@
       "stageName": "特典会A-3(Mirror,Mirror)",
       "stageNameShort": "A-3(Mirror,Mirror)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 10,
+      "stageOrder": 11,
       "type": "特典会"
     },
     {
@@ -1276,7 +1388,7 @@
       "stageName": "特典会D-3(MyDearDarlin')",
       "stageNameShort": "D-3(MyDearDarlin')",
       "colorName": "stage-blueGrey",
-      "stageOrder": 46,
+      "stageOrder": 47,
       "type": "特典会"
     },
     {
@@ -1284,7 +1396,7 @@
       "stageName": "特典会A-2(NEO JAPONISM)",
       "stageNameShort": "A-2(NEO JAPONISM)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 9,
+      "stageOrder": 10,
       "type": "特典会"
     },
     {
@@ -1292,7 +1404,7 @@
       "stageName": "特典会D-9(PassCode(Band Set))",
       "stageNameShort": "D-9(PassCode(Band Set))",
       "colorName": "stage-blueGrey",
-      "stageOrder": 52,
+      "stageOrder": 53,
       "type": "特典会"
     },
     {
@@ -1300,7 +1412,7 @@
       "stageName": "特典会D-11(RAViDAVi)",
       "stageNameShort": "D-11(RAViDAVi)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 54,
+      "stageOrder": 55,
       "type": "特典会"
     },
     {
@@ -1308,7 +1420,7 @@
       "stageName": "特典会A-4(Ringwanderung)",
       "stageNameShort": "A-4(Ringwanderung)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 11,
+      "stageOrder": 12,
       "type": "特典会"
     },
     {
@@ -1316,7 +1428,7 @@
       "stageName": "特典会H-7(THE ENCORE)",
       "stageNameShort": "H-7(THE ENCORE)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 98,
+      "stageOrder": 99,
       "type": "特典会"
     },
     {
@@ -1324,7 +1436,7 @@
       "stageName": "特典会B-1(UtaGe!)",
       "stageNameShort": "B-1(UtaGe!)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 22,
+      "stageOrder": 23,
       "type": "特典会"
     },
     {
@@ -1332,7 +1444,7 @@
       "stageName": "特典会D-1(hakanai)",
       "stageNameShort": "D-1(hakanai)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 44,
+      "stageOrder": 45,
       "type": "特典会"
     },
     {
@@ -1340,7 +1452,7 @@
       "stageName": "特典会C-5(himawari(船橋))",
       "stageNameShort": "C-5(himawari(船橋))",
       "colorName": "stage-blueGrey",
-      "stageOrder": 37,
+      "stageOrder": 38,
       "type": "特典会"
     },
     {
@@ -1348,7 +1460,7 @@
       "stageName": "特典会B-2(myojou)",
       "stageNameShort": "B-2(myojou)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 23,
+      "stageOrder": 24,
       "type": "特典会"
     },
     {
@@ -1356,7 +1468,7 @@
       "stageName": "特典会F-5(かすみ草とステラ)",
       "stageNameShort": "F-5(かすみ草とステラ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 72,
+      "stageOrder": 73,
       "type": "特典会"
     },
     {
@@ -1364,7 +1476,7 @@
       "stageName": "特典会A-10(こみっきゅおん！)",
       "stageNameShort": "A-10(こみっきゅおん！)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 17,
+      "stageOrder": 18,
       "type": "特典会"
     },
     {
@@ -1372,7 +1484,7 @@
       "stageName": "特典会H-8(なみだ色の消しごむ)",
       "stageNameShort": "H-8(なみだ色の消しごむ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 99,
+      "stageOrder": 100,
       "type": "特典会"
     },
     {
@@ -1380,7 +1492,7 @@
       "stageName": "特典会F-2(キングサリ)",
       "stageNameShort": "F-2(キングサリ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 69,
+      "stageOrder": 70,
       "type": "特典会"
     },
     {
@@ -1388,7 +1500,7 @@
       "stageName": "特典会F-4(クマリデパート)",
       "stageNameShort": "F-4(クマリデパート)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 71,
+      "stageOrder": 72,
       "type": "特典会"
     },
     {
@@ -1396,7 +1508,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 137,
+      "stageOrder": 138,
       "type": "特典会"
     },
     {
@@ -1404,7 +1516,7 @@
       "stageName": "特典会H-13(ジエメイ)",
       "stageNameShort": "H-13(ジエメイ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 104,
+      "stageOrder": 105,
       "type": "特典会"
     },
     {
@@ -1412,7 +1524,7 @@
       "stageName": "特典会A-12(タイトル未定)",
       "stageNameShort": "A-12(タイトル未定)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 19,
+      "stageOrder": 20,
       "type": "特典会"
     },
     {
@@ -1420,7 +1532,7 @@
       "stageName": "特典会I-2(ファーストプレイリスト)",
       "stageNameShort": "I-2(ファーストプレイリスト)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 109,
+      "stageOrder": 110,
       "type": "特典会"
     },
     {
@@ -1428,7 +1540,7 @@
       "stageName": "特典会I-4(フューチャーサイダー)",
       "stageNameShort": "I-4(フューチャーサイダー)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 111,
+      "stageOrder": 112,
       "type": "特典会"
     },
     {
@@ -1436,7 +1548,7 @@
       "stageName": "特典会H-11(ラフ×ラフ)",
       "stageNameShort": "H-11(ラフ×ラフ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 102,
+      "stageOrder": 103,
       "type": "特典会"
     },
     {
@@ -1444,7 +1556,7 @@
       "stageName": "特典会H-9(ワガママなラストノート)",
       "stageNameShort": "H-9(ワガママなラストノート)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 100,
+      "stageOrder": 101,
       "type": "特典会"
     },
     {
@@ -1452,7 +1564,7 @@
       "stageName": "特典会E-9(愛乙女★DOLL)",
       "stageNameShort": "E-9(愛乙女★DOLL)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 64,
+      "stageOrder": 65,
       "type": "特典会"
     },
     {
@@ -1460,7 +1572,7 @@
       "stageName": "特典会E-8(最終未来少女)",
       "stageNameShort": "E-8(最終未来少女)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 63,
+      "stageOrder": 64,
       "type": "特典会"
     },
     {
@@ -1468,7 +1580,7 @@
       "stageName": "特典会A-13(限りなく白く)",
       "stageNameShort": "A-13(限りなく白く)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 20,
+      "stageOrder": 21,
       "type": "特典会"
     },
     {
@@ -1476,7 +1588,7 @@
       "stageName": "特典会G-1(AVAM)",
       "stageNameShort": "G-1(AVAM)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 80,
+      "stageOrder": 81,
       "type": "特典会"
     },
     {
@@ -1484,7 +1596,7 @@
       "stageName": "特典会C-3(FULIT BOX)",
       "stageNameShort": "C-3(FULIT BOX)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 35,
+      "stageOrder": 36,
       "type": "特典会"
     },
     {
@@ -1492,7 +1604,7 @@
       "stageName": "特典会F-9(MEGAFON)",
       "stageNameShort": "F-9(MEGAFON)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 76,
+      "stageOrder": 77,
       "type": "特典会"
     },
     {
@@ -1500,7 +1612,7 @@
       "stageName": "特典会D-8(NUANCE)",
       "stageNameShort": "D-8(NUANCE)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 51,
+      "stageOrder": 52,
       "type": "特典会"
     },
     {
@@ -1508,7 +1620,7 @@
       "stageName": "特典会H-5(Peel the Apple)",
       "stageNameShort": "H-5(Peel the Apple)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 96,
+      "stageOrder": 97,
       "type": "特典会"
     },
     {
@@ -1516,7 +1628,7 @@
       "stageName": "特典会H-3(RiNCENT♯)",
       "stageNameShort": "H-3(RiNCENT♯)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 94,
+      "stageOrder": 95,
       "type": "特典会"
     },
     {
@@ -1524,7 +1636,7 @@
       "stageName": "特典会E-3(SUPER☆GiRLS)",
       "stageNameShort": "E-3(SUPER☆GiRLS)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 58,
+      "stageOrder": 59,
       "type": "特典会"
     },
     {
@@ -1532,7 +1644,7 @@
       "stageName": "特典会G-2(Sweet Alley)",
       "stageNameShort": "G-2(Sweet Alley)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 81,
+      "stageOrder": 82,
       "type": "特典会"
     },
     {
@@ -1540,7 +1652,7 @@
       "stageName": "特典会E-4(Tohkei)",
       "stageNameShort": "E-4(Tohkei)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 59,
+      "stageOrder": 60,
       "type": "特典会"
     },
     {
@@ -1548,7 +1660,7 @@
       "stageName": "特典会H-10(WHITE SCORPION)",
       "stageNameShort": "H-10(WHITE SCORPION)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 101,
+      "stageOrder": 102,
       "type": "特典会"
     },
     {
@@ -1556,7 +1668,7 @@
       "stageName": "特典会B-11(feelNEO)",
       "stageNameShort": "B-11(feelNEO)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 31,
+      "stageOrder": 32,
       "type": "特典会"
     },
     {
@@ -1564,7 +1676,7 @@
       "stageName": "特典会F-10(iON!)",
       "stageNameShort": "F-10(iON!)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 77,
+      "stageOrder": 78,
       "type": "特典会"
     },
     {
@@ -1572,7 +1684,7 @@
       "stageName": "特典会A-11(selfish)",
       "stageNameShort": "A-11(selfish)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 18,
+      "stageOrder": 19,
       "type": "特典会"
     },
     {
@@ -1580,7 +1692,7 @@
       "stageName": "特典会G-9(のんふぃく！)",
       "stageNameShort": "G-9(のんふぃく！)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 88,
+      "stageOrder": 89,
       "type": "特典会"
     },
     {
@@ -1588,7 +1700,7 @@
       "stageName": "特典会G-11(ドラマチックレコード)",
       "stageNameShort": "G-11(ドラマチックレコード)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 90,
+      "stageOrder": 91,
       "type": "特典会"
     },
     {
@@ -1596,7 +1708,7 @@
       "stageName": "特典会G-8(ドレスコード)",
       "stageNameShort": "G-8(ドレスコード)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 87,
+      "stageOrder": 88,
       "type": "特典会"
     },
     {
@@ -1604,7 +1716,7 @@
       "stageName": "特典会G-5(可憐なアイボリー)",
       "stageNameShort": "G-5(可憐なアイボリー)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 84,
+      "stageOrder": 85,
       "type": "特典会"
     },
     {
@@ -1612,7 +1724,7 @@
       "stageName": "特典会E-7(君に、胸キュン。)",
       "stageNameShort": "E-7(君に、胸キュン。)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 62,
+      "stageOrder": 63,
       "type": "特典会"
     },
     {
@@ -1620,7 +1732,7 @@
       "stageName": "特典会H-16(点染テンセイ少女。)",
       "stageNameShort": "H-16(点染テンセイ少女。)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 107,
+      "stageOrder": 108,
       "type": "特典会"
     },
     {
@@ -1628,15 +1740,15 @@
       "stageName": "特典会H-15(透色ドロップ)",
       "stageNameShort": "H-15(透色ドロップ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 106,
+      "stageOrder": 107,
       "type": "特典会"
     },
     {
       "stageId": 71,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会A-5(SITUASION)",
+      "stageNameShort": "A-5(SITUASION)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 12,
+      "stageOrder": 13,
       "type": "特典会"
     },
     {
@@ -1644,7 +1756,7 @@
       "stageName": "特典会A-6(Appare!)",
       "stageNameShort": "A-6(Appare!)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 13,
+      "stageOrder": 14,
       "type": "特典会"
     },
     {
@@ -1652,7 +1764,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 14,
+      "stageOrder": 15,
       "type": "特典会"
     },
     {
@@ -1660,7 +1772,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 21,
+      "stageOrder": 22,
       "type": "特典会"
     },
     {
@@ -1668,7 +1780,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 24,
+      "stageOrder": 25,
       "type": "特典会"
     },
     {
@@ -1676,7 +1788,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 25,
+      "stageOrder": 26,
       "type": "特典会"
     },
     {
@@ -1684,7 +1796,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 26,
+      "stageOrder": 27,
       "type": "特典会"
     },
     {
@@ -1692,15 +1804,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 27,
+      "stageOrder": 28,
       "type": "特典会"
     },
     {
       "stageId": 79,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会B-7,8(FES☆TIVE)",
+      "stageNameShort": "B-7,8(FES☆TIVE)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 28,
+      "stageOrder": 29,
       "type": "特典会"
     },
     {
@@ -1708,7 +1820,7 @@
       "stageName": "特典会B-9(SEKAIE☆)",
       "stageNameShort": "B-9(SEKAIE☆)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 29,
+      "stageOrder": 30,
       "type": "特典会"
     },
     {
@@ -1716,7 +1828,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 32,
+      "stageOrder": 33,
       "type": "特典会"
     },
     {
@@ -1724,7 +1836,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 33,
+      "stageOrder": 34,
       "type": "特典会"
     },
     {
@@ -1732,7 +1844,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 34,
+      "stageOrder": 35,
       "type": "特典会"
     },
     {
@@ -1740,7 +1852,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 38,
+      "stageOrder": 39,
       "type": "特典会"
     },
     {
@@ -1748,15 +1860,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 39,
+      "stageOrder": 40,
       "type": "特典会"
     },
     {
       "stageId": 86,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会C-8(MAGICAL SPEC)",
+      "stageNameShort": "C-8(MAGICAL SPEC)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 40,
+      "stageOrder": 41,
       "type": "特典会"
     },
     {
@@ -1764,7 +1876,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 42,
+      "stageOrder": 43,
       "type": "特典会"
     },
     {
@@ -1772,15 +1884,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 43,
+      "stageOrder": 44,
       "type": "特典会"
     },
     {
       "stageId": 89,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-2(NANIMONO)",
+      "stageNameShort": "D-2(NANIMONO)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 45,
+      "stageOrder": 46,
       "type": "特典会"
     },
     {
@@ -1788,15 +1900,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 49,
+      "stageOrder": 50,
       "type": "特典会"
     },
     {
       "stageId": 91,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-7(MORE*)",
+      "stageNameShort": "D-7(MORE*)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 50,
+      "stageOrder": 51,
       "type": "特典会"
     },
     {
@@ -1804,7 +1916,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 53,
+      "stageOrder": 54,
       "type": "特典会"
     },
     {
@@ -1812,31 +1924,31 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 55,
-      "type": "特典会"
-    },
-    {
-      "stageId": 94,
-      "stageName": "",
-      "stageNameShort": "",
-      "colorName": "stage-blueGrey",
       "stageOrder": 56,
       "type": "特典会"
     },
     {
-      "stageId": 95,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 94,
+      "stageName": "特典会E-1(ROOKEY♡ROOKEYS)",
+      "stageNameShort": "E-1(ROOKEY♡ROOKEYS)",
       "colorName": "stage-blueGrey",
       "stageOrder": 57,
       "type": "特典会"
     },
     {
-      "stageId": 96,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 95,
+      "stageName": "特典会E-2(Sparkling Eyes)",
+      "stageNameShort": "E-2(Sparkling Eyes)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 60,
+      "stageOrder": 58,
+      "type": "特典会"
+    },
+    {
+      "stageId": 96,
+      "stageName": "特典会E-5(W.ダブルヴィー)",
+      "stageNameShort": "E-5(W.ダブルヴィー)",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 61,
       "type": "特典会"
     },
     {
@@ -1844,7 +1956,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 61,
+      "stageOrder": 62,
       "type": "特典会"
     },
     {
@@ -1852,7 +1964,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 65,
+      "stageOrder": 66,
       "type": "特典会"
     },
     {
@@ -1860,7 +1972,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 66,
+      "stageOrder": 67,
       "type": "特典会"
     },
     {
@@ -1868,7 +1980,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 67,
+      "stageOrder": 68,
       "type": "特典会"
     },
     {
@@ -1876,15 +1988,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 68,
+      "stageOrder": 69,
       "type": "特典会"
     },
     {
       "stageId": 102,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-3(くまま)",
+      "stageNameShort": "F-3(くまま)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 70,
+      "stageOrder": 71,
       "type": "特典会"
     },
     {
@@ -1892,31 +2004,31 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 73,
-      "type": "特典会"
-    },
-    {
-      "stageId": 104,
-      "stageName": "",
-      "stageNameShort": "",
-      "colorName": "stage-blueGrey",
       "stageOrder": 74,
       "type": "特典会"
     },
     {
-      "stageId": 105,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 104,
+      "stageName": "特典会F-7(chuLa)",
+      "stageNameShort": "F-7(chuLa)",
       "colorName": "stage-blueGrey",
       "stageOrder": 75,
       "type": "特典会"
     },
     {
-      "stageId": 106,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 105,
+      "stageName": "特典会F-8(STAiNY)",
+      "stageNameShort": "F-8(STAiNY)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 78,
+      "stageOrder": 76,
+      "type": "特典会"
+    },
+    {
+      "stageId": 106,
+      "stageName": "特典会F-11(TENRIN)",
+      "stageNameShort": "F-11(TENRIN)",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 79,
       "type": "特典会"
     },
     {
@@ -1924,23 +2036,23 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 79,
+      "stageOrder": 80,
       "type": "特典会"
     },
     {
       "stageId": 108,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-3(Ma'Scar'Piece)",
+      "stageNameShort": "G-3(Ma'Scar'Piece)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 82,
+      "stageOrder": 83,
       "type": "特典会"
     },
     {
       "stageId": 109,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-4(高嶺のなでしこ)",
+      "stageNameShort": "G-4(高嶺のなでしこ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 83,
+      "stageOrder": 84,
       "type": "特典会"
     },
     {
@@ -1948,7 +2060,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 85,
+      "stageOrder": 86,
       "type": "特典会"
     },
     {
@@ -1956,15 +2068,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 86,
+      "stageOrder": 87,
       "type": "特典会"
     },
     {
       "stageId": 112,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-10(夜光性アミューズ)",
+      "stageNameShort": "G-10(夜光性アミューズ)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 89,
+      "stageOrder": 90,
       "type": "特典会"
     },
     {
@@ -1972,31 +2084,31 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 91,
-      "type": "特典会"
-    },
-    {
-      "stageId": 114,
-      "stageName": "",
-      "stageNameShort": "",
-      "colorName": "stage-blueGrey",
       "stageOrder": 92,
       "type": "特典会"
     },
     {
-      "stageId": 115,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 114,
+      "stageName": "特典会H-1(#よーよーよー)",
+      "stageNameShort": "H-1(#よーよーよー)",
       "colorName": "stage-blueGrey",
       "stageOrder": 93,
       "type": "特典会"
     },
     {
-      "stageId": 116,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageId": 115,
+      "stageName": "特典会H-2(#Mooove!)",
+      "stageNameShort": "H-2(#Mooove!)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 97,
+      "stageOrder": 94,
+      "type": "特典会"
+    },
+    {
+      "stageId": 116,
+      "stageName": "特典会H-6(NEFRALISE)",
+      "stageNameShort": "H-6(NEFRALISE)",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 98,
       "type": "特典会"
     },
     {
@@ -2004,7 +2116,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 103,
+      "stageOrder": 104,
       "type": "特典会"
     },
     {
@@ -2012,7 +2124,7 @@
       "stageName": "特典会H-14(シンデレラ宣言！)",
       "stageNameShort": "H-14(シンデレラ宣言！)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 105,
+      "stageOrder": 106,
       "type": "特典会"
     },
     {
@@ -2020,23 +2132,23 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 108,
+      "stageOrder": 109,
       "type": "特典会"
     },
     {
       "stageId": 120,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-3(風男塾)",
+      "stageNameShort": "I-3(風男塾)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 110,
+      "stageOrder": 111,
       "type": "特典会"
     },
     {
       "stageId": 121,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-5(瞬きもせず)",
+      "stageNameShort": "I-5(瞬きもせず)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 112,
+      "stageOrder": 113,
       "type": "特典会"
     },
     {
@@ -2044,7 +2156,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 113,
+      "stageOrder": 114,
       "type": "特典会"
     },
     {
@@ -2052,7 +2164,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 114,
+      "stageOrder": 115,
       "type": "特典会"
     },
     {
@@ -2060,7 +2172,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 115,
+      "stageOrder": 116,
       "type": "特典会"
     },
     {
@@ -2068,7 +2180,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 116,
+      "stageOrder": 117,
       "type": "特典会"
     },
     {
@@ -2076,7 +2188,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 117,
+      "stageOrder": 118,
       "type": "特典会"
     },
     {
@@ -2084,15 +2196,15 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 118,
+      "stageOrder": 119,
       "type": "特典会"
     },
     {
       "stageId": 128,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-12(櫻井優衣)",
+      "stageNameShort": "I-12(櫻井優衣)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 119,
+      "stageOrder": 120,
       "type": "特典会"
     },
     {
@@ -2100,7 +2212,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 120,
+      "stageOrder": 121,
       "type": "特典会"
     },
     {
@@ -2108,7 +2220,7 @@
       "stageName": "",
       "stageNameShort": "",
       "colorName": "stage-blueGrey",
-      "stageOrder": 121,
+      "stageOrder": 122,
       "type": "特典会"
     },
     {
@@ -2116,7 +2228,7 @@
       "stageName": "縁日A",
       "stageNameShort": "縁日A",
       "colorName": "stage-grey",
-      "stageOrder": 122,
+      "stageOrder": 123,
       "type": "特典会"
     },
     {
@@ -2124,7 +2236,7 @@
       "stageName": "縁日B",
       "stageNameShort": "縁日B",
       "colorName": "stage-grey",
-      "stageOrder": 123,
+      "stageOrder": 124,
       "type": "特典会"
     },
     {
@@ -2132,7 +2244,7 @@
       "stageName": "縁日C",
       "stageNameShort": "縁日C",
       "colorName": "stage-grey",
-      "stageOrder": 124,
+      "stageOrder": 125,
       "type": "特典会"
     },
     {
@@ -2140,7 +2252,7 @@
       "stageName": "縁日D",
       "stageNameShort": "縁日D",
       "colorName": "stage-grey",
-      "stageOrder": 125,
+      "stageOrder": 126,
       "type": "特典会"
     },
     {
@@ -2148,7 +2260,7 @@
       "stageName": "縁日E",
       "stageNameShort": "縁日E",
       "colorName": "stage-grey",
-      "stageOrder": 126,
+      "stageOrder": 127,
       "type": "特典会"
     },
     {
@@ -2156,7 +2268,7 @@
       "stageName": "縁日F",
       "stageNameShort": "縁日F",
       "colorName": "stage-grey",
-      "stageOrder": 127,
+      "stageOrder": 128,
       "type": "特典会"
     },
     {
@@ -2164,8 +2276,16 @@
       "stageName": "縁日G",
       "stageNameShort": "縁日G",
       "colorName": "stage-grey",
-      "stageOrder": 128,
+      "stageOrder": 129,
       "type": "特典会"
+    },
+    {
+      "stageId": 138,
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "stage-deepOrange",
+      "stageOrder": 8,
+      "type": "ライブ"
     }
   ],
   "turnList": [
@@ -2363,6 +2483,9 @@
       "artId": 22,
       "stageId": 0,
       "type": "ライブ",
+      "collabArtList": [
+        22
+      ],
       "title": "KiiiKiii（音楽番組『STAR』SPコラボ）"
     },
     {
@@ -2388,6 +2511,9 @@
       "artId": 37,
       "stageId": 0,
       "type": "ライブ",
+      "collabArtList": [
+        37
+      ],
       "title": "PassCode(Band Set)"
     },
     {
@@ -3875,9 +4001,43 @@
       "turnId": 188,
       "startTime": "19:00",
       "min": 120,
-      "artId": 120,
+      "artId": 79,
       "stageId": 7,
-      "type": "ライブ"
+      "type": "ライブ",
+      "collabArtList": [
+        79,
+        61,
+        262,
+        263,
+        150,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        249,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        139
+      ],
+      "title": "スナックうめ子",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 189,
@@ -4533,6 +4693,9 @@
       "artId": 3,
       "stageId": 16,
       "type": "特典会",
+      "collabArtList": [
+        3
+      ],
       "title": "特典会"
     },
     {
@@ -4542,6 +4705,9 @@
       "artId": 6,
       "stageId": 17,
       "type": "特典会",
+      "collabArtList": [
+        6
+      ],
       "title": "物販"
     },
     {
@@ -4551,6 +4717,9 @@
       "artId": 6,
       "stageId": 17,
       "type": "特典会",
+      "collabArtList": [
+        6
+      ],
       "title": "特典会"
     },
     {
@@ -4560,6 +4729,9 @@
       "artId": 7,
       "stageId": 18,
       "type": "特典会",
+      "collabArtList": [
+        7
+      ],
       "title": "特典会"
     },
     {
@@ -4569,6 +4741,9 @@
       "artId": 7,
       "stageId": 18,
       "type": "特典会",
+      "collabArtList": [
+        7
+      ],
       "title": "特典会"
     },
     {
@@ -4578,6 +4753,9 @@
       "artId": 11,
       "stageId": 19,
       "type": "特典会",
+      "collabArtList": [
+        11
+      ],
       "title": "チェキサイン券販売"
     },
     {
@@ -4587,6 +4765,9 @@
       "artId": 11,
       "stageId": 19,
       "type": "特典会",
+      "collabArtList": [
+        11
+      ],
       "title": "特典会"
     },
     {
@@ -4596,6 +4777,9 @@
       "artId": 14,
       "stageId": 20,
       "type": "特典会",
+      "collabArtList": [
+        14
+      ],
       "title": "TIFプレミア企画:ヒバナツハチマキ&写メ券配布"
     },
     {
@@ -4605,6 +4789,9 @@
       "artId": 16,
       "stageId": 21,
       "type": "特典会",
+      "collabArtList": [
+        16
+      ],
       "title": "ミート&グリート"
     },
     {
@@ -4614,6 +4801,9 @@
       "artId": 16,
       "stageId": 21,
       "type": "特典会",
+      "collabArtList": [
+        16
+      ],
       "title": "特典会"
     },
     {
@@ -4639,7 +4829,10 @@
       "artId": 18,
       "stageId": 23,
       "type": "特典会",
-      "title": "2ショットチェキ会"
+      "collabArtList": [
+        18
+      ],
+      "title": "特典会"
     },
     {
       "turnId": 251,
@@ -4648,6 +4841,9 @@
       "artId": 28,
       "stageId": 24,
       "type": "特典会",
+      "collabArtList": [
+        28
+      ],
       "title": "物販"
     },
     {
@@ -4657,6 +4853,9 @@
       "artId": 28,
       "stageId": 24,
       "type": "特典会",
+      "collabArtList": [
+        28
+      ],
       "title": "特典会"
     },
     {
@@ -4666,6 +4865,9 @@
       "artId": 28,
       "stageId": 24,
       "type": "特典会",
+      "collabArtList": [
+        28
+      ],
       "title": "物販"
     },
     {
@@ -4675,6 +4877,9 @@
       "artId": 28,
       "stageId": 24,
       "type": "特典会",
+      "collabArtList": [
+        28
+      ],
       "title": "特典会"
     },
     {
@@ -4692,6 +4897,9 @@
       "artId": 30,
       "stageId": 26,
       "type": "特典会",
+      "collabArtList": [
+        30
+      ],
       "title": "販売13:45〜"
     },
     {
@@ -4701,6 +4909,9 @@
       "artId": 32,
       "stageId": 27,
       "type": "特典会",
+      "collabArtList": [
+        32
+      ],
       "title": "特典会"
     },
     {
@@ -4710,6 +4921,9 @@
       "artId": 37,
       "stageId": 28,
       "type": "特典会",
+      "collabArtList": [
+        37
+      ],
       "title": "物販"
     },
     {
@@ -4719,6 +4933,9 @@
       "artId": 40,
       "stageId": 29,
       "type": "特典会",
+      "collabArtList": [
+        40
+      ],
       "title": "特典会"
     },
     {
@@ -4728,8 +4945,10 @@
       "artId": 43,
       "stageId": 30,
       "type": "特典会",
-      "title": "先行物販",
-      "isCombineArrTitle": true
+      "collabArtList": [
+        43
+      ],
+      "title": "先行物販"
     },
     {
       "turnId": 261,
@@ -4746,6 +4965,9 @@
       "artId": 55,
       "stageId": 31,
       "type": "特典会",
+      "collabArtList": [
+        55
+      ],
       "title": "特典会(冒頭10分間無料集合写メ実施)"
     },
     {
@@ -4771,6 +4993,9 @@
       "artId": 65,
       "stageId": 33,
       "type": "特典会",
+      "collabArtList": [
+        65
+      ],
       "title": "特典会"
     },
     {
@@ -4796,6 +5021,9 @@
       "artId": 73,
       "stageId": 36,
       "type": "特典会",
+      "collabArtList": [
+        73
+      ],
       "title": "特典会"
     },
     {
@@ -4805,6 +5033,9 @@
       "artId": 73,
       "stageId": 36,
       "type": "特典会",
+      "collabArtList": [
+        73
+      ],
       "title": "特典会"
     },
     {
@@ -4814,6 +5045,9 @@
       "artId": 76,
       "stageId": 37,
       "type": "特典会",
+      "collabArtList": [
+        76
+      ],
       "title": "物販販売のみ(販売終了時刻は不明)"
     },
     {
@@ -4823,6 +5057,9 @@
       "artId": 76,
       "stageId": 37,
       "type": "特典会",
+      "collabArtList": [
+        76
+      ],
       "title": "全員無料握手会"
     },
     {
@@ -4832,6 +5069,9 @@
       "artId": 76,
       "stageId": 37,
       "type": "特典会",
+      "collabArtList": [
+        76
+      ],
       "title": "特典会"
     },
     {
@@ -4841,11 +5081,10 @@
       "artId": 77,
       "stageId": 38,
       "type": "特典会",
-      "title": "特典会",
       "collabArtList": [
         77
       ],
-      "isCombineArrTitle": true
+      "title": "特典会"
     },
     {
       "turnId": 274,
@@ -4854,11 +5093,10 @@
       "artId": 77,
       "stageId": 38,
       "type": "特典会",
-      "title": "誰でも参加無料　エアハイタッチ会",
       "collabArtList": [
         77
       ],
-      "isCombineArrTitle": true
+      "title": "誰でも参加無料　エアハイタッチ会"
     },
     {
       "turnId": 275,
@@ -4923,6 +5161,9 @@
       "artId": 89,
       "stageId": 45,
       "type": "特典会",
+      "collabArtList": [
+        89
+      ],
       "title": "うちわ配り"
     },
     {
@@ -4932,6 +5173,9 @@
       "artId": 89,
       "stageId": 45,
       "type": "特典会",
+      "collabArtList": [
+        89
+      ],
       "title": "特典会①"
     },
     {
@@ -4941,6 +5185,9 @@
       "artId": 89,
       "stageId": 45,
       "type": "特典会",
+      "collabArtList": [
+        89
+      ],
       "title": "特典会②"
     },
     {
@@ -4950,6 +5197,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "物販（佐々木・高梨・日比野・吉村）"
     },
     {
@@ -4959,6 +5209,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "握手会&2ショット撮影会（佐々木・高梨・日比野・吉村）"
     },
     {
@@ -4968,6 +5221,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "物販（夏目・藤崎）"
     },
     {
@@ -4977,6 +5233,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "握手会&2ショット撮影会（夏目・藤崎）"
     },
     {
@@ -4986,6 +5245,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "物販（齋藤・永松）"
     },
     {
@@ -4995,6 +5257,9 @@
       "artId": 90,
       "stageId": 46,
       "type": "特典会",
+      "collabArtList": [
+        90
+      ],
       "title": "握手会&2ショット撮影会（齋藤・永松）"
     },
     {
@@ -5004,6 +5269,9 @@
       "artId": 91,
       "stageId": 47,
       "type": "特典会",
+      "collabArtList": [
+        91
+      ],
       "title": "特典会"
     },
     {
@@ -5013,6 +5281,9 @@
       "artId": 96,
       "stageId": 48,
       "type": "特典会",
+      "collabArtList": [
+        96
+      ],
       "title": "特典会"
     },
     {
@@ -5022,6 +5293,9 @@
       "artId": 96,
       "stageId": 48,
       "type": "特典会",
+      "collabArtList": [
+        96
+      ],
       "title": "特典会"
     },
     {
@@ -5031,6 +5305,9 @@
       "artId": 97,
       "stageId": 49,
       "type": "特典会",
+      "collabArtList": [
+        97
+      ],
       "title": "特典会"
     },
     {
@@ -5040,6 +5317,9 @@
       "artId": 109,
       "stageId": 50,
       "type": "特典会",
+      "collabArtList": [
+        109
+      ],
       "title": "特典会"
     },
     {
@@ -5049,6 +5329,9 @@
       "artId": 11,
       "stageId": 19,
       "type": "特典会",
+      "collabArtList": [
+        11
+      ],
       "title": "＃でび夏縁日（竹越くるみ・水野瞳）"
     },
     {
@@ -5074,6 +5357,9 @@
       "artId": 13,
       "stageId": 52,
       "type": "特典会",
+      "collabArtList": [
+        13
+      ],
       "title": "TIFプレミアム企画 特典会"
     },
     {
@@ -5083,6 +5369,9 @@
       "artId": 18,
       "stageId": 23,
       "type": "特典会",
+      "collabArtList": [
+        18
+      ],
       "title": "Tシャツ販売"
     },
     {
@@ -5092,6 +5381,9 @@
       "artId": 18,
       "stageId": 23,
       "type": "特典会",
+      "collabArtList": [
+        18
+      ],
       "title": "Tシャツ販売"
     },
     {
@@ -5101,6 +5393,9 @@
       "artId": 34,
       "stageId": 54,
       "type": "特典会",
+      "collabArtList": [
+        34
+      ],
       "title": "物販・特典会"
     },
     {
@@ -5110,7 +5405,10 @@
       "artId": 49,
       "stageId": 57,
       "type": "特典会",
-      "title": "特典会参加券付ランダム生写真セット販売"
+      "collabArtList": [
+        49
+      ],
+      "title": "特典券販売"
     },
     {
       "turnId": 304,
@@ -5119,6 +5417,9 @@
       "artId": 49,
       "stageId": 57,
       "type": "特典会",
+      "collabArtList": [
+        49
+      ],
       "title": "2ショット撮影会(門林・竹内・柏)"
     },
     {
@@ -5128,6 +5429,9 @@
       "artId": 49,
       "stageId": 57,
       "type": "特典会",
+      "collabArtList": [
+        49
+      ],
       "title": "2ショット撮影会(河村・櫻井・鎌田)"
     },
     {
@@ -5137,6 +5441,9 @@
       "artId": 49,
       "stageId": 57,
       "type": "特典会",
+      "collabArtList": [
+        49
+      ],
       "title": "無料名刺お渡し会(櫻井・河村・柏・鎌田・竹内・門林)"
     },
     {
@@ -5146,6 +5453,9 @@
       "artId": 57,
       "stageId": 59,
       "type": "特典会",
+      "collabArtList": [
+        57
+      ],
       "title": "特典会①"
     },
     {
@@ -5155,6 +5465,9 @@
       "artId": 57,
       "stageId": 59,
       "type": "特典会",
+      "collabArtList": [
+        57
+      ],
       "title": "特典会②"
     },
     {
@@ -5172,6 +5485,9 @@
       "artId": 81,
       "stageId": 40,
       "type": "特典会",
+      "collabArtList": [
+        81
+      ],
       "title": "前物販(グッズ販売)"
     },
     {
@@ -5197,6 +5513,9 @@
       "artId": 4,
       "stageId": 51,
       "type": "特典会",
+      "collabArtList": [
+        4
+      ],
       "title": "特典会"
     },
     {
@@ -5206,6 +5525,9 @@
       "artId": 53,
       "stageId": 58,
       "type": "特典会",
+      "collabArtList": [
+        53
+      ],
       "title": "販売"
     },
     {
@@ -5215,6 +5537,9 @@
       "artId": 53,
       "stageId": 58,
       "type": "特典会",
+      "collabArtList": [
+        53
+      ],
       "title": "特典会"
     },
     {
@@ -5232,6 +5557,9 @@
       "artId": 87,
       "stageId": 66,
       "type": "特典会",
+      "collabArtList": [
+        87
+      ],
       "title": "特典会"
     },
     {
@@ -5257,6 +5585,9 @@
       "artId": 42,
       "stageId": 56,
       "type": "特典会",
+      "collabArtList": [
+        42
+      ],
       "title": "参加無料 握手会"
     },
     {
@@ -5266,6 +5597,9 @@
       "artId": 42,
       "stageId": 56,
       "type": "特典会",
+      "collabArtList": [
+        42
+      ],
       "title": "特典会"
     },
     {
@@ -5275,6 +5609,9 @@
       "artId": 42,
       "stageId": 56,
       "type": "特典会",
+      "collabArtList": [
+        42
+      ],
       "title": "無料写メ会"
     },
     {
@@ -5284,6 +5621,9 @@
       "artId": 42,
       "stageId": 56,
       "type": "特典会",
+      "collabArtList": [
+        42
+      ],
       "title": "特典会"
     },
     {
@@ -5293,6 +5633,9 @@
       "artId": 38,
       "stageId": 55,
       "type": "特典会",
+      "collabArtList": [
+        38
+      ],
       "title": "13:30販売開始"
     },
     {
@@ -5302,6 +5645,9 @@
       "artId": 38,
       "stageId": 55,
       "type": "特典会",
+      "collabArtList": [
+        38
+      ],
       "title": "16:45販売開始"
     },
     {
@@ -5319,6 +5665,9 @@
       "artId": 108,
       "stageId": 70,
       "type": "特典会",
+      "collabArtList": [
+        108
+      ],
       "title": "Tシャツ配布"
     },
     {
@@ -5328,6 +5677,9 @@
       "artId": 108,
       "stageId": 70,
       "type": "特典会",
+      "collabArtList": [
+        108
+      ],
       "title": "特典会"
     },
     {
@@ -5337,6 +5689,9 @@
       "artId": 102,
       "stageId": 69,
       "type": "特典会",
+      "collabArtList": [
+        102
+      ],
       "title": "事前販売"
     },
     {
@@ -5346,6 +5701,9 @@
       "artId": 102,
       "stageId": 69,
       "type": "特典会",
+      "collabArtList": [
+        102
+      ],
       "title": "特典会"
     },
     {
@@ -5381,7 +5739,11 @@
       "artId": 90,
       "stageId": 131,
       "type": "特典会",
-      "title": "ラフ×ラフ（夏目・藤崎・吉村）"
+      "collabArtList": [
+        90
+      ],
+      "title": "ラフ×ラフ（夏目・藤崎・吉村）",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 335,
@@ -5390,7 +5752,11 @@
       "artId": 90,
       "stageId": 131,
       "type": "特典会",
-      "title": "ラフ×ラフ（佐々木・高梨・日比野）"
+      "collabArtList": [
+        90
+      ],
+      "title": "ラフ×ラフ（佐々木・高梨・日比野）",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 336,
@@ -5419,11 +5785,11 @@
     },
     {
       "turnId": 339,
-      "startTime": "13:15",
-      "min": 20,
-      "artId": 52,
-      "stageId": 132,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 340,
@@ -5440,7 +5806,11 @@
       "artId": 254,
       "stageId": 132,
       "type": "特典会",
-      "title": "MiX BeRRY（水瀬おと・聖杏華）"
+      "collabArtList": [
+        254
+      ],
+      "title": "MiX BeRRY（水瀬おと・聖杏華）",
+      "isCombineArrTitle": false
     },
     {
       "turnId": 342,
@@ -5549,6 +5919,9 @@
       "artId": 46,
       "stageId": 80,
       "type": "特典会",
+      "collabArtList": [
+        46
+      ],
       "title": "特典会(SEKAIE☆)"
     },
     {
@@ -5558,6 +5931,9 @@
       "artId": 46,
       "stageId": 80,
       "type": "特典会",
+      "collabArtList": [
+        46
+      ],
       "title": "特典会(SEKAIE☆)"
     },
     {
@@ -5567,7 +5943,354 @@
       "artId": 82,
       "stageId": 118,
       "type": "特典会",
+      "collabArtList": [
+        82
+      ],
       "title": "特典会"
+    },
+    {
+      "turnId": 357,
+      "startTime": "18:00",
+      "min": 20,
+      "artId": 52,
+      "stageId": 133,
+      "type": "特典会"
+    },
+    {
+      "turnId": 358,
+      "startTime": "15:45",
+      "min": 60,
+      "artId": 47,
+      "stageId": 71,
+      "type": "特典会",
+      "collabArtList": [
+        47
+      ],
+      "title": "SITUASION"
+    },
+    {
+      "turnId": 359,
+      "startTime": "14:25",
+      "min": 95,
+      "artId": 12,
+      "stageId": 79,
+      "type": "特典会",
+      "collabArtList": [
+        12
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 360,
+      "startTime": "14:30",
+      "min": 90,
+      "artId": 24,
+      "stageId": 86,
+      "type": "特典会"
+    },
+    {
+      "turnId": 361,
+      "startTime": "15:30",
+      "min": 50,
+      "artId": 31,
+      "stageId": 89,
+      "type": "特典会",
+      "collabArtList": [
+        31
+      ],
+      "title": "インキャ戦隊衣装"
+    },
+    {
+      "turnId": 362,
+      "startTime": "17:50",
+      "min": 40,
+      "artId": 31,
+      "stageId": 89,
+      "type": "特典会",
+      "collabArtList": [
+        31
+      ],
+      "title": "かき氷衣装"
+    },
+    {
+      "turnId": 363,
+      "startTime": "11:30",
+      "min": 30,
+      "artId": 113,
+      "stageId": 91,
+      "type": "特典会"
+    },
+    {
+      "turnId": 364,
+      "startTime": "14:00",
+      "min": 90,
+      "artId": 113,
+      "stageId": 91,
+      "type": "特典会",
+      "collabArtList": [
+        113
+      ],
+      "title": "前半集合写メ撮影"
+    },
+    {
+      "turnId": 365,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 113,
+      "stageId": 91,
+      "type": "特典会",
+      "collabArtList": [
+        113
+      ],
+      "title": "列が途切れ次第終了"
+    },
+    {
+      "turnId": 366,
+      "startTime": "11:30",
+      "min": 30,
+      "artId": 41,
+      "stageId": 94,
+      "type": "特典会",
+      "collabArtList": [
+        41
+      ],
+      "title": "うちわ配布"
+    },
+    {
+      "turnId": 367,
+      "startTime": "17:00",
+      "min": 90,
+      "artId": 41,
+      "stageId": 94,
+      "type": "特典会"
+    },
+    {
+      "turnId": 368,
+      "startTime": "10:50",
+      "min": 460,
+      "artId": 52,
+      "stageId": 95,
+      "type": "特典会",
+      "collabArtList": [
+        52
+      ],
+      "title": "TIF限定パンフレット配布"
+    },
+    {
+      "turnId": 369,
+      "startTime": "13:30",
+      "min": 30,
+      "artId": 52,
+      "stageId": 95,
+      "type": "特典会",
+      "collabArtList": [
+        52
+      ],
+      "title": "チェキ撮影"
+    },
+    {
+      "turnId": 370,
+      "startTime": "12:30",
+      "min": 90,
+      "artId": 60,
+      "stageId": 96,
+      "type": "特典会"
+    },
+    {
+      "turnId": 371,
+      "startTime": "16:30",
+      "min": 90,
+      "artId": 60,
+      "stageId": 96,
+      "type": "特典会"
+    },
+    {
+      "turnId": 372,
+      "startTime": "14:00",
+      "min": 60,
+      "artId": 75,
+      "stageId": 102,
+      "type": "特典会",
+      "collabArtList": [
+        75
+      ],
+      "title": "物販"
+    },
+    {
+      "turnId": 373,
+      "startTime": "15:00",
+      "min": 75,
+      "artId": 75,
+      "stageId": 102,
+      "type": "特典会",
+      "collabArtList": [
+        75
+      ],
+      "title": "左腕タッチ会&2ショットチェキ撮影会"
+    },
+    {
+      "turnId": 374,
+      "startTime": "13:15",
+      "min": 105,
+      "artId": 62,
+      "stageId": 104,
+      "type": "特典会"
+    },
+    {
+      "turnId": 375,
+      "startTime": "13:30",
+      "min": 20,
+      "artId": 48,
+      "stageId": 105,
+      "type": "特典会",
+      "collabArtList": [
+        48
+      ],
+      "title": "囲み写メ会"
+    },
+    {
+      "turnId": 376,
+      "startTime": "14:00",
+      "min": 90,
+      "artId": 48,
+      "stageId": 105,
+      "type": "特典会",
+      "collabArtList": [
+        48
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 377,
+      "startTime": "17:45",
+      "min": 45,
+      "artId": 48,
+      "stageId": 105,
+      "type": "特典会",
+      "collabArtList": [
+        48
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 378,
+      "startTime": "15:30",
+      "min": 60,
+      "artId": 54,
+      "stageId": 106,
+      "type": "特典会"
+    },
+    {
+      "turnId": 379,
+      "startTime": "13:30",
+      "min": 90,
+      "artId": 27,
+      "stageId": 108,
+      "type": "特典会"
+    },
+    {
+      "turnId": 380,
+      "startTime": "18:40",
+      "min": 60,
+      "artId": 111,
+      "stageId": 109,
+      "type": "特典会"
+    },
+    {
+      "turnId": 381,
+      "startTime": "14:30",
+      "min": 60,
+      "artId": 95,
+      "stageId": 112,
+      "type": "特典会"
+    },
+    {
+      "turnId": 382,
+      "startTime": "12:45",
+      "min": 90,
+      "artId": 1,
+      "stageId": 114,
+      "type": "特典会"
+    },
+    {
+      "turnId": 383,
+      "startTime": "15:30",
+      "min": 90,
+      "artId": 0,
+      "stageId": 115,
+      "type": "特典会"
+    },
+    {
+      "turnId": 384,
+      "startTime": "11:10",
+      "min": 80,
+      "artId": 115,
+      "stageId": 116,
+      "type": "特典会",
+      "collabArtList": [
+        115
+      ],
+      "title": "特典会①"
+    },
+    {
+      "turnId": 385,
+      "startTime": "16:40",
+      "min": 80,
+      "artId": 115,
+      "stageId": 116,
+      "type": "特典会",
+      "collabArtList": [
+        115
+      ],
+      "title": "特典会②"
+    },
+    {
+      "turnId": 386,
+      "startTime": "14:00",
+      "min": 100,
+      "artId": 110,
+      "stageId": 120,
+      "type": "特典会",
+      "collabArtList": [
+        110
+      ],
+      "title": "個別撮影会•個別握手会"
+    },
+    {
+      "turnId": 387,
+      "startTime": "14:00",
+      "min": 50,
+      "artId": 104,
+      "stageId": 121,
+      "type": "特典会",
+      "collabArtList": [
+        104
+      ],
+      "title": "特典会①"
+    },
+    {
+      "turnId": 388,
+      "startTime": "16:30",
+      "min": 90,
+      "artId": 104,
+      "stageId": 121,
+      "type": "特典会",
+      "collabArtList": [
+        104
+      ],
+      "title": "特典会②"
+    },
+    {
+      "turnId": 389,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 100,
+      "stageId": 128,
+      "type": "特典会",
+      "collabArtList": [
+        100
+      ],
+      "title": "10:00〜16:50 CD購入抽選会当選者限定"
     }
   ]
 }
