@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        635
+      ],
+      "date": "7/30",
+      "message": "NEO KASSEN 2026 (8/10 @渋谷 アイドル) に対応しました。",
+      "message_en": "NEO KASSEN 2026 (8/10 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         632,
         633,
         634
