@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 12,
+  "jsonVersion": 13,
   "notificationVersion": "5",
   "notification": "（7/30）縁日および登録いただいた98組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\n（7/28）TGIFのタイテを追加しました。\n（7/25）INFO CENTREのタイテを追加し、その他も最新情報に更新しました。",
   "report_type": "community",
@@ -4728,7 +4728,8 @@
       "artId": 43,
       "stageId": 30,
       "type": "特典会",
-      "title": "先行物販"
+      "title": "先行物販",
+      "isCombineArrTitle": true
     },
     {
       "turnId": 261,
@@ -4840,7 +4841,8 @@
       "artId": 77,
       "stageId": 38,
       "type": "特典会",
-      "title": "特典会"
+      "title": "特典会",
+      "isCombineArrTitle": true
     },
     {
       "turnId": 274,
@@ -4849,7 +4851,8 @@
       "artId": 77,
       "stageId": 38,
       "type": "特典会",
-      "title": "誰でも参加無料　エアハイタッチ会"
+      "title": "誰でも参加無料　エアハイタッチ会",
+      "isCombineArrTitle": true
     },
     {
       "turnId": 275,
