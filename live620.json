@@ -4842,6 +4842,9 @@
       "stageId": 38,
       "type": "特典会",
       "title": "特典会",
+      "collabArtList": [
+        77
+      ],
       "isCombineArrTitle": true
     },
     {
