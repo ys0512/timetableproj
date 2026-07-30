@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 15,
-  "notificationVersion": "6",
-  "notification": "（7/30）133組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 16,
+  "notificationVersion": "7",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全163組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
@@ -2245,8 +2245,8 @@
     },
     {
       "stageId": 86,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会B-6(ルージュブック)",
+      "stageNameShort": "B-6(ルージュブック)",
       "colorName": "stage-blueGrey",
       "stageOrder": 27,
       "type": "特典会"
@@ -2285,8 +2285,8 @@
     },
     {
       "stageId": 91,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-1(AQUAPLANET)",
+      "stageNameShort": "D-1(AQUAPLANET)",
       "colorName": "stage-blueGrey",
       "stageOrder": 44,
       "type": "特典会"
@@ -2309,32 +2309,32 @@
     },
     {
       "stageId": 94,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-9(Hey!Mommy!)",
+      "stageNameShort": "D-9(Hey!Mommy!)",
       "colorName": "stage-blueGrey",
       "stageOrder": 52,
       "type": "特典会"
     },
     {
       "stageId": 95,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-11(KRD8)",
+      "stageNameShort": "D-11(KRD8)",
       "colorName": "stage-blueGrey",
       "stageOrder": 54,
       "type": "特典会"
     },
     {
       "stageId": 96,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-12(Move Next Knot)",
+      "stageNameShort": "D-12(Move Next Knot)",
       "colorName": "stage-blueGrey",
       "stageOrder": 55,
       "type": "特典会"
     },
     {
       "stageId": 97,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会E-3(アイドルカレッジ)",
+      "stageNameShort": "E-3(アイドルカレッジ)",
       "colorName": "stage-blueGrey",
       "stageOrder": 58,
       "type": "特典会"
@@ -2349,8 +2349,8 @@
     },
     {
       "stageId": 99,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会E-5(アルテミスの翼)",
+      "stageNameShort": "E-5(アルテミスの翼)",
       "colorName": "stage-blueGrey",
       "stageOrder": 60,
       "type": "特典会"
@@ -2365,8 +2365,8 @@
     },
     {
       "stageId": 101,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会E-11(すてねこキャッツ)",
+      "stageNameShort": "E-11(すてねこキャッツ)",
       "colorName": "stage-blueGrey",
       "stageOrder": 66,
       "type": "特典会"
@@ -2397,8 +2397,8 @@
     },
     {
       "stageId": 105,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-7(テンシンランマン)",
+      "stageNameShort": "F-7(テンシンランマン)",
       "colorName": "stage-blueGrey",
       "stageOrder": 74,
       "type": "特典会"
@@ -2421,8 +2421,8 @@
     },
     {
       "stageId": 108,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-12(パラディーク)",
+      "stageNameShort": "F-12(パラディーク)",
       "colorName": "stage-blueGrey",
       "stageOrder": 79,
       "type": "特典会"
@@ -2437,16 +2437,16 @@
     },
     {
       "stageId": 110,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-3(ばってん少女隊)",
+      "stageNameShort": "G-3(ばってん少女隊)",
       "colorName": "stage-blueGrey",
       "stageOrder": 82,
       "type": "特典会"
     },
     {
       "stageId": 111,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-4(ハレとハレ！)",
+      "stageNameShort": "G-4(ハレとハレ！)",
       "colorName": "stage-blueGrey",
       "stageOrder": 83,
       "type": "特典会"
@@ -2477,8 +2477,8 @@
     },
     {
       "stageId": 115,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会H-6(PRSMIN)",
+      "stageNameShort": "H-6(PRSMIN)",
       "colorName": "stage-blueGrey",
       "stageOrder": 95,
       "type": "特典会"
@@ -2525,8 +2525,8 @@
     },
     {
       "stageId": 121,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-6(手羽先センセーション)",
+      "stageNameShort": "I-6(手羽先センセーション)",
       "colorName": "stage-blueGrey",
       "stageOrder": 111,
       "type": "特典会"
@@ -2557,8 +2557,8 @@
     },
     {
       "stageId": 125,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-12(KiSS KiSS)",
+      "stageNameShort": "I-12(KiSS KiSS)",
       "colorName": "stage-blueGrey",
       "stageOrder": 117,
       "type": "特典会"
@@ -6773,6 +6773,206 @@
       ],
       "title": "LOVE&PEACE TIFプロレス2026 午後の部",
       "isCombineArrTitle": false
+    },
+    {
+      "turnId": 400,
+      "startTime": "13:00",
+      "min": 90,
+      "artId": 105,
+      "stageId": 86,
+      "type": "特典会"
+    },
+    {
+      "turnId": 401,
+      "startTime": "16:30",
+      "min": 60,
+      "artId": 5,
+      "stageId": 91,
+      "type": "特典会",
+      "collabArtList": [
+        5
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 402,
+      "startTime": "12:30",
+      "min": 90,
+      "artId": 19,
+      "stageId": 94,
+      "type": "特典会",
+      "collabArtList": [
+        19
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 403,
+      "startTime": "16:10",
+      "min": 35,
+      "artId": 19,
+      "stageId": 94,
+      "type": "特典会",
+      "collabArtList": [
+        19
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 404,
+      "startTime": "12:45",
+      "min": 30,
+      "artId": 23,
+      "stageId": 95,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "物販のみ"
+    },
+    {
+      "turnId": 405,
+      "startTime": "16:15",
+      "min": 90,
+      "artId": 23,
+      "stageId": 95,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "囲み写メ・特典会"
+    },
+    {
+      "turnId": 406,
+      "startTime": "11:45",
+      "min": 75,
+      "artId": 30,
+      "stageId": 96,
+      "type": "特典会"
+    },
+    {
+      "turnId": 407,
+      "startTime": "16:30",
+      "min": 120,
+      "artId": 79,
+      "stageId": 97,
+      "type": "特典会"
+    },
+    {
+      "turnId": 408,
+      "startTime": "11:00",
+      "min": 60,
+      "artId": 81,
+      "stageId": 99,
+      "type": "特典会"
+    },
+    {
+      "turnId": 409,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 81,
+      "stageId": 99,
+      "type": "特典会"
+    },
+    {
+      "turnId": 410,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 72,
+      "stageId": 101,
+      "type": "特典会"
+    },
+    {
+      "turnId": 411,
+      "startTime": "14:00",
+      "min": 60,
+      "artId": 89,
+      "stageId": 105,
+      "type": "特典会"
+    },
+    {
+      "turnId": 412,
+      "startTime": "11:30",
+      "min": 150,
+      "artId": 95,
+      "stageId": 108,
+      "type": "特典会"
+    },
+    {
+      "turnId": 413,
+      "startTime": "17:00",
+      "min": 90,
+      "artId": 95,
+      "stageId": 108,
+      "type": "特典会"
+    },
+    {
+      "turnId": 414,
+      "startTime": "15:00",
+      "min": 60,
+      "artId": 76,
+      "stageId": 110,
+      "type": "特典会",
+      "collabArtList": [
+        76
+      ],
+      "title": "2ショット（列が途切れ次第終了）"
+    },
+    {
+      "turnId": 415,
+      "startTime": "13:20",
+      "min": 70,
+      "artId": 129,
+      "stageId": 111,
+      "type": "特典会"
+    },
+    {
+      "turnId": 416,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 129,
+      "stageId": 111,
+      "type": "特典会"
+    },
+    {
+      "turnId": 417,
+      "startTime": "14:00",
+      "min": 60,
+      "artId": 37,
+      "stageId": 115,
+      "type": "特典会"
+    },
+    {
+      "turnId": 418,
+      "startTime": "11:30",
+      "min": 60,
+      "artId": 113,
+      "stageId": 121,
+      "type": "特典会",
+      "collabArtList": [
+        113
+      ],
+      "title": "宮代工藤夏姫（\"完成\"衣装）"
+    },
+    {
+      "turnId": 419,
+      "startTime": "12:30",
+      "min": 60,
+      "artId": 113,
+      "stageId": 121,
+      "type": "特典会",
+      "collabArtList": [
+        113
+      ],
+      "title": "松山雛汰瀬名（\"完成\"衣装）"
+    },
+    {
+      "turnId": 420,
+      "startTime": "12:30",
+      "min": 80,
+      "artId": 24,
+      "stageId": 125,
+      "type": "特典会"
     }
   ]
 }

@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 16,
-  "notificationVersion": "6",
-  "notification": "（7/30）133組分の特典会情報を追加しました。引き続き情報投稿をよろしくお願いします（詳しくはStella公式Xへ）\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 17,
+  "notificationVersion": "7",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全163組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
@@ -1777,8 +1777,8 @@
     },
     {
       "stageId": 75,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会B-3(いぎなり東北産)",
+      "stageNameShort": "B-3(いぎなり東北産)",
       "colorName": "stage-blueGrey",
       "stageOrder": 25,
       "type": "特典会"
@@ -1857,8 +1857,8 @@
     },
     {
       "stageId": 85,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会C-7(LinQ)",
+      "stageNameShort": "C-7(LinQ)",
       "colorName": "stage-blueGrey",
       "stageOrder": 40,
       "type": "特典会"
@@ -1913,8 +1913,8 @@
     },
     {
       "stageId": 92,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-10(PIGGS)",
+      "stageNameShort": "D-10(PIGGS)",
       "colorName": "stage-blueGrey",
       "stageOrder": 54,
       "type": "特典会"
@@ -1961,8 +1961,8 @@
     },
     {
       "stageId": 98,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会E-10(いちごみるく色に染まりたい。)",
+      "stageNameShort": "E-10(いちごみるく色に染まりたい。)",
       "colorName": "stage-blueGrey",
       "stageOrder": 66,
       "type": "特典会"
@@ -2065,8 +2065,8 @@
     },
     {
       "stageId": 111,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-7(テンシンランマン)",
+      "stageNameShort": "G-7(テンシンランマン)",
       "colorName": "stage-blueGrey",
       "stageOrder": 87,
       "type": "特典会"
@@ -2113,8 +2113,8 @@
     },
     {
       "stageId": 117,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会H-12(Sepiacode)",
+      "stageNameShort": "H-12(Sepiacode)",
       "colorName": "stage-blueGrey",
       "stageOrder": 104,
       "type": "特典会"
@@ -2129,8 +2129,8 @@
     },
     {
       "stageId": 119,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-1(びっくえんじぇる)",
+      "stageNameShort": "I-1(びっくえんじぇる)",
       "colorName": "stage-blueGrey",
       "stageOrder": 109,
       "type": "特典会"
@@ -2153,8 +2153,8 @@
     },
     {
       "stageId": 122,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-6(log you)",
+      "stageNameShort": "I-6(log you)",
       "colorName": "stage-blueGrey",
       "stageOrder": 114,
       "type": "特典会"
@@ -6335,6 +6335,166 @@
       ],
       "title": "LOVE&PEACE TIFプロレス2026 午後の部",
       "isCombineArrTitle": false
+    },
+    {
+      "turnId": 393,
+      "startTime": "11:00",
+      "min": 60,
+      "artId": 71,
+      "stageId": 75,
+      "type": "特典会",
+      "collabArtList": [
+        71
+      ],
+      "title": "物販"
+    },
+    {
+      "turnId": 394,
+      "startTime": "15:00",
+      "min": 210,
+      "artId": 71,
+      "stageId": 75,
+      "type": "特典会",
+      "collabArtList": [
+        71
+      ],
+      "title": "物販"
+    },
+    {
+      "turnId": 395,
+      "startTime": "17:30",
+      "min": 60,
+      "artId": 71,
+      "stageId": 75,
+      "type": "特典会",
+      "collabArtList": [
+        71
+      ],
+      "title": "お見送り会（※列途切れ次第終了）"
+    },
+    {
+      "turnId": 396,
+      "startTime": "10:00",
+      "min": 210,
+      "artId": 23,
+      "stageId": 85,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "グッズ特典券販売"
+    },
+    {
+      "turnId": 397,
+      "startTime": "11:30",
+      "min": 45,
+      "artId": 23,
+      "stageId": 85,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "特典会A"
+    },
+    {
+      "turnId": 398,
+      "startTime": "12:15",
+      "min": 30,
+      "artId": 23,
+      "stageId": 85,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "全員お見送り会"
+    },
+    {
+      "turnId": 399,
+      "startTime": "12:45",
+      "min": 45,
+      "artId": 23,
+      "stageId": 85,
+      "type": "特典会",
+      "collabArtList": [
+        23
+      ],
+      "title": "特典会B"
+    },
+    {
+      "turnId": 400,
+      "startTime": "14:30",
+      "min": 125,
+      "artId": 36,
+      "stageId": 92,
+      "type": "特典会",
+      "collabArtList": [
+        36
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 401,
+      "startTime": "16:00",
+      "min": 150,
+      "artId": 72,
+      "stageId": 98,
+      "type": "特典会"
+    },
+    {
+      "turnId": 402,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 85,
+      "stageId": 111,
+      "type": "特典会"
+    },
+    {
+      "turnId": 403,
+      "startTime": "13:35",
+      "min": 45,
+      "artId": 51,
+      "stageId": 117,
+      "type": "特典会"
+    },
+    {
+      "turnId": 404,
+      "startTime": "16:15",
+      "min": 45,
+      "artId": 51,
+      "stageId": 117,
+      "type": "特典会"
+    },
+    {
+      "turnId": 405,
+      "startTime": "17:45",
+      "min": 45,
+      "artId": 51,
+      "stageId": 117,
+      "type": "特典会"
+    },
+    {
+      "turnId": 406,
+      "startTime": "17:20",
+      "min": 60,
+      "artId": 79,
+      "stageId": 119,
+      "type": "特典会",
+      "collabArtList": [
+        79
+      ],
+      "title": "個別特典会"
+    },
+    {
+      "turnId": 407,
+      "startTime": "12:40",
+      "min": 70,
+      "artId": 68,
+      "stageId": 122,
+      "type": "特典会",
+      "collabArtList": [
+        68
+      ],
+      "title": "📸特典会"
     }
   ]
 }
