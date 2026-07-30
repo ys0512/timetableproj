@@ -187,20 +187,8 @@
     {
       "icon": "mdi-alarm-plus",
       "date": "6/17",
-      "message": "∞Beats-エイトビーツ- (6/19-21 @大阪 アイドル) に対応しました。",
-      "message_en": "∞Beats-エイトビーツ- (6/19-21 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "6/17",
       "message": "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
       "message_en": "超NATSUZOME (7/4-5 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "6/14",
-      "message": "Tokyo GIRLS GIRLS (6/16 @新宿 アイドル) に対応しました。",
-      "message_en": "Tokyo GIRLS GIRLS (6/16 IDLE) is supported."
     },
     {
       "icon": "mdi-cellphone-arrow-down",
@@ -210,45 +198,15 @@
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "6/6",
-      "message": "#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』 (6/10 @渋谷 アイドル) に対応しました。",
-      "message_en": "#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』 (6/10 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "date": "6/4",
-      "message": "機能改善を行いました(ver1.16.0)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "Features improved (ver1.16.0). Please update. For more information on the new features, please refer to our X(Twitter) account"
-    },
-    {
-      "icon": "mdi-alarm-plus",
       "date": "6/2",
       "message": "mistFES (6/13-14 @名古屋 アイドル) に対応しました。",
       "message_en": "mistFES (6/13-14 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "5/24",
-      "message": "踊祭！circuit！ (5/31 @五反田 アイドル) に対応しました。",
-      "message_en": "踊祭！circuit！ (5/31 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "5/20",
-      "message": "さとりモンスター 春のわくわく大サーキット (5/24 @下北沢 アイドル) に対応しました。",
-      "message_en": "さとりモンスター 春のわくわく大サーキット (5/24 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
       "date": "5/19",
       "message": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 @神奈川 アイドル) に対応しました。",
       "message_en": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "5/8",
-      "message": "COMING KOBE (5/10 @神戸) に対応しました。",
-      "message_en": "COMING KOBE (5/10 IDLE) is supported."
     },
     {
       "icon": "mdi-alarm-plus",
