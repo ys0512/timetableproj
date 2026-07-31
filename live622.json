@@ -1,10 +1,9 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 16,
-  "notificationVersion": "7",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全163組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 17,
+  "notificationVersion": "8",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
-  "restriction_vote": true,
   "openTime": "9",
   "closeTime": "23",
   "setList": {
@@ -2462,8 +2461,8 @@
     },
     {
       "stageId": 113,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会G-7(ポンコツコンポ)",
+      "stageNameShort": "G-7(ポンコツコンポ)",
       "colorName": "stage-blueGrey",
       "stageOrder": 86,
       "type": "特典会"
@@ -6973,6 +6972,38 @@
       "min": 80,
       "artId": 24,
       "stageId": 125,
+      "type": "特典会"
+    },
+    {
+      "turnId": 421,
+      "startTime": "10:45",
+      "min": 75,
+      "artId": 100,
+      "stageId": 42,
+      "type": "特典会",
+      "collabArtList": [
+        100
+      ],
+      "title": "Tシャツ&うちわ配布"
+    },
+    {
+      "turnId": 422,
+      "startTime": "12:50",
+      "min": 250,
+      "artId": 100,
+      "stageId": 42,
+      "type": "特典会",
+      "collabArtList": [
+        100
+      ],
+      "title": "物販（1000円チェキ）"
+    },
+    {
+      "turnId": 423,
+      "startTime": "15:15",
+      "min": 60,
+      "artId": 98,
+      "stageId": 113,
       "type": "特典会"
     }
   ]

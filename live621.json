@@ -1,10 +1,9 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 17,
-  "notificationVersion": "7",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全163組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 18,
+  "notificationVersion": "8",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
-  "restriction_vote": true,
   "openTime": "9",
   "closeTime": "23",
   "setList": {
@@ -1201,7 +1200,7 @@
       "stageName": "TGIF(A)",
       "stageNameShort": "TGIF(A)",
       "colorName": "stage-redGrey",
-      "stageOrder": 129,
+      "stageOrder": 130,
       "type": "特典会"
     },
     {
@@ -1209,7 +1208,7 @@
       "stageName": "TGIF(B)",
       "stageNameShort": "TGIF(B)",
       "colorName": "stage-redGrey",
-      "stageOrder": 130,
+      "stageOrder": 131,
       "type": "特典会"
     },
     {
@@ -1217,7 +1216,7 @@
       "stageName": "TGIF(C)",
       "stageNameShort": "TGIF(C)",
       "colorName": "stage-redGrey",
-      "stageOrder": 131,
+      "stageOrder": 132,
       "type": "特典会"
     },
     {
@@ -1225,7 +1224,7 @@
       "stageName": "TGIF(D)",
       "stageNameShort": "TGIF(D)",
       "colorName": "stage-redGrey",
-      "stageOrder": 132,
+      "stageOrder": 133,
       "type": "特典会"
     },
     {
@@ -1233,7 +1232,7 @@
       "stageName": "TGIF(E)",
       "stageNameShort": "TGIF(E)",
       "colorName": "stage-redGrey",
-      "stageOrder": 133,
+      "stageOrder": 134,
       "type": "特典会"
     },
     {
@@ -1241,7 +1240,7 @@
       "stageName": "TGIF(F)",
       "stageNameShort": "TGIF(F)",
       "colorName": "stage-redGrey",
-      "stageOrder": 134,
+      "stageOrder": 135,
       "type": "特典会"
     },
     {
@@ -1249,7 +1248,7 @@
       "stageName": "TGIF(G)",
       "stageNameShort": "TGIF(G)",
       "colorName": "stage-redGrey",
-      "stageOrder": 135,
+      "stageOrder": 136,
       "type": "特典会"
     },
     {
@@ -1257,7 +1256,7 @@
       "stageName": "TGIF(H)",
       "stageNameShort": "TGIF(H)",
       "colorName": "stage-redGrey",
-      "stageOrder": 136,
+      "stageOrder": 137,
       "type": "特典会"
     },
     {
@@ -2161,7 +2160,7 @@
       "stageName": "縁日A",
       "stageNameShort": "縁日A",
       "colorName": "stage-grey",
-      "stageOrder": 121,
+      "stageOrder": 122,
       "type": "特典会"
     },
     {
@@ -2169,7 +2168,7 @@
       "stageName": "縁日B",
       "stageNameShort": "縁日B",
       "colorName": "stage-grey",
-      "stageOrder": 122,
+      "stageOrder": 123,
       "type": "特典会"
     },
     {
@@ -2177,7 +2176,7 @@
       "stageName": "縁日C",
       "stageNameShort": "縁日C",
       "colorName": "stage-grey",
-      "stageOrder": 123,
+      "stageOrder": 124,
       "type": "特典会"
     },
     {
@@ -2185,7 +2184,7 @@
       "stageName": "縁日D",
       "stageNameShort": "縁日D",
       "colorName": "stage-grey",
-      "stageOrder": 124,
+      "stageOrder": 125,
       "type": "特典会"
     },
     {
@@ -2193,7 +2192,7 @@
       "stageName": "縁日F",
       "stageNameShort": "縁日F",
       "colorName": "stage-grey",
-      "stageOrder": 126,
+      "stageOrder": 127,
       "type": "特典会"
     },
     {
@@ -2201,7 +2200,7 @@
       "stageName": "縁日H",
       "stageNameShort": "縁日H",
       "colorName": "stage-grey",
-      "stageOrder": 128,
+      "stageOrder": 129,
       "type": "特典会"
     },
     {
@@ -2209,7 +2208,7 @@
       "stageName": "縁日E",
       "stageNameShort": "縁日E",
       "colorName": "stage-grey",
-      "stageOrder": 125,
+      "stageOrder": 126,
       "type": "特典会"
     },
     {
@@ -2217,7 +2216,7 @@
       "stageName": "縁日G",
       "stageNameShort": "縁日G",
       "colorName": "stage-grey",
-      "stageOrder": 127,
+      "stageOrder": 128,
       "type": "特典会"
     },
     {
@@ -2233,7 +2232,7 @@
       "stageName": "特典会(プロレス特典会)",
       "stageNameShort": "特典会(プロレス特典会)",
       "colorName": "stage-blueGrey",
-      "stageOrder": 137,
+      "stageOrder": 121,
       "type": "特典会"
     }
   ],
@@ -6664,6 +6663,38 @@
       "artId": 277,
       "stageId": 137,
       "type": "特典会"
+    },
+    {
+      "turnId": 438,
+      "startTime": "19:25",
+      "min": 30,
+      "artId": 81,
+      "stageId": 96,
+      "type": "特典会"
+    },
+    {
+      "turnId": 439,
+      "startTime": "10:00",
+      "min": 30,
+      "artId": 96,
+      "stageId": 45,
+      "type": "特典会",
+      "collabArtList": [
+        96
+      ],
+      "title": "Tシャツ&うちわ配布"
+    },
+    {
+      "turnId": 440,
+      "startTime": "12:00",
+      "min": 280,
+      "artId": 96,
+      "stageId": 45,
+      "type": "特典会",
+      "collabArtList": [
+        96
+      ],
+      "title": "物販（1000円チェキ）"
     }
   ]
 }

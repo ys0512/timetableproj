@@ -1,10 +1,9 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 17,
-  "notificationVersion": "7",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全163組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 18,
+  "notificationVersion": "8",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
-  "restriction_vote": true,
   "openTime": "9",
   "closeTime": "23",
   "setList": {
@@ -2170,8 +2169,8 @@
     },
     {
       "stageId": 124,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-8(MORE STAR)",
+      "stageNameShort": "I-8(MORE STAR)",
       "colorName": "stage-blueGrey",
       "stageOrder": 116,
       "type": "特典会"
@@ -6496,6 +6495,14 @@
         68
       ],
       "title": "📸特典会"
+    },
+    {
+      "turnId": 408,
+      "startTime": "13:50",
+      "min": 70,
+      "artId": 26,
+      "stageId": 124,
+      "type": "特典会"
     }
   ]
 }
