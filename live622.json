@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 17,
-  "notificationVersion": "8",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 18,
+  "notificationVersion": "9",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（8/1）全168組分の特典会情報を追加しました。メインステージ争奪戦の結果を反映しした。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
@@ -419,7 +419,7 @@
     },
     {
       "artId": 101,
-      "name": "メインステージ争奪LIVE WINNERステージ"
+      "name": ""
     },
     {
       "artId": 102,
@@ -2173,24 +2173,24 @@
     },
     {
       "stageId": 77,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会A-3(fav me)",
+      "stageNameShort": "A-3(fav me)",
       "colorName": "stage-blueGrey",
       "stageOrder": 11,
       "type": "特典会"
     },
     {
       "stageId": 78,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会A-4(Toi Toi Toi)",
+      "stageNameShort": "A-4(Toi Toi Toi)",
       "colorName": "stage-blueGrey",
       "stageOrder": 12,
       "type": "特典会"
     },
     {
       "stageId": 79,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会A-5(log you)",
+      "stageNameShort": "A-5(log you)",
       "colorName": "stage-blueGrey",
       "stageOrder": 13,
       "type": "特典会"
@@ -2301,8 +2301,8 @@
     },
     {
       "stageId": 93,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会D-7(Rain Tree)",
+      "stageNameShort": "D-7(Rain Tree)",
       "colorName": "stage-blueGrey",
       "stageOrder": 50,
       "type": "特典会"
@@ -2793,7 +2793,7 @@
       "turnId": 11,
       "startTime": "12:50",
       "min": 20,
-      "artId": 101,
+      "artId": 106,
       "stageId": 0,
       "type": "ライブ"
     },
@@ -6893,10 +6893,14 @@
     {
       "turnId": 412,
       "startTime": "11:30",
-      "min": 150,
+      "min": 90,
       "artId": 95,
       "stageId": 108,
-      "type": "特典会"
+      "type": "特典会",
+      "collabArtList": [
+        95
+      ],
+      "title": "特典会"
     },
     {
       "turnId": 413,
@@ -6904,7 +6908,11 @@
       "min": 90,
       "artId": 95,
       "stageId": 108,
-      "type": "特典会"
+      "type": "特典会",
+      "collabArtList": [
+        95
+      ],
+      "title": "特典会"
     },
     {
       "turnId": 414,
@@ -7005,6 +7013,74 @@
       "artId": 98,
       "stageId": 113,
       "type": "特典会"
+    },
+    {
+      "turnId": 424,
+      "startTime": "11:20",
+      "min": 70,
+      "artId": 57,
+      "stageId": 77,
+      "type": "特典会",
+      "collabArtList": [
+        57
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 425,
+      "startTime": "10:20",
+      "min": 60,
+      "artId": 53,
+      "stageId": 78,
+      "type": "特典会",
+      "collabArtList": [
+        53
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 426,
+      "startTime": "12:50",
+      "min": 70,
+      "artId": 63,
+      "stageId": 79,
+      "type": "特典会",
+      "collabArtList": [
+        63
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 427,
+      "startTime": "14:00",
+      "min": 90,
+      "artId": 41,
+      "stageId": 93,
+      "type": "特典会",
+      "collabArtList": [
+        41
+      ],
+      "title": "握手会"
+    },
+    {
+      "turnId": 428,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 429,
+      "startTime": "16:30",
+      "min": 60,
+      "artId": 113,
+      "stageId": 121,
+      "type": "特典会",
+      "collabArtList": [
+        113
+      ],
+      "title": "全員（鶏Tシャツアレンジ衣装）"
     }
   ]
 }

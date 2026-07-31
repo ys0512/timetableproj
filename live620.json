@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 620,
-  "jsonVersion": 18,
+  "jsonVersion": 19,
   "notificationVersion": "8",
   "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
   "report_type": "community",
@@ -2161,8 +2161,8 @@
     },
     {
       "stageId": 123,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-7(Toi Toi Toi)",
+      "stageNameShort": "I-7(Toi Toi Toi)",
       "colorName": "stage-blueGrey",
       "stageOrder": 115,
       "type": "特典会"
@@ -2193,8 +2193,8 @@
     },
     {
       "stageId": 127,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会I-11(fav me)",
+      "stageNameShort": "I-11(fav me)",
       "colorName": "stage-blueGrey",
       "stageOrder": 119,
       "type": "特典会"
@@ -6503,6 +6503,30 @@
       "artId": 26,
       "stageId": 124,
       "type": "特典会"
+    },
+    {
+      "turnId": 409,
+      "startTime": "11:30",
+      "min": 70,
+      "artId": 58,
+      "stageId": 123,
+      "type": "特典会",
+      "collabArtList": [
+        58
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 410,
+      "startTime": "15:00",
+      "min": 70,
+      "artId": 63,
+      "stageId": 127,
+      "type": "特典会",
+      "collabArtList": [
+        63
+      ],
+      "title": "特典会"
     }
   ]
 }

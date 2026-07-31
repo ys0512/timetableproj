@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 18,
-  "notificationVersion": "8",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（7/31）全165組分の特典会情報を追加しました。\nTGIF、縁日、TIFプロレス、各企画個人出演者情報も対応済です。",
+  "jsonVersion": 19,
+  "notificationVersion": "9",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（8/1）全168組分の特典会情報を追加しました。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
@@ -1989,8 +1989,8 @@
     },
     {
       "stageId": 107,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-3(fav me)",
+      "stageNameShort": "F-3(fav me)",
       "colorName": "stage-blueGrey",
       "stageOrder": 72,
       "type": "特典会"
@@ -2053,8 +2053,8 @@
     },
     {
       "stageId": 115,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会H-5(Rain Tree)",
+      "stageNameShort": "H-5(Rain Tree)",
       "colorName": "stage-blueGrey",
       "stageOrder": 98,
       "type": "特典会"
@@ -5826,8 +5826,8 @@
     },
     {
       "turnId": 353,
-      "startTime": "16:25",
-      "min": 50,
+      "startTime": "16:40",
+      "min": 35,
       "artId": 29,
       "stageId": 55,
       "type": "特典会"
@@ -6695,6 +6695,30 @@
         96
       ],
       "title": "物販（1000円チェキ）"
+    },
+    {
+      "turnId": 441,
+      "startTime": "17:00",
+      "min": 90,
+      "artId": 56,
+      "stageId": 107,
+      "type": "特典会",
+      "collabArtList": [
+        56
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 442,
+      "startTime": "11:00",
+      "min": 90,
+      "artId": 39,
+      "stageId": 115,
+      "type": "特典会",
+      "collabArtList": [
+        39
+      ],
+      "title": "握手会"
     }
   ]
 }
