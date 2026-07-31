@@ -1,12 +1,11 @@
 ﻿{
   "liveId": 621,
-  "jsonVersion": 20,
-  "notificationVersion": "9",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（8/1）全168組分の特典会情報を追加しました。",
+  "jsonVersion": 21,
+  "notificationVersion": "10",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠を長押しで「セトリ」ボタンが表示されます。\n（8/1）全168組分の特典会情報を追加しました。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
-  "hasArtistSns": true,
   "setList": {
     "url": "https://idol-schedule.com/fes-setlist/tif2026/day2/"
   },
