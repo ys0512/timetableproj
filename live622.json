@@ -6,6 +6,7 @@
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
+  "hasArtistSns": true,
   "setList": {
     "url": "https://idol-schedule.com/fes-setlist/tif2026/day3/"
   },
