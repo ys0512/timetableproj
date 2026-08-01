@@ -1,12 +1,11 @@
 ﻿{
   "liveId": 622,
-  "jsonVersion": 19,
-  "notificationVersion": "9",
-  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（8/1）全168組分の特典会情報を追加しました。メインステージ争奪戦の結果を反映しした。",
+  "jsonVersion": 20,
+  "notificationVersion": "10",
+  "notification": "【お願い】セトリの投稿にご協力よろしくお願いします。各出番枠長押しで「セトリ」ボタンが表示されます。\n（8/2）全170組分の特典会情報を追加しました。\n（8/1）メインステージ争奪戦の結果を反映しました。",
   "report_type": "community",
   "openTime": "9",
   "closeTime": "23",
-  "hasArtistSns": true,
   "setList": {
     "url": "https://idol-schedule.com/fes-setlist/tif2026/day3/"
   },
@@ -2222,16 +2221,16 @@
     },
     {
       "stageId": 83,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会A-14(AOSTARIA)",
+      "stageNameShort": "A-14(AOSTARIA)",
       "colorName": "stage-blueGrey",
       "stageOrder": 21,
       "type": "特典会"
     },
     {
       "stageId": 84,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会B-2(myojou)",
+      "stageNameShort": "B-2(myojou)",
       "colorName": "stage-blueGrey",
       "stageOrder": 23,
       "type": "特典会"
@@ -2382,8 +2381,8 @@
     },
     {
       "stageId": 103,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-1(STAiNY)",
+      "stageNameShort": "F-1(STAiNY)",
       "colorName": "stage-blueGrey",
       "stageOrder": 68,
       "type": "特典会"
@@ -2414,8 +2413,8 @@
     },
     {
       "stageId": 107,
-      "stageName": "",
-      "stageNameShort": "",
+      "stageName": "特典会F-11(ハルカエコー)",
+      "stageNameShort": "F-11(ハルカエコー)",
       "colorName": "stage-blueGrey",
       "stageOrder": 78,
       "type": "特典会"
@@ -5461,7 +5460,7 @@
     },
     {
       "turnId": 275,
-      "startTime": "14:30",
+      "startTime": "15:00",
       "min": 90,
       "artId": 74,
       "stageId": 35,
@@ -5877,7 +5876,7 @@
       "collabArtList": [
         14
       ],
-      "title": "TIFプレミアム企画 特典会"
+      "title": "TIFプレミアム企画及び特典会"
     },
     {
       "turnId": 312,
@@ -6846,10 +6845,14 @@
     {
       "turnId": 406,
       "startTime": "11:45",
-      "min": 75,
+      "min": 60,
       "artId": 30,
       "stageId": 96,
-      "type": "特典会"
+      "type": "特典会",
+      "collabArtList": [
+        30
+      ],
+      "title": "仁科茉彩＆濱田菜々ツーショットチェキタイム"
     },
     {
       "turnId": 407,
@@ -6985,8 +6988,8 @@
     },
     {
       "turnId": 421,
-      "startTime": "10:45",
-      "min": 75,
+      "startTime": "11:15",
+      "min": 15,
       "artId": 100,
       "stageId": 42,
       "type": "特典会",
@@ -6997,8 +7000,8 @@
     },
     {
       "turnId": 422,
-      "startTime": "12:50",
-      "min": 250,
+      "startTime": "14:00",
+      "min": 30,
       "artId": 100,
       "stageId": 42,
       "type": "特典会",
@@ -7082,6 +7085,94 @@
         113
       ],
       "title": "全員（鶏Tシャツアレンジ衣装）"
+    },
+    {
+      "turnId": 430,
+      "startTime": "12:30",
+      "min": 60,
+      "artId": 121,
+      "stageId": 83,
+      "type": "特典会",
+      "collabArtList": [
+        121
+      ],
+      "title": "フライヤー配布"
+    },
+    {
+      "turnId": 431,
+      "startTime": "16:00",
+      "min": 90,
+      "artId": 121,
+      "stageId": 83,
+      "type": "特典会",
+      "collabArtList": [
+        121
+      ],
+      "title": "チェキ特典会"
+    },
+    {
+      "turnId": 432,
+      "startTime": "13:00",
+      "min": 150,
+      "artId": 64,
+      "stageId": 84,
+      "type": "特典会"
+    },
+    {
+      "turnId": 433,
+      "startTime": "10:00",
+      "min": 60,
+      "artId": 30,
+      "stageId": 96,
+      "type": "特典会",
+      "collabArtList": [
+        30
+      ],
+      "title": "阿部かれんツーショットチェキタイム"
+    },
+    {
+      "turnId": 434,
+      "startTime": "12:45",
+      "min": 15,
+      "artId": 30,
+      "stageId": 96,
+      "type": "特典会",
+      "collabArtList": [
+        30
+      ],
+      "title": "お話会＆アー写オフショット集合チェキお渡し会"
+    },
+    {
+      "turnId": 435,
+      "startTime": "13:30",
+      "min": 90,
+      "artId": 46,
+      "stageId": 103,
+      "type": "特典会",
+      "collabArtList": [
+        46
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 436,
+      "startTime": "17:45",
+      "min": 45,
+      "artId": 46,
+      "stageId": 103,
+      "type": "特典会",
+      "collabArtList": [
+        46
+      ],
+      "title": "特典会"
+    },
+    {
+      "turnId": 437,
+      "startTime": "16:30",
+      "min": 60,
+      "artId": 93,
+      "stageId": 107,
+      "type": "特典会"
     }
   ]
 }
