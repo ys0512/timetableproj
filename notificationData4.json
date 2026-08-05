@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        642
+      ],
+      "date": "8/5",
+      "message": "超宴祭 (8/16 @渋谷 アイドル) に対応しました。",
+      "message_en": "超宴祭 (8/16 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         635
       ],
       "date": "7/30",
