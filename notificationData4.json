@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        643,
+        644
+      ],
+      "date": "8/5",
+      "message": "POP GALAXY 2026 (8/15-16 @お台場 アイドル) に対応しました。",
+      "message_en": "POP GALAXY 2026 (8/15-16 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         642
       ],
       "date": "8/5",
