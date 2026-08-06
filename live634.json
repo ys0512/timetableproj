@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 634,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "（8/5）縁日に対応しました。公式から縁日タイムテーブルについてのポストが消えているため変更があるかもしれません。\n（7/30）特典会に対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
   "openTime": "9",
   "closeTime": "22",
   "artList": [
@@ -564,7 +564,7 @@
     },
     {
       "artId": 139,
-      "name": "マーキュロ"
+      "name": ""
     }
   ],
   "stageList": [
@@ -2620,7 +2620,7 @@
     },
     {
       "turnId": 219,
-      "startTime": "17:10",
+      "startTime": "16:30",
       "min": 60,
       "artId": 115,
       "stageId": 18,
@@ -3092,11 +3092,11 @@
     },
     {
       "turnId": 278,
-      "startTime": "17:00",
-      "min": 70,
-      "artId": 139,
-      "stageId": 26,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 279,
@@ -3452,11 +3452,11 @@
     },
     {
       "turnId": 323,
-      "startTime": "10:00",
-      "min": 70,
-      "artId": 65,
-      "stageId": 34,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 324,
@@ -3575,6 +3575,38 @@
       "startTime": "17:45",
       "min": 70,
       "artId": 81,
+      "stageId": 36,
+      "type": "特典会"
+    },
+    {
+      "turnId": 339,
+      "startTime": "17:00",
+      "min": 70,
+      "artId": 67,
+      "stageId": 26,
+      "type": "特典会"
+    },
+    {
+      "turnId": 340,
+      "startTime": "10:25",
+      "min": 70,
+      "artId": 83,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 341,
+      "startTime": "18:30",
+      "min": 70,
+      "artId": 64,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 342,
+      "startTime": "10:25",
+      "min": 70,
+      "artId": 12,
       "stageId": 36,
       "type": "特典会"
     }

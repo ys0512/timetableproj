@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 632,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "（8/5）縁日に対応しました。公式から縁日タイムテーブルについてのポストが消えているため変更があるかもしれません。\n（7/30）特典会に対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
   "openTime": "9",
   "closeTime": "22",
   "artList": [
@@ -3317,11 +3317,11 @@
     },
     {
       "turnId": 306,
-      "startTime": "11:15",
-      "min": 70,
-      "artId": 43,
-      "stageId": 30,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 307,
@@ -3617,6 +3617,30 @@
       "min": 70,
       "artId": 123,
       "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 344,
+      "startTime": "11:50",
+      "min": 70,
+      "artId": 113,
+      "stageId": 26,
+      "type": "特典会"
+    },
+    {
+      "turnId": 345,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 346,
+      "startTime": "15:00",
+      "min": 70,
+      "artId": 90,
+      "stageId": 33,
       "type": "特典会"
     }
   ]
