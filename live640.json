@@ -1,0 +1,442 @@
+﻿{
+  "liveId": 640,
+  "jsonVersion": 1,
+  "notificationVersion": "1",
+  "notification": "",
+  "openTime": "8",
+  "closeTime": "22",
+  "artList": [
+    {
+      "artId": 0,
+      "name": "Aile The Shota"
+    },
+    {
+      "artId": 1,
+      "name": "CLAN QUEEN"
+    },
+    {
+      "artId": 2,
+      "name": "Chevon"
+    },
+    {
+      "artId": 3,
+      "name": "Dannie May"
+    },
+    {
+      "artId": 4,
+      "name": "FLOW"
+    },
+    {
+      "artId": 5,
+      "name": "Fear, and Loathing in Las Vegas"
+    },
+    {
+      "artId": 6,
+      "name": "Juice=Juice"
+    },
+    {
+      "artId": 7,
+      "name": "Mega Shinnosuke"
+    },
+    {
+      "artId": 8,
+      "name": "MoooLy Men"
+    },
+    {
+      "artId": 9,
+      "name": "MyM"
+    },
+    {
+      "artId": 10,
+      "name": "NELKE"
+    },
+    {
+      "artId": 11,
+      "name": "NOMELON NOLEMON"
+    },
+    {
+      "artId": 12,
+      "name": "Opening Act：VIBY"
+    },
+    {
+      "artId": 13,
+      "name": "TOOBOE"
+    },
+    {
+      "artId": 14,
+      "name": "iLiFE!"
+    },
+    {
+      "artId": 15,
+      "name": "muque"
+    },
+    {
+      "artId": 16,
+      "name": "syudou"
+    },
+    {
+      "artId": 17,
+      "name": "yosugala"
+    },
+    {
+      "artId": 18,
+      "name": "『ユイカ』"
+    },
+    {
+      "artId": 19,
+      "name": "いぎなり東北産"
+    },
+    {
+      "artId": 20,
+      "name": "つばきファクトリー"
+    },
+    {
+      "artId": 21,
+      "name": "アンジュルム"
+    },
+    {
+      "artId": 22,
+      "name": "ウルフルズ"
+    },
+    {
+      "artId": 23,
+      "name": "オーイシマサヨシ"
+    },
+    {
+      "artId": 24,
+      "name": "カフネ"
+    },
+    {
+      "artId": 25,
+      "name": "宝鐘マリン＆ハコス・ベールズ"
+    },
+    {
+      "artId": 26,
+      "name": "岸谷香"
+    },
+    {
+      "artId": 27,
+      "name": "新種のImmigrationsB"
+    },
+    {
+      "artId": 28,
+      "name": "私立恵比寿中学"
+    },
+    {
+      "artId": 29,
+      "name": "西川貴教"
+    },
+    {
+      "artId": 30,
+      "name": "超学生"
+    },
+    {
+      "artId": 31,
+      "name": "鈴木愛理"
+    },
+    {
+      "artId": 32,
+      "name": "須田景凪"
+    }
+  ],
+  "stageList": [
+    {
+      "stageId": 0,
+      "stageName": "RAINBOW STAGE",
+      "stageNameShort": "RAINBOW STAGE",
+      "colorName": "stage-blue2",
+      "stageOrder": 0,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 1,
+      "stageName": "WING STAGE",
+      "stageNameShort": "WING STAGE",
+      "colorName": "stage-white",
+      "stageOrder": 1,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 2,
+      "stageName": "GARDEN STAGE",
+      "stageNameShort": "GARDEN STAGE",
+      "colorName": "stage-red",
+      "stageOrder": 2,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 3,
+      "stageName": "HILLS STAGE",
+      "stageNameShort": "HILLS STAGE",
+      "colorName": "stage-black",
+      "stageOrder": 3,
+      "type": "ライブ"
+    }
+  ],
+  "turnList": [
+    {
+      "turnId": 0,
+      "startTime": "10:20",
+      "min": 35,
+      "artId": 16,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 1,
+      "startTime": "11:50",
+      "min": 35,
+      "artId": 6,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 2,
+      "startTime": "13:20",
+      "min": 35,
+      "artId": 14,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 3,
+      "startTime": "14:50",
+      "min": 35,
+      "artId": 2,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 4,
+      "startTime": "16:20",
+      "min": 35,
+      "artId": 5,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 5,
+      "startTime": "17:50",
+      "min": 40,
+      "artId": 29,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 6,
+      "startTime": "19:30",
+      "min": 40,
+      "artId": 4,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 7,
+      "startTime": "09:00",
+      "min": 50,
+      "artId": 17,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 8,
+      "startTime": "11:00",
+      "min": 40,
+      "artId": 23,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 9,
+      "startTime": "12:00",
+      "min": 70,
+      "artId": 31,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 10,
+      "startTime": "14:00",
+      "min": 40,
+      "artId": 22,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 11,
+      "startTime": "15:00",
+      "min": 70,
+      "artId": 21,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 12,
+      "startTime": "17:00",
+      "min": 40,
+      "artId": 32,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 13,
+      "startTime": "18:00",
+      "min": 80,
+      "artId": 25,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 14,
+      "startTime": "10:10",
+      "min": 20,
+      "artId": 12,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 15,
+      "startTime": "11:00",
+      "min": 35,
+      "artId": 11,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 16,
+      "startTime": "12:10",
+      "min": 35,
+      "artId": 18,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 17,
+      "startTime": "13:20",
+      "min": 35,
+      "artId": 0,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 18,
+      "startTime": "14:30",
+      "min": 35,
+      "artId": 20,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 19,
+      "startTime": "15:40",
+      "min": 35,
+      "artId": 15,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 20,
+      "startTime": "16:50",
+      "min": 35,
+      "artId": 28,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 21,
+      "startTime": "18:00",
+      "min": 35,
+      "artId": 26,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 22,
+      "startTime": "19:20",
+      "min": 40,
+      "artId": 1,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 23,
+      "startTime": "09:30",
+      "min": 30,
+      "artId": 8,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 24,
+      "startTime": "10:10",
+      "min": 30,
+      "artId": 27,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 25,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 24,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 26,
+      "startTime": "11:50",
+      "min": 30,
+      "artId": 9,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 27,
+      "startTime": "12:50",
+      "min": 30,
+      "artId": 13,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 28,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 7,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 29,
+      "startTime": "15:10",
+      "min": 30,
+      "artId": 10,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 30,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 30,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 31,
+      "startTime": "17:30",
+      "min": 30,
+      "artId": 3,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 32,
+      "startTime": "18:40",
+      "min": 30,
+      "artId": 19,
+      "stageId": 3,
+      "type": "ライブ"
+    }
+  ]
+}
