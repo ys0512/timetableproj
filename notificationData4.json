@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        645,
+        646
+      ],
+      "date": "8/7",
+      "message": "アイドル道場 -真夏ノ音祭- (8/8-9 @新宿 アイドル) に対応しました。",
+      "message_en": "アイドル道場 -真夏ノ音祭- (8/8-9 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         643,
         644
       ],
