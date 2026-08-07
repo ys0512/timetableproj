@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        647,
+        648
+      ],
+      "date": "8/7",
+      "message": "@JAM EXPO 2026 (8/29-30 @横浜 アイドル) に対応しました。",
+      "message_en": "@JAM EXPO 2026 (8/29-30 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         645,
         646
       ],
