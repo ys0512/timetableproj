@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 646,
-  "jsonVersion": 2,
-  "notificationVersion": "2",
-  "notification": "公式の画像にて、特典会のブースと時間に重複があります。今後変更になるかもしれないので最新情報は公式の案内をご確認ください。",
+  "jsonVersion": 3,
+  "notificationVersion": "3",
+  "notification": "セトリの投稿にご協力よろしくお願いいたします。\n公式の画像にて、特典会のブースと時間に重複があります。今後変更になるかもしれないので最新情報は公式の案内をご確認ください。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "10",
   "closeTime": "23",
   "artList": [
