@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 632,
-  "jsonVersion": 4,
-  "notificationVersion": "4",
-  "notification": "（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "5",
+  "notification": "セトリの入力にご協力よろしくお願いします。\n（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "9",
   "closeTime": "22",
   "artList": [
