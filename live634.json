@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 634,
-  "jsonVersion": 5,
+  "jsonVersion": 6,
   "notificationVersion": "5",
   "notification": "セトリの入力にご協力よろしくお願いします。\n（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
   "setListButton": {
@@ -319,7 +319,7 @@
     },
     {
       "artId": 77,
-      "name": "…そして、消え逝くキミ達と。"
+      "name": "mementoa"
     },
     {
       "artId": 78,
