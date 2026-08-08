@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 634,
-  "jsonVersion": 6,
-  "notificationVersion": "5",
-  "notification": "セトリの入力にご協力よろしくお願いします。\n（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
+  "jsonVersion": 7,
+  "notificationVersion": "6",
+  "notification": "セトリの入力にご協力よろしくお願いします。\n（8/9）出演者変更（...そして、消え逝くキミ達と。→mementoa）\n（8/7）縁日を最新データに更新しました。\n（7/30）特典会に対応しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -3295,11 +3295,11 @@
     },
     {
       "turnId": 303,
-      "startTime": "18:10",
-      "min": 70,
-      "artId": 77,
-      "stageId": 30,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 304,
