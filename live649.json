@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 649,
-  "jsonVersion": 3,
+  "jsonVersion": 4,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "10",
@@ -144,7 +144,7 @@
     },
     {
       "artId": 34,
-      "name": "TRYVII"
+      "name": ""
     },
     {
       "artId": 35,
@@ -754,7 +754,7 @@
       "turnId": 59,
       "startTime": "11:50",
       "min": 15,
-      "artId": 34,
+      "artId": 56,
       "stageId": 3,
       "type": "ライブ"
     },
