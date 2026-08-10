@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        652
+      ],
+      "date": "8/11",
+      "message": "A Villa 2026 前夜祭 (8/28 @札幌 アイドル) に対応しました。",
+      "message_en": "A Villa 2026 前夜祭 (8/28 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         649,
         650,
         651

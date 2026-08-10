@@ -1,0 +1,463 @@
+﻿{
+  "liveId": 652,
+  "jsonVersion": 1,
+  "notificationVersion": "1",
+  "notification": "",
+  "openTime": "15",
+  "closeTime": "22",
+  "artList": [
+    {
+      "artId": 0,
+      "name": "ambitious"
+    },
+    {
+      "artId": 1,
+      "name": "限りなく白く"
+    },
+    {
+      "artId": 2,
+      "name": "myojou"
+    },
+    {
+      "artId": 3,
+      "name": "HIBANA"
+    },
+    {
+      "artId": 4,
+      "name": "ジエメイ"
+    },
+    {
+      "artId": 5,
+      "name": "衛星とカラテア"
+    },
+    {
+      "artId": 6,
+      "name": "THE ORCHESTRA TOKYO"
+    },
+    {
+      "artId": 7,
+      "name": "INUWASI"
+    },
+    {
+      "artId": 8,
+      "name": "Devil ANTHEM."
+    },
+    {
+      "artId": 9,
+      "name": "タイトル未定"
+    },
+    {
+      "artId": 10,
+      "name": "理想の少女"
+    },
+    {
+      "artId": 11,
+      "name": "ICECREAM SCREAM"
+    },
+    {
+      "artId": 12,
+      "name": "NooNico"
+    },
+    {
+      "artId": 13,
+      "name": "#MOUWAY"
+    },
+    {
+      "artId": 14,
+      "name": "#よーよーよー"
+    },
+    {
+      "artId": 15,
+      "name": "#Mooove!"
+    },
+    {
+      "artId": 16,
+      "name": "iluxion"
+    },
+    {
+      "artId": 17,
+      "name": "Tohkei"
+    },
+    {
+      "artId": 18,
+      "name": "LITTLE*BLUE"
+    },
+    {
+      "artId": 19,
+      "name": "Crystal☆Neige"
+    },
+    {
+      "artId": 20,
+      "name": "Hello♡DayDream!"
+    },
+    {
+      "artId": 21,
+      "name": "WONDER*WHITE"
+    },
+    {
+      "artId": 22,
+      "name": "BYBBiT"
+    },
+    {
+      "artId": 23,
+      "name": "MAGICAL SPEC"
+    },
+    {
+      "artId": 24,
+      "name": "selfish"
+    },
+    {
+      "artId": 25,
+      "name": "カラフルスクリーム"
+    },
+    {
+      "artId": 26,
+      "name": "feelNEO"
+    },
+    {
+      "artId": 27,
+      "name": "CYNHN"
+    },
+    {
+      "artId": 28,
+      "name": "NUANCE"
+    }
+  ],
+  "stageList": [
+    {
+      "stageId": 0,
+      "stageName": "SYNC north",
+      "stageNameShort": "SYNC north",
+      "colorName": "stage-purple",
+      "stageOrder": 0,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 1,
+      "stageName": "mole",
+      "stageNameShort": "mole",
+      "colorName": "stage-pink",
+      "stageOrder": 1,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 2,
+      "stageName": "cube garden",
+      "stageNameShort": "cube garden",
+      "colorName": "stage-blue2",
+      "stageOrder": 2,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 3,
+      "stageName": "SPiCE(無料)",
+      "stageNameShort": "SPiCE(無料)",
+      "colorName": "stage-orange",
+      "stageOrder": 3,
+      "type": "ライブ"
+    }
+  ],
+  "turnList": [
+    {
+      "turnId": 0,
+      "startTime": "16:00",
+      "min": 25,
+      "artId": 0,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 1,
+      "startTime": "16:25",
+      "min": 25,
+      "artId": 1,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 2,
+      "startTime": "16:55",
+      "min": 25,
+      "artId": 2,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 3,
+      "startTime": "17:20",
+      "min": 25,
+      "artId": 3,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 4,
+      "startTime": "17:50",
+      "min": 25,
+      "artId": 4,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 5,
+      "startTime": "18:15",
+      "min": 25,
+      "artId": 5,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 6,
+      "startTime": "18:45",
+      "min": 25,
+      "artId": 6,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 7,
+      "startTime": "19:10",
+      "min": 25,
+      "artId": 7,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 8,
+      "startTime": "19:40",
+      "min": 25,
+      "artId": 8,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 9,
+      "startTime": "20:05",
+      "min": 25,
+      "artId": 9,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 10,
+      "startTime": "16:00",
+      "min": 25,
+      "artId": 10,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 11,
+      "startTime": "16:25",
+      "min": 25,
+      "artId": 11,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 12,
+      "startTime": "16:50",
+      "min": 25,
+      "artId": 12,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 13,
+      "startTime": "17:20",
+      "min": 25,
+      "artId": 13,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 14,
+      "startTime": "17:45",
+      "min": 25,
+      "artId": 14,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 15,
+      "startTime": "18:10",
+      "min": 25,
+      "artId": 15,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 16,
+      "startTime": "18:40",
+      "min": 25,
+      "artId": 16,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 17,
+      "startTime": "19:05",
+      "min": 25,
+      "artId": 17,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 18,
+      "startTime": "19:30",
+      "min": 25,
+      "artId": 1,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 19,
+      "startTime": "16:00",
+      "min": 25,
+      "artId": 22,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 20,
+      "startTime": "16:25",
+      "min": 25,
+      "artId": 21,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 21,
+      "startTime": "16:50",
+      "min": 25,
+      "artId": 23,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 22,
+      "startTime": "17:20",
+      "min": 25,
+      "artId": 24,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 23,
+      "startTime": "17:45",
+      "min": 25,
+      "artId": 25,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 24,
+      "startTime": "18:10",
+      "min": 25,
+      "artId": 26,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 25,
+      "startTime": "18:35",
+      "min": 25,
+      "artId": 27,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 26,
+      "startTime": "19:05",
+      "min": 40,
+      "artId": 28,
+      "stageId": 2,
+      "type": "ライブ",
+      "collabArtList": [
+        28
+      ],
+      "title": "NUANCE TOUR -hike-",
+      "isCombineArrTitle": false
+    },
+    {
+      "turnId": 27,
+      "startTime": "17:00",
+      "min": 20,
+      "artId": 16,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 28,
+      "startTime": "17:20",
+      "min": 20,
+      "artId": 18,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 29,
+      "startTime": "17:40",
+      "min": 20,
+      "artId": 19,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 30,
+      "startTime": "18:00",
+      "min": 20,
+      "artId": 20,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 31,
+      "startTime": "18:20",
+      "min": 20,
+      "artId": 10,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 32,
+      "startTime": "18:40",
+      "min": 20,
+      "artId": 13,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 33,
+      "startTime": "19:00",
+      "min": 20,
+      "artId": 21,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 34,
+      "startTime": "19:20",
+      "min": 20,
+      "artId": 22,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 35,
+      "startTime": "19:40",
+      "min": 20,
+      "artId": 11,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 36,
+      "startTime": "20:00",
+      "min": 20,
+      "artId": 0,
+      "stageId": 3,
+      "type": "ライブ"
+    }
+  ]
+}
