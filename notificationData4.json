@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        653,
+        654,
+        655
+      ],
+      "date": "8/11",
+      "message": "#HNGSONIC2026 (8/12-14 @名古屋・栄 アイドル) に対応しました。",
+      "message_en": "#HNGSONIC2026 (8/12-14 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         652
       ],
       "date": "8/11",
