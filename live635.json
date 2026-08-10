@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 635,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（8/4）特典会データに対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "セトリの投稿にご協力よろしくお願いします。\n特典会の会場が一部変更になっております。ご注意ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -1137,8 +1137,8 @@
     },
     {
       "stageId": 23,
-      "stageName": "特典会12(シブテナ宇田川町 4F)",
-      "stageNameShort": "特典会12(シブテナ宇田川町 4F)",
+      "stageName": "特典会12(Veatsロビー)",
+      "stageNameShort": "特典会12(Veatsロビー)",
       "colorName": "stage-grey",
       "stageOrder": 23,
       "type": "特典会"
