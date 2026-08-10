@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 635,
-  "jsonVersion": 4,
-  "notificationVersion": "3",
-  "notification": "セトリの投稿にご協力よろしくお願いします。\n特典会の会場が一部変更になっております。ご注意ください。",
+  "jsonVersion": 5,
+  "notificationVersion": "4",
+  "notification": "なみだ色の消しごむの終演後特典会の場所がRINGに変更になりました。仕様上データ修正できておりませんのでご注意ください。\nセトリの投稿にご協力よろしくお願いします。\n特典会の会場が一部変更になっております。ご注意ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
