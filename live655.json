@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 655,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -739,7 +739,7 @@
     },
     {
       "turnId": 57,
-      "startTime": "13:20",
+      "startTime": "13:40",
       "min": 20,
       "artId": 51,
       "stageId": 3,
@@ -747,7 +747,7 @@
     },
     {
       "turnId": 58,
-      "startTime": "13:55",
+      "startTime": "14:15",
       "min": 20,
       "artId": 44,
       "stageId": 3,
@@ -755,7 +755,7 @@
     },
     {
       "turnId": 59,
-      "startTime": "14:15",
+      "startTime": "14:35",
       "min": 20,
       "artId": 23,
       "stageId": 3,
@@ -763,11 +763,11 @@
     },
     {
       "turnId": 60,
-      "startTime": "14:35",
-      "min": 20,
-      "artId": 28,
-      "stageId": 3,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 61,

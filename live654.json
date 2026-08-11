@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 654,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -239,7 +239,7 @@
     },
     {
       "artId": 57,
-      "name": "終演後物販卍"
+      "name": ""
     },
     {
       "artId": 58,
@@ -459,7 +459,7 @@
     },
     {
       "turnId": 20,
-      "startTime": "16:00",
+      "startTime": "18:45",
       "min": 20,
       "artId": 15,
       "stageId": 1,
@@ -523,7 +523,7 @@
     },
     {
       "turnId": 28,
-      "startTime": "18:45",
+      "startTime": "16:00",
       "min": 20,
       "artId": 23,
       "stageId": 1,
@@ -899,7 +899,7 @@
     },
     {
       "turnId": 75,
-      "startTime": "17:50",
+      "startTime": "18:00",
       "min": 20,
       "artId": 36,
       "stageId": 3,
@@ -923,15 +923,15 @@
     },
     {
       "turnId": 78,
-      "startTime": "19:00",
-      "min": 20,
-      "artId": 15,
-      "stageId": 3,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 79,
-      "startTime": "19:30",
+      "startTime": "19:10",
       "min": 20,
       "artId": 41,
       "stageId": 3,
@@ -939,7 +939,7 @@
     },
     {
       "turnId": 80,
-      "startTime": "19:50",
+      "startTime": "19:30",
       "min": 20,
       "artId": 0,
       "stageId": 3,
@@ -947,7 +947,7 @@
     },
     {
       "turnId": 81,
-      "startTime": "20:10",
+      "startTime": "19:50",
       "min": 20,
       "artId": 1,
       "stageId": 3,
@@ -955,11 +955,11 @@
     },
     {
       "turnId": 82,
-      "startTime": "20:40",
-      "min": 60,
-      "artId": 57,
-      "stageId": 3,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 83,

@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 653,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "3",
   "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。\n特典会タイテを追加しました。ONE LAST SHOTはライブと特典会が同時刻開始のためおそらく公式タイテが修正されると思われます。最新の公式情報をご確認ください。",
   "setListButton": {
@@ -245,8 +245,8 @@
     },
     {
       "stageId": 4,
-      "stageName": "Dt.BLD3F",
-      "stageNameShort": "Dt.BLD3F",
+      "stageName": "Dt.BLD",
+      "stageNameShort": "Dt.BLD",
       "colorName": "stage-cyan",
       "stageOrder": 4,
       "type": "ライブ"
