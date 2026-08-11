@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 642,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "2",
   "notification": "追加出演者と特典会データに対応しました。\n「.LiNIXLiNE.」のライブ時間が15分になっていますが、25分の可能性が高いと思われます。今後の公式からの案内をご確認ください。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "10",
   "closeTime": "24",
   "artList": [
