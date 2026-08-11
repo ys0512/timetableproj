@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 653,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "2",
   "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」という連動イベントでチケットは別料金となりますのでご注意ください。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "13",
   "closeTime": "23",
   "artList": [
