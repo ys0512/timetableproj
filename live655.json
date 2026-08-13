@@ -449,11 +449,11 @@
     },
     {
       "stageId": 26,
-      "stageName": "",
-      "stageNameShort": "",
-      "colorName": "",
+      "stageName": "ReNY特典会",
+      "stageNameShort": "ReNY特典会",
+      "colorName": "stage-grey",
       "stageOrder": 26,
-      "type": ""
+      "type": "特典会"
     },
     {
       "stageId": 27,
