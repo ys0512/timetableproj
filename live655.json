@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 655,
-  "jsonVersion": 8,
+  "jsonVersion": 9,
   "notificationVersion": "6",
   "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」、Zephyrの16:10までは「ANISONIC#」という連動イベントのためチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。\n特典会タイテを追加しました。\nグランダルメの特典会がZephyrとX-HALLとで重複しており訂正される可能性があります。公式からの最新情報をご確認ください。",
   "setListButton": {
@@ -323,24 +323,24 @@
       "stageId": 10,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 30,
+      "colorName": "",
+      "stageOrder": 10,
       "type": ""
     },
     {
       "stageId": 11,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 31,
+      "colorName": "",
+      "stageOrder": 11,
       "type": ""
     },
     {
       "stageId": 12,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 32,
+      "colorName": "",
+      "stageOrder": 12,
       "type": ""
     },
     {
@@ -411,16 +411,16 @@
       "stageId": 21,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 33,
+      "colorName": "",
+      "stageOrder": 21,
       "type": ""
     },
     {
       "stageId": 22,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 34,
+      "colorName": "",
+      "stageOrder": 22,
       "type": ""
     },
     {
@@ -451,8 +451,8 @@
       "stageId": 26,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
-      "stageOrder": 29,
+      "colorName": "",
+      "stageOrder": 26,
       "type": ""
     },
     {
@@ -1847,27 +1847,27 @@
     },
     {
       "turnId": 162,
-      "startTime": "20:45",
-      "min": 60,
+      "startTime": "",
+      "min": 0,
       "artId": 0,
-      "stageId": 27,
-      "type": "特典会"
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 163,
-      "startTime": "20:45",
-      "min": 60,
-      "artId": 19,
-      "stageId": 27,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 164,
-      "startTime": "20:45",
-      "min": 60,
-      "artId": 2,
-      "stageId": 27,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 165,
@@ -1893,6 +1893,19 @@
         56,
         41,
         42
+      ]
+    },
+    {
+      "turnId": 167,
+      "startTime": "20:45",
+      "min": 60,
+      "artId": 2,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        2,
+        0,
+        19
       ]
     }
   ]
