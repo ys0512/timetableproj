@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 655,
-  "jsonVersion": 7,
+  "jsonVersion": 8,
   "notificationVersion": "6",
   "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」、Zephyrの16:10までは「ANISONIC#」という連動イベントのためチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。\n特典会タイテを追加しました。\nグランダルメの特典会がZephyrとX-HALLとで重複しており訂正される可能性があります。公式からの最新情報をご確認ください。",
   "setListButton": {
@@ -284,7 +284,7 @@
       "stageName": "Dt.BLD A",
       "stageNameShort": "Dt.BLD A",
       "colorName": "stage-grey",
-      "stageOrder": 5,
+      "stageOrder": 22,
       "type": "特典会"
     },
     {
@@ -292,7 +292,7 @@
       "stageName": "Dt.BLD B",
       "stageNameShort": "Dt.BLD B",
       "colorName": "stage-grey",
-      "stageOrder": 6,
+      "stageOrder": 23,
       "type": "特典会"
     },
     {
@@ -316,39 +316,39 @@
       "stageName": "Dt.BLD C",
       "stageNameShort": "Dt.BLD C",
       "colorName": "stage-grey",
-      "stageOrder": 9,
+      "stageOrder": 24,
       "type": "特典会"
     },
     {
       "stageId": 10,
-      "stageName": "Z-HALL -ZEN- C(大須アウラ3階)",
-      "stageNameShort": "Z-HALL -ZEN- C(大須アウラ3階)",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 10,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 11,
-      "stageName": "Z-HALL -ZEN- D(大須アウラ3階)",
-      "stageNameShort": "Z-HALL -ZEN- D(大須アウラ3階)",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 11,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 12,
-      "stageName": "Z-HALL -ZEN- E(大須アウラ3階)",
-      "stageNameShort": "Z-HALL -ZEN- E(大須アウラ3階)",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 12,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 13,
       "stageName": "Lion theater C(1階Lion Cafe)",
       "stageNameShort": "Lion theater C(1階Lion Cafe)",
       "colorName": "stage-grey",
-      "stageOrder": 13,
+      "stageOrder": 19,
       "type": "特典会"
     },
     {
@@ -356,7 +356,7 @@
       "stageName": "Lion theater D(1階Lion Cafe)",
       "stageNameShort": "Lion theater D(1階Lion Cafe)",
       "colorName": "stage-grey",
-      "stageOrder": 14,
+      "stageOrder": 20,
       "type": "特典会"
     },
     {
@@ -364,7 +364,7 @@
       "stageName": "Lion theater E(1階Lion Cafe)",
       "stageNameShort": "Lion theater E(1階Lion Cafe)",
       "colorName": "stage-grey",
-      "stageOrder": 15,
+      "stageOrder": 21,
       "type": "特典会"
     },
     {
@@ -372,7 +372,7 @@
       "stageName": "ReNY A",
       "stageNameShort": "ReNY A",
       "colorName": "stage-grey",
-      "stageOrder": 16,
+      "stageOrder": 5,
       "type": "特典会"
     },
     {
@@ -380,7 +380,7 @@
       "stageName": "ReNY B",
       "stageNameShort": "ReNY B",
       "colorName": "stage-grey",
-      "stageOrder": 17,
+      "stageOrder": 6,
       "type": "特典会"
     },
     {
@@ -388,7 +388,7 @@
       "stageName": "Zephyr A",
       "stageNameShort": "Zephyr A",
       "colorName": "stage-grey",
-      "stageOrder": 18,
+      "stageOrder": 9,
       "type": "特典会"
     },
     {
@@ -396,7 +396,7 @@
       "stageName": "Zephyr B",
       "stageNameShort": "Zephyr B",
       "colorName": "stage-grey",
-      "stageOrder": 19,
+      "stageOrder": 10,
       "type": "特典会"
     },
     {
@@ -404,31 +404,31 @@
       "stageName": "Zephyr C",
       "stageNameShort": "Zephyr C",
       "colorName": "stage-grey",
-      "stageOrder": 20,
+      "stageOrder": 11,
       "type": "特典会"
     },
     {
       "stageId": 21,
-      "stageName": "Z-HALL -ZEN- A",
-      "stageNameShort": "Z-HALL -ZEN- A",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 21,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 22,
-      "stageName": "Z-HALL -ZEN- B",
-      "stageNameShort": "Z-HALL -ZEN- B",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 22,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 23,
       "stageName": "Lion theater A",
       "stageNameShort": "Lion theater A",
       "colorName": "stage-grey",
-      "stageOrder": 23,
+      "stageOrder": 17,
       "type": "特典会"
     },
     {
@@ -436,7 +436,7 @@
       "stageName": "Lion theater B",
       "stageNameShort": "Lion theater B",
       "colorName": "stage-grey",
-      "stageOrder": 24,
+      "stageOrder": 18,
       "type": "特典会"
     },
     {
@@ -449,11 +449,11 @@
     },
     {
       "stageId": 26,
-      "stageName": "ReNY特典会",
-      "stageNameShort": "ReNY特典会",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 26,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 27,
@@ -477,6 +477,46 @@
       "stageNameShort": "X-HALL -ZEN-特典会",
       "colorName": "stage-grey",
       "stageOrder": 26,
+      "type": "特典会"
+    },
+    {
+      "stageId": 30,
+      "stageName": "X-HALL -ZEN- C(大須アウラ3階)",
+      "stageNameShort": "X-HALL -ZEN- C(大須アウラ3階)",
+      "colorName": "stage-grey",
+      "stageOrder": 14,
+      "type": "特典会"
+    },
+    {
+      "stageId": 31,
+      "stageName": "X-HALL -ZEN- D(大須アウラ3階)",
+      "stageNameShort": "X-HALL -ZEN- D(大須アウラ3階)",
+      "colorName": "stage-grey",
+      "stageOrder": 15,
+      "type": "特典会"
+    },
+    {
+      "stageId": 32,
+      "stageName": "X-HALL -ZEN- E(大須アウラ3階)",
+      "stageNameShort": "X-HALL -ZEN- E(大須アウラ3階)",
+      "colorName": "stage-grey",
+      "stageOrder": 16,
+      "type": "特典会"
+    },
+    {
+      "stageId": 33,
+      "stageName": "X-HALL -ZEN- A",
+      "stageNameShort": "X-HALL -ZEN- A",
+      "colorName": "stage-grey",
+      "stageOrder": 12,
+      "type": "特典会"
+    },
+    {
+      "stageId": 34,
+      "stageName": "X-HALL -ZEN- B",
+      "stageNameShort": "X-HALL -ZEN- B",
+      "colorName": "stage-grey",
+      "stageOrder": 13,
       "type": "特典会"
     }
   ],
@@ -1410,7 +1450,7 @@
       "startTime": "13:45",
       "min": 60,
       "artId": 30,
-      "stageId": 21,
+      "stageId": 33,
       "type": "特典会"
     },
     {
@@ -1418,7 +1458,7 @@
       "startTime": "15:30",
       "min": 60,
       "artId": 35,
-      "stageId": 21,
+      "stageId": 33,
       "type": "特典会"
     },
     {
@@ -1426,7 +1466,7 @@
       "startTime": "17:15",
       "min": 60,
       "artId": 56,
-      "stageId": 21,
+      "stageId": 33,
       "type": "特典会"
     },
     {
@@ -1434,7 +1474,7 @@
       "startTime": "19:40",
       "min": 60,
       "artId": 47,
-      "stageId": 21,
+      "stageId": 33,
       "type": "特典会"
     },
     {
@@ -1442,7 +1482,7 @@
       "startTime": "14:05",
       "min": 60,
       "artId": 31,
-      "stageId": 22,
+      "stageId": 34,
       "type": "特典会"
     },
     {
@@ -1450,7 +1490,7 @@
       "startTime": "15:50",
       "min": 60,
       "artId": 36,
-      "stageId": 22,
+      "stageId": 34,
       "type": "特典会"
     },
     {
@@ -1458,7 +1498,7 @@
       "startTime": "17:35",
       "min": 60,
       "artId": 41,
-      "stageId": 22,
+      "stageId": 34,
       "type": "特典会"
     },
     {
@@ -1466,7 +1506,7 @@
       "startTime": "14:35",
       "min": 60,
       "artId": 32,
-      "stageId": 10,
+      "stageId": 30,
       "type": "特典会"
     },
     {
@@ -1474,7 +1514,7 @@
       "startTime": "16:20",
       "min": 60,
       "artId": 37,
-      "stageId": 10,
+      "stageId": 30,
       "type": "特典会"
     },
     {
@@ -1482,7 +1522,7 @@
       "startTime": "18:05",
       "min": 60,
       "artId": 42,
-      "stageId": 10,
+      "stageId": 30,
       "type": "特典会"
     },
     {
@@ -1490,7 +1530,7 @@
       "startTime": "19:15",
       "min": 60,
       "artId": 45,
-      "stageId": 10,
+      "stageId": 30,
       "type": "特典会"
     },
     {
@@ -1498,7 +1538,7 @@
       "startTime": "14:55",
       "min": 60,
       "artId": 33,
-      "stageId": 11,
+      "stageId": 31,
       "type": "特典会"
     },
     {
@@ -1506,7 +1546,7 @@
       "startTime": "16:40",
       "min": 60,
       "artId": 38,
-      "stageId": 11,
+      "stageId": 31,
       "type": "特典会"
     },
     {
@@ -1514,7 +1554,7 @@
       "startTime": "18:25",
       "min": 60,
       "artId": 43,
-      "stageId": 11,
+      "stageId": 31,
       "type": "特典会"
     },
     {
@@ -1522,7 +1562,7 @@
       "startTime": "19:30",
       "min": 60,
       "artId": 46,
-      "stageId": 11,
+      "stageId": 31,
       "type": "特典会"
     },
     {
@@ -1530,7 +1570,7 @@
       "startTime": "15:15",
       "min": 60,
       "artId": 34,
-      "stageId": 12,
+      "stageId": 32,
       "type": "特典会"
     },
     {
@@ -1538,7 +1578,7 @@
       "startTime": "17:00",
       "min": 60,
       "artId": 39,
-      "stageId": 12,
+      "stageId": 32,
       "type": "特典会"
     },
     {
@@ -1546,7 +1586,7 @@
       "startTime": "18:45",
       "min": 60,
       "artId": 44,
-      "stageId": 12,
+      "stageId": 32,
       "type": "特典会"
     },
     {
@@ -1635,19 +1675,19 @@
     },
     {
       "turnId": 143,
-      "startTime": "00:00",
+      "startTime": "",
       "min": 0,
-      "artId": 15,
-      "stageId": 14,
-      "type": "特典会"
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 144,
-      "startTime": "00:00",
+      "startTime": "",
       "min": 0,
-      "artId": 19,
-      "stageId": 14,
-      "type": "特典会"
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 145,
@@ -1808,7 +1848,7 @@
     {
       "turnId": 162,
       "startTime": "20:45",
-      "min": 0,
+      "min": 60,
       "artId": 0,
       "stageId": 27,
       "type": "特典会"
@@ -1816,7 +1856,7 @@
     {
       "turnId": 163,
       "startTime": "20:45",
-      "min": 0,
+      "min": 60,
       "artId": 19,
       "stageId": 27,
       "type": "特典会"
@@ -1824,7 +1864,7 @@
     {
       "turnId": 164,
       "startTime": "20:45",
-      "min": 0,
+      "min": 60,
       "artId": 2,
       "stageId": 27,
       "type": "特典会"
