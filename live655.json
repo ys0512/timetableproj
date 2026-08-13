@@ -323,24 +323,24 @@
       "stageId": 10,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 10,
+      "colorName": "stage-grey",
+      "stageOrder": 30,
       "type": ""
     },
     {
       "stageId": 11,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 11,
+      "colorName": "stage-grey",
+      "stageOrder": 31,
       "type": ""
     },
     {
       "stageId": 12,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 12,
+      "colorName": "stage-grey",
+      "stageOrder": 32,
       "type": ""
     },
     {
@@ -411,16 +411,16 @@
       "stageId": 21,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 21,
+      "colorName": "stage-grey",
+      "stageOrder": 33,
       "type": ""
     },
     {
       "stageId": 22,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 22,
+      "colorName": "stage-grey",
+      "stageOrder": 34,
       "type": ""
     },
     {
@@ -451,8 +451,8 @@
       "stageId": 26,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
-      "stageOrder": 26,
+      "colorName": "stage-grey",
+      "stageOrder": 35,
       "type": ""
     },
     {
