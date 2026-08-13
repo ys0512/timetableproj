@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 655,
-  "jsonVersion": 6,
-  "notificationVersion": "5",
-  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」、Zephyrの16:10までは「ANISONIC#」という連動イベントのためチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。\n特典会タイテを追加しました。",
+  "jsonVersion": 7,
+  "notificationVersion": "6",
+  "notification": "Lion theaterとDt.BLD3Fは「カフェレボ!!×IDOL CREAM SODA!!」、Zephyrの16:10までは「ANISONIC#」という連動イベントのためチケットは別料金となりますのでご注意ください。\n8/11の公式タイテ変更を反映しました。\n特典会タイテを追加しました。\nグランダルメの特典会がZephyrとX-HALLとで重複しており訂正される可能性があります。公式からの最新情報をご確認ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -449,11 +449,11 @@
     },
     {
       "stageId": 26,
-      "stageName": "Z-HALL -ZEN-特典会",
-      "stageNameShort": "Z-HALL -ZEN-特典会",
-      "colorName": "stage-grey",
+      "stageName": "",
+      "stageNameShort": "",
+      "colorName": "",
       "stageOrder": 26,
-      "type": "特典会"
+      "type": ""
     },
     {
       "stageId": 27,
@@ -469,6 +469,14 @@
       "stageNameShort": "Dt.BLD特典会",
       "colorName": "stage-grey",
       "stageOrder": 28,
+      "type": "特典会"
+    },
+    {
+      "stageId": 29,
+      "stageName": "X-HALL -ZEN-特典会",
+      "stageNameShort": "X-HALL -ZEN-特典会",
+      "colorName": "stage-grey",
+      "stageOrder": 26,
       "type": "特典会"
     }
   ],
@@ -1788,7 +1796,7 @@
       "startTime": "20:45",
       "min": 60,
       "artId": 48,
-      "stageId": 26,
+      "stageId": 29,
       "type": "特典会",
       "collabArtList": [
         48,
