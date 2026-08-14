@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 643,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "2",
   "notification": "特典会、CAFE企画、FESTIVAL企画のデータに対応しました。",
   "openTime": "10",
@@ -1082,75 +1082,75 @@
     },
     {
       "artId": 179,
-      "name": "RiNCENT#",
-      "groupId": 1071,
-      "aliasId": 6179
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 180,
-      "name": "きゅ〜くる",
-      "groupId": 1670,
-      "aliasId": 3287
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 181,
-      "name": "砂月凜々香",
-      "groupId": 6645,
-      "aliasId": 7080
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 182,
-      "name": "...そして、消え逝くキミ達と。",
-      "groupId": 6123,
-      "aliasId": 6549
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 183,
-      "name": "ろりぽっぷ!!!!!!",
-      "groupId": 1929,
-      "aliasId": 2208
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 184,
-      "name": "あ！恋見つけちゃいました...♡",
-      "groupId": 6138,
-      "aliasId": 6564
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 185,
-      "name": "東京Cute Cute",
-      "groupId": 2602,
-      "aliasId": 3009
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 186,
-      "name": "melt × melts",
-      "groupId": 1461,
-      "aliasId": 1658
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 187,
-      "name": "PLATINUM Princess研究生",
-      "groupId": 926,
-      "aliasId": 1052
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 188,
-      "name": "りぼたまの（結城りぼ＆青山菜花）",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 189,
-      "name": "あたまのなかは8ビット!?",
-      "groupId": 1582,
-      "aliasId": 3291
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 190,
-      "name": "ペリきゅらむ",
-      "groupId": 3611,
-      "aliasId": 3968
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 191,
@@ -3509,7 +3509,7 @@
       "turnId": 220,
       "startTime": "11:30",
       "min": 80,
-      "artId": 188,
+      "artId": 116,
       "stageId": 17,
       "type": "特典会"
     },
@@ -4013,7 +4013,7 @@
       "turnId": 283,
       "startTime": "12:55",
       "min": 80,
-      "artId": 189,
+      "artId": 92,
       "stageId": 17,
       "type": "特典会"
     },
@@ -4253,7 +4253,7 @@
       "turnId": 313,
       "startTime": "13:30",
       "min": 80,
-      "artId": 186,
+      "artId": 79,
       "stageId": 36,
       "type": "特典会"
     },
@@ -4325,7 +4325,7 @@
       "turnId": 322,
       "startTime": "13:35",
       "min": 80,
-      "artId": 185,
+      "artId": 164,
       "stageId": 24,
       "type": "特典会"
     },
@@ -4709,7 +4709,7 @@
       "turnId": 370,
       "startTime": "14:35",
       "min": 60,
-      "artId": 189,
+      "artId": 92,
       "stageId": 40,
       "type": "特典会"
     },
@@ -5061,7 +5061,7 @@
       "turnId": 414,
       "startTime": "15:10",
       "min": 60,
-      "artId": 186,
+      "artId": 79,
       "stageId": 57,
       "type": "特典会"
     },
@@ -5117,7 +5117,7 @@
       "turnId": 421,
       "startTime": "15:15",
       "min": 80,
-      "artId": 183,
+      "artId": 117,
       "stageId": 20,
       "type": "特典会"
     },
@@ -5133,7 +5133,7 @@
       "turnId": 423,
       "startTime": "15:15",
       "min": 60,
-      "artId": 185,
+      "artId": 164,
       "stageId": 47,
       "type": "特典会"
     },
@@ -5149,7 +5149,7 @@
       "turnId": 425,
       "startTime": "15:20",
       "min": 80,
-      "artId": 180,
+      "artId": 99,
       "stageId": 12,
       "type": "特典会"
     },
@@ -5405,7 +5405,7 @@
       "turnId": 457,
       "startTime": "15:50",
       "min": 80,
-      "artId": 187,
+      "artId": 54,
       "stageId": 34,
       "type": "特典会"
     },
@@ -5421,7 +5421,7 @@
       "turnId": 459,
       "startTime": "15:55",
       "min": 60,
-      "artId": 189,
+      "artId": 92,
       "stageId": 38,
       "type": "特典会"
     },
@@ -5477,7 +5477,7 @@
       "turnId": 466,
       "startTime": "16:00",
       "min": 80,
-      "artId": 184,
+      "artId": 93,
       "stageId": 22,
       "type": "特典会"
     },
@@ -5709,7 +5709,7 @@
       "turnId": 495,
       "startTime": "16:30",
       "min": 60,
-      "artId": 186,
+      "artId": 79,
       "stageId": 41,
       "type": "特典会"
     },
@@ -5781,7 +5781,7 @@
       "turnId": 504,
       "startTime": "16:35",
       "min": 80,
-      "artId": 190,
+      "artId": 110,
       "stageId": 19,
       "type": "特典会"
     },
@@ -5797,7 +5797,7 @@
       "turnId": 506,
       "startTime": "16:35",
       "min": 60,
-      "artId": 185,
+      "artId": 164,
       "stageId": 68,
       "type": "特典会"
     },
@@ -5981,7 +5981,7 @@
       "turnId": 529,
       "startTime": "16:55",
       "min": 60,
-      "artId": 183,
+      "artId": 117,
       "stageId": 46,
       "type": "特典会"
     },
@@ -6149,7 +6149,7 @@
       "turnId": 550,
       "startTime": "17:20",
       "min": 60,
-      "artId": 182,
+      "artId": 87,
       "stageId": 52,
       "type": "特典会"
     },
@@ -6253,7 +6253,7 @@
       "turnId": 563,
       "startTime": "17:30",
       "min": 60,
-      "artId": 187,
+      "artId": 54,
       "stageId": 61,
       "type": "特典会"
     },
@@ -6413,7 +6413,7 @@
       "turnId": 583,
       "startTime": "17:50",
       "min": 80,
-      "artId": 179,
+      "artId": 60,
       "stageId": 8,
       "type": "特典会"
     },
@@ -6605,7 +6605,7 @@
       "turnId": 607,
       "startTime": "18:15",
       "min": 60,
-      "artId": 190,
+      "artId": 110,
       "stageId": 60,
       "type": "特典会"
     },
@@ -7205,7 +7205,7 @@
       "turnId": 682,
       "startTime": "19:35",
       "min": 60,
-      "artId": 190,
+      "artId": 110,
       "stageId": 52,
       "type": "特典会"
     },
@@ -7237,7 +7237,7 @@
       "turnId": 686,
       "startTime": "19:40",
       "min": 80,
-      "artId": 181,
+      "artId": 167,
       "stageId": 15,
       "type": "特典会"
     },
@@ -7341,7 +7341,7 @@
       "turnId": 699,
       "startTime": "20:00",
       "min": 80,
-      "artId": 182,
+      "artId": 87,
       "stageId": 12,
       "type": "特典会"
     },
