@@ -3,6 +3,7 @@
   "jsonVersion": 3,
   "notificationVersion": "3",
   "notification": "データ調整のため♡がズレてしまっているかもしれません。念のためご確認ください。\n特典会、CAFE企画、FESTIVAL企画のデータに対応しました。\nCAFEとFESTIVALについてはイベント公式の案内と各グループの案内が食い違っているケースが多いため、正しい情報は各グループからの案内を必ずご確認ください。",
+  "report_type": "community",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
