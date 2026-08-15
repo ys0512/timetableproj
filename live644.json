@@ -1,8 +1,8 @@
 {
   "liveId": 644,
   "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "特典会、CAFE企画、FESTIVAL企画のデータに対応しました。\nCAFEとFESTIVALについてはイベント公式の案内と各グループの案内が食い違っているケースが多いため、正しい情報は各グループからの案内を必ずご確認ください。",
+  "notificationVersion": "3",
+  "notification": "データ調整のため♡がズレてしまっているかもしれません。念のためご確認ください。\n特典会、CAFE企画、FESTIVAL企画のデータに対応しました。\nCAFEとFESTIVALについてはイベント公式の案内と各グループの案内が食い違っているケースが多いため、正しい情報は各グループからの案内を必ずご確認ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
