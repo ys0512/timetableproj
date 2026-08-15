@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 644,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "当日7時半時点で発表となった出演キャンセル・追加出演に対応しました。\n特典会・CAFE・FESTIVALについては修正点が把握しきれないためそのままの掲載となっております。各出演者様の公式の案内をご確認ください。\nその他追いきれていない変更が発生しているかもしれませんが、ご了承ください。",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "当日7:20時点で公式から発表となった出演キャンセル・追加出演に対応しました。\n特典会・CAFE・FESTIVALについては修正点が把握しきれないためそのままの掲載となっております。各出演者様の公式の案内をご確認ください。\nその他追いきれていない変更が発生しているかもしれませんが、ご了承ください。",
   "report_type": "community",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
