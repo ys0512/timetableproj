@@ -1,0 +1,72 @@
+{
+  "title": "POP GALAXY",
+  "sections": [
+    {
+      "type": "banner",
+      "imageUrl": "pop_galaxy_logo.jpg",
+      "aspectRatio": "16:9",
+      "credit": {
+        "text": "画像引用元",
+        "url": "https://x.com/POPGALAXY_"
+      }
+    },
+    {
+      "type": "map_stages",
+      "mapTitle": "venue",
+
+      "byLiveId": {
+        "common": {
+          "_MEMO_":"commonは全ライブ共通の設定。ライブごとならliveIDの数値を指定。数値とcommon両方に同じキーがある場合はライブごとの設定が優先される。",
+          "center": { "lat": 35.62189766539862, "lng": 139.77606431501647 },
+          "zoom": 17,
+          "note": "各ステージの位置は多少ズレていると思われます。ご承知おきください。",
+          "pins": [
+            { "lat": 35.622616534893204, "lng": 139.77644343802777, "label": "GALAXY STAGE", "stageId": 0 },
+            { "lat": 35.623996856389105, "lng": 139.77701079277026, "label": "UNIVERSE STAGE", "stageId": 1 },
+            { "lat": 35.62310997031393, "lng": 139.77595940111465, "label": "NOVA STAGE", "stageId": 2 },
+            { "lat": 35.622916466590304, "lng": 139.77698698767617, "label": "JUPITER STAGE", "stageId": 3 },
+            { "lat": 35.62344860070357, "lng": 139.77764956279498, "label": "MARS STAGE", "stageId": 4 },
+            { "lat": 35.62309707008027, "lng": 139.77734406408752, "label": "MOON STAGE", "stageId": 5 },
+            { "lat": 35.627465136602254, "lng": 139.7738239376152, "label": "HADO STAGE", "stageId": 6 },
+
+
+            { "lat": 35.62367757853527, "lng": 139.77616571193008, "label": "PHOTO SESSION", "stageType": "booth" },
+            { "lat": 35.62323252243006, "lng": 139.77663784629618, "label": "CAFE", "stageType": "booth" },
+            { "lat": 35.6208637147757, "lng": 139.77620086012433, "label": "特典会&縁日", "stageType": "booth" }
+          ],
+
+          "overlayImages": [
+            {
+              "type": "area",
+              "imageUrl": "toilet.png",
+              "bounds": {
+                "northEast": { "lat": 35.624087156964976, "lng": 139.77679654692344 },
+                "southWest": { "lat": 35.6239259058651, "lng": 139.7765505609512 }
+              },
+
+              "opacity": 1.0
+            },
+            {
+              "type": "area",
+              "imageUrl": "toilet.png",
+              "bounds": {
+                "northEast": { "lat": 35.62392893169093, "lng": 139.7776239106529 },
+                "southWest": { "lat": 35.62376743201152, "lng": 139.77742000099985 }
+              },
+              "opacity": 1.0
+            },
+            {
+              "type": "area",
+              "imageUrl": "food.png",
+              "bounds": {
+                "northEast": { "lat": 35.62354535198005, "lng": 139.77714172078774 },
+                "southWest": { "lat": 35.62330992366977, "lng": 139.77688383226842 }
+              },
+              "opacity": 1.0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
