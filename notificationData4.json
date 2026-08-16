@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        656,
+        657
+      ],
+      "date": "8/16",
+      "message": "miniちかっぱ祭ver.36.0 in OSAKA!! (8/22-23 @大阪 アイドル) に対応しました。",
+      "message_en": "miniちかっぱ祭ver.36.0 in OSAKA!! (8/22-23 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         653,
         654,
         655
