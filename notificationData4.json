@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        658
+      ],
+      "date": "8/16",
+      "message": "エンドレスサマー 2026 (8/25 @渋谷 アイドル) に対応しました。",
+      "message_en": "エンドレスサマー 2026 (8/25 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         656,
         657
       ],
