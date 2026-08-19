@@ -36,6 +36,16 @@
   ],
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
+        659,
+        660
+      ],
+      "date": "8/19",
+      "message": "RAD JAM 花火大会-夜空に咲く花- (8/22-23 @知多 アイドル) に対応しました。",
+      "message_en": "RAD JAM 花火大会-夜空に咲く花- (8/22-23 IDOL) is supported."
+    },
+    {
       "icon": "mdi-information",
       "date": "8/18",
       "message": "アプリ改修に伴い、現在一時的に過去のタイテデータを閲覧できません。8/22頃の再開を予定しております。今しばらくお待ちください。  ",
