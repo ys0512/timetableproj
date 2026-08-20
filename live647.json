@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 647,
-  "jsonVersion": 2,
-  "notificationVersion": "2",
-  "notification": "8/21: 大運動会・スピジャムを追加しました",
+  "jsonVersion": 3,
+  "notificationVersion": "3",
+  "notification": "8/21: 大運動会・スピジャムを追加しました\n※大運動会の終了時間は公開されていないため推測で登録しています",
   "openTime": "9",
   "closeTime": "23",
   "artList": [
