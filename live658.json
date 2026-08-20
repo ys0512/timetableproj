@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 658,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "2",
   "notification": "特典会情報に対応しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "10",
   "closeTime": "24",
   "artList": [
