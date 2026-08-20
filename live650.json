@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 650,
-  "jsonVersion": 4,
-  "notificationVersion": "2",
-  "notification": "特典会情報を反映しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "特典会・縁日情報を反映しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "9",
   "closeTime": "20",
   "artList": [
@@ -666,6 +669,14 @@
       "stageNameShort": "特典会22",
       "colorName": "stage-grey",
       "stageOrder": 26,
+      "type": "特典会"
+    },
+    {
+      "stageId": 27,
+      "stageName": "縁日",
+      "stageNameShort": "縁日",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 27,
       "type": "特典会"
     }
   ],
@@ -2588,6 +2599,119 @@
       "min": 40,
       "artId": 22,
       "stageId": 26,
+      "type": "特典会"
+    },
+    {
+      "turnId": 240,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 63,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 241,
+      "startTime": "11:40",
+      "min": 30,
+      "artId": 0,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        0,
+        56
+      ]
+    },
+    {
+      "turnId": 242,
+      "startTime": "12:20",
+      "min": 30,
+      "artId": 51,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        51,
+        52
+      ]
+    },
+    {
+      "turnId": 243,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 66,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        66,
+        65,
+        54
+      ]
+    },
+    {
+      "turnId": 244,
+      "startTime": "13:40",
+      "min": 30,
+      "artId": 16,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        16,
+        71,
+        53
+      ]
+    },
+    {
+      "turnId": 245,
+      "startTime": "14:20",
+      "min": 30,
+      "artId": 41,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        41,
+        45,
+        57
+      ]
+    },
+    {
+      "turnId": 246,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 73,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        73,
+        72,
+        5
+      ]
+    },
+    {
+      "turnId": 247,
+      "startTime": "15:40",
+      "min": 30,
+      "artId": 31,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        31,
+        59,
+        43
+      ]
+    },
+    {
+      "turnId": 248,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 32,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 249,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 23,
+      "stageId": 27,
       "type": "特典会"
     }
   ]

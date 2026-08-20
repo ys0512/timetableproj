@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 649,
-  "jsonVersion": 5,
-  "notificationVersion": "2",
-  "notification": "特典会情報を反映しました。",
+  "jsonVersion": 6,
+  "notificationVersion": "3",
+  "notification": "特典会・縁日情報を反映しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "10",
   "closeTime": "20",
   "artList": [
@@ -564,6 +567,14 @@
       "stageNameShort": "特典会22",
       "colorName": "stage-grey",
       "stageOrder": 26,
+      "type": "特典会"
+    },
+    {
+      "stageId": 27,
+      "stageName": "縁日",
+      "stageNameShort": "縁日",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 27,
       "type": "特典会"
     }
   ],
@@ -2167,6 +2178,83 @@
       "artId": 18,
       "stageId": 26,
       "type": "特典会"
+    },
+    {
+      "turnId": 200,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 38,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 201,
+      "startTime": "13:40",
+      "min": 30,
+      "artId": 56,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 202,
+      "startTime": "14:20",
+      "min": 30,
+      "artId": 27,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        27,
+        43
+      ]
+    },
+    {
+      "turnId": 203,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 46,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        46,
+        50
+      ]
+    },
+    {
+      "turnId": 204,
+      "startTime": "15:40",
+      "min": 30,
+      "artId": 6,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        6,
+        51,
+        53
+      ]
+    },
+    {
+      "turnId": 205,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 54,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        54,
+        8
+      ]
+    },
+    {
+      "turnId": 206,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 48,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        48,
+        10
+      ]
     }
   ]
 }

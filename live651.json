@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 651,
-  "jsonVersion": 4,
-  "notificationVersion": "2",
-  "notification": "特典会情報を反映しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "特典会・縁日情報を反映しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "9",
   "closeTime": "20",
   "artList": [
@@ -624,6 +627,14 @@
       "stageNameShort": "特典会22",
       "colorName": "stage-grey",
       "stageOrder": 26,
+      "type": "特典会"
+    },
+    {
+      "stageId": 27,
+      "stageName": "縁日",
+      "stageNameShort": "縁日",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 27,
       "type": "特典会"
     }
   ],
@@ -2531,6 +2542,88 @@
       "artId": 36,
       "stageId": 26,
       "type": "特典会"
+    },
+    {
+      "turnId": 238,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 58,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 239,
+      "startTime": "11:40",
+      "min": 30,
+      "artId": 0,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 240,
+      "startTime": "12:20",
+      "min": 30,
+      "artId": 49,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        49,
+        29,
+        46
+      ]
+    },
+    {
+      "turnId": 241,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 30,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 242,
+      "startTime": "13:40",
+      "min": 30,
+      "artId": 7,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 243,
+      "startTime": "14:20",
+      "min": 30,
+      "artId": 43,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        43,
+        8
+      ]
+    },
+    {
+      "turnId": 244,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 9,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        9,
+        6
+      ]
+    },
+    {
+      "turnId": 245,
+      "startTime": "15:40",
+      "min": 30,
+      "artId": 21,
+      "stageId": 27,
+      "type": "特典会",
+      "collabArtList": [
+        21,
+        11,
+        41
+      ]
     }
   ]
 }
