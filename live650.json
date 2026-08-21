@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 650,
-  "jsonVersion": 5,
-  "notificationVersion": "3",
-  "notification": "特典会・縁日情報を反映しました。",
+  "jsonVersion": 6,
+  "notificationVersion": "4",
+  "notification": "セトリの投稿にご協力よろしくお願いします。\n（8/22）縁日の最新情報を反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -2603,7 +2603,7 @@
     },
     {
       "turnId": 240,
-      "startTime": "11:00",
+      "startTime": "11:40",
       "min": 30,
       "artId": 63,
       "stageId": 27,
@@ -2711,6 +2711,38 @@
       "startTime": "17:00",
       "min": 30,
       "artId": 23,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 250,
+      "startTime": "11:00",
+      "min": 30,
+      "artId": 61,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 251,
+      "startTime": "12:20",
+      "min": 30,
+      "artId": 38,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 252,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 55,
+      "stageId": 27,
+      "type": "特典会"
+    },
+    {
+      "turnId": 253,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 1,
       "stageId": 27,
       "type": "特典会"
     }
