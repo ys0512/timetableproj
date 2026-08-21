@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 658,
-  "jsonVersion": 3,
+  "jsonVersion": 4,
   "notificationVersion": "2",
   "notification": "特典会情報に対応しました。",
   "setListButton": {
@@ -1049,192 +1049,192 @@
     },
     {
       "stageId": 8,
-      "stageName": "特典会1",
-      "stageNameShort": "特典会1",
+      "stageName": "特典会1（O-EAST）",
+      "stageNameShort": "特典会1（O-EAST）",
       "colorName": "stage-grey",
       "stageOrder": 8,
       "type": "特典会"
     },
     {
       "stageId": 9,
-      "stageName": "特典会2",
-      "stageNameShort": "特典会2",
+      "stageName": "特典会2（O-EAST）",
+      "stageNameShort": "特典会2（O-EAST）",
       "colorName": "stage-grey",
       "stageOrder": 9,
       "type": "特典会"
     },
     {
       "stageId": 10,
-      "stageName": "特典会3",
-      "stageNameShort": "特典会3",
+      "stageName": "特典会3（O-EAST）",
+      "stageNameShort": "特典会3（O-EAST）",
       "colorName": "stage-grey",
       "stageOrder": 10,
       "type": "特典会"
     },
     {
       "stageId": 11,
-      "stageName": "特典会4",
-      "stageNameShort": "特典会4",
+      "stageName": "特典会4（HARLEM 2F）",
+      "stageNameShort": "特典会4（HARLEM 2F）",
       "colorName": "stage-grey",
       "stageOrder": 11,
       "type": "特典会"
     },
     {
       "stageId": 12,
-      "stageName": "特典会5",
-      "stageNameShort": "特典会5",
+      "stageName": "特典会5（HARLEM 2F）",
+      "stageNameShort": "特典会5（HARLEM 2F）",
       "colorName": "stage-grey",
       "stageOrder": 12,
       "type": "特典会"
     },
     {
       "stageId": 13,
-      "stageName": "特典会6",
-      "stageNameShort": "特典会6",
+      "stageName": "特典会6（HARLEM 2F）",
+      "stageNameShort": "特典会6（HARLEM 2F）",
       "colorName": "stage-grey",
       "stageOrder": 13,
       "type": "特典会"
     },
     {
       "stageId": 14,
-      "stageName": "特典会7",
-      "stageNameShort": "特典会7",
+      "stageName": "特典会7（Z MARUYAMA）",
+      "stageNameShort": "特典会7（Z MARUYAMA）",
       "colorName": "stage-grey",
       "stageOrder": 14,
       "type": "特典会"
     },
     {
       "stageId": 15,
-      "stageName": "特典会8",
-      "stageNameShort": "特典会8",
+      "stageName": "特典会8（Z MARUYAMA）",
+      "stageNameShort": "特典会8（Z MARUYAMA）",
       "colorName": "stage-grey",
       "stageOrder": 15,
       "type": "特典会"
     },
     {
       "stageId": 16,
-      "stageName": "特典会9",
-      "stageNameShort": "特典会9",
+      "stageName": "特典会9（O-EAST M階）",
+      "stageNameShort": "特典会9（O-EAST M階）",
       "colorName": "stage-grey",
       "stageOrder": 16,
       "type": "特典会"
     },
     {
       "stageId": 17,
-      "stageName": "特典会10",
-      "stageNameShort": "特典会10",
+      "stageName": "特典会10（Veats Shibuya B2F）",
+      "stageNameShort": "特典会10（Veats Shibuya B2F）",
       "colorName": "stage-grey",
       "stageOrder": 17,
       "type": "特典会"
     },
     {
       "stageId": 18,
-      "stageName": "特典会11",
-      "stageNameShort": "特典会11",
+      "stageName": "特典会11（アットビジネスセンターサテライト渋谷宇田川町4F・5F）",
+      "stageNameShort": "特典会11（アットビジネスセンターサテライト渋谷宇田川町4F・5F）",
       "colorName": "stage-grey",
       "stageOrder": 18,
       "type": "特典会"
     },
     {
       "stageId": 19,
-      "stageName": "特典会12",
-      "stageNameShort": "特典会12",
+      "stageName": "特典会12（アットビジネスセンターサテライト渋谷宇田川町4F・5F）",
+      "stageNameShort": "特典会12（アットビジネスセンターサテライト渋谷宇田川町4F・5F）",
       "colorName": "stage-grey",
       "stageOrder": 19,
       "type": "特典会"
     },
     {
       "stageId": 20,
-      "stageName": "特典会13",
-      "stageNameShort": "特典会13",
+      "stageName": "特典会13（WOMB 1F ラウンジ）",
+      "stageNameShort": "特典会13（WOMB 1F ラウンジ）",
       "colorName": "stage-grey",
       "stageOrder": 20,
       "type": "特典会"
     },
     {
       "stageId": 21,
-      "stageName": "特典会14",
-      "stageNameShort": "特典会14",
+      "stageName": "特典会14（WOMB 4F）",
+      "stageNameShort": "特典会14（WOMB 4F）",
       "colorName": "stage-grey",
       "stageOrder": 21,
       "type": "特典会"
     },
     {
       "stageId": 22,
-      "stageName": "特典会15",
-      "stageNameShort": "特典会15",
+      "stageName": "特典会15（WOMB 4F）",
+      "stageNameShort": "特典会15（WOMB 4F）",
       "colorName": "stage-grey",
       "stageOrder": 22,
       "type": "特典会"
     },
     {
       "stageId": 23,
-      "stageName": "特典会16",
-      "stageNameShort": "特典会16",
+      "stageName": "特典会16（clubasia Bar&2F）",
+      "stageNameShort": "特典会16（clubasia Bar&2F）",
       "colorName": "stage-grey",
       "stageOrder": 23,
       "type": "特典会"
     },
     {
       "stageId": 24,
-      "stageName": "特典会17",
-      "stageNameShort": "特典会17",
+      "stageName": "特典会17（clubasia Bar&2F）",
+      "stageNameShort": "特典会17（clubasia Bar&2F）",
       "colorName": "stage-grey",
       "stageOrder": 24,
       "type": "特典会"
     },
     {
       "stageId": 25,
-      "stageName": "特典会18",
-      "stageNameShort": "特典会18",
+      "stageName": "特典会18（clubasia Bar&2F）",
+      "stageNameShort": "特典会18（clubasia Bar&2F）",
       "colorName": "stage-grey",
       "stageOrder": 25,
       "type": "特典会"
     },
     {
       "stageId": 26,
-      "stageName": "特典会19",
-      "stageNameShort": "特典会19",
+      "stageName": "特典会19（O-Crest 脇スペース）",
+      "stageNameShort": "特典会19（O-Crest 脇スペース）",
       "colorName": "stage-grey",
       "stageOrder": 26,
       "type": "特典会"
     },
     {
       "stageId": 27,
-      "stageName": "特典会20",
-      "stageNameShort": "特典会20",
+      "stageName": "特典会20（O-Crest 脇スペース）",
+      "stageNameShort": "特典会20（O-Crest 脇スペース）",
       "colorName": "stage-grey",
       "stageOrder": 27,
       "type": "特典会"
     },
     {
       "stageId": 28,
-      "stageName": "特典会21",
-      "stageNameShort": "特典会21",
+      "stageName": "特典会21（O-Crest 脇スペース）",
+      "stageNameShort": "特典会21（O-Crest 脇スペース）",
       "colorName": "stage-grey",
       "stageOrder": 28,
       "type": "特典会"
     },
     {
       "stageId": 29,
-      "stageName": "特典会22",
-      "stageNameShort": "特典会22",
+      "stageName": "特典会22（O-nest 6F）",
+      "stageNameShort": "特典会22（O-nest 6F）",
       "colorName": "stage-grey",
       "stageOrder": 29,
       "type": "特典会"
     },
     {
       "stageId": 30,
-      "stageName": "特典会23",
-      "stageNameShort": "特典会23",
+      "stageName": "特典会23（O-nest 6F）",
+      "stageNameShort": "特典会23（O-nest 6F）",
       "colorName": "stage-grey",
       "stageOrder": 30,
       "type": "特典会"
     },
     {
       "stageId": 31,
-      "stageName": "特典会24",
-      "stageNameShort": "特典会24",
+      "stageName": "特典会24（O-nest 6F）",
+      "stageNameShort": "特典会24（O-nest 6F）",
       "colorName": "stage-grey",
       "stageOrder": 31,
       "type": "特典会"
