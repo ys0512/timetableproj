@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 661,
-  "jsonVersion": 1,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 2,
+  "notificationVersion": "2",
+  "notification": "8/23: 公式タイテにて終演後物販がライブ時間と重複している箇所が複数ありましたので、終演後の時間は推測で表示しています。\n\n8/23: アリビオの物販とライブの時間が一部重複しているため、訂正される可能性があります。ご注意ください。",
   "openTime": "13",
   "closeTime": "24",
   "artList": [
@@ -474,7 +474,7 @@
       "stageId": 6,
       "stageName": "ReNY limited",
       "stageNameShort": "ReNY limited",
-      "colorName": "stage-blueGrey",
+      "colorName": "stage-indigo",
       "stageOrder": 5,
       "type": "ライブ"
     },
@@ -522,7 +522,7 @@
       "stageId": 12,
       "stageName": "HOLYDAY NEXT NAGOYA",
       "stageNameShort": "HOLYDAY NEXT NAGOYA",
-      "colorName": "stage-grey",
+      "colorName": "stage-white",
       "stageOrder": 7,
       "type": "ライブ"
     },
@@ -546,7 +546,7 @@
       "stageId": 15,
       "stageName": "X-HALL",
       "stageNameShort": "X-HALL",
-      "colorName": "stage-grey",
+      "colorName": "stage-black",
       "stageOrder": 8,
       "type": "ライブ"
     },
@@ -570,7 +570,7 @@
       "stageId": 18,
       "stageName": "ElectricLadyLand",
       "stageNameShort": "ElectricLadyLand",
-      "colorName": "stage-cyan",
+      "colorName": "stage-blueGrey",
       "stageOrder": 9,
       "type": "ライブ"
     },
@@ -2131,7 +2131,7 @@
     },
     {
       "turnId": 147,
-      "startTime": "20:25",
+      "startTime": "20:35",
       "min": 70,
       "artId": 54,
       "stageId": 43,
@@ -2411,8 +2411,8 @@
     },
     {
       "turnId": 180,
-      "startTime": "20:00",
-      "min": 25,
+      "startTime": "20:30",
+      "min": 60,
       "artId": 53,
       "stageId": 59,
       "type": "特典会"
@@ -2443,8 +2443,8 @@
     },
     {
       "turnId": 184,
-      "startTime": "20:00",
-      "min": 25,
+      "startTime": "20:30",
+      "min": 60,
       "artId": 29,
       "stageId": 59,
       "type": "特典会"
