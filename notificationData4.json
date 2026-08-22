@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        661
+      ],
+      "date": "8/23",
+      "message": "DELAX JAM (8/25 @名古屋 アイドル) に対応しました。",
+      "message_en": "DELAX JAM (8/25 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         659,
         660
       ],
