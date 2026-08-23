@@ -434,7 +434,7 @@
       "stageId": 1,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 55,
       "type": ""
     },
@@ -506,7 +506,7 @@
       "stageId": 10,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 56,
       "type": ""
     },
@@ -530,7 +530,7 @@
       "stageId": 13,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 57,
       "type": ""
     },
@@ -554,7 +554,7 @@
       "stageId": 16,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 58,
       "type": ""
     },
@@ -562,7 +562,7 @@
       "stageId": 17,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 59,
       "type": ""
     },
@@ -594,7 +594,7 @@
       "stageId": 21,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "",
+      "colorName": "stage-grey",
       "stageOrder": 60,
       "type": ""
     },
