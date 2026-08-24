@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 661,
-  "jsonVersion": 2,
-  "notificationVersion": "2",
-  "notification": "8/23: 公式タイテにて終演後物販がライブ時間と重複している箇所が複数ありましたので、終演後の時間は推測で表示しています。\n\n8/23: アリビオの物販とライブの時間が一部重複しているため、訂正される可能性があります。ご注意ください。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "8/23: 公式タイテにて終演後物販がライブ時間と重複している箇所が複数ありましたので、終演後の時間は推測で表示しています。\n\n8/23: アリビオの物販とライブの時間が一部重複しているため、訂正される可能性があります。ご注意ください。\n\n8/24: 公式ライブタイテの変更を反映しました。",
   "openTime": "13",
   "closeTime": "24",
   "artList": [
@@ -419,6 +419,12 @@
       "name": "4∅4.",
       "groupId": null,
       "aliasId": null
+    },
+    {
+      "artId": 69,
+      "name": "キミの主人公",
+      "groupId": 3759,
+      "aliasId": 4116
     }
   ],
   "stageList": [
@@ -434,7 +440,7 @@
       "stageId": 1,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 55,
       "type": ""
     },
@@ -506,7 +512,7 @@
       "stageId": 10,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 56,
       "type": ""
     },
@@ -530,7 +536,7 @@
       "stageId": 13,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 57,
       "type": ""
     },
@@ -554,7 +560,7 @@
       "stageId": 16,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 58,
       "type": ""
     },
@@ -562,7 +568,7 @@
       "stageId": 17,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 59,
       "type": ""
     },
@@ -594,7 +600,7 @@
       "stageId": 21,
       "stageName": "",
       "stageNameShort": "",
-      "colorName": "stage-grey",
+      "colorName": "",
       "stageOrder": 60,
       "type": ""
     },
@@ -1230,12 +1236,7 @@
       "min": 80,
       "artId": 59,
       "stageId": 34,
-      "type": "特典会",
-      "collabArtList": [
-        59,
-        60,
-        61
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 40,
@@ -1534,11 +1535,7 @@
       "min": 70,
       "artId": 30,
       "stageId": 37,
-      "type": "特典会",
-      "collabArtList": [
-        30,
-        51
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 76,
@@ -1682,12 +1679,7 @@
       "min": 70,
       "artId": 44,
       "stageId": 38,
-      "type": "特典会",
-      "collabArtList": [
-        44,
-        22,
-        64
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 94,
@@ -1828,13 +1820,7 @@
       "min": 70,
       "artId": 48,
       "stageId": 40,
-      "type": "特典会",
-      "collabArtList": [
-        48,
-        65,
-        47,
-        17
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 111,
@@ -1886,11 +1872,11 @@
     },
     {
       "turnId": 117,
-      "startTime": "14:35",
-      "min": 60,
-      "artId": 50,
-      "stageId": 41,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 118,
@@ -1954,12 +1940,7 @@
       "min": 70,
       "artId": 32,
       "stageId": 41,
-      "type": "特典会",
-      "collabArtList": [
-        32,
-        59,
-        33
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 126,
@@ -2099,11 +2080,11 @@
     },
     {
       "turnId": 143,
-      "startTime": "19:35",
-      "min": 25,
-      "artId": 55,
-      "stageId": 4,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 144,
@@ -2131,17 +2112,11 @@
     },
     {
       "turnId": 147,
-      "startTime": "20:35",
-      "min": 70,
-      "artId": 54,
-      "stageId": 43,
-      "type": "特典会",
-      "collabArtList": [
-        54,
-        45,
-        55,
-        3
-      ]
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 148,
@@ -2274,12 +2249,7 @@
       "min": 70,
       "artId": 10,
       "stageId": 45,
-      "type": "特典会",
-      "collabArtList": [
-        10,
-        43,
-        20
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 164,
@@ -2455,12 +2425,7 @@
       "min": 70,
       "artId": 67,
       "stageId": 46,
-      "type": "特典会",
-      "collabArtList": [
-        67,
-        27,
-        63
-      ]
+      "type": "特典会"
     },
     {
       "turnId": 186,
@@ -2724,12 +2689,199 @@
       "min": 80,
       "artId": 40,
       "stageId": 50,
-      "type": "特典会",
-      "collabArtList": [
-        40,
-        64,
-        39
-      ]
+      "type": "特典会"
+    },
+    {
+      "turnId": 219,
+      "startTime": "20:20",
+      "min": 80,
+      "artId": 60,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 220,
+      "startTime": "20:20",
+      "min": 80,
+      "artId": 61,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 221,
+      "startTime": "19:45",
+      "min": 25,
+      "artId": 69,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 222,
+      "startTime": "21:30",
+      "min": 70,
+      "artId": 51,
+      "stageId": 37,
+      "type": "特典会"
+    },
+    {
+      "turnId": 223,
+      "startTime": "21:30",
+      "min": 70,
+      "artId": 69,
+      "stageId": 37,
+      "type": "特典会"
+    },
+    {
+      "turnId": 224,
+      "startTime": "17:35",
+      "min": 70,
+      "artId": 22,
+      "stageId": 38,
+      "type": "特典会"
+    },
+    {
+      "turnId": 225,
+      "startTime": "17:35",
+      "min": 70,
+      "artId": 64,
+      "stageId": 38,
+      "type": "特典会"
+    },
+    {
+      "turnId": 226,
+      "startTime": "21:30",
+      "min": 70,
+      "artId": 65,
+      "stageId": 40,
+      "type": "特典会"
+    },
+    {
+      "turnId": 227,
+      "startTime": "21:30",
+      "min": 70,
+      "artId": 47,
+      "stageId": 40,
+      "type": "特典会"
+    },
+    {
+      "turnId": 228,
+      "startTime": "21:30",
+      "min": 70,
+      "artId": 17,
+      "stageId": 40,
+      "type": "特典会"
+    },
+    {
+      "turnId": 229,
+      "startTime": "14:35",
+      "min": 60,
+      "artId": 50,
+      "stageId": 42,
+      "type": "特典会"
+    },
+    {
+      "turnId": 230,
+      "startTime": "16:00",
+      "min": 70,
+      "artId": 59,
+      "stageId": 41,
+      "type": "特典会"
+    },
+    {
+      "turnId": 231,
+      "startTime": "16:00",
+      "min": 70,
+      "artId": 33,
+      "stageId": 41,
+      "type": "特典会"
+    },
+    {
+      "turnId": 232,
+      "startTime": "19:35",
+      "min": 25,
+      "artId": 55,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 233,
+      "startTime": "20:35",
+      "min": 60,
+      "artId": 54,
+      "stageId": 43,
+      "type": "特典会"
+    },
+    {
+      "turnId": 234,
+      "startTime": "20:35",
+      "min": 60,
+      "artId": 45,
+      "stageId": 43,
+      "type": "特典会"
+    },
+    {
+      "turnId": 235,
+      "startTime": "20:35",
+      "min": 60,
+      "artId": 55,
+      "stageId": 43,
+      "type": "特典会"
+    },
+    {
+      "turnId": 236,
+      "startTime": "20:35",
+      "min": 60,
+      "artId": 3,
+      "stageId": 43,
+      "type": "特典会"
+    },
+    {
+      "turnId": 237,
+      "startTime": "16:20",
+      "min": 70,
+      "artId": 43,
+      "stageId": 45,
+      "type": "特典会"
+    },
+    {
+      "turnId": 238,
+      "startTime": "16:20",
+      "min": 70,
+      "artId": 20,
+      "stageId": 45,
+      "type": "特典会"
+    },
+    {
+      "turnId": 239,
+      "startTime": "20:25",
+      "min": 70,
+      "artId": 27,
+      "stageId": 46,
+      "type": "特典会"
+    },
+    {
+      "turnId": 240,
+      "startTime": "20:25",
+      "min": 70,
+      "artId": 63,
+      "stageId": 46,
+      "type": "特典会"
+    },
+    {
+      "turnId": 241,
+      "startTime": "21:15",
+      "min": 80,
+      "artId": 64,
+      "stageId": 50,
+      "type": "特典会"
+    },
+    {
+      "turnId": 242,
+      "startTime": "21:15",
+      "min": 80,
+      "artId": 39,
+      "stageId": 50,
+      "type": "特典会"
     }
   ]
 }
