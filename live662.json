@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 662,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "2",
   "notification": "8/24: 公式タイテにて終演後物販がライブ時間と重複している箇所が複数ありましたので、終演後の時間は推測で表示しています。",
   "openTime": "13",
@@ -44,9 +44,9 @@
     },
     {
       "artId": 6,
-      "name": "Everglich",
-      "groupId": null,
-      "aliasId": null
+      "name": "Everglitch",
+      "groupId": 404,
+      "aliasId": 450
     },
     {
       "artId": 7,
