@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 661,
-  "jsonVersion": 4,
+  "jsonVersion": 5,
   "notificationVersion": "3",
   "notification": "8/23: 公式タイテにて終演後物販がライブ時間と重複している箇所が複数ありましたので、終演後の時間は推測で表示しています。\n\n8/23: アリビオの物販とライブの時間が一部重複しているため、訂正される可能性があります。ご注意ください。\n\n8/24: 公式ライブタイテの変更を反映しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "13",
   "closeTime": "24",
   "artList": [
