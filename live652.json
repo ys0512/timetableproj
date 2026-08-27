@@ -1,126 +1,187 @@
 ﻿{
   "liveId": 652,
-  "jsonVersion": 1,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 2,
+  "notificationVersion": "2",
+  "notification": "特典会データを搭載しました。",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "15",
-  "closeTime": "22",
+  "closeTime": "23",
   "artList": [
     {
       "artId": 0,
-      "name": "ambitious"
+      "name": "ambitious",
+      "groupId": 1358,
+      "aliasId": 1541
     },
     {
       "artId": 1,
-      "name": "限りなく白く"
+      "name": "限りなく白く",
+      "groupId": 2773,
+      "aliasId": 3214
     },
     {
       "artId": 2,
-      "name": "myojou"
+      "name": "myojou",
+      "groupId": 1480,
+      "aliasId": 1679
     },
     {
       "artId": 3,
-      "name": "HIBANA"
+      "name": "HIBANA",
+      "groupId": 501,
+      "aliasId": 564
     },
     {
       "artId": 4,
-      "name": "ジエメイ"
+      "name": "ジエメイ",
+      "groupId": 2118,
+      "aliasId": 2430
     },
     {
       "artId": 5,
-      "name": "衛星とカラテア"
+      "name": "衛星とカラテア",
+      "groupId": 2742,
+      "aliasId": 3179
     },
     {
       "artId": 6,
-      "name": "THE ORCHESTRA TOKYO"
+      "name": "THE ORCHESTRA TOKYO",
+      "groupId": 1207,
+      "aliasId": 1371
     },
     {
       "artId": 7,
-      "name": "INUWASI"
+      "name": "INUWASI",
+      "groupId": 553,
+      "aliasId": 622
     },
     {
       "artId": 8,
-      "name": "Devil ANTHEM."
+      "name": "Devil ANTHEM.",
+      "groupId": 358,
+      "aliasId": 394
     },
     {
       "artId": 9,
-      "name": "タイトル未定"
+      "name": "タイトル未定",
+      "groupId": 2156,
+      "aliasId": 2476
     },
     {
       "artId": 10,
-      "name": "理想の少女"
+      "name": "理想の少女",
+      "groupId": 3900,
+      "aliasId": 4255
     },
     {
       "artId": 11,
-      "name": "ICECREAM SCREAM"
+      "name": "ICECREAM SCREAM",
+      "groupId": 542,
+      "aliasId": 610
     },
     {
       "artId": 12,
-      "name": "NooNico"
+      "name": "NooNico",
+      "groupId": 880,
+      "aliasId": 999
     },
     {
       "artId": 13,
-      "name": "#MOUWAY"
+      "name": "#MOUWAY",
+      "groupId": 4,
+      "aliasId": 4
     },
     {
       "artId": 14,
-      "name": "#よーよーよー"
+      "name": "#よーよーよー",
+      "groupId": 12,
+      "aliasId": 12
     },
     {
       "artId": 15,
-      "name": "#Mooove!"
+      "name": "#Mooove!",
+      "groupId": 5,
+      "aliasId": 5
     },
     {
       "artId": 16,
-      "name": "iluxion"
+      "name": "iluxion",
+      "groupId": 1441,
+      "aliasId": 1635
     },
     {
       "artId": 17,
-      "name": "Tohkei"
+      "name": "Tohkei",
+      "groupId": 1235,
+      "aliasId": 1407
     },
     {
       "artId": 18,
-      "name": "LITTLE*BLUE"
+      "name": "LITTLE*BLUE",
+      "groupId": 636,
+      "aliasId": 724
     },
     {
       "artId": 19,
-      "name": "Crystal☆Neige"
+      "name": "Crystal☆Neige",
+      "groupId": 3017,
+      "aliasId": 3385
     },
     {
       "artId": 20,
-      "name": "Hello♡DayDream!"
+      "name": "Hello♡DayDream!",
+      "groupId": 523,
+      "aliasId": 589
     },
     {
       "artId": 21,
-      "name": "WONDER*WHITE"
+      "name": "WONDER*WHITE",
+      "groupId": 1299,
+      "aliasId": 1474
     },
     {
       "artId": 22,
-      "name": "BYBBiT"
+      "name": "BYBBiT",
+      "groupId": 208,
+      "aliasId": 231
     },
     {
       "artId": 23,
-      "name": "MAGICAL SPEC"
+      "name": "MAGICAL SPEC",
+      "groupId": 718,
+      "aliasId": 818
     },
     {
       "artId": 24,
-      "name": "selfish"
+      "name": "selfish",
+      "groupId": 1508,
+      "aliasId": 1712
     },
     {
       "artId": 25,
-      "name": "カラフルスクリーム"
+      "name": "カラフルスクリーム",
+      "groupId": 2037,
+      "aliasId": 2342
     },
     {
       "artId": 26,
-      "name": "feelNEO"
+      "name": "feelNEO",
+      "groupId": 2841,
+      "aliasId": 3320
     },
     {
       "artId": 27,
-      "name": "CYNHN"
+      "name": "CYNHN",
+      "groupId": 281,
+      "aliasId": 313
     },
     {
       "artId": 28,
-      "name": "NUANCE"
+      "name": "NUANCE",
+      "groupId": 857,
+      "aliasId": 974
     }
   ],
   "stageList": [
@@ -155,6 +216,118 @@
       "colorName": "stage-orange",
       "stageOrder": 3,
       "type": "ライブ"
+    },
+    {
+      "stageId": 4,
+      "stageName": "特典会A（SYNC north ロビー）",
+      "stageNameShort": "特典会A（SYNC north ロビー）",
+      "colorName": "stage-grey",
+      "stageOrder": 4,
+      "type": "特典会"
+    },
+    {
+      "stageId": 5,
+      "stageName": "特典会B（MASH HALL）",
+      "stageNameShort": "特典会B（MASH HALL）",
+      "colorName": "stage-grey",
+      "stageOrder": 5,
+      "type": "特典会"
+    },
+    {
+      "stageId": 6,
+      "stageName": "特典会C（MASH HALL）",
+      "stageNameShort": "特典会C（MASH HALL）",
+      "colorName": "stage-grey",
+      "stageOrder": 6,
+      "type": "特典会"
+    },
+    {
+      "stageId": 7,
+      "stageName": "特典会D（Sound lab mole）",
+      "stageNameShort": "特典会D（Sound lab mole）",
+      "colorName": "stage-grey",
+      "stageOrder": 7,
+      "type": "特典会"
+    },
+    {
+      "stageId": 8,
+      "stageName": "特典会E（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "stageNameShort": "特典会E（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "colorName": "stage-grey",
+      "stageOrder": 8,
+      "type": "特典会"
+    },
+    {
+      "stageId": 9,
+      "stageName": "特典会F（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "stageNameShort": "特典会F（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "colorName": "stage-grey",
+      "stageOrder": 9,
+      "type": "特典会"
+    },
+    {
+      "stageId": 10,
+      "stageName": "特典会G（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "stageNameShort": "特典会G（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "colorName": "stage-grey",
+      "stageOrder": 10,
+      "type": "特典会"
+    },
+    {
+      "stageId": 11,
+      "stageName": "特典会H（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "stageNameShort": "特典会H（TKPガーデンシティPREMIUM札幌大通 7C）",
+      "colorName": "stage-grey",
+      "stageOrder": 11,
+      "type": "特典会"
+    },
+    {
+      "stageId": 12,
+      "stageName": "特典会I（SPiCE ロビー）",
+      "stageNameShort": "特典会I（SPiCE ロビー）",
+      "colorName": "stage-grey",
+      "stageOrder": 12,
+      "type": "特典会"
+    },
+    {
+      "stageId": 13,
+      "stageName": "特典会J（SPiCE ロビー）",
+      "stageNameShort": "特典会J（SPiCE ロビー）",
+      "colorName": "stage-grey",
+      "stageOrder": 13,
+      "type": "特典会"
+    },
+    {
+      "stageId": 14,
+      "stageName": "終演後（SYNCフロア）",
+      "stageNameShort": "終演後（SYNCフロア）",
+      "colorName": "stage-grey",
+      "stageOrder": 14,
+      "type": "特典会"
+    },
+    {
+      "stageId": 15,
+      "stageName": "終演後（Sound lab moleフロア）",
+      "stageNameShort": "終演後（Sound lab moleフロア）",
+      "colorName": "stage-grey",
+      "stageOrder": 15,
+      "type": "特典会"
+    },
+    {
+      "stageId": 16,
+      "stageName": "終演後（cube gardenフロア）",
+      "stageNameShort": "終演後（cube gardenフロア）",
+      "colorName": "stage-grey",
+      "stageOrder": 16,
+      "type": "特典会"
+    },
+    {
+      "stageId": 17,
+      "stageName": "終演後（SPiCEフロア）",
+      "stageNameShort": "終演後（SPiCEフロア）",
+      "colorName": "stage-grey",
+      "stageOrder": 17,
+      "type": "特典会"
     }
   ],
   "turnList": [
@@ -458,6 +631,212 @@
       "artId": 0,
       "stageId": 3,
       "type": "ライブ"
+    },
+    {
+      "turnId": 37,
+      "startTime": "17:55",
+      "min": 70,
+      "artId": 3,
+      "stageId": 4,
+      "type": "特典会"
+    },
+    {
+      "turnId": 38,
+      "startTime": "19:20",
+      "min": 70,
+      "artId": 6,
+      "stageId": 4,
+      "type": "特典会"
+    },
+    {
+      "turnId": 39,
+      "startTime": "20:40",
+      "min": 70,
+      "artId": 7,
+      "stageId": 14,
+      "type": "特典会",
+      "collabArtList": [
+        7,
+        8,
+        9
+      ],
+      "title": "終演後 SYNCフロア"
+    },
+    {
+      "turnId": 40,
+      "startTime": "18:25",
+      "min": 70,
+      "artId": 4,
+      "stageId": 5,
+      "type": "特典会"
+    },
+    {
+      "turnId": 41,
+      "startTime": "20:05",
+      "min": 70,
+      "artId": 16,
+      "stageId": 15,
+      "type": "特典会",
+      "collabArtList": [
+        16,
+        17,
+        1
+      ],
+      "title": "終演後 Sound lab moleフロア"
+    },
+    {
+      "turnId": 42,
+      "startTime": "17:30",
+      "min": 70,
+      "artId": 2,
+      "stageId": 6,
+      "type": "特典会"
+    },
+    {
+      "turnId": 43,
+      "startTime": "18:50",
+      "min": 70,
+      "artId": 5,
+      "stageId": 6,
+      "type": "特典会"
+    },
+    {
+      "turnId": 44,
+      "startTime": "19:55",
+      "min": 70,
+      "artId": 28,
+      "stageId": 16,
+      "type": "特典会",
+      "collabArtList": [
+        28
+      ],
+      "title": "終演後 cube garden フロア"
+    },
+    {
+      "turnId": 45,
+      "startTime": "16:35",
+      "min": 70,
+      "artId": 10,
+      "stageId": 7,
+      "type": "特典会"
+    },
+    {
+      "turnId": 46,
+      "startTime": "18:20",
+      "min": 70,
+      "artId": 14,
+      "stageId": 7,
+      "type": "特典会"
+    },
+    {
+      "turnId": 47,
+      "startTime": "20:30",
+      "min": 70,
+      "artId": 22,
+      "stageId": 17,
+      "type": "特典会",
+      "collabArtList": [
+        22,
+        11,
+        0
+      ],
+      "title": "終演後SPICEフロア"
+    },
+    {
+      "turnId": 48,
+      "startTime": "17:25",
+      "min": 70,
+      "artId": 12,
+      "stageId": 8,
+      "type": "特典会"
+    },
+    {
+      "turnId": 49,
+      "startTime": "18:45",
+      "min": 70,
+      "artId": 15,
+      "stageId": 8,
+      "type": "特典会"
+    },
+    {
+      "turnId": 50,
+      "startTime": "18:10",
+      "min": 70,
+      "artId": 24,
+      "stageId": 9,
+      "type": "特典会"
+    },
+    {
+      "turnId": 51,
+      "startTime": "19:25",
+      "min": 70,
+      "artId": 27,
+      "stageId": 9,
+      "type": "特典会"
+    },
+    {
+      "turnId": 52,
+      "startTime": "17:15",
+      "min": 70,
+      "artId": 21,
+      "stageId": 10,
+      "type": "特典会"
+    },
+    {
+      "turnId": 53,
+      "startTime": "18:35",
+      "min": 70,
+      "artId": 25,
+      "stageId": 10,
+      "type": "特典会"
+    },
+    {
+      "turnId": 54,
+      "startTime": "17:40",
+      "min": 70,
+      "artId": 23,
+      "stageId": 11,
+      "type": "特典会"
+    },
+    {
+      "turnId": 55,
+      "startTime": "19:00",
+      "min": 70,
+      "artId": 26,
+      "stageId": 11,
+      "type": "特典会"
+    },
+    {
+      "turnId": 56,
+      "startTime": "17:40",
+      "min": 70,
+      "artId": 18,
+      "stageId": 12,
+      "type": "特典会"
+    },
+    {
+      "turnId": 57,
+      "startTime": "18:55",
+      "min": 70,
+      "artId": 20,
+      "stageId": 12,
+      "type": "特典会"
+    },
+    {
+      "turnId": 58,
+      "startTime": "18:00",
+      "min": 70,
+      "artId": 19,
+      "stageId": 13,
+      "type": "特典会"
+    },
+    {
+      "turnId": 59,
+      "startTime": "19:10",
+      "min": 70,
+      "artId": 13,
+      "stageId": 13,
+      "type": "特典会"
     }
   ]
 }
