@@ -38,6 +38,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        663
+      ],
+      "date": "8/29",
+      "message": "くさのねアイドルフェス ( @佐倉 アイドル) に対応しました。",
+      "message_en": "くさのねアイドルフェス ( IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         661
       ],
       "date": "8/23",
