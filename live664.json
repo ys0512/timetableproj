@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 664,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "11",
@@ -507,7 +507,7 @@
       "startTime": "15:05",
       "min": 80,
       "artId": 0,
-      "stageId": 1,
+      "stageId": 15,
       "type": "特典会",
       "collabArtList": [
         0,
@@ -571,7 +571,7 @@
       "startTime": "19:50",
       "min": 80,
       "artId": 6,
-      "stageId": 2,
+      "stageId": 16,
       "type": "特典会",
       "collabArtList": [
         6,
@@ -643,7 +643,7 @@
       "startTime": "14:00",
       "min": 80,
       "artId": 14,
-      "stageId": 6,
+      "stageId": 1,
       "type": "特典会",
       "collabArtList": [
         14,
@@ -696,7 +696,7 @@
       "startTime": "18:10",
       "min": 80,
       "artId": 17,
-      "stageId": 7,
+      "stageId": 2,
       "type": "特典会",
       "collabArtList": [
         17,
@@ -879,7 +879,7 @@
       "startTime": "14:10",
       "min": 80,
       "artId": 34,
-      "stageId": 12,
+      "stageId": 6,
       "type": "特典会",
       "collabArtList": [
         34,
@@ -934,7 +934,7 @@
       "startTime": "18:15",
       "min": 80,
       "artId": 39,
-      "stageId": 13,
+      "stageId": 7,
       "type": "特典会",
       "collabArtList": [
         39,
@@ -973,7 +973,7 @@
       "startTime": "13:25",
       "min": 80,
       "artId": 44,
-      "stageId": 15,
+      "stageId": 12,
       "type": "特典会",
       "collabArtList": [
         44,
@@ -1010,7 +1010,7 @@
       "startTime": "16:30",
       "min": 80,
       "artId": 47,
-      "stageId": 16,
+      "stageId": 13,
       "type": "特典会",
       "collabArtList": [
         47,
