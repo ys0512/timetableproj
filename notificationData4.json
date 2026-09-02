@@ -36,6 +36,15 @@
   ],
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
+        665
+      ],
+      "date": "9/2",
+      "message": "KAWAII PARTY CIRCUIT (9/6 @渋谷 アイドル) に対応しました。",
+      "message_en": "KAWAII PARTY CIRCUIT (9/6 IDOL) is supported."
+    },
+    {
       "icon": "mdi-information",
       "date": "8/18",
       "message": "アプリ改修に伴い、現在一時的に過去のタイテデータを閲覧できません。8/28頃の再開を予定しております。今しばらくお待ちください。  ",
