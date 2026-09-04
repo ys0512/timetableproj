@@ -1,8 +1,11 @@
 ﻿{
   "liveId": 665,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
+  "setListButton": {
+    "url": "https://idol-schedule.com/fes-setlist/"
+  },
   "openTime": "10",
   "closeTime": "23",
   "artList": [
@@ -21,8 +24,8 @@
     {
       "artId": 2,
       "name": "Secret Pinky",
-      "groupId": null,
-      "aliasId": null
+      "groupId": 143413,
+      "aliasId": 170863
     },
     {
       "artId": 3,
