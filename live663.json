@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 663,
-  "jsonVersion": 2,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 3,
+  "notificationVersion": "2",
+  "notification": "「NEKIRU」が出演キャンセルとなり、代わりに「出張版ファミレス(OISHII.inc)」が出演します。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -197,9 +197,9 @@
     },
     {
       "artId": 31,
-      "name": "NEKIRU",
-      "groupId": 2997,
-      "aliasId": 3365
+      "name": "出張版ファミレス(OISHII.inc)",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 32,
@@ -947,11 +947,11 @@
     },
     {
       "turnId": 64,
-      "startTime": "18:25",
-      "min": 60,
-      "artId": 31,
-      "stageId": 5,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 65,
