@@ -38,6 +38,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        666,
+        667
+      ],
+      "date": "9/9",
+      "message": "かがやきフェス2026 (10/3-4 @金沢 アイドル) に対応しました。",
+      "message_en": "かがやきフェス2026 (10/3-4 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         665
       ],
       "date": "9/2",
