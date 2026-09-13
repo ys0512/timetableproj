@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        668,
+        669,
+        670
+      ],
+      "date": "9/13",
+      "message": "SPARK 2026 in YAMANAKAKO (9/21-23 @山中湖 アイドル) に対応しました。",
+      "message_en": "SPARK 2026 in YAMANAKAKO (9/21-23 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         666,
         667
       ],
