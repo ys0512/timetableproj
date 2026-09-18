@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 674,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -759,7 +759,7 @@
     },
     {
       "turnId": 46,
-      "startTime": "15:35",
+      "startTime": "16:05",
       "min": 30,
       "artId": 31,
       "stageId": 3,
@@ -767,7 +767,7 @@
     },
     {
       "turnId": 47,
-      "startTime": "16:05",
+      "startTime": "15:35",
       "min": 30,
       "artId": 32,
       "stageId": 3,
