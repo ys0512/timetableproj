@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        671,
+        672,
+        673
+      ],
+      "date": "9/18",
+      "message": "クロフェス2026 (10/2-4 @稲毛 アイドル) に対応しました。",
+      "message_en": "クロフェス2026 (10/2-4 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         674
       ],
       "date": "9/18",
