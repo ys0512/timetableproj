@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 673,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -704,9 +704,6 @@
       "artId": 75,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        75
-      ],
       "title": "オープニングトークだしん!!"
     },
     {
@@ -804,9 +801,6 @@
       "artId": 86,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        86
-      ],
       "title": "ステージ企画だしん!!"
     },
     {
@@ -896,9 +890,6 @@
       "artId": 91,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        91
-      ],
       "title": "エンディングトークだしん!!"
     },
     {
@@ -1119,7 +1110,7 @@
     },
     {
       "turnId": 51,
-      "startTime": "9:35",
+      "startTime": "09:35",
       "min": 20,
       "artId": 41,
       "stageId": 2,
@@ -1127,7 +1118,7 @@
     },
     {
       "turnId": 52,
-      "startTime": "9:55",
+      "startTime": "09:55",
       "min": 15,
       "artId": 39,
       "stageId": 2,
@@ -1383,7 +1374,7 @@
     },
     {
       "turnId": 84,
-      "startTime": "9:35",
+      "startTime": "09:35",
       "min": 20,
       "artId": 20,
       "stageId": 3,
@@ -1391,7 +1382,7 @@
     },
     {
       "turnId": 85,
-      "startTime": "9:55",
+      "startTime": "09:55",
       "min": 15,
       "artId": 15,
       "stageId": 3,
@@ -1663,7 +1654,7 @@
     },
     {
       "turnId": 119,
-      "startTime": "9:30",
+      "startTime": "09:30",
       "min": 20,
       "artId": 27,
       "stageId": 4,
@@ -1671,7 +1662,7 @@
     },
     {
       "turnId": 120,
-      "startTime": "9:50",
+      "startTime": "09:50",
       "min": 15,
       "artId": 16,
       "stageId": 4,
@@ -1956,9 +1947,6 @@
       "artId": 96,
       "stageId": 5,
       "type": "ライブ",
-      "collabArtList": [
-        96
-      ],
       "title": "47都道府県のアイドルさん会いたいしんトークだしん!!"
     },
     {
@@ -2032,9 +2020,6 @@
       "artId": 96,
       "stageId": 5,
       "type": "ライブ",
-      "collabArtList": [
-        96
-      ],
       "title": "47都道府県のアイドルさん会いたいしんトークだしん!!"
     },
     {
@@ -2148,9 +2133,6 @@
       "artId": 96,
       "stageId": 5,
       "type": "ライブ",
-      "collabArtList": [
-        96
-      ],
       "title": "47都道府県のアイドルさん会いたいしんトークだしん!!"
     }
   ]

@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 671,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -584,9 +584,6 @@
       "artId": 71,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        71
-      ],
       "title": "オープニングトークだしん!!"
     },
     {
@@ -684,9 +681,6 @@
       "artId": 79,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        79
-      ],
       "title": "トークだしん!!"
     },
     {
@@ -1600,9 +1594,6 @@
       "artId": 56,
       "stageId": 5,
       "type": "ライブ",
-      "collabArtList": [
-        56
-      ],
       "title": "47都道府県のアイドルさん会いたいしんトークだしん!!"
     },
     {
@@ -1668,9 +1659,6 @@
       "artId": 56,
       "stageId": 5,
       "type": "ライブ",
-      "collabArtList": [
-        56
-      ],
       "title": "47都道府県のアイドルさん会いたいしんトークだしん!!"
     },
     {
