@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 668,
-  "jsonVersion": 4,
-  "notificationVersion": "4",
-  "notification": "出演辞退を受け、公式から当日06:11に案内のあったタイムテーブルを反映しております。\nなお「碧の途中式」は出演予定のため、画像からは消えていますが残してあります。\n\nまた追加でのステージ出演により、以下グループは特典会時間とライブ時間が重複しております。\n正しい情報は公式からの案内をご確認ください。\nHzMe、MAGICAL SPEC、My_Stage、myojou、SEKAIE☆、STAiNY、煌めき☆アンフォレント、ぜろから☆すた→と\n\n以下グループが出演辞退となっています。\nAFTERS\nai*ai\nα＋\nAZATOY\nBNSI\nBunny La Crew\nCOLOR of COLOR\ndiig\n【eN】\nFES☆TIVE\nHEAVENLY\nJamsCollection\nKAIJU ON THE STAGE\nKissBee\nLEVEL7\nLOVE 9 LOVE\nmementoa\n#Mooove!\nMyDresscode\nO₂\nOCHA NORMA\nOnephony\nOS☆U\nP1QUE\nParaLulu\nPayrin's\nRain Tree\nROOKEY♡ROOKEYS\nSAI²Rium\nSAKURADOLL\nSITUASION\nSophià la Mode\nWASURENA\nアイドルカレッジ\nあくまで天使\nアストレイル\n甘いものには毒がある。\nアルテミスの翼\n仮面女子\n君と見るそら\nキミニハネ\nクマリデパート\nシークレットシャノワール\nシャルロット\nしろもん\nスポポポポニー\n清麗使命女子\n太陽と踊れ月夜に唄え\nドラマチックレコード\nなんキニ！\n花いろは\nハニースパイス Re.\nフィルフェリーチェ\n星のカケラ\n僕が見たかった青空\nまねきケチャ\nメイビーME\n#よーよーよー\nワンダーウィード 天",
+  "jsonVersion": 5,
+  "notificationVersion": "5",
+  "notification": "出演辞退を受け、公式から09:56に案内のあったタイムテーブルを反映しております。\nまた追加でのステージ出演により、以下グループは特典会時間とライブ時間が重複しております。\n正しい情報は公式からの案内をご確認ください。\nHzMe、MAGICAL SPEC、My_Stage、myojou、SEKAIE☆、STAiNY、煌めき☆アンフォレント、ぜろから☆すた→と\n\n以下グループが出演辞退となっています。\nAFTERS、ai*ai、α＋、AZATOY、BNSI、Bunny La Crew、COLOR of COLOR、Cosmoslay、diig、【eN】、FES☆TIVE、HEAVENLY、JamsCollection、KAIJU ON THE STAGE、KissBee、LEVEL7、LOVE 9 LOVE、mementoa、#Mooove!、MyDresscode、O₂、OCHA NORMA、Onephony、OS☆U、P1QUE、ParaLulu、Payrin's、Rain Tree、ROOKEY♡ROOKEYS、SAI²Rium、SAKURADOLL、SITUASION、Sophià la Mode、WASURENA、XINXIN、アイドルカレッジ、あくまで天使、アストレイル、甘いものには毒がある。、アルテミスの翼、奏音コレクト、仮面女子、君と見るそら、キミニハネ、キュータルチェ、クマリデパート、シークレットシャノワール、シャルロット、しろもん、スポポポポニー、清麗使命女子、太陽と踊れ月夜に唄え、ドラマチックレコード、なんキニ！、にっぽんワチャチャ、花いろは、ハニースパイス Re.、フィルフェリーチェ、星のカケラ、僕が見たかった青空、まねきケチャ、メイビーME、#よーよーよー、ワンダーウィード 天",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -329,9 +329,9 @@
     },
     {
       "artId": 53,
-      "name": "にっぽんワチャチャ",
-      "groupId": 1756,
-      "aliasId": 1998
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 54,
@@ -479,9 +479,9 @@
     },
     {
       "artId": 78,
-      "name": "Cosmoslay",
-      "groupId": 314,
-      "aliasId": 348
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 79,
@@ -605,9 +605,9 @@
     },
     {
       "artId": 99,
-      "name": "奏音コレクト",
-      "groupId": 2495,
-      "aliasId": 2872
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 100,
@@ -773,9 +773,9 @@
     },
     {
       "artId": 127,
-      "name": "キュータルチェ",
-      "groupId": 2068,
-      "aliasId": 2375
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 128,
@@ -899,9 +899,9 @@
     },
     {
       "artId": 148,
-      "name": "XINXIN",
-      "groupId": 1314,
-      "aliasId": 1490
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 149,
@@ -1528,14 +1528,14 @@
     {
       "turnId": 14,
       "startTime": "16:25",
-      "min": 30,
+      "min": 20,
       "artId": 135,
       "stageId": 0,
       "type": "ライブ"
     },
     {
       "turnId": 15,
-      "startTime": "16:55",
+      "startTime": "16:45",
       "min": 30,
       "artId": 85,
       "stageId": 0,
@@ -1703,11 +1703,11 @@
     },
     {
       "turnId": 36,
-      "startTime": "16:55",
-      "min": 25,
-      "artId": 148,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 37,
@@ -2167,11 +2167,11 @@
     },
     {
       "turnId": 94,
-      "startTime": "13:00",
-      "min": 20,
-      "artId": 53,
-      "stageId": 4,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 95,
@@ -2383,11 +2383,11 @@
     },
     {
       "turnId": 121,
-      "startTime": "12:45",
-      "min": 15,
-      "artId": 78,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 122,
@@ -2551,11 +2551,11 @@
     },
     {
       "turnId": 142,
-      "startTime": "18:30",
-      "min": 15,
-      "artId": 99,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 143,
@@ -2799,11 +2799,11 @@
     },
     {
       "turnId": 173,
-      "startTime": "18:20",
-      "min": 15,
-      "artId": 127,
-      "stageId": 6,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 174,
@@ -3023,11 +3023,11 @@
     },
     {
       "turnId": 201,
-      "startTime": "17:40",
-      "min": 70,
-      "artId": 148,
-      "stageId": 11,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 202,
@@ -3519,11 +3519,11 @@
     },
     {
       "turnId": 263,
-      "startTime": "13:40",
-      "min": 70,
-      "artId": 53,
-      "stageId": 24,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 264,
@@ -3719,11 +3719,11 @@
     },
     {
       "turnId": 288,
-      "startTime": "13:20",
-      "min": 70,
-      "artId": 78,
-      "stageId": 29,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 289,
@@ -3751,11 +3751,11 @@
     },
     {
       "turnId": 292,
-      "startTime": "19:05",
-      "min": 70,
-      "artId": 99,
-      "stageId": 29,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 293,
@@ -4183,11 +4183,11 @@
     },
     {
       "turnId": 346,
-      "startTime": "18:55",
-      "min": 70,
-      "artId": 127,
-      "stageId": 38,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 347,
@@ -4319,11 +4319,11 @@
     },
     {
       "turnId": 363,
-      "startTime": "14:55",
-      "min": 60,
-      "artId": 148,
-      "stageId": 41,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 364,
@@ -4583,11 +4583,11 @@
     },
     {
       "turnId": 396,
-      "startTime": "16:20",
-      "min": 60,
-      "artId": 127,
-      "stageId": 46,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 397,
@@ -4639,11 +4639,11 @@
     },
     {
       "turnId": 403,
-      "startTime": "16:30",
-      "min": 60,
-      "artId": 99,
-      "stageId": 47,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 404,
@@ -5055,11 +5055,11 @@
     },
     {
       "turnId": 455,
-      "startTime": "10:45",
-      "min": 60,
-      "artId": 78,
-      "stageId": 56,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 456,
@@ -5319,7 +5319,7 @@
     },
     {
       "turnId": 488,
-      "startTime": "17:25",
+      "startTime": "17:15",
       "min": 30,
       "artId": 106,
       "stageId": 0,
@@ -5327,7 +5327,7 @@
     },
     {
       "turnId": 489,
-      "startTime": "17:55",
+      "startTime": "17:45",
       "min": 30,
       "artId": 87,
       "stageId": 0,
@@ -5335,7 +5335,7 @@
     },
     {
       "turnId": 490,
-      "startTime": "18:35",
+      "startTime": "18:40",
       "min": 20,
       "artId": 93,
       "stageId": 0,
@@ -5343,7 +5343,7 @@
     },
     {
       "turnId": 491,
-      "startTime": "18:55",
+      "startTime": "19:00",
       "min": 20,
       "artId": 96,
       "stageId": 0,
@@ -5351,7 +5351,7 @@
     },
     {
       "turnId": 492,
-      "startTime": "19:15",
+      "startTime": "19:20",
       "min": 40,
       "artId": 85,
       "stageId": 0,
@@ -5379,6 +5379,14 @@
       "min": 15,
       "artId": 71,
       "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 496,
+      "startTime": "18:20",
+      "min": 20,
+      "artId": 135,
+      "stageId": 0,
       "type": "ライブ"
     }
   ]
