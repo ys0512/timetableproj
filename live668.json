@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 668,
-  "jsonVersion": 5,
-  "notificationVersion": "5",
-  "notification": "出演辞退を受け、公式から09:56に案内のあったタイムテーブルを反映しております。\nまた追加でのステージ出演により、以下グループは特典会時間とライブ時間が重複しております。\n正しい情報は公式からの案内をご確認ください。\nHzMe、MAGICAL SPEC、My_Stage、myojou、SEKAIE☆、STAiNY、煌めき☆アンフォレント、ぜろから☆すた→と\n\n以下グループが出演辞退となっています。\nAFTERS、ai*ai、α＋、AZATOY、BNSI、Bunny La Crew、COLOR of COLOR、Cosmoslay、diig、【eN】、FES☆TIVE、HEAVENLY、JamsCollection、KAIJU ON THE STAGE、KissBee、LEVEL7、LOVE 9 LOVE、mementoa、#Mooove!、MyDresscode、O₂、OCHA NORMA、Onephony、OS☆U、P1QUE、ParaLulu、Payrin's、Rain Tree、ROOKEY♡ROOKEYS、SAI²Rium、SAKURADOLL、SITUASION、Sophià la Mode、WASURENA、XINXIN、アイドルカレッジ、あくまで天使、アストレイル、甘いものには毒がある。、アルテミスの翼、奏音コレクト、仮面女子、君と見るそら、キミニハネ、キュータルチェ、クマリデパート、シークレットシャノワール、シャルロット、しろもん、スポポポポニー、清麗使命女子、太陽と踊れ月夜に唄え、ドラマチックレコード、なんキニ！、にっぽんワチャチャ、花いろは、ハニースパイス Re.、フィルフェリーチェ、星のカケラ、僕が見たかった青空、まねきケチャ、メイビーME、#よーよーよー、ワンダーウィード 天",
+  "jsonVersion": 6,
+  "notificationVersion": "6",
+  "notification": "（13:15）追加出演者に対応しました。\n\n出演辞退を受け、公式から09:56に案内のあったタイムテーブルを反映しております。\nまた追加でのステージ出演により、以下グループは特典会時間とライブ時間が重複しております。\n正しい情報は公式からの案内をご確認ください。\nHzMe、MAGICAL SPEC、My_Stage、myojou、SEKAIE☆、STAiNY、煌めき☆アンフォレント、ぜろから☆すた→と\n\n以下グループが出演辞退となっています。\nAFTERS、ai*ai、α＋、AZATOY、BNSI、Bunny La Crew、COLOR of COLOR、Cosmoslay、diig、【eN】、FES☆TIVE、HEAVENLY、JamsCollection、KAIJU ON THE STAGE、KissBee、LEVEL7、LOVE 9 LOVE、mementoa、#Mooove!、MyDresscode、O₂、OCHA NORMA、Onephony、OS☆U、P1QUE、ParaLulu、Payrin's、Rain Tree、ROOKEY♡ROOKEYS、SAI²Rium、SAKURADOLL、SITUASION、Sophià la Mode、WASURENA、XINXIN、アイドルカレッジ、あくまで天使、アストレイル、甘いものには毒がある。、アルテミスの翼、奏音コレクト、仮面女子、君と見るそら、キミニハネ、キュータルチェ、クマリデパート、シークレットシャノワール、シャルロット、しろもん、スポポポポニー、清麗使命女子、太陽と踊れ月夜に唄え、ドラマチックレコード、なんキニ！、にっぽんワチャチャ、花いろは、ハニースパイス Re.、フィルフェリーチェ、星のカケラ、僕が見たかった青空、まねきケチャ、メイビーME、#よーよーよー、ワンダーウィード 天",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -1847,11 +1847,11 @@
     },
     {
       "turnId": 54,
-      "startTime": "16:05",
-      "min": 25,
-      "artId": 13,
-      "stageId": 2,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 55,
@@ -1871,11 +1871,11 @@
     },
     {
       "turnId": 57,
-      "startTime": "17:25",
-      "min": 25,
-      "artId": 16,
-      "stageId": 2,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 58,
@@ -2031,11 +2031,11 @@
     },
     {
       "turnId": 77,
-      "startTime": "15:55",
-      "min": 20,
-      "artId": 36,
-      "stageId": 3,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 78,
@@ -5387,6 +5387,54 @@
       "min": 20,
       "artId": 135,
       "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 497,
+      "startTime": "14:30",
+      "min": 25,
+      "artId": 19,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 498,
+      "startTime": "15:35",
+      "min": 25,
+      "artId": 25,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 499,
+      "startTime": "16:25",
+      "min": 25,
+      "artId": 13,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 500,
+      "startTime": "16:55",
+      "min": 25,
+      "artId": 16,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 501,
+      "startTime": "17:50",
+      "min": 25,
+      "artId": 32,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 502,
+      "startTime": "18:20",
+      "min": 25,
+      "artId": 51,
+      "stageId": 2,
       "type": "ライブ"
     }
   ]
