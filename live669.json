@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 669,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "線香花火特典会に対応しました。\n特典会情報に対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "（9/21）最新版のタイムテーブルに対応しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -917,9 +917,9 @@
     },
     {
       "artId": 151,
-      "name": "ベロティカ",
-      "groupId": 2268,
-      "aliasId": 2609
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 152,
@@ -968,6 +968,18 @@
       "name": "DREAMING MONSTER",
       "groupId": 341,
       "aliasId": 377
+    },
+    {
+      "artId": 160,
+      "name": "きゅんぱに！",
+      "groupId": 1666,
+      "aliasId": 1891
+    },
+    {
+      "artId": 161,
+      "name": "擬人化にゃんた",
+      "groupId": 3643,
+      "aliasId": 4000
     }
   ],
   "stageList": [
@@ -2351,19 +2363,19 @@
     },
     {
       "turnId": 111,
-      "startTime": "10:05",
-      "min": 15,
-      "artId": 86,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 112,
-      "startTime": "10:20",
-      "min": 15,
-      "artId": 86,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 113,
@@ -2687,11 +2699,11 @@
     },
     {
       "turnId": 153,
-      "startTime": "12:50",
-      "min": 15,
-      "artId": 86,
-      "stageId": 6,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 154,
@@ -2767,11 +2779,11 @@
     },
     {
       "turnId": 163,
-      "startTime": "15:40",
-      "min": 15,
-      "artId": 151,
-      "stageId": 6,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 164,
@@ -4007,11 +4019,11 @@
     },
     {
       "turnId": 318,
-      "startTime": "16:15",
-      "min": 70,
-      "artId": 151,
-      "stageId": 34,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 319,
@@ -5287,11 +5299,11 @@
     },
     {
       "turnId": 478,
-      "startTime": "17:45",
-      "min": 60,
-      "artId": 151,
-      "stageId": 60,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 479,
@@ -5299,6 +5311,38 @@
       "min": 60,
       "artId": 145,
       "stageId": 60,
+      "type": "特典会"
+    },
+    {
+      "turnId": 480,
+      "startTime": "10:15",
+      "min": 20,
+      "artId": 160,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 481,
+      "startTime": "12:50",
+      "min": 15,
+      "artId": 161,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 482,
+      "startTime": "15:40",
+      "min": 15,
+      "artId": 109,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 483,
+      "startTime": "16:15",
+      "min": 70,
+      "artId": 109,
+      "stageId": 34,
       "type": "特典会"
     }
   ]
