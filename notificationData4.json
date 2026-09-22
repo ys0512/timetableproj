@@ -38,6 +38,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        675,
+        676,
+        677
+      ],
+      "date": "9/23",
+      "message": "エンタパークフェス2026 (9/25-27 @武蔵村山 アイドル) に対応しました。",
+      "message_en": "エンタパークフェス2026 (9/25-27 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         671,
         672,
         673
