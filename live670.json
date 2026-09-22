@@ -1,13 +1,13 @@
 ﻿{
   "liveId": 670,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "かすみ草とステラ（3期生）の特典会が変更になりました。\n線香花火特典会に対応しました。\n特典会情報に対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "（9/22）メインステージ争奪戦の結果と追加出演者を反映しました。\n（9/22）HEROINESの特典会情報を更新しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
   "openTime": "9",
-  "closeTime": "23",
+  "closeTime": "22",
   "artList": [
     {
       "artId": 0,
@@ -275,7 +275,7 @@
     },
     {
       "artId": 44,
-      "name": "メインステージ争奪戦2位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -317,7 +317,7 @@
     },
     {
       "artId": 51,
-      "name": "メインステージ争奪戦1位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -419,7 +419,7 @@
     },
     {
       "artId": 68,
-      "name": "メインステージ争奪戦 4位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -491,7 +491,7 @@
     },
     {
       "artId": 80,
-      "name": "メインステージ争奪戦 3位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -557,7 +557,7 @@
     },
     {
       "artId": 91,
-      "name": "メインステージ争奪戦 6位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -647,7 +647,7 @@
     },
     {
       "artId": 106,
-      "name": "メインステージ争奪戦 5位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -707,7 +707,7 @@
     },
     {
       "artId": 116,
-      "name": "メインステージ争奪戦 10位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -737,7 +737,7 @@
     },
     {
       "artId": 121,
-      "name": "coming soon",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -756,8 +756,8 @@
     {
       "artId": 124,
       "name": "このアイドルはフィクションです。",
-      "groupId": null,
-      "aliasId": null
+      "groupId": 1684,
+      "aliasId": 1912
     },
     {
       "artId": 125,
@@ -791,7 +791,7 @@
     },
     {
       "artId": 130,
-      "name": "メインステージ争奪戦 9位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -839,7 +839,7 @@
     },
     {
       "artId": 138,
-      "name": "comming soon",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -887,7 +887,7 @@
     },
     {
       "artId": 146,
-      "name": "メインステージ争奪戦 8位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -947,7 +947,7 @@
     },
     {
       "artId": 156,
-      "name": "メインステージ争奪戦 7位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -998,6 +998,78 @@
       "name": "きみはれ。",
       "groupId": 1656,
       "aliasId": 1877
+    },
+    {
+      "artId": 165,
+      "name": "Lって何のLですか？",
+      "groupId": 713,
+      "aliasId": 812
+    },
+    {
+      "artId": 166,
+      "name": "ON THE AIR",
+      "groupId": 5973,
+      "aliasId": 6346
+    },
+    {
+      "artId": 167,
+      "name": "PATI PATI CANDY...☆",
+      "groupId": 916,
+      "aliasId": 1041
+    },
+    {
+      "artId": 168,
+      "name": "泡沫パーティーズ",
+      "groupId": 2632,
+      "aliasId": 3044
+    },
+    {
+      "artId": 169,
+      "name": "Aproof",
+      "groupId": 157,
+      "aliasId": 175
+    },
+    {
+      "artId": 170,
+      "name": "neOen",
+      "groupId": 1483,
+      "aliasId": 1682
+    },
+    {
+      "artId": 171,
+      "name": "君と青",
+      "groupId": 2453,
+      "aliasId": 2822
+    },
+    {
+      "artId": 172,
+      "name": "プエラの絶対値",
+      "groupId": 2257,
+      "aliasId": 2597
+    },
+    {
+      "artId": 173,
+      "name": "あいすなっつ",
+      "groupId": 1571,
+      "aliasId": 1781
+    },
+    {
+      "artId": 174,
+      "name": "Jewel☆Garden",
+      "groupId": 578,
+      "aliasId": 655
+    },
+    {
+      "artId": 175,
+      "name": "永遠のセツナ",
+      "groupId": 2630,
+      "aliasId": 3042
+    },
+    {
+      "artId": 176,
+      "name": "ミライズ",
+      "groupId": 2306,
+      "aliasId": 2653
     }
   ],
   "stageList": [
@@ -1315,18 +1387,18 @@
     },
     {
       "stageId": 39,
-      "stageName": "特典会33・34",
-      "stageNameShort": "特典会33・34",
+      "stageName": "",
+      "stageNameShort": "",
       "colorName": "stage-grey",
-      "stageOrder": 39,
-      "type": "特典会"
+      "stageOrder": 63,
+      "type": ""
     },
     {
       "stageId": 40,
       "stageName": "線香花火1",
       "stageNameShort": "線香花火1",
       "colorName": "stage-blueGrey",
-      "stageOrder": 40,
+      "stageOrder": 41,
       "type": "特典会"
     },
     {
@@ -1334,7 +1406,7 @@
       "stageName": "線香花火2",
       "stageNameShort": "線香花火2",
       "colorName": "stage-blueGrey",
-      "stageOrder": 41,
+      "stageOrder": 42,
       "type": "特典会"
     },
     {
@@ -1342,7 +1414,7 @@
       "stageName": "線香花火3",
       "stageNameShort": "線香花火3",
       "colorName": "stage-blueGrey",
-      "stageOrder": 42,
+      "stageOrder": 43,
       "type": "特典会"
     },
     {
@@ -1350,7 +1422,7 @@
       "stageName": "線香花火4",
       "stageNameShort": "線香花火4",
       "colorName": "stage-blueGrey",
-      "stageOrder": 43,
+      "stageOrder": 44,
       "type": "特典会"
     },
     {
@@ -1358,7 +1430,7 @@
       "stageName": "線香花火5",
       "stageNameShort": "線香花火5",
       "colorName": "stage-blueGrey",
-      "stageOrder": 44,
+      "stageOrder": 45,
       "type": "特典会"
     },
     {
@@ -1366,7 +1438,7 @@
       "stageName": "線香花火6",
       "stageNameShort": "線香花火6",
       "colorName": "stage-blueGrey",
-      "stageOrder": 45,
+      "stageOrder": 46,
       "type": "特典会"
     },
     {
@@ -1374,7 +1446,7 @@
       "stageName": "線香花火7",
       "stageNameShort": "線香花火7",
       "colorName": "stage-blueGrey",
-      "stageOrder": 46,
+      "stageOrder": 47,
       "type": "特典会"
     },
     {
@@ -1382,7 +1454,7 @@
       "stageName": "線香花火8",
       "stageNameShort": "線香花火8",
       "colorName": "stage-blueGrey",
-      "stageOrder": 47,
+      "stageOrder": 48,
       "type": "特典会"
     },
     {
@@ -1390,7 +1462,7 @@
       "stageName": "線香花火9",
       "stageNameShort": "線香花火9",
       "colorName": "stage-blueGrey",
-      "stageOrder": 48,
+      "stageOrder": 49,
       "type": "特典会"
     },
     {
@@ -1398,7 +1470,7 @@
       "stageName": "線香花火10",
       "stageNameShort": "線香花火10",
       "colorName": "stage-blueGrey",
-      "stageOrder": 49,
+      "stageOrder": 50,
       "type": "特典会"
     },
     {
@@ -1406,7 +1478,7 @@
       "stageName": "線香花火11",
       "stageNameShort": "線香花火11",
       "colorName": "stage-blueGrey",
-      "stageOrder": 50,
+      "stageOrder": 51,
       "type": "特典会"
     },
     {
@@ -1414,7 +1486,7 @@
       "stageName": "線香花火12",
       "stageNameShort": "線香花火12",
       "colorName": "stage-blueGrey",
-      "stageOrder": 51,
+      "stageOrder": 52,
       "type": "特典会"
     },
     {
@@ -1422,7 +1494,7 @@
       "stageName": "線香花火13",
       "stageNameShort": "線香花火13",
       "colorName": "stage-blueGrey",
-      "stageOrder": 52,
+      "stageOrder": 53,
       "type": "特典会"
     },
     {
@@ -1430,7 +1502,7 @@
       "stageName": "線香花火14",
       "stageNameShort": "線香花火14",
       "colorName": "stage-blueGrey",
-      "stageOrder": 53,
+      "stageOrder": 54,
       "type": "特典会"
     },
     {
@@ -1438,7 +1510,7 @@
       "stageName": "線香花火15",
       "stageNameShort": "線香花火15",
       "colorName": "stage-blueGrey",
-      "stageOrder": 54,
+      "stageOrder": 55,
       "type": "特典会"
     },
     {
@@ -1446,7 +1518,7 @@
       "stageName": "線香花火16",
       "stageNameShort": "線香花火16",
       "colorName": "stage-blueGrey",
-      "stageOrder": 55,
+      "stageOrder": 56,
       "type": "特典会"
     },
     {
@@ -1454,7 +1526,7 @@
       "stageName": "線香花火17",
       "stageNameShort": "線香花火17",
       "colorName": "stage-blueGrey",
-      "stageOrder": 56,
+      "stageOrder": 57,
       "type": "特典会"
     },
     {
@@ -1462,7 +1534,7 @@
       "stageName": "線香花火18",
       "stageNameShort": "線香花火18",
       "colorName": "stage-blueGrey",
-      "stageOrder": 57,
+      "stageOrder": 58,
       "type": "特典会"
     },
     {
@@ -1470,7 +1542,7 @@
       "stageName": "線香花火19",
       "stageNameShort": "線香花火19",
       "colorName": "stage-blueGrey",
-      "stageOrder": 58,
+      "stageOrder": 59,
       "type": "特典会"
     },
     {
@@ -1478,7 +1550,7 @@
       "stageName": "線香花火20",
       "stageNameShort": "線香花火20",
       "colorName": "stage-blueGrey",
-      "stageOrder": 59,
+      "stageOrder": 60,
       "type": "特典会"
     },
     {
@@ -1486,7 +1558,7 @@
       "stageName": "線香花火21",
       "stageNameShort": "線香花火21",
       "colorName": "stage-blueGrey",
-      "stageOrder": 60,
+      "stageOrder": 61,
       "type": "特典会"
     },
     {
@@ -1494,7 +1566,23 @@
       "stageName": "線香花火22",
       "stageNameShort": "線香花火22",
       "colorName": "stage-blueGrey",
-      "stageOrder": 61,
+      "stageOrder": 62,
+      "type": "特典会"
+    },
+    {
+      "stageId": 62,
+      "stageName": "特典会33",
+      "stageNameShort": "特典会33",
+      "colorName": "stage-grey",
+      "stageOrder": 39,
+      "type": "特典会"
+    },
+    {
+      "stageId": 63,
+      "stageName": "特典会34",
+      "stageNameShort": "特典会34",
+      "colorName": "stage-grey",
+      "stageOrder": 40,
       "type": "特典会"
     }
   ],
@@ -1535,7 +1623,7 @@
       "turnId": 4,
       "startTime": "11:55",
       "min": 15,
-      "artId": 44,
+      "artId": 165,
       "stageId": 0,
       "type": "ライブ"
     },
@@ -1591,7 +1679,7 @@
       "turnId": 11,
       "startTime": "15:15",
       "min": 20,
-      "artId": 51,
+      "artId": 166,
       "stageId": 0,
       "type": "ライブ"
     },
@@ -2047,7 +2135,7 @@
       "turnId": 68,
       "startTime": "12:30",
       "min": 20,
-      "artId": 68,
+      "artId": 167,
       "stageId": 3,
       "type": "ライブ"
     },
@@ -2143,7 +2231,7 @@
       "turnId": 80,
       "startTime": "17:00",
       "min": 20,
-      "artId": 80,
+      "artId": 168,
       "stageId": 3,
       "type": "ライブ"
     },
@@ -2231,7 +2319,7 @@
       "turnId": 91,
       "startTime": "11:35",
       "min": 20,
-      "artId": 91,
+      "artId": 169,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2351,7 +2439,7 @@
       "turnId": 106,
       "startTime": "17:05",
       "min": 20,
-      "artId": 106,
+      "artId": 170,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2397,19 +2485,19 @@
     },
     {
       "turnId": 112,
-      "startTime": "10:05",
-      "min": 15,
-      "artId": 138,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 113,
-      "startTime": "10:20",
-      "min": 15,
-      "artId": 138,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 114,
@@ -2471,7 +2559,7 @@
       "turnId": 121,
       "startTime": "12:25",
       "min": 15,
-      "artId": 146,
+      "artId": 172,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2591,7 +2679,7 @@
       "turnId": 136,
       "startTime": "16:35",
       "min": 15,
-      "artId": 156,
+      "artId": 173,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2687,7 +2775,7 @@
       "turnId": 148,
       "startTime": "11:10",
       "min": 15,
-      "artId": 116,
+      "artId": 174,
       "stageId": 6,
       "type": "ライブ"
     },
@@ -2735,7 +2823,7 @@
       "turnId": 154,
       "startTime": "12:50",
       "min": 15,
-      "artId": 121,
+      "artId": 175,
       "stageId": 6,
       "type": "ライブ"
     },
@@ -2807,7 +2895,7 @@
       "turnId": 163,
       "startTime": "15:10",
       "min": 15,
-      "artId": 130,
+      "artId": 176,
       "stageId": 6,
       "type": "ライブ"
     },
@@ -2967,7 +3055,7 @@
       "turnId": 183,
       "startTime": "12:30",
       "min": 70,
-      "artId": 44,
+      "artId": 165,
       "stageId": 8,
       "type": "特典会"
     },
@@ -3007,7 +3095,7 @@
       "turnId": 188,
       "startTime": "15:55",
       "min": 70,
-      "artId": 51,
+      "artId": 166,
       "stageId": 9,
       "type": "特典会"
     },
@@ -3282,8 +3370,8 @@
     },
     {
       "turnId": 222,
-      "startTime": "11:40",
-      "min": 75,
+      "startTime": "11:45",
+      "min": 70,
       "artId": 22,
       "stageId": 17,
       "type": "特典会"
@@ -3298,8 +3386,8 @@
     },
     {
       "turnId": 224,
-      "startTime": "14:20",
-      "min": 75,
+      "startTime": "14:25",
+      "min": 70,
       "artId": 28,
       "stageId": 17,
       "type": "特典会"
@@ -3476,7 +3564,7 @@
       "turnId": 246,
       "startTime": "13:10",
       "min": 70,
-      "artId": 68,
+      "artId": 167,
       "stageId": 22,
       "type": "特典会"
     },
@@ -3500,7 +3588,7 @@
       "turnId": 249,
       "startTime": "17:40",
       "min": 70,
-      "artId": 80,
+      "artId": 168,
       "stageId": 22,
       "type": "特典会"
     },
@@ -3532,7 +3620,7 @@
       "turnId": 253,
       "startTime": "12:15",
       "min": 70,
-      "artId": 91,
+      "artId": 169,
       "stageId": 24,
       "type": "特典会"
     },
@@ -3700,7 +3788,7 @@
       "turnId": 274,
       "startTime": "17:45",
       "min": 70,
-      "artId": 106,
+      "artId": 170,
       "stageId": 27,
       "type": "特典会"
     },
@@ -3722,11 +3810,11 @@
     },
     {
       "turnId": 277,
-      "startTime": "10:40",
-      "min": 70,
-      "artId": 138,
-      "stageId": 29,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 278,
@@ -3780,7 +3868,7 @@
       "turnId": 284,
       "startTime": "10:55",
       "min": 70,
-      "artId": 138,
+      "artId": 171,
       "stageId": 30,
       "type": "特典会"
     },
@@ -3898,9 +3986,9 @@
     },
     {
       "turnId": 299,
-      "startTime": "17:15",
+      "startTime": "17:10",
       "min": 70,
-      "artId": 156,
+      "artId": 173,
       "stageId": 32,
       "type": "特典会"
     },
@@ -3924,7 +4012,7 @@
       "turnId": 302,
       "startTime": "13:00",
       "min": 70,
-      "artId": 146,
+      "artId": 172,
       "stageId": 33,
       "type": "特典会"
     },
@@ -3980,7 +4068,7 @@
       "turnId": 309,
       "startTime": "13:25",
       "min": 70,
-      "artId": 138,
+      "artId": 175,
       "stageId": 34,
       "type": "特典会"
     },
@@ -4164,7 +4252,7 @@
       "turnId": 332,
       "startTime": "11:45",
       "min": 70,
-      "artId": 116,
+      "artId": 174,
       "stageId": 38,
       "type": "特典会"
     },
@@ -4188,7 +4276,7 @@
       "turnId": 335,
       "startTime": "15:45",
       "min": 70,
-      "artId": 130,
+      "artId": 176,
       "stageId": 38,
       "type": "特典会"
     },
@@ -4210,32 +4298,16 @@
     },
     {
       "turnId": 338,
-      "startTime": "10:30",
-      "min": 630,
-      "artId": 4,
-      "stageId": 39,
-      "type": "特典会",
-      "collabArtList": [
-        4,
-        10,
-        14,
-        21,
-        32,
-        45,
-        48,
-        61,
-        75,
-        56,
-        58,
-        69,
-        31
-      ],
-      "title": "ヒロインズ特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 339,
       "startTime": "11:20",
-      "min": 60,
+      "min": 70,
       "artId": 150,
       "stageId": 18,
       "type": "特典会"
@@ -5199,6 +5271,118 @@
       "artId": 126,
       "stageId": 61,
       "type": "特典会"
+    },
+    {
+      "turnId": 460,
+      "startTime": "10:45",
+      "min": 60,
+      "artId": 61,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 461,
+      "startTime": "11:50",
+      "min": 60,
+      "artId": 32,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 462,
+      "startTime": "13:00",
+      "min": 60,
+      "artId": 4,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 463,
+      "startTime": "14:20",
+      "min": 60,
+      "artId": 14,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 464,
+      "startTime": "15:45",
+      "min": 60,
+      "artId": 10,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 465,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 58,
+      "stageId": 62,
+      "type": "特典会"
+    },
+    {
+      "turnId": 466,
+      "startTime": "10:45",
+      "min": 60,
+      "artId": 69,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 467,
+      "startTime": "11:50",
+      "min": 60,
+      "artId": 21,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 468,
+      "startTime": "13:00",
+      "min": 60,
+      "artId": 45,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 469,
+      "startTime": "14:20",
+      "min": 60,
+      "artId": 48,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 470,
+      "startTime": "15:45",
+      "min": 60,
+      "artId": 56,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 471,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 75,
+      "stageId": 63,
+      "type": "特典会"
+    },
+    {
+      "turnId": 472,
+      "startTime": "15:45",
+      "min": 60,
+      "artId": 31,
+      "stageId": 17,
+      "type": "特典会"
+    },
+    {
+      "turnId": 473,
+      "startTime": "10:10",
+      "min": 25,
+      "artId": 171,
+      "stageId": 5,
+      "type": "ライブ"
     }
   ]
 }
