@@ -1,11 +1,15 @@
 [
-    {
-        "liveId": 0,
-        "version": 6,
-        "note": "versionはjsonVersion"
-    },
-    {
-        "liveId": 655,
-        "version": 10
-    }
+  {
+    "liveId": 0,
+    "version": 6,
+    "note": "versionはjsonVersion"
+  },
+  {
+    "liveId": 655,
+    "version": 10
+  },
+  {
+    "liveId": 668,
+    "version": 5
+  }
 ]
