@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 669,
-  "jsonVersion": 4,
-  "notificationVersion": "4",
-  "notification": "（9/21）最新版のタイムテーブルに対応しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "5",
+  "notification": "（9/22）「RiNCENT♯」様が出演キャンセルとなりました。\n（9/21）最新版のタイムテーブルに対応しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -137,9 +137,9 @@
     },
     {
       "artId": 21,
-      "name": "RiNCENT♯",
-      "groupId": 1071,
-      "aliasId": 1216
+      "name": "",
+      "groupId": null,
+      "aliasId": null
     },
     {
       "artId": 22,
@@ -1643,11 +1643,11 @@
     },
     {
       "turnId": 21,
-      "startTime": "10:30",
-      "min": 25,
-      "artId": 21,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 22,
@@ -3059,11 +3059,11 @@
     },
     {
       "turnId": 198,
-      "startTime": "11:15",
-      "min": 70,
-      "artId": 21,
-      "stageId": 12,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 199,
@@ -4875,11 +4875,11 @@
     },
     {
       "turnId": 425,
-      "startTime": "12:45",
-      "min": 60,
-      "artId": 21,
-      "stageId": 51,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 426,
