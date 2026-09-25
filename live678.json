@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 678,
-  "jsonVersion": 1,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -387,7 +387,7 @@
       "stageId": 0,
       "stageName": "下北沢シャングリラ",
       "stageNameShort": "下北沢シャングリラ",
-      "colorName": "stage-purple",
+      "colorName": "stage-pink",
       "stageOrder": 0,
       "type": "ライブ"
     },
