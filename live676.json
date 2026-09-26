@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 676,
-  "jsonVersion": 1,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 2,
+  "notificationVersion": "2",
+  "notification": "（9/26）未定となっていた出番に出演者を追加しました。\n「なんキニ！」の特典会が修正されました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -1301,11 +1301,11 @@
     },
     {
       "turnId": 79,
-      "startTime": "13:00",
-      "min": 10,
-      "artId": 39,
-      "stageId": 4,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 80,
@@ -1877,6 +1877,54 @@
       "startTime": "18:40",
       "min": 30,
       "artId": 34,
+      "stageId": 17,
+      "type": "特典会"
+    },
+    {
+      "turnId": 150,
+      "startTime": "11:30",
+      "min": 20,
+      "artId": 8,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 151,
+      "startTime": "11:50",
+      "min": 20,
+      "artId": 49,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 152,
+      "startTime": "12:10",
+      "min": 20,
+      "artId": 71,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 153,
+      "startTime": "12:50",
+      "min": 20,
+      "artId": 50,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 154,
+      "startTime": "17:30",
+      "min": 20,
+      "artId": 44,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 155,
+      "startTime": "13:00",
+      "min": 70,
+      "artId": 39,
       "stageId": 17,
       "type": "特典会"
     }
