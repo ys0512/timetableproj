@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 677,
-  "jsonVersion": 1,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 2,
+  "notificationVersion": "2",
+  "notification": "（9/27）未定となっていた出番に出演者を追加しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -1140,9 +1140,11 @@
       "stageId": 3,
       "type": "ライブ",
       "collabArtList": [
-        0
+        0,
+        1,
+        27
       ],
-      "title": "ちぃたん☆フィナーレ"
+      "title": "フィナーレ"
     },
     {
       "turnId": 67,
@@ -1650,11 +1652,11 @@
     },
     {
       "turnId": 130,
-      "startTime": "15:30",
-      "min": 70,
-      "artId": 43,
-      "stageId": 16,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 131,
@@ -1689,6 +1691,86 @@
         13,
         14
       ]
+    },
+    {
+      "turnId": 134,
+      "startTime": "11:30",
+      "min": 20,
+      "artId": 52,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 135,
+      "startTime": "12:10",
+      "min": 20,
+      "artId": 57,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 136,
+      "startTime": "12:50",
+      "min": 20,
+      "artId": 39,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 137,
+      "startTime": "13:30",
+      "min": 20,
+      "artId": 41,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 138,
+      "startTime": "14:10",
+      "min": 20,
+      "artId": 46,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 139,
+      "startTime": "14:30",
+      "min": 20,
+      "artId": 40,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 140,
+      "startTime": "15:50",
+      "min": 20,
+      "artId": 23,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 141,
+      "startTime": "17:30",
+      "min": 20,
+      "artId": 43,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 142,
+      "startTime": "15:40",
+      "min": 70,
+      "artId": 33,
+      "stageId": 6,
+      "type": "特典会"
+    },
+    {
+      "turnId": 143,
+      "startTime": "17:20",
+      "min": 70,
+      "artId": 16,
+      "stageId": 17,
+      "type": "特典会"
     }
   ]
 }
