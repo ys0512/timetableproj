@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        681
+      ],
+      "date": "9/29",
+      "message": "超 明星現象 2026 (10/7 @渋谷 アイドル) に対応しました。",
+      "message_en": "超 明星現象 2026 (10/7 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         680
       ],
       "date": "9/29",
