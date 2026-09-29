@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        680
+      ],
+      "date": "9/29",
+      "message": "FUJIN circuit!!-本祭- (10/2 @池袋 アイドル) に対応しました。",
+      "message_en": "FUJIN circuit!!-本祭- (10/2 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         678
       ],
       "date": "9/25",
