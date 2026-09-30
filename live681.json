@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 681,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -1950,7 +1950,7 @@
     {
       "turnId": 30,
       "startTime": "17:55",
-      "min": 30,
+      "min": 25,
       "artId": 29,
       "stageId": 1,
       "type": "ライブ"
@@ -3278,7 +3278,7 @@
     {
       "turnId": 196,
       "startTime": "18:25",
-      "min": 25,
+      "min": 20,
       "artId": 193,
       "stageId": 9,
       "type": "ライブ"
