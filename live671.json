@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 671,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（9/29）特典会に対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "（9/30）縁日に対応しました。\n（9/29）特典会に対応しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -530,7 +530,7 @@
     {
       "stageId": 0,
       "stageName": "ダイヤモンドステージ",
-      "stageNameShort": "ダイヤモンドステージ",
+      "stageNameShort": "ダイヤモンド",
       "colorName": "stage-yellow",
       "stageOrder": 0,
       "type": "ライブ"
@@ -538,7 +538,7 @@
     {
       "stageId": 1,
       "stageName": "クリスタルステージ",
-      "stageNameShort": "クリスタルステージ",
+      "stageNameShort": "クリスタル",
       "colorName": "stage-blue",
       "stageOrder": 1,
       "type": "ライブ"
@@ -546,7 +546,7 @@
     {
       "stageId": 2,
       "stageName": "オニキスステージ",
-      "stageNameShort": "オニキスステージ",
+      "stageNameShort": "オニキス",
       "colorName": "stage-black",
       "stageOrder": 2,
       "type": "ライブ"
@@ -554,7 +554,7 @@
     {
       "stageId": 3,
       "stageName": "エメラルドステージ",
-      "stageNameShort": "エメラルドステージ",
+      "stageNameShort": "エメラルド",
       "colorName": "stage-green",
       "stageOrder": 3,
       "type": "ライブ"
@@ -562,7 +562,7 @@
     {
       "stageId": 4,
       "stageName": "サファイアステージ",
-      "stageNameShort": "サファイアステージ",
+      "stageNameShort": "サファイア",
       "colorName": "stage-lightBlue",
       "stageOrder": 4,
       "type": "ライブ"
@@ -570,7 +570,7 @@
     {
       "stageId": 5,
       "stageName": "ジパングステージ",
-      "stageNameShort": "ジパングステージ",
+      "stageNameShort": "ジパング",
       "colorName": "stage-red",
       "stageOrder": 5,
       "type": "ライブ"
@@ -813,6 +813,14 @@
       "stageNameShort": "",
       "colorName": "stage-grey",
       "stageOrder": 35,
+      "type": "特典会"
+    },
+    {
+      "stageId": 36,
+      "stageName": "縁日",
+      "stageNameShort": "縁日",
+      "colorName": "stage-blueGrey",
+      "stageOrder": 36,
       "type": "特典会"
     }
   ],
@@ -3116,6 +3124,103 @@
       "artId": 68,
       "stageId": 32,
       "type": "特典会"
+    },
+    {
+      "turnId": 287,
+      "startTime": "11:40",
+      "min": 30,
+      "artId": 49,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        49,
+        48,
+        38
+      ]
+    },
+    {
+      "turnId": 288,
+      "startTime": "12:20",
+      "min": 30,
+      "artId": 30,
+      "stageId": 36,
+      "type": "特典会"
+    },
+    {
+      "turnId": 289,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 11,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        11,
+        69
+      ]
+    },
+    {
+      "turnId": 290,
+      "startTime": "13:40",
+      "min": 30,
+      "artId": 0,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        0,
+        34,
+        47
+      ]
+    },
+    {
+      "turnId": 291,
+      "startTime": "14:20",
+      "min": 30,
+      "artId": 13,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        13,
+        24,
+        23
+      ]
+    },
+    {
+      "turnId": 292,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 58,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        58,
+        74,
+        4
+      ]
+    },
+    {
+      "turnId": 293,
+      "startTime": "15:40",
+      "min": 30,
+      "artId": 43,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        43,
+        21
+      ]
+    },
+    {
+      "turnId": 294,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 9,
+      "stageId": 36,
+      "type": "特典会",
+      "collabArtList": [
+        9,
+        44,
+        29
+      ]
     }
   ]
 }
