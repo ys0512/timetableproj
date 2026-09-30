@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 667,
-  "jsonVersion": 2,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 3,
+  "notificationVersion": "2",
+  "notification": "（9/30）最新のタイムテーブルを反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -11,13 +11,13 @@
   "artList": [
     {
       "artId": 0,
-      "name": "ROAD TO 東京 2位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 1,
-      "name": "ROAD TO 東京 1位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -138,8 +138,8 @@
     {
       "artId": 21,
       "name": "山崎夢羽",
-      "groupId": 6642,
-      "aliasId": 7077
+      "groupId": 5971,
+      "aliasId": 171157
     },
     {
       "artId": 22,
@@ -563,7 +563,7 @@
     },
     {
       "artId": 92,
-      "name": "ROAD TO 東京 ５位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -749,19 +749,19 @@
     },
     {
       "artId": 123,
-      "name": "ROAD TO 東京 4位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 124,
-      "name": "ROAD TO 東京 3位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 125,
-      "name": "かがやきパーク企画ステージ",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -806,6 +806,36 @@
       "name": "BANZAI JAPAN",
       "groupId": 185,
       "aliasId": 205
+    },
+    {
+      "artId": 133,
+      "name": "清麗使命女子",
+      "groupId": 3893,
+      "aliasId": 4248
+    },
+    {
+      "artId": 134,
+      "name": "Secret Pinky",
+      "groupId": 143413,
+      "aliasId": 170863
+    },
+    {
+      "artId": 135,
+      "name": "れんてつ",
+      "groupId": 1926,
+      "aliasId": 2204
+    },
+    {
+      "artId": 136,
+      "name": "アイドルキャリア",
+      "groupId": 1954,
+      "aliasId": 2246
+    },
+    {
+      "artId": 137,
+      "name": "SMiLE DROP",
+      "groupId": 1114,
+      "aliasId": 1262
     }
   ],
   "stageList": [
@@ -1386,9 +1416,6 @@
       "artId": 37,
       "stageId": 0,
       "type": "ライブ",
-      "collabArtList": [
-        37
-      ],
       "title": "ステージフィナーレ"
     },
     {
@@ -1763,7 +1790,7 @@
       "turnId": 76,
       "startTime": "11:00",
       "min": 20,
-      "artId": 0,
+      "artId": 133,
       "stageId": 2,
       "type": "ライブ"
     },
@@ -1771,7 +1798,7 @@
       "turnId": 77,
       "startTime": "11:20",
       "min": 20,
-      "artId": 1,
+      "artId": 134,
       "stageId": 2,
       "type": "ライブ"
     },
@@ -1795,7 +1822,7 @@
       "turnId": 80,
       "startTime": "12:05",
       "min": 60,
-      "artId": 0,
+      "artId": 133,
       "stageId": 10,
       "type": "特典会"
     },
@@ -1803,7 +1830,7 @@
       "turnId": 81,
       "startTime": "12:25",
       "min": 60,
-      "artId": 1,
+      "artId": 134,
       "stageId": 11,
       "type": "特典会"
     },
@@ -2651,7 +2678,7 @@
       "turnId": 187,
       "startTime": "15:05",
       "min": 20,
-      "artId": 1,
+      "artId": 134,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2707,7 +2734,7 @@
       "turnId": 194,
       "startTime": "16:10",
       "min": 60,
-      "artId": 1,
+      "artId": 134,
       "stageId": 35,
       "type": "特典会"
     },
@@ -2867,7 +2894,7 @@
       "turnId": 214,
       "startTime": "11:20",
       "min": 20,
-      "artId": 92,
+      "artId": 135,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2907,7 +2934,7 @@
       "turnId": 219,
       "startTime": "12:25",
       "min": 60,
-      "artId": 92,
+      "artId": 135,
       "stageId": 14,
       "type": "特典会"
     },
@@ -3619,7 +3646,7 @@
       "turnId": 308,
       "startTime": "12:45",
       "min": 20,
-      "artId": 123,
+      "artId": 136,
       "stageId": 7,
       "type": "ライブ"
     },
@@ -3635,7 +3662,7 @@
       "turnId": 310,
       "startTime": "13:05",
       "min": 20,
-      "artId": 124,
+      "artId": 137,
       "stageId": 7,
       "type": "ライブ"
     },
@@ -3667,19 +3694,19 @@
       "turnId": 314,
       "startTime": "13:45",
       "min": 30,
-      "artId": 125,
+      "artId": 36,
       "stageId": 7,
       "type": "ライブ",
       "collabArtList": [
-        125
+        36
       ],
-      "title": "かがやきパーク企画ステージ"
+      "title": "かがやきパーク企画ステージ ほくりくアイドル部出演 スペシャルステージ"
     },
     {
       "turnId": 315,
       "startTime": "13:50",
       "min": 60,
-      "artId": 123,
+      "artId": 136,
       "stageId": 39,
       "type": "特典会"
     },
@@ -3687,7 +3714,7 @@
       "turnId": 316,
       "startTime": "14:10",
       "min": 60,
-      "artId": 124,
+      "artId": 137,
       "stageId": 37,
       "type": "特典会"
     },

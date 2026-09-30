@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 666,
-  "jsonVersion": 2,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 3,
+  "notificationVersion": "2",
+  "notification": "（9/30）最新のタイムテーブルを反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -11,13 +11,13 @@
   "artList": [
     {
       "artId": 0,
-      "name": "ROAD TO 東京 3位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 1,
-      "name": "ROAD TO 東京 2位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -335,13 +335,13 @@
     },
     {
       "artId": 54,
-      "name": "ROAD TO 東京 5位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 55,
-      "name": "ROAD TO 東京 4位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -461,7 +461,7 @@
     },
     {
       "artId": 75,
-      "name": "かがやきパーク企画ステージ",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -743,7 +743,7 @@
     },
     {
       "artId": 122,
-      "name": "ROAD TO 東京 1位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -782,6 +782,36 @@
       "name": "テラテラ",
       "groupId": 2168,
       "aliasId": 2493
+    },
+    {
+      "artId": 129,
+      "name": "SMiLE DROP",
+      "groupId": 1114,
+      "aliasId": 1262
+    },
+    {
+      "artId": 130,
+      "name": "清麗使命女子",
+      "groupId": 3893,
+      "aliasId": 4248
+    },
+    {
+      "artId": 131,
+      "name": "Secret Pinky",
+      "groupId": 143413,
+      "aliasId": 170863
+    },
+    {
+      "artId": 132,
+      "name": "れんてつ",
+      "groupId": 1926,
+      "aliasId": 2204
+    },
+    {
+      "artId": 133,
+      "name": "アイドルキャリア",
+      "groupId": 1954,
+      "aliasId": 2246
     }
   ],
   "stageList": [
@@ -1785,11 +1815,11 @@
     },
     {
       "turnId": 81,
-      "startTime": "18:00",
-      "min": 60,
-      "artId": 10,
-      "stageId": 22,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 82,
@@ -1923,7 +1953,7 @@
       "turnId": 98,
       "startTime": "11:00",
       "min": 20,
-      "artId": 0,
+      "artId": 129,
       "stageId": 2,
       "type": "ライブ"
     },
@@ -1931,7 +1961,7 @@
       "turnId": 99,
       "startTime": "11:20",
       "min": 20,
-      "artId": 1,
+      "artId": 130,
       "stageId": 2,
       "type": "ライブ"
     },
@@ -1955,7 +1985,7 @@
       "turnId": 102,
       "startTime": "12:05",
       "min": 60,
-      "artId": 0,
+      "artId": 129,
       "stageId": 12,
       "type": "特典会"
     },
@@ -1971,7 +2001,7 @@
       "turnId": 104,
       "startTime": "12:25",
       "min": 60,
-      "artId": 1,
+      "artId": 130,
       "stageId": 13,
       "type": "特典会"
     },
@@ -2305,11 +2335,11 @@
     },
     {
       "turnId": 146,
-      "startTime": "19:35",
-      "min": 60,
-      "artId": 20,
-      "stageId": 10,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 147,
@@ -2635,7 +2665,7 @@
       "turnId": 187,
       "startTime": "17:10",
       "min": 20,
-      "artId": 122,
+      "artId": 131,
       "stageId": 3,
       "type": "ライブ"
     },
@@ -2691,7 +2721,7 @@
       "turnId": 194,
       "startTime": "18:15",
       "min": 60,
-      "artId": 122,
+      "artId": 131,
       "stageId": 17,
       "type": "特典会"
     },
@@ -3267,7 +3297,7 @@
       "turnId": 266,
       "startTime": "11:00",
       "min": 20,
-      "artId": 54,
+      "artId": 132,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -3275,7 +3305,7 @@
       "turnId": 267,
       "startTime": "11:20",
       "min": 20,
-      "artId": 55,
+      "artId": 133,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -3299,7 +3329,7 @@
       "turnId": 270,
       "startTime": "12:05",
       "min": 60,
-      "artId": 54,
+      "artId": 132,
       "stageId": 15,
       "type": "特典会"
     },
@@ -3315,7 +3345,7 @@
       "turnId": 272,
       "startTime": "12:25",
       "min": 60,
-      "artId": 55,
+      "artId": 133,
       "stageId": 16,
       "type": "特典会"
     },
@@ -4171,13 +4201,13 @@
       "turnId": 379,
       "startTime": "13:45",
       "min": 30,
-      "artId": 75,
+      "artId": 91,
       "stageId": 7,
       "type": "ライブ",
       "collabArtList": [
-        75
+        91
       ],
-      "title": "かがやきパーク企画ステージ"
+      "title": "かがやきパーク企画ステージ めるぷち出演スペシャルステージ"
     },
     {
       "turnId": 380,
@@ -4378,6 +4408,19 @@
       "artId": 80,
       "stageId": 27,
       "type": "特典会"
+    },
+    {
+      "turnId": 405,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 109,
+      "stageId": 7,
+      "type": "ライブ",
+      "collabArtList": [
+        109,
+        91
+      ],
+      "title": "かがやきフェス×片町商店街振興組合 スペシャルステージ"
     }
   ]
 }
