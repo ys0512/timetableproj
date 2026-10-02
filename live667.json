@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 667,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（9/30）最新のタイムテーブルを反映しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "（10/2）最新のタイムテーブルを反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -779,7 +779,7 @@
     },
     {
       "artId": 128,
-      "name": "シオリベル",
+      "name": "",
       "groupId": 2929,
       "aliasId": 3334
     },
@@ -836,6 +836,12 @@
       "name": "SMiLE DROP",
       "groupId": 1114,
       "aliasId": 1262
+    },
+    {
+      "artId": 138,
+      "name": "出演キャンセルのため調整中",
+      "groupId": null,
+      "aliasId": null
     }
   ],
   "stageList": [
@@ -3752,11 +3758,11 @@
     },
     {
       "turnId": 321,
-      "startTime": "15:15",
-      "min": 60,
-      "artId": 131,
-      "stageId": 18,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 322,
@@ -3794,7 +3800,7 @@
       "turnId": 326,
       "startTime": "16:20",
       "min": 20,
-      "artId": 128,
+      "artId": 138,
       "stageId": 7,
       "type": "ライブ"
     },
@@ -3858,7 +3864,7 @@
       "turnId": 334,
       "startTime": "17:25",
       "min": 60,
-      "artId": 128,
+      "artId": 138,
       "stageId": 38,
       "type": "特典会"
     },

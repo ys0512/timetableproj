@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 666,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（9/30）最新のタイムテーブルを反映しました。",
+  "jsonVersion": 5,
+  "notificationVersion": "3",
+  "notification": "（10/2）最新のタイムテーブルを反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/fes-setlist/"
   },
@@ -383,7 +383,7 @@
     },
     {
       "artId": 62,
-      "name": "シオリベル",
+      "name": "",
       "groupId": 2929,
       "aliasId": 3334
     },
@@ -812,6 +812,12 @@
       "name": "アイドルキャリア",
       "groupId": 1954,
       "aliasId": 2246
+    },
+    {
+      "artId": 134,
+      "name": "出演キャンセルのため調整中",
+      "groupId": null,
+      "aliasId": null
     }
   ],
   "stageList": [
@@ -2769,7 +2775,7 @@
       "turnId": 200,
       "startTime": "19:10",
       "min": 60,
-      "artId": 62,
+      "artId": 134,
       "stageId": 42,
       "type": "特典会"
     },
@@ -2841,7 +2847,7 @@
       "turnId": 209,
       "startTime": "20:55",
       "min": 20,
-      "artId": 62,
+      "artId": 134,
       "stageId": 3,
       "type": "ライブ"
     },
@@ -3441,7 +3447,7 @@
       "turnId": 284,
       "startTime": "14:45",
       "min": 20,
-      "artId": 62,
+      "artId": 45,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -3497,7 +3503,7 @@
       "turnId": 291,
       "startTime": "15:50",
       "min": 60,
-      "artId": 62,
+      "artId": 45,
       "stageId": 16,
       "type": "特典会"
     },

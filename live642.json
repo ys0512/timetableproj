@@ -11,331 +11,495 @@
   "artList": [
     {
       "artId": 0,
-      "name": "#Mooove!"
+      "name": "#Mooove!",
+      "groupId": 5,
+      "aliasId": 5
     },
     {
       "artId": 1,
-      "name": "#よーよーよー"
+      "name": "#よーよーよー",
+      "groupId": 12,
+      "aliasId": 12
     },
     {
       "artId": 2,
-      "name": "&CUTE"
+      "name": "&CUTE",
+      "groupId": 26,
+      "aliasId": 27
     },
     {
       "artId": 3,
-      "name": ".LiNIXLiNE."
+      "name": ".LiNIXLiNE.",
+      "groupId": 39,
+      "aliasId": 41
     },
     {
       "artId": 4,
-      "name": "17秒前の瞬きに光を"
+      "name": "17秒前の瞬きに光を",
+      "groupId": 6374,
+      "aliasId": 6799
     },
     {
       "artId": 5,
-      "name": "AKANECLUB."
+      "name": "AKANECLUB.",
+      "groupId": 6459,
+      "aliasId": 6883
     },
     {
       "artId": 6,
-      "name": "AOAO"
+      "name": "AOAO",
+      "groupId": 101,
+      "aliasId": 111
     },
     {
       "artId": 7,
-      "name": "Bibbidi Chu"
+      "name": "Bibbidi Chu",
+      "groupId": 6469,
+      "aliasId": 6893
     },
     {
       "artId": 8,
-      "name": "Bunny La Crew"
+      "name": "Bunny La Crew",
+      "groupId": 237,
+      "aliasId": 262
     },
     {
       "artId": 9,
-      "name": "FES☆TIVE"
+      "name": "FES☆TIVE",
+      "groupId": 411,
+      "aliasId": 459
     },
     {
       "artId": 10,
-      "name": "FULIT BOX"
+      "name": "FULIT BOX",
+      "groupId": 420,
+      "aliasId": 470
     },
     {
       "artId": 11,
-      "name": "HIBANA"
+      "name": "HIBANA",
+      "groupId": 501,
+      "aliasId": 564
     },
     {
       "artId": 12,
-      "name": "HzMe"
+      "name": "HzMe",
+      "groupId": 5974,
+      "aliasId": 6347
     },
     {
       "artId": 13,
-      "name": "I MY ME MINE"
+      "name": "I MY ME MINE",
+      "groupId": 536,
+      "aliasId": 603
     },
     {
       "artId": 14,
-      "name": "LOVE CHANT"
+      "name": "LOVE CHANT",
+      "groupId": 99871,
+      "aliasId": 118069
     },
     {
       "artId": 15,
-      "name": "LilyS/ash"
+      "name": "LilyS/ash",
+      "groupId": 680,
+      "aliasId": 773
     },
     {
       "artId": 16,
-      "name": "MAGICAL SPEC"
+      "name": "MAGICAL SPEC",
+      "groupId": 718,
+      "aliasId": 818
     },
     {
       "artId": 17,
-      "name": "MATE×MATE!"
+      "name": "MATE×MATE!",
+      "groupId": 2821,
+      "aliasId": 3272
     },
     {
       "artId": 18,
-      "name": "Malcolm Mask McLaren"
+      "name": "Malcolm Mask McLaren",
+      "groupId": 772,
+      "aliasId": 878
     },
     {
       "artId": 19,
-      "name": "Melty BeaR"
+      "name": "Melty BeaR",
+      "groupId": 788,
+      "aliasId": 894
     },
     {
       "artId": 20,
-      "name": "Mirror,Mirror"
+      "name": "Mirror,Mirror",
+      "groupId": 811,
+      "aliasId": 918
     },
     {
       "artId": 21,
-      "name": "MyDearDarlin'"
+      "name": "MyDearDarlin'",
+      "groupId": 824,
+      "aliasId": 931
     },
     {
       "artId": 22,
-      "name": "NEFRALISE"
+      "name": "NEFRALISE",
+      "groupId": 836,
+      "aliasId": 946
     },
     {
       "artId": 23,
-      "name": "NORMiL"
+      "name": "NORMiL",
+      "groupId": 6686,
+      "aliasId": 7121
     },
     {
       "artId": 24,
-      "name": "Palette Parade"
+      "name": "Palette Parade",
+      "groupId": 948,
+      "aliasId": 1075
     },
     {
       "artId": 25,
-      "name": "ParaLulu"
+      "name": "ParaLulu",
+      "groupId": 2971,
+      "aliasId": 3340
     },
     {
       "artId": 26,
-      "name": "Peel the Apple"
+      "name": "Peel the Apple",
+      "groupId": 962,
+      "aliasId": 1090
     },
     {
       "artId": 27,
-      "name": "RAViDAVi"
+      "name": "RAViDAVi",
+      "groupId": 1006,
+      "aliasId": 1139
     },
     {
       "artId": 28,
-      "name": "ROOKEY♡ROOKEYS"
+      "name": "ROOKEY♡ROOKEYS",
+      "groupId": 1026,
+      "aliasId": 1163
     },
     {
       "artId": 29,
-      "name": "RePLAY"
+      "name": "RePLAY",
+      "groupId": 1053,
+      "aliasId": 1195
     },
     {
       "artId": 30,
-      "name": "Root mimi"
+      "name": "Root mimi",
+      "groupId": 1077,
+      "aliasId": 1224
     },
     {
       "artId": 31,
-      "name": "SAI ²Rium"
+      "name": "SAI ²Rium",
+      "groupId": 1082,
+      "aliasId": 1229
     },
     {
       "artId": 32,
-      "name": "SAISON"
+      "name": "SAISON",
+      "groupId": 1081,
+      "aliasId": 1228
     },
     {
       "artId": 33,
-      "name": "SEKAIE☆"
+      "name": "SEKAIE☆",
+      "groupId": 2964,
+      "aliasId": 3295
     },
     {
       "artId": 34,
-      "name": "STAiNY"
+      "name": "STAiNY",
+      "groupId": 1132,
+      "aliasId": 1283
     },
     {
       "artId": 35,
-      "name": "Sweet Alley"
+      "name": "Sweet Alley",
+      "groupId": 1189,
+      "aliasId": 1349
     },
     {
       "artId": 36,
-      "name": "TERIOS"
+      "name": "TERIOS",
+      "groupId": 6516,
+      "aliasId": 6940
     },
     {
       "artId": 37,
-      "name": "THE ENCORE"
+      "name": "THE ENCORE",
+      "groupId": 1205,
+      "aliasId": 1369
     },
     {
       "artId": 38,
-      "name": "Task have Fun"
+      "name": "Task have Fun",
+      "groupId": 1224,
+      "aliasId": 1392
     },
     {
       "artId": 39,
-      "name": "Tohkei"
+      "name": "Tohkei",
+      "groupId": 1235,
+      "aliasId": 1407
     },
     {
       "artId": 40,
-      "name": "UtaGe!"
+      "name": "UtaGe!",
+      "groupId": 1263,
+      "aliasId": 1437
     },
     {
       "artId": 41,
-      "name": "buGG"
+      "name": "buGG",
+      "groupId": 1372,
+      "aliasId": 1556
     },
     {
       "artId": 42,
-      "name": "chuLa"
+      "name": "chuLa",
+      "groupId": 1382,
+      "aliasId": 1568
     },
     {
       "artId": 43,
-      "name": "iCON!"
+      "name": "iCON!",
+      "groupId": 1422,
+      "aliasId": 1613
     },
     {
       "artId": 44,
-      "name": "iRiNE"
+      "name": "iRiNE",
+      "groupId": 1429,
+      "aliasId": 1620
     },
     {
       "artId": 45,
-      "name": "log you"
+      "name": "log you",
+      "groupId": 1450,
+      "aliasId": 1645
     },
     {
       "artId": 46,
-      "name": "myojou"
+      "name": "myojou",
+      "groupId": 1480,
+      "aliasId": 1679
     },
     {
       "artId": 47,
-      "name": "tune time capsule"
+      "name": "tune time capsule",
+      "groupId": 3944,
+      "aliasId": 4297
     },
     {
       "artId": 48,
-      "name": "α+"
+      "name": "α+",
+      "groupId": 2928,
+      "aliasId": 3278
     },
     {
       "artId": 49,
-      "name": "あたまのなかは8ビット⁉︎"
+      "name": "あたまのなかは8ビット⁉︎",
+      "groupId": 1582,
+      "aliasId": 1793
     },
     {
       "artId": 50,
-      "name": "かすみ草とステラ"
+      "name": "かすみ草とステラ",
+      "groupId": 1643,
+      "aliasId": 1863
     },
     {
       "artId": 51,
-      "name": "こみっきゅおん！"
+      "name": "こみっきゅおん！",
+      "groupId": 1685,
+      "aliasId": 1913
     },
     {
       "artId": 52,
-      "name": "しろもん"
+      "name": "しろもん",
+      "groupId": 1698,
+      "aliasId": 1928
     },
     {
       "artId": 53,
-      "name": "すーぱーぷーばぁー!!"
+      "name": "すーぱーぷーばぁー!!",
+      "groupId": 1710,
+      "aliasId": 1942
     },
     {
       "artId": 54,
-      "name": "ぜろから☆すた→と"
+      "name": "ぜろから☆すた→と",
+      "groupId": 1716,
+      "aliasId": 1949
     },
     {
       "artId": 55,
-      "name": "なみだ色の消しごむ"
+      "name": "なみだ色の消しごむ",
+      "groupId": 1751,
+      "aliasId": 1990
     },
     {
       "artId": 56,
-      "name": "まねきケチャ"
+      "name": "まねきケチャ",
+      "groupId": 1846,
+      "aliasId": 2106
     },
     {
       "artId": 57,
-      "name": "まぶだちゅ！"
+      "name": "まぶだちゅ！",
+      "groupId": 1848,
+      "aliasId": 2108
     },
     {
       "artId": 58,
-      "name": "アンスリューム"
+      "name": "アンスリューム",
+      "groupId": 2004,
+      "aliasId": 2305
     },
     {
       "artId": 59,
-      "name": "カラフルスクリーム"
+      "name": "カラフルスクリーム",
+      "groupId": 2037,
+      "aliasId": 2342
     },
     {
       "artId": 60,
-      "name": "ギガLOVEアップビート"
+      "name": "ギガLOVEアップビート",
+      "groupId": 2071,
+      "aliasId": 2379
     },
     {
       "artId": 61,
-      "name": "クマリデパート"
+      "name": "クマリデパート",
+      "groupId": 2075,
+      "aliasId": 2384
     },
     {
       "artId": 62,
-      "name": "グットクルー"
+      "name": "グットクルー",
+      "groupId": 2082,
+      "aliasId": 2391
     },
     {
       "artId": 63,
-      "name": "コングラッチェ！"
+      "name": "コングラッチェ！",
+      "groupId": 2091,
+      "aliasId": 2401
     },
     {
       "artId": 64,
-      "name": "シオリベル"
+      "name": "シオリベル",
+      "groupId": 2929,
+      "aliasId": 3334
     },
     {
       "artId": 65,
-      "name": "ドラマチックレコード"
+      "name": "ドラマチックレコード",
+      "groupId": 2186,
+      "aliasId": 2513
     },
     {
       "artId": 66,
-      "name": "ハニースパイスRe."
+      "name": "ハニースパイスRe.",
+      "groupId": 2210,
+      "aliasId": 2544
     },
     {
       "artId": 67,
-      "name": "ハレとハレ！"
+      "name": "ハレとハレ！",
+      "groupId": 2212,
+      "aliasId": 2546
     },
     {
       "artId": 68,
-      "name": "パラディーク"
+      "name": "パラディーク",
+      "groupId": 2228,
+      "aliasId": 2565
     },
     {
       "artId": 69,
-      "name": "フューチャーサイダー"
+      "name": "フューチャーサイダー",
+      "groupId": 2249,
+      "aliasId": 2589
     },
     {
       "artId": 70,
-      "name": "マリークラウン"
+      "name": "マリークラウン",
+      "groupId": 3905,
+      "aliasId": 4260
     },
     {
       "artId": 71,
-      "name": "メイビーME"
+      "name": "メイビーME",
+      "groupId": 2312,
+      "aliasId": 2662
     },
     {
       "artId": 72,
-      "name": "ルージュブック"
+      "name": "ルージュブック",
+      "groupId": 2365,
+      "aliasId": 2725
     },
     {
       "artId": 73,
-      "name": "ワガママなラストノート"
+      "name": "ワガママなラストノート",
+      "groupId": 2377,
+      "aliasId": 2740
     },
     {
       "artId": 74,
-      "name": "可憐なアイボリー"
+      "name": "可憐なアイボリー",
+      "groupId": 2446,
+      "aliasId": 2814
     },
     {
       "artId": 75,
-      "name": "君と見るそら"
+      "name": "君と見るそら",
+      "groupId": 2452,
+      "aliasId": 2821
     },
     {
       "artId": 76,
-      "name": "君に、胸キュン。"
+      "name": "君に、胸キュン。",
+      "groupId": 2454,
+      "aliasId": 2823
     },
     {
       "artId": 77,
-      "name": "宵越しのアンサンブル"
+      "name": "宵越しのアンサンブル",
+      "groupId": 3789,
+      "aliasId": 4146
     },
     {
       "artId": 78,
-      "name": "虜なるプレリュード"
+      "name": "虜なるプレリュード",
+      "groupId": 3921,
+      "aliasId": 4275
     },
     {
       "artId": 79,
-      "name": "虹色の飛行少女"
+      "name": "虹色の飛行少女",
+      "groupId": 2736,
+      "aliasId": 3171
     },
     {
       "artId": 80,
-      "name": "アップアップガールズ（仮）"
+      "name": "アップアップガールズ（仮）",
+      "groupId": 1981,
+      "aliasId": 2277
     },
     {
       "artId": 81,
-      "name": "アップアップガールズ（２）"
+      "name": "アップアップガールズ（２）",
+      "groupId": 1982,
+      "aliasId": 2278
     }
   ],
   "stageList": [

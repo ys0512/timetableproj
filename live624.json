@@ -14,39 +14,57 @@
   "artList": [
     {
       "artId": 0,
-      "name": "AZの理由"
+      "name": "AZの理由",
+      "groupId": 119,
+      "aliasId": 132
     },
     {
       "artId": 1,
-      "name": "Ange☆Reve"
+      "name": "Ange☆Reve",
+      "groupId": 153,
+      "aliasId": 170
     },
     {
       "artId": 2,
-      "name": "Aproof"
+      "name": "Aproof",
+      "groupId": 157,
+      "aliasId": 175
     },
     {
       "artId": 3,
-      "name": "ArcanaCharm"
+      "name": "ArcanaCharm",
+      "groupId": 160,
+      "aliasId": 179
     },
     {
       "artId": 4,
-      "name": "Baby’z Breath"
+      "name": "Baby’z Breath",
+      "groupId": 214,
+      "aliasId": 237
     },
     {
       "artId": 5,
-      "name": "Bibbidi Chu"
+      "name": "Bibbidi Chu",
+      "groupId": 6469,
+      "aliasId": 6893
     },
     {
       "artId": 6,
-      "name": "CHEMICAL X"
+      "name": "CHEMICAL X",
+      "groupId": 251,
+      "aliasId": 279
     },
     {
       "artId": 7,
-      "name": "Cherie!"
+      "name": "Cherie!",
+      "groupId": 296,
+      "aliasId": 329
     },
     {
       "artId": 8,
-      "name": "DJ Meguchee"
+      "name": "DJ Meguchee",
+      "groupId": 3250,
+      "aliasId": 3615
     },
     {
       "artId": 9,
@@ -58,15 +76,21 @@
     },
     {
       "artId": 11,
-      "name": "Drug&Drop"
+      "name": "Drug&Drop",
+      "groupId": 370,
+      "aliasId": 407
     },
     {
       "artId": 12,
-      "name": "FLAPSTAR"
+      "name": "FLAPSTAR",
+      "groupId": 413,
+      "aliasId": 461
     },
     {
       "artId": 13,
-      "name": "Floomie's"
+      "name": "Floomie's",
+      "groupId": 2879,
+      "aliasId": 6513
     },
     {
       "artId": 14,
@@ -74,23 +98,33 @@
     },
     {
       "artId": 15,
-      "name": "Innocent Lucia"
+      "name": "Innocent Lucia",
+      "groupId": 566,
+      "aliasId": 640
     },
     {
       "artId": 16,
-      "name": "I’mew（あいみゅう）"
+      "name": "I’mew（あいみゅう）",
+      "groupId": 570,
+      "aliasId": 646
     },
     {
       "artId": 17,
-      "name": "Jewel☆Garden"
+      "name": "Jewel☆Garden",
+      "groupId": 578,
+      "aliasId": 655
     },
     {
       "artId": 18,
-      "name": "LOVE PANIC!"
+      "name": "LOVE PANIC!",
+      "groupId": 642,
+      "aliasId": 730
     },
     {
       "artId": 19,
-      "name": "Lily scale"
+      "name": "Lily scale",
+      "groupId": 678,
+      "aliasId": 771
     },
     {
       "artId": 20,
@@ -98,63 +132,93 @@
     },
     {
       "artId": 21,
-      "name": "Lumi→A"
+      "name": "Lumi→A",
+      "groupId": 701,
+      "aliasId": 799
     },
     {
       "artId": 22,
-      "name": "MATE×MATE!"
+      "name": "MATE×MATE!",
+      "groupId": 2821,
+      "aliasId": 3272
     },
     {
       "artId": 23,
-      "name": "Maison de Queen"
+      "name": "Maison de Queen",
+      "groupId": 770,
+      "aliasId": 876
     },
     {
       "artId": 24,
-      "name": "Mi'Line Hearts"
+      "name": "Mi'Line Hearts",
+      "groupId": 6674,
+      "aliasId": 7109
     },
     {
       "artId": 25,
-      "name": "Newヒロイン"
+      "name": "Newヒロイン",
+      "groupId": 866,
+      "aliasId": 983
     },
     {
       "artId": 26,
-      "name": "PinkySpice"
+      "name": "PinkySpice",
+      "groupId": 969,
+      "aliasId": 1097
     },
     {
       "artId": 27,
-      "name": "RED-i"
+      "name": "RED-i",
+      "groupId": 1013,
+      "aliasId": 1146
     },
     {
       "artId": 28,
-      "name": "SAI ²Rium"
+      "name": "SAI ²Rium",
+      "groupId": 1082,
+      "aliasId": 1229
     },
     {
       "artId": 29,
-      "name": "SEKAMONO"
+      "name": "SEKAMONO",
+      "groupId": 2837,
+      "aliasId": 7055
     },
     {
       "artId": 30,
-      "name": "Starlet"
+      "name": "Starlet",
+      "groupId": 4090,
+      "aliasId": 4441
     },
     {
       "artId": 31,
-      "name": "Star☆Shiμ'ne!!!"
+      "name": "Star☆Shiμ'ne!!!",
+      "groupId": 6268,
+      "aliasId": 6693
     },
     {
       "artId": 32,
-      "name": "Tool to"
+      "name": "Tool to",
+      "groupId": 1237,
+      "aliasId": 1409
     },
     {
       "artId": 33,
-      "name": "melnoir"
+      "name": "melnoir",
+      "groupId": 1460,
+      "aliasId": 1657
     },
     {
       "artId": 34,
-      "name": "vVibe!"
+      "name": "vVibe!",
+      "groupId": 1532,
+      "aliasId": 1738
     },
     {
       "artId": 35,
-      "name": "あいすなっつ"
+      "name": "あいすなっつ",
+      "groupId": 1571,
+      "aliasId": 1781
     },
     {
       "artId": 36,
@@ -166,63 +230,93 @@
     },
     {
       "artId": 38,
-      "name": "もえのあずき"
+      "name": "もえのあずき",
+      "groupId": 6292,
+      "aliasId": 6717
     },
     {
       "artId": 39,
-      "name": "るるぱにっく!!"
+      "name": "るるぱにっく!!",
+      "groupId": 1925,
+      "aliasId": 2203
     },
     {
       "artId": 40,
-      "name": "わんみゅーず！"
+      "name": "わんみゅーず！",
+      "groupId": 1939,
+      "aliasId": 2221
     },
     {
       "artId": 41,
-      "name": "アイドルキャリア"
+      "name": "アイドルキャリア",
+      "groupId": 1954,
+      "aliasId": 2246
     },
     {
       "artId": 42,
-      "name": "アップアップガールズ（仮）"
+      "name": "アップアップガールズ（仮）",
+      "groupId": 1981,
+      "aliasId": 2277
     },
     {
       "artId": 43,
-      "name": "オトメルキュール"
+      "name": "オトメルキュール",
+      "groupId": 2027,
+      "aliasId": 2332
     },
     {
       "artId": 44,
-      "name": "スプスラッシュ"
+      "name": "スプスラッシュ",
+      "groupId": 2135,
+      "aliasId": 2450
     },
     {
       "artId": 45,
-      "name": "セツナソウ"
+      "name": "セツナソウ",
+      "groupId": 2145,
+      "aliasId": 2464
     },
     {
       "artId": 46,
-      "name": "タイムラプス"
+      "name": "タイムラプス",
+      "groupId": 3579,
+      "aliasId": 3937
     },
     {
       "artId": 47,
-      "name": "ハレとハレ！"
+      "name": "ハレとハレ！",
+      "groupId": 2212,
+      "aliasId": 2546
     },
     {
       "artId": 48,
-      "name": "ピュアリーモンスター"
+      "name": "ピュアリーモンスター",
+      "groupId": 2240,
+      "aliasId": 2580
     },
     {
       "artId": 49,
-      "name": "プランクリーンスターズ "
+      "name": "プランクリーンスターズ ",
+      "groupId": 6535,
+      "aliasId": 6959
     },
     {
       "artId": 50,
-      "name": "ラフティア"
+      "name": "ラフティア",
+      "groupId": 2983,
+      "aliasId": 3351
     },
     {
       "artId": 51,
-      "name": "ルミナスウィッチーズ"
+      "name": "ルミナスウィッチーズ",
+      "groupId": 4856,
+      "aliasId": 5187
     },
     {
       "artId": 52,
-      "name": "上月せれな"
+      "name": "上月せれな",
+      "groupId": 3069,
+      "aliasId": 3436
     },
     {
       "artId": 53,
@@ -230,15 +324,21 @@
     },
     {
       "artId": 54,
-      "name": "天谷優美"
+      "name": "天谷優美",
+      "groupId": 134429,
+      "aliasId": 161526
     },
     {
       "artId": 55,
-      "name": "奏音コレクト"
+      "name": "奏音コレクト",
+      "groupId": 2495,
+      "aliasId": 2872
     },
     {
       "artId": 56,
-      "name": "山﨑夢羽"
+      "name": "山﨑夢羽",
+      "groupId": 5971,
+      "aliasId": 6343
     },
     {
       "artId": 57,
@@ -246,7 +346,9 @@
     },
     {
       "artId": 58,
-      "name": "愛乙女☆DOLL"
+      "name": "愛乙女☆DOLL",
+      "groupId": 2549,
+      "aliasId": 172604
     },
     {
       "artId": 59,
@@ -258,19 +360,27 @@
     },
     {
       "artId": 61,
-      "name": "煌めき☆アンフォレント"
+      "name": "煌めき☆アンフォレント",
+      "groupId": 2641,
+      "aliasId": 3055
     },
     {
       "artId": 62,
-      "name": "瞬きのネビュラ"
+      "name": "瞬きのネビュラ",
+      "groupId": 2671,
+      "aliasId": 3091
     },
     {
       "artId": 63,
-      "name": "純情のアフィリア"
+      "name": "純情のアフィリア",
+      "groupId": 2696,
+      "aliasId": 3123
     },
     {
       "artId": 64,
-      "name": "鈴音ひとみ"
+      "name": "鈴音ひとみ",
+      "groupId": 4066,
+      "aliasId": 4417
     }
   ],
   "stageList": [

@@ -1,1 +1,1351 @@
-﻿{"liveId":325,"jsonVersion":1,"openTime":"11","closeTime":"23","notificationVersion":"2","notification":"イベント公式タイテでは、物販BでCANDY TUNEとわーすたが被っています。当日場所変更の可能性もあるのでイベント公式情報をご確認ください。","artList":[{"artId":0,"name":"♱Ravi La vie♱"},{"artId":1,"name":"22/7"},{"artId":2,"name":"Alcute！"},{"artId":3,"name":"C;ON"},{"artId":4,"name":"CANDY TUNE"},{"artId":5,"name":"chuLa"},{"artId":6,"name":"FES☆TIVE"},{"artId":7,"name":"Gran☆Ciel"},{"artId":8,"name":"HIGH SPIRITS"},{"artId":9,"name":"iLiFE!"},{"artId":10,"name":"iSPY"},{"artId":11,"name":"KissBee"},{"artId":12,"name":"Maison de Queen"},{"artId":13,"name":"MOON RABBiTS"},{"artId":14,"name":"MyDearDarlin'"},{"artId":15,"name":"NANIMONO"},{"artId":16,"name":"NARUMI"},{"artId":17,"name":"NGT48"},{"artId":18,"name":"Panic Monster !n Wonderland"},{"artId":19,"name":"Peel the Apple"},{"artId":20,"name":"REIRIE"},{"artId":21,"name":"SUPER☆GiRLS"},{"artId":22,"name":"Sweet Alley"},{"artId":23,"name":"SWEET STEADY"},{"artId":24,"name":"Task have Fun"},{"artId":25,"name":"THE ORCHESTRA TOKYO"},{"artId":26,"name":"TiiiMO"},{"artId":27,"name":"φ NEW FINAL"},{"artId":28,"name":"アイドルカレッジ"},{"artId":29,"name":"アキシブproject"},{"artId":30,"name":"あまいものつめあわせ"},{"artId":31,"name":"エブリライブステージ"},{"artId":32,"name":"オカシリゾート"},{"artId":33,"name":"ギガソニランウェイ ①Right-on (WHITEBOX) / ②Sauna bear"},{"artId":34,"name":""},{"artId":35,"name":"キュン!?恋堕ちキューピッド"},{"artId":36,"name":"こまち🍟501"},{"artId":37,"name":"シュレーディンガーの犬"},{"artId":38,"name":"シンデレラ宣言！"},{"artId":39,"name":"すべての瞬間は君だった。"},{"artId":40,"name":"ドラマチックレコード"},{"artId":41,"name":"ネコプラpixx."},{"artId":42,"name":"のんふぃく！"},{"artId":43,"name":"ハニースパイスRe."},{"artId":44,"name":"フジコーズ"},{"artId":45,"name":"まねきケチャ"},{"artId":46,"name":"みらくる☆ふぉーぜ"},{"artId":47,"name":"モノクローン"},{"artId":48,"name":"ロージークロニクル"},{"artId":49,"name":"わーすた"},{"artId":50,"name":"異世界アイドル☆パラレルパレード"},{"artId":51,"name":"強くてニューゲーム。"},{"artId":52,"name":"群青の世界"},{"artId":53,"name":"女子研究大学"},{"artId":54,"name":"真っ白なキャンバス"},{"artId":55,"name":"青春リグレット"},{"artId":56,"name":"点染テンセイ少女。"},{"artId":57,"name":"東京女子流"},{"artId":58,"name":"藤森サチ"},{"artId":59,"name":"魔訶不思議変革者-デスデス-"},{"artId":60,"name":"夜光性アミューズ"},{"artId":61,"name":"鈴音ひとみ"}],"stageList":[{"stageId":0,"stageName":"ギガギガ","stageNameShort":"ギガギガ","colorName":"stage-red","stageOrder":0},{"stageId":1,"stageName":"祭り","stageNameShort":"祭り","colorName":"stage-orange","stageOrder":1},{"stageId":2,"stageName":"ハッチャケ","stageNameShort":"ハッチャケ","colorName":"stage-pink","stageOrder":2},{"stageId":3,"stageName":"物販A","stageNameShort":"物販A","colorName":"stage-grey","stageOrder":3},{"stageId":4,"stageName":"物販B","stageNameShort":"物販B","colorName":"stage-grey","stageOrder":4},{"stageId":5,"stageName":"物販C","stageNameShort":"物販C","colorName":"stage-grey","stageOrder":6},{"stageId":6,"stageName":"物販D","stageNameShort":"物販D","colorName":"stage-grey","stageOrder":7},{"stageId":7,"stageName":"物販E","stageNameShort":"物販E","colorName":"stage-grey","stageOrder":8},{"stageId":8,"stageName":"物販F","stageNameShort":"物販F","colorName":"stage-grey","stageOrder":9},{"stageId":9,"stageName":"物販G","stageNameShort":"物販G","colorName":"stage-grey","stageOrder":10},{"stageId":10,"stageName":"物販H","stageNameShort":"物販H","colorName":"stage-grey","stageOrder":11},{"stageId":11,"stageName":"物販I","stageNameShort":"物販I","colorName":"stage-grey","stageOrder":12},{"stageId":12,"stageName":"物販J","stageNameShort":"物販J","colorName":"stage-grey","stageOrder":13},{"stageId":13,"stageName":"物販K","stageNameShort":"物販K","colorName":"stage-grey","stageOrder":14},{"stageId":14,"stageName":"物販L","stageNameShort":"物販L","colorName":"stage-grey","stageOrder":15},{"stageId":15,"stageName":"物販M","stageNameShort":"物販M","colorName":"stage-grey","stageOrder":16},{"stageId":16,"stageName":"物販N","stageNameShort":"物販N","colorName":"stage-grey","stageOrder":17},{"stageId":17,"stageName":"物販B","stageNameShort":"物販B","colorName":"stage-grey","stageOrder":5}],"turnList":[{"turnId":0,"startTime":"11:30","min":10,"artId":53,"stageId":0,"title":"オープニングトーク（女子研究大学）"},{"turnId":1,"startTime":"11:40","min":30,"artId":1,"stageId":0},{"turnId":2,"startTime":"12:10","min":25,"artId":60,"stageId":0},{"turnId":3,"startTime":"12:35","min":25,"artId":21,"stageId":0},{"turnId":4,"startTime":"13:00","min":25,"artId":19,"stageId":0},{"turnId":5,"startTime":"13:25","min":25,"artId":54,"stageId":0},{"turnId":6,"startTime":"14:00","min":5,"artId":53,"stageId":0,"title":"MC（女子研究大学）"},{"turnId":7,"startTime":"14:05","min":15,"artId":33,"stageId":0},{"turnId":8,"startTime":"14:20","min":20,"artId":53,"stageId":0,"title":"女子研究大学＆Powered by TV ～元気ジャパン～"},{"turnId":9,"startTime":"14:40","min":25,"artId":50,"stageId":0},{"turnId":10,"startTime":"15:05","min":25,"artId":38,"stageId":0},{"turnId":11,"startTime":"15:30","min":25,"artId":57,"stageId":0},{"turnId":12,"startTime":"16:10","min":15,"artId":53,"stageId":0,"title":"ギガソニランウェイ①Right-on / ②viccore & MC（女子研究大学）"},{"turnId":13,"startTime":"16:25","min":25,"artId":26,"stageId":0},{"turnId":14,"startTime":"16:50","min":25,"artId":42,"stageId":0},{"turnId":15,"startTime":"17:15","min":30,"artId":48,"stageId":0},{"turnId":16,"startTime":"17:45","min":30,"artId":4,"stageId":0},{"turnId":17,"startTime":"18:30","min":30,"artId":17,"stageId":0},{"turnId":18,"startTime":"19:00","min":30,"artId":9,"stageId":0},{"turnId":19,"startTime":"19:30","min":30,"artId":20,"stageId":0},{"turnId":20,"startTime":"20:00","min":30,"artId":49,"stageId":0},{"turnId":21,"startTime":"20:30","min":30,"artId":6,"stageId":0},{"turnId":22,"startTime":"11:20","min":15,"artId":36,"stageId":1,"title":"O.A. こまち501（エブリライブステージ）"},{"turnId":23,"startTime":"11:35","min":20,"artId":46,"stageId":1},{"turnId":24,"startTime":"11:55","min":20,"artId":40,"stageId":1},{"turnId":25,"startTime":"12:15","min":20,"artId":30,"stageId":1},{"turnId":26,"startTime":"12:35","min":20,"artId":15,"stageId":1},{"turnId":27,"startTime":"12:55","min":20,"artId":28,"stageId":1},{"turnId":28,"startTime":"13:15","min":20,"artId":27,"stageId":1,"title":"φ NEW FINAL（ドラエグステージ）"},{"turnId":29,"startTime":"13:50","min":20,"artId":45,"stageId":1},{"turnId":30,"startTime":"14:10","min":20,"artId":59,"stageId":1},{"turnId":31,"startTime":"14:30","min":25,"artId":5,"stageId":1},{"turnId":32,"startTime":"14:55","min":25,"artId":37,"stageId":1},{"turnId":33,"startTime":"15:20","min":20,"artId":13,"stageId":1,"title":"MOON RABBiTS（ドラエグステージ）"},{"turnId":34,"startTime":"15:55","min":25,"artId":23,"stageId":1},{"turnId":35,"startTime":"16:20","min":25,"artId":56,"stageId":1},{"turnId":36,"startTime":"16:45","min":25,"artId":3,"stageId":1},{"turnId":37,"startTime":"17:10","min":25,"artId":44,"stageId":1},{"turnId":38,"startTime":"17:35","min":25,"artId":47,"stageId":1},{"turnId":39,"startTime":"18:00","min":20,"artId":0,"stageId":1,"title":"♱Ravi La vie♱（ドラエグステージ）"},{"turnId":40,"startTime":"18:35","min":25,"artId":25,"stageId":1},{"turnId":41,"startTime":"19:00","min":25,"artId":12,"stageId":1},{"turnId":42,"startTime":"19:25","min":25,"artId":52,"stageId":1},{"turnId":43,"startTime":"19:50","min":25,"artId":14,"stageId":1},{"turnId":44,"startTime":"20:15","min":25,"artId":24,"stageId":1},{"turnId":45,"startTime":"12:40","min":10,"artId":16,"stageId":2,"title":"O.A. NARUMI（エブリライブステージ）"},{"turnId":46,"startTime":"12:50","min":20,"artId":10,"stageId":2},{"turnId":47,"startTime":"13:10","min":20,"artId":35,"stageId":2},{"turnId":48,"startTime":"13:30","min":20,"artId":18,"stageId":2},{"turnId":49,"startTime":"14:05","min":20,"artId":58,"stageId":2,"title":"藤森サチ(ドラエグステージ)"},{"turnId":50,"startTime":"14:25","min":20,"artId":8,"stageId":2},{"turnId":51,"startTime":"14:45","min":20,"artId":7,"stageId":2},{"turnId":52,"startTime":"15:05","min":20,"artId":39,"stageId":2},{"turnId":53,"startTime":"15:25","min":20,"artId":55,"stageId":2},{"turnId":54,"startTime":"16:00","min":20,"artId":61,"stageId":2,"title":"鈴音ひとみ（ドラエグステージ）"},{"turnId":55,"startTime":"16:20","min":25,"artId":32,"stageId":2},{"turnId":56,"startTime":"16:45","min":25,"artId":51,"stageId":2},{"turnId":57,"startTime":"17:10","min":25,"artId":2,"stageId":2},{"turnId":58,"startTime":"17:35","min":25,"artId":22,"stageId":2},{"turnId":59,"startTime":"18:00","min":30,"artId":31,"stageId":2},{"turnId":60,"startTime":"18:45","min":25,"artId":11,"stageId":2},{"turnId":61,"startTime":"19:10","min":25,"artId":41,"stageId":2},{"turnId":62,"startTime":"19:35","min":25,"artId":43,"stageId":2},{"turnId":63,"startTime":"20:00","min":25,"artId":29,"stageId":2},{"turnId":64,"startTime":"12:55","min":60,"artId":60,"stageId":3},{"turnId":65,"startTime":"13:20","min":60,"artId":21,"stageId":4},{"turnId":66,"startTime":"13:45","min":60,"artId":19,"stageId":5},{"turnId":67,"startTime":"14:10","min":60,"artId":54,"stageId":6},{"turnId":68,"startTime":"15:25","min":60,"artId":50,"stageId":3},{"turnId":69,"startTime":"15:50","min":60,"artId":38,"stageId":4},{"turnId":70,"startTime":"16:10","min":60,"artId":57,"stageId":5},{"turnId":71,"startTime":"17:10","min":60,"artId":26,"stageId":4},{"turnId":72,"startTime":"15:20","min":60,"artId":42,"stageId":6},{"turnId":73,"startTime":"18:35","min":60,"artId":4,"stageId":4},{"turnId":74,"startTime":"16:30","min":120,"artId":9,"stageId":6},{"turnId":75,"startTime":"18:00","min":60,"artId":20,"stageId":3},{"turnId":76,"startTime":"18:30","min":60,"artId":49,"stageId":17},{"turnId":77,"startTime":"19:00","min":60,"artId":6,"stageId":6},{"turnId":78,"startTime":"11:55","min":60,"artId":36,"stageId":7},{"turnId":79,"startTime":"12:15","min":60,"artId":46,"stageId":8},{"turnId":80,"startTime":"12:35","min":60,"artId":40,"stageId":9},{"turnId":81,"startTime":"12:55","min":60,"artId":30,"stageId":10},{"turnId":82,"startTime":"13:15","min":60,"artId":15,"stageId":8},{"turnId":83,"startTime":"13:35","min":60,"artId":28,"stageId":9},{"turnId":84,"startTime":"13:55","min":60,"artId":27,"stageId":10},{"turnId":85,"startTime":"14:30","min":60,"artId":45,"stageId":8},{"turnId":86,"startTime":"14:50","min":60,"artId":59,"stageId":9},{"turnId":87,"startTime":"15:15","min":60,"artId":5,"stageId":10},{"turnId":88,"startTime":"15:40","min":60,"artId":37,"stageId":8},{"turnId":89,"startTime":"16:00","min":60,"artId":13,"stageId":9},{"turnId":90,"startTime":"16:40","min":60,"artId":23,"stageId":10},{"turnId":91,"startTime":"17:05","min":60,"artId":56,"stageId":8},{"turnId":92,"startTime":"17:30","min":60,"artId":3,"stageId":9},{"turnId":93,"startTime":"15:40","min":60,"artId":44,"stageId":7},{"turnId":94,"startTime":"17:55","min":60,"artId":44,"stageId":10},{"turnId":95,"startTime":"18:20","min":60,"artId":47,"stageId":8},{"turnId":96,"startTime":"18:40","min":60,"artId":0,"stageId":9},{"turnId":97,"startTime":"19:20","min":60,"artId":25,"stageId":10},{"turnId":98,"startTime":"19:45","min":60,"artId":12,"stageId":8},{"turnId":99,"startTime":"17:30","min":60,"artId":52,"stageId":7},{"turnId":100,"startTime":"18:30","min":60,"artId":14,"stageId":5},{"turnId":101,"startTime":"18:45","min":60,"artId":24,"stageId":7},{"turnId":102,"startTime":"13:10","min":60,"artId":16,"stageId":11},{"turnId":103,"startTime":"13:30","min":60,"artId":10,"stageId":12},{"turnId":104,"startTime":"13:50","min":60,"artId":35,"stageId":13},{"turnId":105,"startTime":"14:10","min":60,"artId":18,"stageId":14},{"turnId":106,"startTime":"14:45","min":60,"artId":58,"stageId":11},{"turnId":107,"startTime":"15:05","min":60,"artId":8,"stageId":12},{"turnId":108,"startTime":"15:25","min":60,"artId":7,"stageId":13},{"turnId":109,"startTime":"15:45","min":60,"artId":39,"stageId":14},{"turnId":110,"startTime":"16:05","min":60,"artId":55,"stageId":11},{"turnId":111,"startTime":"16:40","min":60,"artId":61,"stageId":12},{"turnId":112,"startTime":"17:05","min":60,"artId":32,"stageId":13},{"turnId":113,"startTime":"17:30","min":60,"artId":51,"stageId":11},{"turnId":114,"startTime":"17:55","min":60,"artId":2,"stageId":12},{"turnId":115,"startTime":"18:20","min":60,"artId":22,"stageId":13},{"turnId":116,"startTime":"19:30","min":60,"artId":11,"stageId":13},{"turnId":117,"startTime":"19:55","min":60,"artId":41,"stageId":14},{"turnId":118,"startTime":"18:00","min":60,"artId":43,"stageId":15},{"turnId":119,"startTime":"18:30","min":60,"artId":29,"stageId":14}]}
+﻿{
+  "liveId": 325,
+  "jsonVersion": 1,
+  "openTime": "11",
+  "closeTime": "23",
+  "notificationVersion": "2",
+  "notification": "イベント公式タイテでは、物販BでCANDY TUNEとわーすたが被っています。当日場所変更の可能性もあるのでイベント公式情報をご確認ください。",
+  "artList": [
+    {
+      "artId": 0,
+      "name": "♱Ravi La vie♱",
+      "groupId": 1562,
+      "aliasId": 1771
+    },
+    {
+      "artId": 1,
+      "name": "22/7",
+      "groupId": 6641,
+      "aliasId": 7076
+    },
+    {
+      "artId": 2,
+      "name": "Alcute！",
+      "groupId": 139,
+      "aliasId": 154
+    },
+    {
+      "artId": 3,
+      "name": "C;ON",
+      "groupId": 303,
+      "aliasId": 337
+    },
+    {
+      "artId": 4,
+      "name": "CANDY TUNE",
+      "groupId": 247,
+      "aliasId": 274
+    },
+    {
+      "artId": 5,
+      "name": "chuLa",
+      "groupId": 1382,
+      "aliasId": 1568
+    },
+    {
+      "artId": 6,
+      "name": "FES☆TIVE",
+      "groupId": 411,
+      "aliasId": 459
+    },
+    {
+      "artId": 7,
+      "name": "Gran☆Ciel",
+      "groupId": 485,
+      "aliasId": 544
+    },
+    {
+      "artId": 8,
+      "name": "HIGH SPIRITS",
+      "groupId": 502,
+      "aliasId": 565
+    },
+    {
+      "artId": 9,
+      "name": "iLiFE!",
+      "groupId": 1425,
+      "aliasId": 1616
+    },
+    {
+      "artId": 10,
+      "name": "iSPY",
+      "groupId": 1430,
+      "aliasId": 1621
+    },
+    {
+      "artId": 11,
+      "name": "KissBee",
+      "groupId": 614,
+      "aliasId": 697
+    },
+    {
+      "artId": 12,
+      "name": "Maison de Queen",
+      "groupId": 770,
+      "aliasId": 876
+    },
+    {
+      "artId": 13,
+      "name": "MOON RABBiTS",
+      "groupId": 760,
+      "aliasId": 866
+    },
+    {
+      "artId": 14,
+      "name": "MyDearDarlin'",
+      "groupId": 824,
+      "aliasId": 931
+    },
+    {
+      "artId": 15,
+      "name": "NANIMONO",
+      "groupId": 831,
+      "aliasId": 941
+    },
+    {
+      "artId": 16,
+      "name": "NARUMI"
+    },
+    {
+      "artId": 17,
+      "name": "NGT48",
+      "groupId": 849,
+      "aliasId": 965
+    },
+    {
+      "artId": 18,
+      "name": "Panic Monster !n Wonderland",
+      "groupId": 950,
+      "aliasId": 1077
+    },
+    {
+      "artId": 19,
+      "name": "Peel the Apple",
+      "groupId": 962,
+      "aliasId": 1090
+    },
+    {
+      "artId": 20,
+      "name": "REIRIE",
+      "groupId": 1014,
+      "aliasId": 1147
+    },
+    {
+      "artId": 21,
+      "name": "SUPER☆GiRLS",
+      "groupId": 1144,
+      "aliasId": 1300
+    },
+    {
+      "artId": 22,
+      "name": "Sweet Alley",
+      "groupId": 1189,
+      "aliasId": 1349
+    },
+    {
+      "artId": 23,
+      "name": "SWEET STEADY",
+      "groupId": 1147,
+      "aliasId": 1303
+    },
+    {
+      "artId": 24,
+      "name": "Task have Fun",
+      "groupId": 1224,
+      "aliasId": 1392
+    },
+    {
+      "artId": 25,
+      "name": "THE ORCHESTRA TOKYO",
+      "groupId": 1207,
+      "aliasId": 1371
+    },
+    {
+      "artId": 26,
+      "name": "TiiiMO",
+      "groupId": 1234,
+      "aliasId": 1406
+    },
+    {
+      "artId": 27,
+      "name": "φ NEW FINAL",
+      "groupId": 100848,
+      "aliasId": 119046
+    },
+    {
+      "artId": 28,
+      "name": "アイドルカレッジ",
+      "groupId": 1953,
+      "aliasId": 2244
+    },
+    {
+      "artId": 29,
+      "name": "アキシブproject",
+      "groupId": 1968,
+      "aliasId": 2263
+    },
+    {
+      "artId": 30,
+      "name": "あまいものつめあわせ",
+      "groupId": 1594,
+      "aliasId": 1810
+    },
+    {
+      "artId": 31,
+      "name": "エブリライブステージ"
+    },
+    {
+      "artId": 32,
+      "name": "オカシリゾート",
+      "groupId": 2026,
+      "aliasId": 2331
+    },
+    {
+      "artId": 33,
+      "name": "ギガソニランウェイ ①Right-on (WHITEBOX) / ②Sauna bear"
+    },
+    {
+      "artId": 34,
+      "name": ""
+    },
+    {
+      "artId": 35,
+      "name": "キュン!?恋堕ちキューピッド",
+      "groupId": 2067,
+      "aliasId": 2374
+    },
+    {
+      "artId": 36,
+      "name": "こまち🍟501"
+    },
+    {
+      "artId": 37,
+      "name": "シュレーディンガーの犬",
+      "groupId": 2107,
+      "aliasId": 2418
+    },
+    {
+      "artId": 38,
+      "name": "シンデレラ宣言！",
+      "groupId": 2113,
+      "aliasId": 2424
+    },
+    {
+      "artId": 39,
+      "name": "すべての瞬間は君だった。",
+      "groupId": 1709,
+      "aliasId": 1941
+    },
+    {
+      "artId": 40,
+      "name": "ドラマチックレコード",
+      "groupId": 2186,
+      "aliasId": 2513
+    },
+    {
+      "artId": 41,
+      "name": "ネコプラpixx.",
+      "groupId": 2203,
+      "aliasId": 2531
+    },
+    {
+      "artId": 42,
+      "name": "のんふぃく！",
+      "groupId": 1766,
+      "aliasId": 2014
+    },
+    {
+      "artId": 43,
+      "name": "ハニースパイスRe.",
+      "groupId": 2210,
+      "aliasId": 2544
+    },
+    {
+      "artId": 44,
+      "name": "フジコーズ",
+      "groupId": 2248,
+      "aliasId": 2588
+    },
+    {
+      "artId": 45,
+      "name": "まねきケチャ",
+      "groupId": 1846,
+      "aliasId": 2106
+    },
+    {
+      "artId": 46,
+      "name": "みらくる☆ふぉーぜ",
+      "groupId": 1864,
+      "aliasId": 172578
+    },
+    {
+      "artId": 47,
+      "name": "モノクローン",
+      "groupId": 2326,
+      "aliasId": 2677
+    },
+    {
+      "artId": 48,
+      "name": "ロージークロニクル",
+      "groupId": 2374,
+      "aliasId": 2736
+    },
+    {
+      "artId": 49,
+      "name": "わーすた",
+      "groupId": 1942,
+      "aliasId": 2225
+    },
+    {
+      "artId": 50,
+      "name": "異世界アイドル☆パラレルパレード",
+      "groupId": 2655,
+      "aliasId": 3072
+    },
+    {
+      "artId": 51,
+      "name": "強くてニューゲーム。",
+      "groupId": 2530,
+      "aliasId": 2919
+    },
+    {
+      "artId": 52,
+      "name": "群青の世界",
+      "groupId": 2717,
+      "aliasId": 3150
+    },
+    {
+      "artId": 53,
+      "name": "女子研究大学"
+    },
+    {
+      "artId": 54,
+      "name": "真っ白なキャンバス",
+      "groupId": 98175,
+      "aliasId": 116373
+    },
+    {
+      "artId": 55,
+      "name": "青春リグレット",
+      "groupId": 2792,
+      "aliasId": 3233
+    },
+    {
+      "artId": 56,
+      "name": "点染テンセイ少女。",
+      "groupId": 2638,
+      "aliasId": 3052
+    },
+    {
+      "artId": 57,
+      "name": "東京女子流",
+      "groupId": 2609,
+      "aliasId": 3016
+    },
+    {
+      "artId": 58,
+      "name": "藤森サチ",
+      "groupId": 125989,
+      "aliasId": 151932
+    },
+    {
+      "artId": 59,
+      "name": "魔訶不思議変革者-デスデス-",
+      "groupId": 2808,
+      "aliasId": 3251
+    },
+    {
+      "artId": 60,
+      "name": "夜光性アミューズ",
+      "groupId": 2467,
+      "aliasId": 2838
+    },
+    {
+      "artId": 61,
+      "name": "鈴音ひとみ",
+      "groupId": 4066,
+      "aliasId": 4417
+    }
+  ],
+  "stageList": [
+    {
+      "stageId": 0,
+      "stageName": "ギガギガ",
+      "stageNameShort": "ギガギガ",
+      "colorName": "stage-red",
+      "stageOrder": 0
+    },
+    {
+      "stageId": 1,
+      "stageName": "祭り",
+      "stageNameShort": "祭り",
+      "colorName": "stage-orange",
+      "stageOrder": 1
+    },
+    {
+      "stageId": 2,
+      "stageName": "ハッチャケ",
+      "stageNameShort": "ハッチャケ",
+      "colorName": "stage-pink",
+      "stageOrder": 2
+    },
+    {
+      "stageId": 3,
+      "stageName": "物販A",
+      "stageNameShort": "物販A",
+      "colorName": "stage-grey",
+      "stageOrder": 3
+    },
+    {
+      "stageId": 4,
+      "stageName": "物販B",
+      "stageNameShort": "物販B",
+      "colorName": "stage-grey",
+      "stageOrder": 4
+    },
+    {
+      "stageId": 5,
+      "stageName": "物販C",
+      "stageNameShort": "物販C",
+      "colorName": "stage-grey",
+      "stageOrder": 6
+    },
+    {
+      "stageId": 6,
+      "stageName": "物販D",
+      "stageNameShort": "物販D",
+      "colorName": "stage-grey",
+      "stageOrder": 7
+    },
+    {
+      "stageId": 7,
+      "stageName": "物販E",
+      "stageNameShort": "物販E",
+      "colorName": "stage-grey",
+      "stageOrder": 8
+    },
+    {
+      "stageId": 8,
+      "stageName": "物販F",
+      "stageNameShort": "物販F",
+      "colorName": "stage-grey",
+      "stageOrder": 9
+    },
+    {
+      "stageId": 9,
+      "stageName": "物販G",
+      "stageNameShort": "物販G",
+      "colorName": "stage-grey",
+      "stageOrder": 10
+    },
+    {
+      "stageId": 10,
+      "stageName": "物販H",
+      "stageNameShort": "物販H",
+      "colorName": "stage-grey",
+      "stageOrder": 11
+    },
+    {
+      "stageId": 11,
+      "stageName": "物販I",
+      "stageNameShort": "物販I",
+      "colorName": "stage-grey",
+      "stageOrder": 12
+    },
+    {
+      "stageId": 12,
+      "stageName": "物販J",
+      "stageNameShort": "物販J",
+      "colorName": "stage-grey",
+      "stageOrder": 13
+    },
+    {
+      "stageId": 13,
+      "stageName": "物販K",
+      "stageNameShort": "物販K",
+      "colorName": "stage-grey",
+      "stageOrder": 14
+    },
+    {
+      "stageId": 14,
+      "stageName": "物販L",
+      "stageNameShort": "物販L",
+      "colorName": "stage-grey",
+      "stageOrder": 15
+    },
+    {
+      "stageId": 15,
+      "stageName": "物販M",
+      "stageNameShort": "物販M",
+      "colorName": "stage-grey",
+      "stageOrder": 16
+    },
+    {
+      "stageId": 16,
+      "stageName": "物販N",
+      "stageNameShort": "物販N",
+      "colorName": "stage-grey",
+      "stageOrder": 17
+    },
+    {
+      "stageId": 17,
+      "stageName": "物販B",
+      "stageNameShort": "物販B",
+      "colorName": "stage-grey",
+      "stageOrder": 5
+    }
+  ],
+  "turnList": [
+    {
+      "turnId": 0,
+      "startTime": "11:30",
+      "min": 10,
+      "artId": 53,
+      "stageId": 0,
+      "title": "オープニングトーク（女子研究大学）"
+    },
+    {
+      "turnId": 1,
+      "startTime": "11:40",
+      "min": 30,
+      "artId": 1,
+      "stageId": 0
+    },
+    {
+      "turnId": 2,
+      "startTime": "12:10",
+      "min": 25,
+      "artId": 60,
+      "stageId": 0
+    },
+    {
+      "turnId": 3,
+      "startTime": "12:35",
+      "min": 25,
+      "artId": 21,
+      "stageId": 0
+    },
+    {
+      "turnId": 4,
+      "startTime": "13:00",
+      "min": 25,
+      "artId": 19,
+      "stageId": 0
+    },
+    {
+      "turnId": 5,
+      "startTime": "13:25",
+      "min": 25,
+      "artId": 54,
+      "stageId": 0
+    },
+    {
+      "turnId": 6,
+      "startTime": "14:00",
+      "min": 5,
+      "artId": 53,
+      "stageId": 0,
+      "title": "MC（女子研究大学）"
+    },
+    {
+      "turnId": 7,
+      "startTime": "14:05",
+      "min": 15,
+      "artId": 33,
+      "stageId": 0
+    },
+    {
+      "turnId": 8,
+      "startTime": "14:20",
+      "min": 20,
+      "artId": 53,
+      "stageId": 0,
+      "title": "女子研究大学＆Powered by TV ～元気ジャパン～"
+    },
+    {
+      "turnId": 9,
+      "startTime": "14:40",
+      "min": 25,
+      "artId": 50,
+      "stageId": 0
+    },
+    {
+      "turnId": 10,
+      "startTime": "15:05",
+      "min": 25,
+      "artId": 38,
+      "stageId": 0
+    },
+    {
+      "turnId": 11,
+      "startTime": "15:30",
+      "min": 25,
+      "artId": 57,
+      "stageId": 0
+    },
+    {
+      "turnId": 12,
+      "startTime": "16:10",
+      "min": 15,
+      "artId": 53,
+      "stageId": 0,
+      "title": "ギガソニランウェイ①Right-on / ②viccore & MC（女子研究大学）"
+    },
+    {
+      "turnId": 13,
+      "startTime": "16:25",
+      "min": 25,
+      "artId": 26,
+      "stageId": 0
+    },
+    {
+      "turnId": 14,
+      "startTime": "16:50",
+      "min": 25,
+      "artId": 42,
+      "stageId": 0
+    },
+    {
+      "turnId": 15,
+      "startTime": "17:15",
+      "min": 30,
+      "artId": 48,
+      "stageId": 0
+    },
+    {
+      "turnId": 16,
+      "startTime": "17:45",
+      "min": 30,
+      "artId": 4,
+      "stageId": 0
+    },
+    {
+      "turnId": 17,
+      "startTime": "18:30",
+      "min": 30,
+      "artId": 17,
+      "stageId": 0
+    },
+    {
+      "turnId": 18,
+      "startTime": "19:00",
+      "min": 30,
+      "artId": 9,
+      "stageId": 0
+    },
+    {
+      "turnId": 19,
+      "startTime": "19:30",
+      "min": 30,
+      "artId": 20,
+      "stageId": 0
+    },
+    {
+      "turnId": 20,
+      "startTime": "20:00",
+      "min": 30,
+      "artId": 49,
+      "stageId": 0
+    },
+    {
+      "turnId": 21,
+      "startTime": "20:30",
+      "min": 30,
+      "artId": 6,
+      "stageId": 0
+    },
+    {
+      "turnId": 22,
+      "startTime": "11:20",
+      "min": 15,
+      "artId": 36,
+      "stageId": 1,
+      "title": "O.A. こまち501（エブリライブステージ）"
+    },
+    {
+      "turnId": 23,
+      "startTime": "11:35",
+      "min": 20,
+      "artId": 46,
+      "stageId": 1
+    },
+    {
+      "turnId": 24,
+      "startTime": "11:55",
+      "min": 20,
+      "artId": 40,
+      "stageId": 1
+    },
+    {
+      "turnId": 25,
+      "startTime": "12:15",
+      "min": 20,
+      "artId": 30,
+      "stageId": 1
+    },
+    {
+      "turnId": 26,
+      "startTime": "12:35",
+      "min": 20,
+      "artId": 15,
+      "stageId": 1
+    },
+    {
+      "turnId": 27,
+      "startTime": "12:55",
+      "min": 20,
+      "artId": 28,
+      "stageId": 1
+    },
+    {
+      "turnId": 28,
+      "startTime": "13:15",
+      "min": 20,
+      "artId": 27,
+      "stageId": 1,
+      "title": "φ NEW FINAL（ドラエグステージ）"
+    },
+    {
+      "turnId": 29,
+      "startTime": "13:50",
+      "min": 20,
+      "artId": 45,
+      "stageId": 1
+    },
+    {
+      "turnId": 30,
+      "startTime": "14:10",
+      "min": 20,
+      "artId": 59,
+      "stageId": 1
+    },
+    {
+      "turnId": 31,
+      "startTime": "14:30",
+      "min": 25,
+      "artId": 5,
+      "stageId": 1
+    },
+    {
+      "turnId": 32,
+      "startTime": "14:55",
+      "min": 25,
+      "artId": 37,
+      "stageId": 1
+    },
+    {
+      "turnId": 33,
+      "startTime": "15:20",
+      "min": 20,
+      "artId": 13,
+      "stageId": 1,
+      "title": "MOON RABBiTS（ドラエグステージ）"
+    },
+    {
+      "turnId": 34,
+      "startTime": "15:55",
+      "min": 25,
+      "artId": 23,
+      "stageId": 1
+    },
+    {
+      "turnId": 35,
+      "startTime": "16:20",
+      "min": 25,
+      "artId": 56,
+      "stageId": 1
+    },
+    {
+      "turnId": 36,
+      "startTime": "16:45",
+      "min": 25,
+      "artId": 3,
+      "stageId": 1
+    },
+    {
+      "turnId": 37,
+      "startTime": "17:10",
+      "min": 25,
+      "artId": 44,
+      "stageId": 1
+    },
+    {
+      "turnId": 38,
+      "startTime": "17:35",
+      "min": 25,
+      "artId": 47,
+      "stageId": 1
+    },
+    {
+      "turnId": 39,
+      "startTime": "18:00",
+      "min": 20,
+      "artId": 0,
+      "stageId": 1,
+      "title": "♱Ravi La vie♱（ドラエグステージ）"
+    },
+    {
+      "turnId": 40,
+      "startTime": "18:35",
+      "min": 25,
+      "artId": 25,
+      "stageId": 1
+    },
+    {
+      "turnId": 41,
+      "startTime": "19:00",
+      "min": 25,
+      "artId": 12,
+      "stageId": 1
+    },
+    {
+      "turnId": 42,
+      "startTime": "19:25",
+      "min": 25,
+      "artId": 52,
+      "stageId": 1
+    },
+    {
+      "turnId": 43,
+      "startTime": "19:50",
+      "min": 25,
+      "artId": 14,
+      "stageId": 1
+    },
+    {
+      "turnId": 44,
+      "startTime": "20:15",
+      "min": 25,
+      "artId": 24,
+      "stageId": 1
+    },
+    {
+      "turnId": 45,
+      "startTime": "12:40",
+      "min": 10,
+      "artId": 16,
+      "stageId": 2,
+      "title": "O.A. NARUMI（エブリライブステージ）"
+    },
+    {
+      "turnId": 46,
+      "startTime": "12:50",
+      "min": 20,
+      "artId": 10,
+      "stageId": 2
+    },
+    {
+      "turnId": 47,
+      "startTime": "13:10",
+      "min": 20,
+      "artId": 35,
+      "stageId": 2
+    },
+    {
+      "turnId": 48,
+      "startTime": "13:30",
+      "min": 20,
+      "artId": 18,
+      "stageId": 2
+    },
+    {
+      "turnId": 49,
+      "startTime": "14:05",
+      "min": 20,
+      "artId": 58,
+      "stageId": 2,
+      "title": "藤森サチ(ドラエグステージ)"
+    },
+    {
+      "turnId": 50,
+      "startTime": "14:25",
+      "min": 20,
+      "artId": 8,
+      "stageId": 2
+    },
+    {
+      "turnId": 51,
+      "startTime": "14:45",
+      "min": 20,
+      "artId": 7,
+      "stageId": 2
+    },
+    {
+      "turnId": 52,
+      "startTime": "15:05",
+      "min": 20,
+      "artId": 39,
+      "stageId": 2
+    },
+    {
+      "turnId": 53,
+      "startTime": "15:25",
+      "min": 20,
+      "artId": 55,
+      "stageId": 2
+    },
+    {
+      "turnId": 54,
+      "startTime": "16:00",
+      "min": 20,
+      "artId": 61,
+      "stageId": 2,
+      "title": "鈴音ひとみ（ドラエグステージ）"
+    },
+    {
+      "turnId": 55,
+      "startTime": "16:20",
+      "min": 25,
+      "artId": 32,
+      "stageId": 2
+    },
+    {
+      "turnId": 56,
+      "startTime": "16:45",
+      "min": 25,
+      "artId": 51,
+      "stageId": 2
+    },
+    {
+      "turnId": 57,
+      "startTime": "17:10",
+      "min": 25,
+      "artId": 2,
+      "stageId": 2
+    },
+    {
+      "turnId": 58,
+      "startTime": "17:35",
+      "min": 25,
+      "artId": 22,
+      "stageId": 2
+    },
+    {
+      "turnId": 59,
+      "startTime": "18:00",
+      "min": 30,
+      "artId": 31,
+      "stageId": 2
+    },
+    {
+      "turnId": 60,
+      "startTime": "18:45",
+      "min": 25,
+      "artId": 11,
+      "stageId": 2
+    },
+    {
+      "turnId": 61,
+      "startTime": "19:10",
+      "min": 25,
+      "artId": 41,
+      "stageId": 2
+    },
+    {
+      "turnId": 62,
+      "startTime": "19:35",
+      "min": 25,
+      "artId": 43,
+      "stageId": 2
+    },
+    {
+      "turnId": 63,
+      "startTime": "20:00",
+      "min": 25,
+      "artId": 29,
+      "stageId": 2
+    },
+    {
+      "turnId": 64,
+      "startTime": "12:55",
+      "min": 60,
+      "artId": 60,
+      "stageId": 3
+    },
+    {
+      "turnId": 65,
+      "startTime": "13:20",
+      "min": 60,
+      "artId": 21,
+      "stageId": 4
+    },
+    {
+      "turnId": 66,
+      "startTime": "13:45",
+      "min": 60,
+      "artId": 19,
+      "stageId": 5
+    },
+    {
+      "turnId": 67,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 54,
+      "stageId": 6
+    },
+    {
+      "turnId": 68,
+      "startTime": "15:25",
+      "min": 60,
+      "artId": 50,
+      "stageId": 3
+    },
+    {
+      "turnId": 69,
+      "startTime": "15:50",
+      "min": 60,
+      "artId": 38,
+      "stageId": 4
+    },
+    {
+      "turnId": 70,
+      "startTime": "16:10",
+      "min": 60,
+      "artId": 57,
+      "stageId": 5
+    },
+    {
+      "turnId": 71,
+      "startTime": "17:10",
+      "min": 60,
+      "artId": 26,
+      "stageId": 4
+    },
+    {
+      "turnId": 72,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 42,
+      "stageId": 6
+    },
+    {
+      "turnId": 73,
+      "startTime": "18:35",
+      "min": 60,
+      "artId": 4,
+      "stageId": 4
+    },
+    {
+      "turnId": 74,
+      "startTime": "16:30",
+      "min": 120,
+      "artId": 9,
+      "stageId": 6
+    },
+    {
+      "turnId": 75,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 20,
+      "stageId": 3
+    },
+    {
+      "turnId": 76,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 49,
+      "stageId": 17
+    },
+    {
+      "turnId": 77,
+      "startTime": "19:00",
+      "min": 60,
+      "artId": 6,
+      "stageId": 6
+    },
+    {
+      "turnId": 78,
+      "startTime": "11:55",
+      "min": 60,
+      "artId": 36,
+      "stageId": 7
+    },
+    {
+      "turnId": 79,
+      "startTime": "12:15",
+      "min": 60,
+      "artId": 46,
+      "stageId": 8
+    },
+    {
+      "turnId": 80,
+      "startTime": "12:35",
+      "min": 60,
+      "artId": 40,
+      "stageId": 9
+    },
+    {
+      "turnId": 81,
+      "startTime": "12:55",
+      "min": 60,
+      "artId": 30,
+      "stageId": 10
+    },
+    {
+      "turnId": 82,
+      "startTime": "13:15",
+      "min": 60,
+      "artId": 15,
+      "stageId": 8
+    },
+    {
+      "turnId": 83,
+      "startTime": "13:35",
+      "min": 60,
+      "artId": 28,
+      "stageId": 9
+    },
+    {
+      "turnId": 84,
+      "startTime": "13:55",
+      "min": 60,
+      "artId": 27,
+      "stageId": 10
+    },
+    {
+      "turnId": 85,
+      "startTime": "14:30",
+      "min": 60,
+      "artId": 45,
+      "stageId": 8
+    },
+    {
+      "turnId": 86,
+      "startTime": "14:50",
+      "min": 60,
+      "artId": 59,
+      "stageId": 9
+    },
+    {
+      "turnId": 87,
+      "startTime": "15:15",
+      "min": 60,
+      "artId": 5,
+      "stageId": 10
+    },
+    {
+      "turnId": 88,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 37,
+      "stageId": 8
+    },
+    {
+      "turnId": 89,
+      "startTime": "16:00",
+      "min": 60,
+      "artId": 13,
+      "stageId": 9
+    },
+    {
+      "turnId": 90,
+      "startTime": "16:40",
+      "min": 60,
+      "artId": 23,
+      "stageId": 10
+    },
+    {
+      "turnId": 91,
+      "startTime": "17:05",
+      "min": 60,
+      "artId": 56,
+      "stageId": 8
+    },
+    {
+      "turnId": 92,
+      "startTime": "17:30",
+      "min": 60,
+      "artId": 3,
+      "stageId": 9
+    },
+    {
+      "turnId": 93,
+      "startTime": "15:40",
+      "min": 60,
+      "artId": 44,
+      "stageId": 7
+    },
+    {
+      "turnId": 94,
+      "startTime": "17:55",
+      "min": 60,
+      "artId": 44,
+      "stageId": 10
+    },
+    {
+      "turnId": 95,
+      "startTime": "18:20",
+      "min": 60,
+      "artId": 47,
+      "stageId": 8
+    },
+    {
+      "turnId": 96,
+      "startTime": "18:40",
+      "min": 60,
+      "artId": 0,
+      "stageId": 9
+    },
+    {
+      "turnId": 97,
+      "startTime": "19:20",
+      "min": 60,
+      "artId": 25,
+      "stageId": 10
+    },
+    {
+      "turnId": 98,
+      "startTime": "19:45",
+      "min": 60,
+      "artId": 12,
+      "stageId": 8
+    },
+    {
+      "turnId": 99,
+      "startTime": "17:30",
+      "min": 60,
+      "artId": 52,
+      "stageId": 7
+    },
+    {
+      "turnId": 100,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 14,
+      "stageId": 5
+    },
+    {
+      "turnId": 101,
+      "startTime": "18:45",
+      "min": 60,
+      "artId": 24,
+      "stageId": 7
+    },
+    {
+      "turnId": 102,
+      "startTime": "13:10",
+      "min": 60,
+      "artId": 16,
+      "stageId": 11
+    },
+    {
+      "turnId": 103,
+      "startTime": "13:30",
+      "min": 60,
+      "artId": 10,
+      "stageId": 12
+    },
+    {
+      "turnId": 104,
+      "startTime": "13:50",
+      "min": 60,
+      "artId": 35,
+      "stageId": 13
+    },
+    {
+      "turnId": 105,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 18,
+      "stageId": 14
+    },
+    {
+      "turnId": 106,
+      "startTime": "14:45",
+      "min": 60,
+      "artId": 58,
+      "stageId": 11
+    },
+    {
+      "turnId": 107,
+      "startTime": "15:05",
+      "min": 60,
+      "artId": 8,
+      "stageId": 12
+    },
+    {
+      "turnId": 108,
+      "startTime": "15:25",
+      "min": 60,
+      "artId": 7,
+      "stageId": 13
+    },
+    {
+      "turnId": 109,
+      "startTime": "15:45",
+      "min": 60,
+      "artId": 39,
+      "stageId": 14
+    },
+    {
+      "turnId": 110,
+      "startTime": "16:05",
+      "min": 60,
+      "artId": 55,
+      "stageId": 11
+    },
+    {
+      "turnId": 111,
+      "startTime": "16:40",
+      "min": 60,
+      "artId": 61,
+      "stageId": 12
+    },
+    {
+      "turnId": 112,
+      "startTime": "17:05",
+      "min": 60,
+      "artId": 32,
+      "stageId": 13
+    },
+    {
+      "turnId": 113,
+      "startTime": "17:30",
+      "min": 60,
+      "artId": 51,
+      "stageId": 11
+    },
+    {
+      "turnId": 114,
+      "startTime": "17:55",
+      "min": 60,
+      "artId": 2,
+      "stageId": 12
+    },
+    {
+      "turnId": 115,
+      "startTime": "18:20",
+      "min": 60,
+      "artId": 22,
+      "stageId": 13
+    },
+    {
+      "turnId": 116,
+      "startTime": "19:30",
+      "min": 60,
+      "artId": 11,
+      "stageId": 13
+    },
+    {
+      "turnId": 117,
+      "startTime": "19:55",
+      "min": 60,
+      "artId": 41,
+      "stageId": 14
+    },
+    {
+      "turnId": 118,
+      "startTime": "18:00",
+      "min": 60,
+      "artId": 43,
+      "stageId": 15
+    },
+    {
+      "turnId": 119,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 29,
+      "stageId": 14
+    }
+  ]
+}

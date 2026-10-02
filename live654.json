@@ -11,15 +11,21 @@
   "artList": [
     {
       "artId": 0,
-      "name": "あたまのなかは8ビット⁉︎"
+      "name": "あたまのなかは8ビット⁉︎",
+      "groupId": 1582,
+      "aliasId": 1793
     },
     {
       "artId": 1,
-      "name": "Beloved"
+      "name": "Beloved",
+      "groupId": 220,
+      "aliasId": 244
     },
     {
       "artId": 2,
-      "name": "まりえ(45)"
+      "name": "まりえ(45)",
+      "groupId": 3082,
+      "aliasId": 173488
     },
     {
       "artId": 3,
@@ -31,43 +37,63 @@
     },
     {
       "artId": 5,
-      "name": "Tama(Hysteric Blue)"
+      "name": "Tama(Hysteric Blue)",
+      "groupId": 6260,
+      "aliasId": 6685
     },
     {
       "artId": 6,
-      "name": "ULTRA-PRISM"
+      "name": "ULTRA-PRISM",
+      "groupId": 3920,
+      "aliasId": 4274
     },
     {
       "artId": 7,
-      "name": "ルミナスウィッチーズ"
+      "name": "ルミナスウィッチーズ",
+      "groupId": 4856,
+      "aliasId": 5187
     },
     {
       "artId": 8,
-      "name": "純情のアフィリア"
+      "name": "純情のアフィリア",
+      "groupId": 2696,
+      "aliasId": 3123
     },
     {
       "artId": 9,
-      "name": "脳内パステル"
+      "name": "脳内パステル",
+      "groupId": 2721,
+      "aliasId": 3154
     },
     {
       "artId": 10,
-      "name": "Palette Parade"
+      "name": "Palette Parade",
+      "groupId": 948,
+      "aliasId": 1075
     },
     {
       "artId": 11,
-      "name": "SUPER☆GiRLS"
+      "name": "SUPER☆GiRLS",
+      "groupId": 1144,
+      "aliasId": 1300
     },
     {
       "artId": 12,
-      "name": "煌めき☆アンフォレント"
+      "name": "煌めき☆アンフォレント",
+      "groupId": 2641,
+      "aliasId": 3055
     },
     {
       "artId": 13,
-      "name": "テンシンランマン"
+      "name": "テンシンランマン",
+      "groupId": 2171,
+      "aliasId": 2498
     },
     {
       "artId": 14,
-      "name": "W.ダブルヴィー"
+      "name": "W.ダブルヴィー",
+      "groupId": 1289,
+      "aliasId": 1463
     },
     {
       "artId": 15,
@@ -75,19 +101,27 @@
     },
     {
       "artId": 16,
-      "name": "CLEAR'S"
+      "name": "CLEAR'S",
+      "groupId": 99120,
+      "aliasId": 117318
     },
     {
       "artId": 17,
-      "name": "no Filter"
+      "name": "no Filter",
+      "groupId": 1484,
+      "aliasId": 1683
     },
     {
       "artId": 18,
-      "name": "Nine chocolates"
+      "name": "Nine chocolates",
+      "groupId": 873,
+      "aliasId": 991
     },
     {
       "artId": 19,
-      "name": "イロハサクラ"
+      "name": "イロハサクラ",
+      "groupId": 2011,
+      "aliasId": 2312
     },
     {
       "artId": 20,
@@ -95,23 +129,33 @@
     },
     {
       "artId": 21,
-      "name": "彗星♩dropTune°"
+      "name": "彗星♩dropTune°",
+      "groupId": 2531,
+      "aliasId": 2920
     },
     {
       "artId": 22,
-      "name": "月宵◇クレシェンテ"
+      "name": "月宵◇クレシェンテ",
+      "groupId": 2595,
+      "aliasId": 3002
     },
     {
       "artId": 23,
-      "name": "Star☆T"
+      "name": "Star☆T",
+      "groupId": 1177,
+      "aliasId": 1336
     },
     {
       "artId": 24,
-      "name": "AMO million"
+      "name": "AMO million",
+      "groupId": 92,
+      "aliasId": 98
     },
     {
       "artId": 25,
-      "name": "山﨑夢羽"
+      "name": "山﨑夢羽",
+      "groupId": 5971,
+      "aliasId": 6343
     },
     {
       "artId": 26,
@@ -119,107 +163,159 @@
     },
     {
       "artId": 27,
-      "name": "AQA"
+      "name": "AQA",
+      "groupId": 103,
+      "aliasId": 113
     },
     {
       "artId": 28,
-      "name": "Qu♡Aly"
+      "name": "Qu♡Aly",
+      "groupId": 1000,
+      "aliasId": 1133
     },
     {
       "artId": 29,
-      "name": "FLAPSTAR"
+      "name": "FLAPSTAR",
+      "groupId": 413,
+      "aliasId": 461
     },
     {
       "artId": 30,
-      "name": "プランクスターズ"
+      "name": "プランクスターズ",
+      "groupId": 2260,
+      "aliasId": 2600
     },
     {
       "artId": 31,
-      "name": "TZTZ"
+      "name": "TZTZ",
+      "groupId": 143722,
+      "aliasId": 171407
     },
     {
       "artId": 32,
-      "name": "天色のメロディー"
+      "name": "天色のメロディー",
+      "groupId": 3170,
+      "aliasId": 3534
     },
     {
       "artId": 33,
-      "name": "Blue me!!"
+      "name": "Blue me!!",
+      "groupId": 4038,
+      "aliasId": 4390
     },
     {
       "artId": 34,
-      "name": "Re:bellious"
+      "name": "Re:bellious",
+      "groupId": 6098,
+      "aliasId": 6524
     },
     {
       "artId": 35,
-      "name": "PULSAR_CLIMAX"
+      "name": "PULSAR_CLIMAX",
+      "groupId": 943,
+      "aliasId": 1070
     },
     {
       "artId": 36,
-      "name": "ネテルダイヤ"
+      "name": "ネテルダイヤ",
+      "groupId": 2204,
+      "aliasId": 2537
     },
     {
       "artId": 37,
-      "name": "Rune Octagram"
+      "name": "Rune Octagram",
+      "groupId": 4334,
+      "aliasId": 4677
     },
     {
       "artId": 38,
-      "name": "ON THE AIR"
+      "name": "ON THE AIR",
+      "groupId": 5973,
+      "aliasId": 6346
     },
     {
       "artId": 39,
-      "name": "ONE LAST SHOT"
+      "name": "ONE LAST SHOT",
+      "groupId": 897,
+      "aliasId": 1021
     },
     {
       "artId": 40,
-      "name": "井水優菜"
+      "name": "井水優菜",
+      "groupId": 5898,
+      "aliasId": 6215
     },
     {
       "artId": 41,
-      "name": "NO❤︎AF"
+      "name": "NO❤︎AF",
+      "groupId": 856,
+      "aliasId": 972
     },
     {
       "artId": 42,
-      "name": "LINK START"
+      "name": "LINK START",
+      "groupId": 633,
+      "aliasId": 721
     },
     {
       "artId": 43,
-      "name": "SUGAR PLANET"
+      "name": "SUGAR PLANET",
+      "groupId": 100248,
+      "aliasId": 118446
     },
     {
       "artId": 44,
-      "name": "ちゅ～るちゅーぶ"
+      "name": "ちゅ～るちゅーぶ",
+      "groupId": 1725,
+      "aliasId": 1959
     },
     {
       "artId": 45,
-      "name": "PreccyPark"
+      "name": "PreccyPark",
+      "groupId": 6361,
+      "aliasId": 6786
     },
     {
       "artId": 46,
-      "name": "IDOL★ST∀R MINE"
+      "name": "IDOL★ST∀R MINE",
+      "groupId": 546,
+      "aliasId": 614
     },
     {
       "artId": 47,
-      "name": "LuvHz"
+      "name": "LuvHz",
+      "groupId": 706,
+      "aliasId": 804
     },
     {
       "artId": 48,
-      "name": "あすとりーのうさぎ"
+      "name": "あすとりーのうさぎ",
+      "groupId": 1581,
+      "aliasId": 1792
     },
     {
       "artId": 49,
-      "name": "Everglitch"
+      "name": "Everglitch",
+      "groupId": 404,
+      "aliasId": 450
     },
     {
       "artId": 50,
-      "name": "NEO BREAK"
+      "name": "NEO BREAK",
+      "groupId": 837,
+      "aliasId": 947
     },
     {
       "artId": 51,
-      "name": "藍本あみ"
+      "name": "藍本あみ",
+      "groupId": 143740,
+      "aliasId": 171425
     },
     {
       "artId": 52,
-      "name": "姫翠桃菜"
+      "name": "姫翠桃菜",
+      "groupId": 3904,
+      "aliasId": 4259
     },
     {
       "artId": 53,
@@ -227,15 +323,21 @@
     },
     {
       "artId": 54,
-      "name": "アリビオ"
+      "name": "アリビオ",
+      "groupId": 1996,
+      "aliasId": 2294
     },
     {
       "artId": 55,
-      "name": "pipia"
+      "name": "pipia",
+      "groupId": 1493,
+      "aliasId": 1692
     },
     {
       "artId": 56,
-      "name": "秘密結社フローリス"
+      "name": "秘密結社フローリス",
+      "groupId": 4411,
+      "aliasId": 4754
     },
     {
       "artId": 57,
@@ -247,15 +349,21 @@
     },
     {
       "artId": 59,
-      "name": "LUMIA PLANET"
+      "name": "LUMIA PLANET",
+      "groupId": 143692,
+      "aliasId": 171142
     },
     {
       "artId": 60,
-      "name": "Star★Shiμ'ne!!!"
+      "name": "Star★Shiμ'ne!!!",
+      "groupId": 6268,
+      "aliasId": 6693
     },
     {
       "artId": 61,
-      "name": "西ひより"
+      "name": "西ひより",
+      "groupId": 108955,
+      "aliasId": 130579
     }
   ],
   "stageList": [

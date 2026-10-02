@@ -11,11 +11,15 @@
   "artList": [
     {
       "artId": 0,
-      "name": "彗星♩dropTune°"
+      "name": "彗星♩dropTune°",
+      "groupId": 2531,
+      "aliasId": 2920
     },
     {
       "artId": 1,
-      "name": "まりえ(45)"
+      "name": "まりえ(45)",
+      "groupId": 3082,
+      "aliasId": 173488
     },
     {
       "artId": 2,
@@ -35,11 +39,15 @@
     },
     {
       "artId": 6,
-      "name": "榎本温子"
+      "name": "榎本温子",
+      "groupId": 2950,
+      "aliasId": null
     },
     {
       "artId": 7,
-      "name": "山崎夢羽"
+      "name": "山崎夢羽",
+      "groupId": 5971,
+      "aliasId": 171157
     },
     {
       "artId": 8,
@@ -47,23 +55,33 @@
     },
     {
       "artId": 9,
-      "name": "太陽とシスコムーン"
+      "name": "太陽とシスコムーン",
+      "groupId": 3871,
+      "aliasId": 4227
     },
     {
       "artId": 10,
-      "name": "KRD8"
+      "name": "KRD8",
+      "groupId": 605,
+      "aliasId": 687
     },
     {
       "artId": 11,
-      "name": "サスケ"
+      "name": "サスケ",
+      "groupId": 6774,
+      "aliasId": 7208
     },
     {
       "artId": 12,
-      "name": "MOSAIC.WAV"
+      "name": "MOSAIC.WAV",
+      "groupId": 6265,
+      "aliasId": 6690
     },
     {
       "artId": 13,
-      "name": "LiveRevolt Re:venge"
+      "name": "LiveRevolt Re:venge",
+      "groupId": 3400,
+      "aliasId": 3761
     },
     {
       "artId": 14,
@@ -75,43 +93,63 @@
     },
     {
       "artId": 16,
-      "name": "煌めき☆アンフォレント"
+      "name": "煌めき☆アンフォレント",
+      "groupId": 2641,
+      "aliasId": 3055
     },
     {
       "artId": 17,
-      "name": "P-Loco"
+      "name": "P-Loco",
+      "groupId": 910,
+      "aliasId": 1034
     },
     {
       "artId": 18,
-      "name": "ネオハレーション"
+      "name": "ネオハレーション",
+      "groupId": 97914,
+      "aliasId": 116112
     },
     {
       "artId": 19,
-      "name": "ラブリック"
+      "name": "ラブリック",
+      "groupId": 97969,
+      "aliasId": 116167
     },
     {
       "artId": 20,
-      "name": "ルチアーズ"
+      "name": "ルチアーズ",
+      "groupId": 2359,
+      "aliasId": 2717
     },
     {
       "artId": 21,
-      "name": "プランクリーンスターズ"
+      "name": "プランクリーンスターズ",
+      "groupId": 6535,
+      "aliasId": 6959
     },
     {
       "artId": 22,
-      "name": "ボクセカ"
+      "name": "ボクセカ",
+      "groupId": 2273,
+      "aliasId": 2615
     },
     {
       "artId": 23,
-      "name": "Chance Movement"
+      "name": "Chance Movement",
+      "groupId": 291,
+      "aliasId": 324
     },
     {
       "artId": 24,
-      "name": "MATANAGOYA"
+      "name": "MATANAGOYA",
+      "groupId": 729,
+      "aliasId": 831
     },
     {
       "artId": 25,
-      "name": "月宵◇クレシェンテ"
+      "name": "月宵◇クレシェンテ",
+      "groupId": 2595,
+      "aliasId": 3002
     },
     {
       "artId": 26,
@@ -119,95 +157,141 @@
     },
     {
       "artId": 27,
-      "name": "FLAPSTAR"
+      "name": "FLAPSTAR",
+      "groupId": 413,
+      "aliasId": 461
     },
     {
       "artId": 28,
-      "name": "ON THE AIR"
+      "name": "ON THE AIR",
+      "groupId": 5973,
+      "aliasId": 6346
     },
     {
       "artId": 29,
-      "name": "ふぇありーているず！"
+      "name": "ふぇありーているず！",
+      "groupId": 1811,
+      "aliasId": 2068
     },
     {
       "artId": 30,
-      "name": "Beloved"
+      "name": "Beloved",
+      "groupId": 220,
+      "aliasId": 244
     },
     {
       "artId": 31,
-      "name": "ViVe"
+      "name": "ViVe",
+      "groupId": 1271,
+      "aliasId": 1445
     },
     {
       "artId": 32,
-      "name": "POPING CANDY."
+      "name": "POPING CANDY.",
+      "groupId": 6739,
+      "aliasId": 7173
     },
     {
       "artId": 33,
-      "name": "sweet♡union"
+      "name": "sweet♡union",
+      "groupId": 1521,
+      "aliasId": 1726
     },
     {
       "artId": 34,
-      "name": "愛※ぱんでみっく！"
+      "name": "愛※ぱんでみっく！",
+      "groupId": 3266,
+      "aliasId": 3631
     },
     {
       "artId": 35,
-      "name": "Cute Robin"
+      "name": "Cute Robin",
+      "groupId": 324,
+      "aliasId": 358
     },
     {
       "artId": 36,
-      "name": "姫翠桃菜"
+      "name": "姫翠桃菜",
+      "groupId": 3904,
+      "aliasId": 4259
     },
     {
       "artId": 37,
-      "name": "ONE LAST SHOT"
+      "name": "ONE LAST SHOT",
+      "groupId": 897,
+      "aliasId": 1021
     },
     {
       "artId": 38,
-      "name": "井水優菜"
+      "name": "井水優菜",
+      "groupId": 5898,
+      "aliasId": 6215
     },
     {
       "artId": 39,
-      "name": "ネテルダイヤ"
+      "name": "ネテルダイヤ",
+      "groupId": 2204,
+      "aliasId": 2537
     },
     {
       "artId": 40,
-      "name": "mofu/mofu"
+      "name": "mofu/mofu",
+      "groupId": 1474,
+      "aliasId": 1672
     },
     {
       "artId": 41,
-      "name": "プリュネ♡トゥインクレット"
+      "name": "プリュネ♡トゥインクレット",
+      "groupId": 6464,
+      "aliasId": 6888
     },
     {
       "artId": 42,
-      "name": "POLARiS"
+      "name": "POLARiS",
+      "groupId": 930,
+      "aliasId": 1056
     },
     {
       "artId": 43,
-      "name": "Twilight BlooM."
+      "name": "Twilight BlooM.",
+      "groupId": 1249,
+      "aliasId": 1422
     },
     {
       "artId": 44,
-      "name": "+Alpha"
+      "name": "+Alpha",
+      "groupId": 33,
+      "aliasId": 35
     },
     {
       "artId": 45,
-      "name": "アクアリウム。"
+      "name": "アクアリウム。",
+      "groupId": 1971,
+      "aliasId": 2266
     },
     {
       "artId": 46,
-      "name": "pipia"
+      "name": "pipia",
+      "groupId": 1493,
+      "aliasId": 1692
     },
     {
       "artId": 47,
-      "name": "RAViDAVi"
+      "name": "RAViDAVi",
+      "groupId": 1006,
+      "aliasId": 1139
     },
     {
       "artId": 48,
-      "name": "岡本恵里菜"
+      "name": "岡本恵里菜",
+      "groupId": 108788,
+      "aliasId": 130329
     },
     {
       "artId": 49,
-      "name": "プランクスターズ"
+      "name": "プランクスターズ",
+      "groupId": 2260,
+      "aliasId": 2600
     }
   ],
   "stageList": [

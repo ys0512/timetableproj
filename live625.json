@@ -14,11 +14,15 @@
   "artList": [
     {
       "artId": 0,
-      "name": "AZの理由"
+      "name": "AZの理由",
+      "groupId": 119,
+      "aliasId": 132
     },
     {
       "artId": 1,
-      "name": "ArcanaCharm"
+      "name": "ArcanaCharm",
+      "groupId": 160,
+      "aliasId": 179
     },
     {
       "artId": 2,
@@ -30,7 +34,9 @@
     },
     {
       "artId": 4,
-      "name": "DJ 小岩井ことり"
+      "name": "DJ 小岩井ことり",
+      "groupId": 5146,
+      "aliasId": 5470
     },
     {
       "artId": 5,
@@ -38,35 +44,51 @@
     },
     {
       "artId": 6,
-      "name": "FLAPSTAR"
+      "name": "FLAPSTAR",
+      "groupId": 413,
+      "aliasId": 461
     },
     {
       "artId": 7,
-      "name": "Floomie's"
+      "name": "Floomie's",
+      "groupId": 2879,
+      "aliasId": 6513
     },
     {
       "artId": 8,
-      "name": "GANGDEMIC"
+      "name": "GANGDEMIC",
+      "groupId": 455,
+      "aliasId": 510
     },
     {
       "artId": 9,
-      "name": "HIRAETH.Tokyo"
+      "name": "HIRAETH.Tokyo",
+      "groupId": 504,
+      "aliasId": 568
     },
     {
       "artId": 10,
-      "name": "INOiZe↯"
+      "name": "INOiZe↯",
+      "groupId": 550,
+      "aliasId": 618
     },
     {
       "artId": 11,
-      "name": "LAST PiECE"
+      "name": "LAST PiECE",
+      "groupId": 2973,
+      "aliasId": 3342
     },
     {
       "artId": 12,
-      "name": "LOVE 9 LOVE"
+      "name": "LOVE 9 LOVE",
+      "groupId": 638,
+      "aliasId": 726
     },
     {
       "artId": 13,
-      "name": "LOVE PANIC!"
+      "name": "LOVE PANIC!",
+      "groupId": 642,
+      "aliasId": 730
     },
     {
       "artId": 14,
@@ -78,31 +100,45 @@
     },
     {
       "artId": 16,
-      "name": "Luce Twinkle Wink☆"
+      "name": "Luce Twinkle Wink☆",
+      "groupId": 698,
+      "aliasId": 794
     },
     {
       "artId": 17,
-      "name": "Lumi→A"
+      "name": "Lumi→A",
+      "groupId": 701,
+      "aliasId": 799
     },
     {
       "artId": 18,
-      "name": "MOSAIC.WAV"
+      "name": "MOSAIC.WAV",
+      "groupId": 6265,
+      "aliasId": 6690
     },
     {
       "artId": 19,
-      "name": "Mi'Line Hearts"
+      "name": "Mi'Line Hearts",
+      "groupId": 6674,
+      "aliasId": 7109
     },
     {
       "artId": 20,
-      "name": "My Starry Diary"
+      "name": "My Starry Diary",
+      "groupId": 822,
+      "aliasId": 929
     },
     {
       "artId": 21,
-      "name": "My_Stage"
+      "name": "My_Stage",
+      "groupId": 826,
+      "aliasId": 933
     },
     {
       "artId": 22,
-      "name": "Newヒロイン"
+      "name": "Newヒロイン",
+      "groupId": 866,
+      "aliasId": 983
     },
     {
       "artId": 23,
@@ -110,47 +146,69 @@
     },
     {
       "artId": 24,
-      "name": "SMiLE DROP"
+      "name": "SMiLE DROP",
+      "groupId": 1114,
+      "aliasId": 1262
     },
     {
       "artId": 25,
-      "name": "SUGAR☆VEGA.com"
+      "name": "SUGAR☆VEGA.com",
+      "groupId": 1137,
+      "aliasId": 1289
     },
     {
       "artId": 26,
-      "name": "Starlet"
+      "name": "Starlet",
+      "groupId": 4090,
+      "aliasId": 4441
     },
     {
       "artId": 27,
-      "name": "TERIOS"
+      "name": "TERIOS",
+      "groupId": 6516,
+      "aliasId": 6940
     },
     {
       "artId": 28,
-      "name": "ULTRA-PRISM"
+      "name": "ULTRA-PRISM",
+      "groupId": 3920,
+      "aliasId": 4274
     },
     {
       "artId": 29,
-      "name": "iROTORiDOLLY"
+      "name": "iROTORiDOLLY",
+      "groupId": 1428,
+      "aliasId": 1619
     },
     {
       "artId": 30,
-      "name": "mementoa"
+      "name": "mementoa",
+      "groupId": 1464,
+      "aliasId": 1661
     },
     {
       "artId": 31,
-      "name": "unFinale Tokyo"
+      "name": "unFinale Tokyo",
+      "groupId": 4364,
+      "aliasId": 4707
     },
     {
       "artId": 32,
-      "name": "…そして、消え逝くキミ達と。"
+      "name": "…そして、消え逝くキミ達と。",
+      "groupId": 6123,
+      "aliasId": 6549
     },
     {
       "artId": 33,
-      "name": "『TryVII』"
+      "name": "『TryVII』",
+      "groupId": 1564,
+      "aliasId": 1773
     },
     {
       "artId": 34,
-      "name": "あ！恋見つけちゃいました…♡"
+      "name": "あ！恋見つけちゃいました…♡",
+      "groupId": 6138,
+      "aliasId": 6564
     },
     {
       "artId": 35,
@@ -158,7 +216,9 @@
     },
     {
       "artId": 36,
-      "name": "まりえ(45)"
+      "name": "まりえ(45)",
+      "groupId": 3082,
+      "aliasId": 173488
     },
     {
       "artId": 37,
@@ -166,43 +226,63 @@
     },
     {
       "artId": 38,
-      "name": "わんふぁす！"
+      "name": "わんふぁす！",
+      "groupId": 1938,
+      "aliasId": 2220
     },
     {
       "artId": 39,
-      "name": "アイドルカレッジ"
+      "name": "アイドルカレッジ",
+      "groupId": 1953,
+      "aliasId": 2244
     },
     {
       "artId": 40,
-      "name": "アイドルキャリア"
+      "name": "アイドルキャリア",
+      "groupId": 1954,
+      "aliasId": 2246
     },
     {
       "artId": 41,
-      "name": "アップアップガールズ（プロレス）"
+      "name": "アップアップガールズ（プロレス）",
+      "groupId": 5944,
+      "aliasId": 6261
     },
     {
       "artId": 42,
-      "name": "サスケ"
+      "name": "サスケ",
+      "groupId": 6774,
+      "aliasId": 7208
     },
     {
       "artId": 43,
-      "name": "セツナソウ"
+      "name": "セツナソウ",
+      "groupId": 2145,
+      "aliasId": 2464
     },
     {
       "artId": 44,
-      "name": "タイムラプス"
+      "name": "タイムラプス",
+      "groupId": 3579,
+      "aliasId": 3937
     },
     {
       "artId": 45,
-      "name": "ドットビーピーエム"
+      "name": "ドットビーピーエム",
+      "groupId": 5949,
+      "aliasId": 6266
     },
     {
       "artId": 46,
-      "name": "プランクリーンスターズ"
+      "name": "プランクリーンスターズ",
+      "groupId": 6535,
+      "aliasId": 6959
     },
     {
       "artId": 47,
-      "name": "上月せれな"
+      "name": "上月せれな",
+      "groupId": 3069,
+      "aliasId": 3436
     },
     {
       "artId": 48,
@@ -210,11 +290,15 @@
     },
     {
       "artId": 49,
-      "name": "兎アイズ"
+      "name": "兎アイズ",
+      "groupId": 2429,
+      "aliasId": 2797
     },
     {
       "artId": 50,
-      "name": "出口陽"
+      "name": "出口陽",
+      "groupId": 4434,
+      "aliasId": 4777
     },
     {
       "artId": 51,
@@ -222,7 +306,9 @@
     },
     {
       "artId": 52,
-      "name": "姫翠桃菜＆星山せな"
+      "name": "姫翠桃菜＆星山せな",
+      "groupId": 6272,
+      "aliasId": 6697
     },
     {
       "artId": 53,
@@ -230,15 +316,21 @@
     },
     {
       "artId": 54,
-      "name": "恋に落ちる確率は限りなく低いが0じゃない"
+      "name": "恋に落ちる確率は限りなく低いが0じゃない",
+      "groupId": 2540,
+      "aliasId": 2931
     },
     {
       "artId": 55,
-      "name": "成瀬瑛美"
+      "name": "成瀬瑛美",
+      "groupId": 2951,
+      "aliasId": 6193
     },
     {
       "artId": 56,
-      "name": "折原伊桜"
+      "name": "折原伊桜",
+      "groupId": 2858,
+      "aliasId": 6185
     },
     {
       "artId": 57,
@@ -246,19 +338,27 @@
     },
     {
       "artId": 58,
-      "name": "煌めき☆アンフォレント"
+      "name": "煌めき☆アンフォレント",
+      "groupId": 2641,
+      "aliasId": 3055
     },
     {
       "artId": 59,
-      "name": "純粋カフェラッテ"
+      "name": "純粋カフェラッテ",
+      "groupId": 2698,
+      "aliasId": 3127
     },
     {
       "artId": 60,
-      "name": "隣のワンルームディスコ"
+      "name": "隣のワンルームディスコ",
+      "groupId": 5792,
+      "aliasId": 6088
     },
     {
       "artId": 61,
-      "name": "魔訶不思議変革者-デスデス-"
+      "name": "魔訶不思議変革者-デスデス-",
+      "groupId": 2808,
+      "aliasId": 3251
     }
   ],
   "stageList": [

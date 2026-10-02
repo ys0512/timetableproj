@@ -8,371 +8,555 @@
   "artList": [
     {
       "artId": 0,
-      "name": "#Mooove!"
+      "name": "#Mooove!",
+      "groupId": 5,
+      "aliasId": 5
     },
     {
       "artId": 1,
-      "name": ".LiNIXLiNE."
+      "name": ".LiNIXLiNE.",
+      "groupId": 39,
+      "aliasId": 41
     },
     {
       "artId": 2,
-      "name": "9DayzGlitchClubTokyo"
+      "name": "9DayzGlitchClubTokyo",
+      "groupId": 75,
+      "aliasId": 79
     },
     {
       "artId": 3,
-      "name": "AZ-ON"
+      "name": "AZ-ON",
+      "groupId": 117,
+      "aliasId": 129
     },
     {
       "artId": 4,
-      "name": "As a Cutie Pomeranian"
+      "name": "As a Cutie Pomeranian",
+      "groupId": 164,
+      "aliasId": 183
     },
     {
       "artId": 5,
-      "name": "AsIs"
+      "name": "AsIs",
+      "groupId": 165,
+      "aliasId": 184
     },
     {
       "artId": 6,
-      "name": "Axelight"
+      "name": "Axelight",
+      "groupId": 171,
+      "aliasId": 190
     },
     {
       "artId": 7,
-      "name": "BELLRING少女ハート"
+      "name": "BELLRING少女ハート",
+      "groupId": 188,
+      "aliasId": 208
     },
     {
       "artId": 8,
-      "name": "BNSI"
+      "name": "BNSI",
+      "groupId": 199,
+      "aliasId": 221
     },
     {
       "artId": 9,
-      "name": "Bunny La Crew"
+      "name": "Bunny La Crew",
+      "groupId": 237,
+      "aliasId": 262
     },
     {
       "artId": 10,
-      "name": "COLOR of COLOR"
+      "name": "COLOR of COLOR",
+      "groupId": 265,
+      "aliasId": 296
     },
     {
       "artId": 11,
-      "name": "Drawry."
+      "name": "Drawry.",
+      "groupId": 368,
+      "aliasId": 404
     },
     {
       "artId": 12,
-      "name": "FULIT BOX"
+      "name": "FULIT BOX",
+      "groupId": 420,
+      "aliasId": 470
     },
     {
       "artId": 13,
-      "name": "HIBANA"
+      "name": "HIBANA",
+      "groupId": 501,
+      "aliasId": 564
     },
     {
       "artId": 14,
-      "name": "I MY ME MINE"
+      "name": "I MY ME MINE",
+      "groupId": 536,
+      "aliasId": 603
     },
     {
       "artId": 15,
-      "name": "JamsCollection"
+      "name": "JamsCollection",
+      "groupId": 576,
+      "aliasId": 653
     },
     {
       "artId": 16,
-      "name": "KAMAITACI"
+      "name": "KAMAITACI",
+      "groupId": 587,
+      "aliasId": 664
     },
     {
       "artId": 17,
-      "name": "KOURiN"
+      "name": "KOURiN",
+      "groupId": 604,
+      "aliasId": 686
     },
     {
       "artId": 18,
-      "name": "Loulouchouchou"
+      "name": "Loulouchouchou",
+      "groupId": 694,
+      "aliasId": 790
     },
     {
       "artId": 19,
-      "name": "Malcolm Mask McLaren"
+      "name": "Malcolm Mask McLaren",
+      "groupId": 772,
+      "aliasId": 878
     },
     {
       "artId": 20,
-      "name": "Melodys High"
+      "name": "Melodys High",
+      "groupId": 784,
+      "aliasId": 890
     },
     {
       "artId": 21,
-      "name": "Mirror,Mirror"
+      "name": "Mirror,Mirror",
+      "groupId": 811,
+      "aliasId": 918
     },
     {
       "artId": 22,
-      "name": "MyDearDarlin'"
+      "name": "MyDearDarlin'",
+      "groupId": 824,
+      "aliasId": 931
     },
     {
       "artId": 23,
-      "name": "My_Stage"
+      "name": "My_Stage",
+      "groupId": 826,
+      "aliasId": 933
     },
     {
       "artId": 24,
-      "name": "NEFRALISE"
+      "name": "NEFRALISE",
+      "groupId": 836,
+      "aliasId": 946
     },
     {
       "artId": 25,
-      "name": "NUANCE"
+      "name": "NUANCE",
+      "groupId": 857,
+      "aliasId": 974
     },
     {
       "artId": 26,
-      "name": "PIGGS"
+      "name": "PIGGS",
+      "groupId": 920,
+      "aliasId": 1045
     },
     {
       "artId": 27,
-      "name": "PIGMONZ"
+      "name": "PIGMONZ",
+      "groupId": 921,
+      "aliasId": 1046
     },
     {
       "artId": 28,
-      "name": "ParaLulu"
+      "name": "ParaLulu",
+      "groupId": 2971,
+      "aliasId": 3340
     },
     {
       "artId": 29,
-      "name": "Pastel Closet"
+      "name": "Pastel Closet",
+      "groupId": 958,
+      "aliasId": 1086
     },
     {
       "artId": 30,
-      "name": "Payrin's"
+      "name": "Payrin's",
+      "groupId": 961,
+      "aliasId": 1089
     },
     {
       "artId": 31,
-      "name": "RIFFBABYZ"
+      "name": "RIFFBABYZ",
+      "groupId": 1022,
+      "aliasId": 1159
     },
     {
       "artId": 32,
-      "name": "RePLAY"
+      "name": "RePLAY",
+      "groupId": 1053,
+      "aliasId": 1195
     },
     {
       "artId": 33,
-      "name": "RiNCENT♯"
+      "name": "RiNCENT♯",
+      "groupId": 1071,
+      "aliasId": 1216
     },
     {
       "artId": 34,
-      "name": "Ringwanderung"
+      "name": "Ringwanderung",
+      "groupId": 1073,
+      "aliasId": 1220
     },
     {
       "artId": 35,
-      "name": "SITUASION"
+      "name": "SITUASION",
+      "groupId": 1111,
+      "aliasId": 1259
     },
     {
       "artId": 36,
-      "name": "Sophià la Mode"
+      "name": "Sophià la Mode",
+      "groupId": 1170,
+      "aliasId": 1329
     },
     {
       "artId": 37,
-      "name": "THE ORCHESTRA TOKYO"
+      "name": "THE ORCHESTRA TOKYO",
+      "groupId": 1207,
+      "aliasId": 1371
     },
     {
       "artId": 38,
-      "name": "UNBS"
+      "name": "UNBS",
+      "groupId": 1256,
+      "aliasId": 1429
     },
     {
       "artId": 39,
-      "name": "UNDO"
+      "name": "UNDO",
+      "groupId": 2966,
+      "aliasId": 3336
     },
     {
       "artId": 40,
-      "name": "UPDANCE Lily"
+      "name": "UPDANCE Lily",
+      "groupId": 6402,
+      "aliasId": 6826
     },
     {
       "artId": 41,
-      "name": "UPローチ"
+      "name": "UPローチ",
+      "groupId": 1261,
+      "aliasId": 1435
     },
     {
       "artId": 42,
-      "name": "UtaGe!"
+      "name": "UtaGe!",
+      "groupId": 1263,
+      "aliasId": 1437
     },
     {
       "artId": 43,
-      "name": "XINXIN"
+      "name": "XINXIN",
+      "groupId": 1314,
+      "aliasId": 1490
     },
     {
       "artId": 44,
-      "name": "YOLOZ"
+      "name": "YOLOZ",
+      "groupId": 1324,
+      "aliasId": 1501
     },
     {
       "artId": 45,
-      "name": "airattic"
+      "name": "airattic",
+      "groupId": 1351,
+      "aliasId": 1533
     },
     {
       "artId": 46,
-      "name": "amini"
+      "name": "amini",
+      "groupId": 1359,
+      "aliasId": 1542
     },
     {
       "artId": 47,
-      "name": "buGG"
+      "name": "buGG",
+      "groupId": 1372,
+      "aliasId": 1556
     },
     {
       "artId": 48,
-      "name": "iCON!"
+      "name": "iCON!",
+      "groupId": 1422,
+      "aliasId": 1613
     },
     {
       "artId": 49,
-      "name": "il pleut"
+      "name": "il pleut",
+      "groupId": 1439,
+      "aliasId": 1633
     },
     {
       "artId": 50,
-      "name": "mementoa"
+      "name": "mementoa",
+      "groupId": 1464,
+      "aliasId": 1661
     },
     {
       "artId": 51,
-      "name": "myojou"
+      "name": "myojou",
+      "groupId": 1480,
+      "aliasId": 1679
     },
     {
       "artId": 52,
-      "name": "ponderosa may bloom"
+      "name": "ponderosa may bloom",
+      "groupId": 1496,
+      "aliasId": 1696
     },
     {
       "artId": 53,
-      "name": "selfish"
+      "name": "selfish",
+      "groupId": 1508,
+      "aliasId": 1712
     },
     {
       "artId": 54,
-      "name": "zanka"
+      "name": "zanka",
+      "groupId": 1543,
+      "aliasId": 1749
     },
     {
       "artId": 55,
-      "name": "【eN】"
+      "name": "【eN】",
+      "groupId": 1567,
+      "aliasId": 1776
     },
     {
       "artId": 56,
-      "name": "かすみ草とステラ"
+      "name": "かすみ草とステラ",
+      "groupId": 1643,
+      "aliasId": 1863
     },
     {
       "artId": 57,
-      "name": "しろもん"
+      "name": "しろもん",
+      "groupId": 1698,
+      "aliasId": 1928
     },
     {
       "artId": 58,
-      "name": "じゅじゅ"
+      "name": "じゅじゅ",
+      "groupId": 1701,
+      "aliasId": 1931
     },
     {
       "artId": 59,
-      "name": "すべての瞬間は君だった。"
+      "name": "すべての瞬間は君だった。",
+      "groupId": 1709,
+      "aliasId": 1941
     },
     {
       "artId": 60,
-      "name": "ちゃーむぽっしゅ"
+      "name": "ちゃーむぽっしゅ",
+      "groupId": 1724,
+      "aliasId": 1957
     },
     {
       "artId": 61,
-      "name": "てんしめし！"
+      "name": "てんしめし！",
+      "groupId": 2170,
+      "aliasId": 170846
     },
     {
       "artId": 62,
-      "name": "べるべっとセンテンス"
+      "name": "べるべっとセンテンス",
+      "groupId": 1826,
+      "aliasId": 2085
     },
     {
       "artId": 63,
-      "name": "まねきケチャ"
+      "name": "まねきケチャ",
+      "groupId": 1846,
+      "aliasId": 2106
     },
     {
       "artId": 64,
-      "name": "アイドル革命"
+      "name": "アイドル革命",
+      "groupId": 1958,
+      "aliasId": 2251
     },
     {
       "artId": 65,
-      "name": "アキストゼネコ"
+      "name": "アキストゼネコ",
+      "groupId": 1969,
+      "aliasId": 2264
     },
     {
       "artId": 66,
-      "name": "アストレイル"
+      "name": "アストレイル",
+      "groupId": 1977,
+      "aliasId": 2273
     },
     {
       "artId": 67,
-      "name": "アルテミスの翼"
+      "name": "アルテミスの翼",
+      "groupId": 1999,
+      "aliasId": 2298
     },
     {
       "artId": 68,
-      "name": "キミトサクハナ"
+      "name": "キミトサクハナ",
+      "groupId": 2059,
+      "aliasId": 2366
     },
     {
       "artId": 69,
-      "name": "コングラッチェ！"
+      "name": "コングラッチェ！",
+      "groupId": 2091,
+      "aliasId": 2401
     },
     {
       "artId": 70,
-      "name": "シンダーエラ"
+      "name": "シンダーエラ",
+      "groupId": 2912,
+      "aliasId": 3279
     },
     {
       "artId": 71,
-      "name": "ジエメイ"
+      "name": "ジエメイ",
+      "groupId": 2118,
+      "aliasId": 2430
     },
     {
       "artId": 72,
-      "name": "テラテラ"
+      "name": "テラテラ",
+      "groupId": 2168,
+      "aliasId": 2493
     },
     {
       "artId": 73,
-      "name": "ドラマチックレコード"
+      "name": "ドラマチックレコード",
+      "groupId": 2186,
+      "aliasId": 2513
     },
     {
       "artId": 74,
-      "name": "ハニースパイスRe."
+      "name": "ハニースパイスRe.",
+      "groupId": 2210,
+      "aliasId": 2544
     },
     {
       "artId": 75,
-      "name": "ハルニシオン"
+      "name": "ハルニシオン",
+      "groupId": 2211,
+      "aliasId": 2545
     },
     {
       "artId": 76,
-      "name": "フィルフェリーチェ"
+      "name": "フィルフェリーチェ",
+      "groupId": 2245,
+      "aliasId": 2585
     },
     {
       "artId": 77,
-      "name": "フューチャーサイダー"
+      "name": "フューチャーサイダー",
+      "groupId": 2249,
+      "aliasId": 2589
     },
     {
       "artId": 78,
-      "name": "ポラライト"
+      "name": "ポラライト",
+      "groupId": 2278,
+      "aliasId": 2622
     },
     {
       "artId": 79,
-      "name": "メイビーME"
+      "name": "メイビーME",
+      "groupId": 2312,
+      "aliasId": 2662
     },
     {
       "artId": 80,
-      "name": "ラナキュラ"
+      "name": "ラナキュラ",
+      "groupId": 2337,
+      "aliasId": 2691
     },
     {
       "artId": 81,
-      "name": "ラフ×ラフ"
+      "name": "ラフ×ラフ",
+      "groupId": 2340,
+      "aliasId": 2695
     },
     {
       "artId": 82,
-      "name": "ルルネージュ"
+      "name": "ルルネージュ",
+      "groupId": 2364,
+      "aliasId": 2724
     },
     {
       "artId": 83,
-      "name": "ルージュブック"
+      "name": "ルージュブック",
+      "groupId": 2365,
+      "aliasId": 2725
     },
     {
       "artId": 84,
-      "name": "可愛いって言わないと呪う！"
+      "name": "可愛いって言わないと呪う！",
+      "groupId": 2445,
+      "aliasId": 2813
     },
     {
       "artId": 85,
-      "name": "夢みるアドレセンス"
+      "name": "夢みるアドレセンス",
+      "groupId": 2474,
+      "aliasId": 2846
     },
     {
       "artId": 86,
-      "name": "宵越しのアンサンブル"
+      "name": "宵越しのアンサンブル",
+      "groupId": 3789,
+      "aliasId": 4146
     },
     {
       "artId": 87,
-      "name": "点染テンセイ少女。"
+      "name": "点染テンセイ少女。",
+      "groupId": 2638,
+      "aliasId": 3052
     },
     {
       "artId": 88,
-      "name": "衛星とカラテア"
+      "name": "衛星とカラテア",
+      "groupId": 2742,
+      "aliasId": 3179
     },
     {
       "artId": 89,
-      "name": "透色ドロップ"
+      "name": "透色ドロップ",
+      "groupId": 2761,
+      "aliasId": 3201
     },
     {
       "artId": 90,
-      "name": "限りなく白く"
+      "name": "限りなく白く",
+      "groupId": 2773,
+      "aliasId": 3214
     },
     {
       "artId": 91,
-      "name": "鳴ル神"
+      "name": "鳴ル神",
+      "groupId": 2809,
+      "aliasId": 3252
     }
   ],
   "stageList": [
