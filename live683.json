@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 683,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -609,32 +609,32 @@
       "stageId": 0,
       "stageName": "巨大ガチャサイン会1",
       "stageNameShort": "巨大ガチャサイン会1",
-      "colorName": "stage-grey",
-      "stageOrder": 5,
+      "colorName": "stage-yellowGrey",
+      "stageOrder": 4,
       "type": "特典会"
     },
     {
       "stageId": 1,
-      "stageName": "巨大ガチャ2",
-      "stageNameShort": "巨大ガチャ2",
-      "colorName": "stage-grey",
-      "stageOrder": 6,
+      "stageName": "巨大ガチャサイン会2",
+      "stageNameShort": "巨大ガチャサイン会2",
+      "colorName": "stage-yellowGrey",
+      "stageOrder": 5,
       "type": "特典会"
     },
     {
       "stageId": 2,
       "stageName": "巨大ガチャサイン会3",
       "stageNameShort": "巨大ガチャサイン会3",
-      "colorName": "stage-grey",
-      "stageOrder": 7,
+      "colorName": "stage-yellowGrey",
+      "stageOrder": 6,
       "type": "特典会"
     },
     {
       "stageId": 3,
       "stageName": "巨大ガチャサイン会4",
       "stageNameShort": "巨大ガチャサイン会4",
-      "colorName": "stage-grey",
-      "stageOrder": 8,
+      "colorName": "stage-yellowGrey",
+      "stageOrder": 7,
       "type": "特典会"
     },
     {
@@ -657,7 +657,7 @@
       "stageId": 6,
       "stageName": "高飛車 STAGE",
       "stageNameShort": "高飛車 STAGE",
-      "colorName": "stage-brown2",
+      "colorName": "stage-purple",
       "stageOrder": 2,
       "type": "ライブ"
     },
@@ -665,7 +665,7 @@
       "stageId": 7,
       "stageName": "鉄骨番長 STAGE",
       "stageNameShort": "鉄骨番長 STAGE",
-      "colorName": "stage-blueGrey",
+      "colorName": "stage-green",
       "stageOrder": 3,
       "type": "ライブ"
     },
@@ -673,8 +673,8 @@
       "stageId": 8,
       "stageName": "アイドルビアガーデン",
       "stageNameShort": "アイドルビアガーデン",
-      "colorName": "stage-grey",
-      "stageOrder": 4,
+      "colorName": "stage-redGrey",
+      "stageOrder": 8,
       "type": "特典会"
     },
     {
