@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        683
+      ],
+      "date": "10/6",
+      "message": "強FES!! IN富士急ハイランド (10/10 @山梨 アイドル) に対応しました。",
+      "message_en": "強FES!! IN富士急ハイランド (10/10 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         681
       ],
       "date": "9/29",
