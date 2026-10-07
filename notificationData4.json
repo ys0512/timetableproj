@@ -63,6 +63,17 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        684,
+        685,
+        686
+      ],
+      "date": "10/8",
+      "message": "MINAMI WHEEL 2026 (10/10-12 @大阪 バンド) に対応しました。",
+      "message_en": "MINAMI WHEEL 2026 (10/10-12 BAND) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         683
       ],
       "date": "10/6",
