@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 687,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -105,7 +105,7 @@
       "stageId": 0,
       "stageName": "ライブ（群馬会館）",
       "stageNameShort": "ライブ",
-      "colorName": "stage-grey",
+      "colorName": "stage-red",
       "stageOrder": 0,
       "type": "ライブ"
     },

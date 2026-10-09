@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 688,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -273,7 +273,7 @@
       "stageId": 0,
       "stageName": "サブステージ（群馬会館）",
       "stageNameShort": "サブ",
-      "colorName": "stage-red",
+      "colorName": "stage-green",
       "stageOrder": 1,
       "type": "ライブ"
     },
@@ -281,7 +281,7 @@
       "stageId": 1,
       "stageName": "トークステージ（tsulunos）",
       "stageNameShort": "トーク",
-      "colorName": "stage-grey",
+      "colorName": "stage-lightBlue",
       "stageOrder": 2,
       "type": "特典会"
     },
@@ -329,7 +329,7 @@
       "stageId": 7,
       "stageName": "メインステージ（県庁前広場）",
       "stageNameShort": "メイン",
-      "colorName": "stage-green",
+      "colorName": "stage-red",
       "stageOrder": 0,
       "type": "ライブ"
     }
