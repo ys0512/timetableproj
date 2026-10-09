@@ -61,6 +61,13 @@
   },
   "notificationList": [
     {
+      "icon": "mdi-information",
+      "liveId": [],
+      "date": "10/10",
+      "message": "過去のタイテデータを再公開しました。いいねのデータが消えてしまう可能性があるので、アプリを最新バージョンにアップデートしてからご利用ください。",
+      "message_en": "Timetables for past events are now available again. Please update the app to the latest version before using it, as your likes data may be lost otherwise."
+    },
+    {
       "icon": "mdi-alarm-plus",
       "liveId": [
         687,
@@ -450,20 +457,6 @@
     },
     {
       "icon": "mdi-alarm-plus",
-      "date": "6/23",
-      "message": "HERO SONIC (6/27-28 @横浜 アイドル) に対応しました。",
-      "message_en": "HERO SONIC (6/27-28 IDLE) is supported.",
-      "liveId": []
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "6/23",
-      "message": "アイドル甲子園 FESTIVAL (6/27-28 @お台場 アイドル) に対応しました。",
-      "message_en": "アイドル甲子園 FESTIVAL (6/27-28 IDLE) is supported.",
-      "liveId": []
-    },
-    {
-      "icon": "mdi-alarm-plus",
       "date": "6/17",
       "message": "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
       "message_en": "超NATSUZOME (7/4-5 IDLE) is supported.",
@@ -474,27 +467,6 @@
       "date": "6/13",
       "message": "機能改善を行いました(ver1.16.4)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
       "message_en": "Features improved (ver1.16.4). Please update. For more information on the new features, please refer to our X(Twitter) account",
-      "liveId": []
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "6/2",
-      "message": "mistFES (6/13-14 @名古屋 アイドル) に対応しました。",
-      "message_en": "mistFES (6/13-14 IDLE) is supported.",
-      "liveId": []
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "5/19",
-      "message": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 @神奈川 アイドル) に対応しました。",
-      "message_en": "GIRLS GIRLS FESTIVAL@さがみ湖MORIMORI (5/23-24 IDLE) is supported.",
-      "liveId": []
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "date": "4/30",
-      "message": "MAWA LOOP OSAKA (5/9-10 @大阪 アイドル) に対応しました。",
-      "message_en": "MAWA LOOP OSAKA (5/9-10 IDLE) is supported.",
       "liveId": []
     }
   ]
