@@ -1,9 +1,9 @@
 ﻿{
   "liveId": 684,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
-  "openTime": "11",
+  "openTime": "12",
   "closeTime": "22",
   "artList": [
     {
@@ -542,7 +542,7 @@
     },
     {
       "artId": 89,
-      "name": "Pangea",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -1664,11 +1664,11 @@
     },
     {
       "turnId": 74,
-      "startTime": "11:25",
-      "min": 55,
-      "artId": 89,
-      "stageId": 10,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 75,

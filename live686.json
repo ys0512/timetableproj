@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 686,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "openTime": "12",
@@ -973,7 +973,7 @@
     {
       "stageId": 1,
       "stageName": "hillsパン工場",
-      "stageNameShort": "KEPURA",
+      "stageNameShort": "hillsパン工場",
       "colorName": "stage-pink",
       "stageOrder": 1,
       "type": "ライブ"
@@ -981,7 +981,7 @@
     {
       "stageId": 2,
       "stageName": "DROP",
-      "stageNameShort": "Guiano",
+      "stageNameShort": "DROP",
       "colorName": "stage-purple",
       "stageOrder": 2,
       "type": "ライブ"
@@ -989,7 +989,7 @@
     {
       "stageId": 3,
       "stageName": "BEYOND",
-      "stageNameShort": "THINGS",
+      "stageNameShort": "BEYOND",
       "colorName": "stage-deep-purple",
       "stageOrder": 3,
       "type": "ライブ"
@@ -997,7 +997,7 @@
     {
       "stageId": 4,
       "stageName": "FANJ twice",
-      "stageNameShort": "Czecho No Republic",
+      "stageNameShort": "FANJ twice",
       "colorName": "stage-indigo",
       "stageOrder": 4,
       "type": "ライブ"
@@ -1005,7 +1005,7 @@
     {
       "stageId": 5,
       "stageName": "club JOULE",
-      "stageNameShort": "YOWLL",
+      "stageNameShort": "club JOULE",
       "colorName": "stage-blue",
       "stageOrder": 5,
       "type": "ライブ"
@@ -1013,7 +1013,7 @@
     {
       "stageId": 6,
       "stageName": "AtlantiQs",
-      "stageNameShort": "梨眠",
+      "stageNameShort": "AtlantiQs",
       "colorName": "stage-pink",
       "stageOrder": 6,
       "type": "ライブ"
@@ -1021,7 +1021,7 @@
     {
       "stageId": 7,
       "stageName": "BRONZE",
-      "stageNameShort": "クレイジーウォウウォ!!",
+      "stageNameShort": "BRONZE",
       "colorName": "stage-lightBlue",
       "stageOrder": 7,
       "type": "ライブ"
@@ -1029,7 +1029,7 @@
     {
       "stageId": 8,
       "stageName": "ANIMA",
-      "stageNameShort": "THE ステレオギャング",
+      "stageNameShort": "ANIMA",
       "colorName": "stage-cyan",
       "stageOrder": 8,
       "type": "ライブ"
@@ -1037,7 +1037,7 @@
     {
       "stageId": 9,
       "stageName": "SUNHALL",
-      "stageNameShort": "MON7A",
+      "stageNameShort": "SUNHALL",
       "colorName": "stage-teal",
       "stageOrder": 9,
       "type": "ライブ"
@@ -1045,7 +1045,7 @@
     {
       "stageId": 10,
       "stageName": "Pangea",
-      "stageNameShort": "カタソムリ",
+      "stageNameShort": "Pangea",
       "colorName": "stage-green",
       "stageOrder": 10,
       "type": "ライブ"
@@ -1053,73 +1053,73 @@
     {
       "stageId": 11,
       "stageName": "BIGCAT",
-      "stageNameShort": "チセツナガラ",
+      "stageNameShort": "BIGCAT",
       "colorName": "stage-light-green",
       "stageOrder": 11,
       "type": "ライブ"
     },
     {
       "stageId": 12,
-      "stageName": "VARON",
-      "stageNameShort": "友成空",
+      "stageName": "OSAKA MUSE",
+      "stageNameShort": "OSAKA MUSE",
       "colorName": "stage-light-green2",
-      "stageOrder": 12,
+      "stageOrder": 14,
       "type": "ライブ"
     },
     {
       "stageId": 13,
       "stageName": "RUIDO",
-      "stageNameShort": "シベリアンハスキー",
+      "stageNameShort": "RUIDO",
       "colorName": "stage-lime",
       "stageOrder": 13,
       "type": "ライブ"
     },
     {
       "stageId": 14,
-      "stageName": "OSAKA MUSE",
-      "stageNameShort": "由薫",
-      "colorName": "stage-yellow",
-      "stageOrder": 14,
-      "type": "ライブ"
-    },
-    {
-      "stageId": 15,
-      "stageName": "FootRock&BEERS",
-      "stageNameShort": "描青のネイビーセゾン",
-      "colorName": "stage-amber",
-      "stageOrder": 15,
-      "type": "ライブ"
-    },
-    {
-      "stageId": 16,
       "stageName": "CONPASS",
-      "stageNameShort": "niina",
-      "colorName": "stage-orange",
+      "stageNameShort": "CONPASS",
+      "colorName": "stage-yellow",
       "stageOrder": 16,
       "type": "ライブ"
     },
     {
-      "stageId": 17,
+      "stageId": 15,
       "stageName": "CLAPPER",
-      "stageNameShort": "友希",
-      "colorName": "stage-deepOrange",
+      "stageNameShort": "CLAPPER",
+      "colorName": "stage-amber",
       "stageOrder": 17,
       "type": "ライブ"
     },
     {
-      "stageId": 18,
+      "stageId": 16,
       "stageName": "JANUS",
-      "stageNameShort": "内藤るな",
-      "colorName": "stage-brown",
+      "stageNameShort": "JANUS",
+      "colorName": "stage-orange",
       "stageOrder": 18,
       "type": "ライブ"
     },
     {
-      "stageId": 19,
+      "stageId": 17,
       "stageName": "soma",
-      "stageNameShort": "Furui Riho",
-      "colorName": "stage-brown2",
+      "stageNameShort": "soma",
+      "colorName": "stage-deepOrange",
       "stageOrder": 19,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 18,
+      "stageName": "VARON",
+      "stageNameShort": "VARON",
+      "colorName": "stage-brown",
+      "stageOrder": 12,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 19,
+      "stageName": "FootRock&BEERS",
+      "stageNameShort": "FootRock&BEERS",
+      "colorName": "stage-brown2",
+      "stageOrder": 15,
       "type": "ライブ"
     }
   ],
