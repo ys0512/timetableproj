@@ -63,6 +63,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        687,
+        688
+      ],
+      "date": "10/9",
+      "message": "ぐんまちゃんアイドルフェスティバル (10/11-12 @群馬 アイドル) に対応しました。",
+      "message_en": "ぐんまちゃんアイドルフェスティバル (10/11-12 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         684,
         685,
         686
