@@ -61,6 +61,15 @@
   },
   "notificationList": [
     {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
+        689
+      ],
+      "date": "10/11",
+      "message": "GIGA•GIGA SONIC (10/17 @幕張 アイドル) に対応しました。",
+      "message_en": "GIGA•GIGA SONIC (10/17 IDOL) is supported."
+    },
+    {
       "icon": "mdi-information",
       "liveId": [],
       "date": "10/10",
