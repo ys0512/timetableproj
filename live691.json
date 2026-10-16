@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 691,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -467,43 +467,7 @@
     },
     {
       "artId": 76,
-      "name": "青薔薇とブルーローズ",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 77,
-      "name": "ReLiA",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 78,
-      "name": "めんこいみ東北",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 79,
-      "name": "夜メルク",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 80,
-      "name": "MEILIi CHARM",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 81,
-      "name": "じゆじゅ",
-      "groupId": null,
-      "aliasId": null
-    },
-    {
-      "artId": 82,
-      "name": "I♡99",
+      "name": "",
       "groupId": null,
       "aliasId": null
     }
@@ -2189,7 +2153,7 @@
       "turnId": 173,
       "startTime": "16:30",
       "min": 60,
-      "artId": 76,
+      "artId": 26,
       "stageId": 12,
       "type": "特典会"
     },
@@ -2205,7 +2169,7 @@
       "turnId": 175,
       "startTime": "18:45",
       "min": 60,
-      "artId": 77,
+      "artId": 14,
       "stageId": 12,
       "type": "特典会"
     },
@@ -2429,7 +2393,7 @@
       "turnId": 203,
       "startTime": "18:35",
       "min": 60,
-      "artId": 78,
+      "artId": 47,
       "stageId": 16,
       "type": "特典会"
     },
@@ -2594,7 +2558,7 @@
       "turnId": 223,
       "startTime": "17:20",
       "min": 60,
-      "artId": 80,
+      "artId": 40,
       "stageId": 19,
       "type": "特典会"
     },
@@ -2647,7 +2611,7 @@
       "turnId": 229,
       "startTime": "16:20",
       "min": 60,
-      "artId": 79,
+      "artId": 39,
       "stageId": 20,
       "type": "特典会"
     },
@@ -2711,7 +2675,7 @@
       "turnId": 237,
       "startTime": "17:10",
       "min": 60,
-      "artId": 81,
+      "artId": 11,
       "stageId": 21,
       "type": "特典会"
     },
@@ -2735,7 +2699,7 @@
       "turnId": 240,
       "startTime": "13:10",
       "min": 60,
-      "artId": 82,
+      "artId": 30,
       "stageId": 22,
       "type": "特典会"
     },
