@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        692
+      ],
+      "date": "10/16",
+      "message": "秋葉原アイドルサーキット vol.6 (11/3 @秋葉原 アイドル) に対応しました。",
+      "message_en": "秋葉原アイドルサーキット vol.6 (11/3 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         690,
         691
       ],
