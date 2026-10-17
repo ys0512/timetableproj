@@ -63,6 +63,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        693,
+        694
+      ],
+      "date": "10/17",
+      "message": "MAGICAL SPEC presents 「超天神祭2026」 (11/22-23 @福岡 アイドル) に対応しました。",
+      "message_en": "MAGICAL SPEC presents 「超天神祭2026」 (11/22-23 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         692
       ],
       "date": "10/16",
