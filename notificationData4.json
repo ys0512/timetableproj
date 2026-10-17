@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        695
+      ],
+      "date": "10/17",
+      "message": "雨模様のソラリス presents 「Festival in the Rain 2026」 (10/25 @下北沢 アイドル) に対応しました。",
+      "message_en": "雨模様のソラリス presents 「Festival in the Rain 2026」 (10/25 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         693,
         694
       ],
