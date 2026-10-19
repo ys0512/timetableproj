@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        696
+      ],
+      "date": "10/20",
+      "message": "Appare! HALLOWEEN FES. 2026 (10/27 @渋谷 アイドル) に対応しました。",
+      "message_en": "Appare! HALLOWEEN FES. 2026 (10/27 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         695
       ],
       "date": "10/17",
