@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 690,
-  "jsonVersion": 2,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 3,
+  "notificationVersion": "2",
+  "notification": "タイテの誤記を修正しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -203,7 +203,7 @@
     },
     {
       "artId": 32,
-      "name": "Tryme",
+      "name": "",
       "groupId": 1247,
       "aliasId": 1420
     },
@@ -1050,7 +1050,7 @@
       "turnId": 60,
       "startTime": "12:45",
       "min": 25,
-      "artId": 32,
+      "artId": 9,
       "stageId": 3,
       "type": "ライブ"
     },
