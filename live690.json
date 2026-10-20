@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 690,
-  "jsonVersion": 1,
+  "jsonVersion": 2,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -329,7 +329,7 @@
     },
     {
       "artId": 53,
-      "name": "スノールーム",
+      "name": "",
       "groupId": null,
       "aliasId": null
     }
@@ -1474,7 +1474,7 @@
       "turnId": 113,
       "startTime": "12:50",
       "min": 60,
-      "artId": 13,
+      "artId": 11,
       "stageId": 8,
       "type": "特典会"
     },
@@ -1706,7 +1706,7 @@
       "turnId": 142,
       "startTime": "12:50",
       "min": 60,
-      "artId": 53,
+      "artId": 10,
       "stageId": 15,
       "type": "特典会"
     },
