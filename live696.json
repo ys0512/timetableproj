@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 696,
-  "jsonVersion": 3,
-  "notificationVersion": "3",
-  "notification": "（10/22）特典会に対応しました。\n以下グループの特典会が公式画像に存在していなかったため、修正が入ると思われます。\nMirror,Mirror\nAKANECLUB.\nルルネージュ",
+  "jsonVersion": 4,
+  "notificationVersion": "4",
+  "notification": "（10/23）特典会データを最新にしました。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -3048,11 +3048,11 @@
       "turnId": 220,
       "startTime": "20:40",
       "min": 60,
-      "artId": 133,
+      "artId": 88,
       "stageId": 36,
       "type": "特典会",
       "collabArtList": [
-        133,
+        88,
         155,
         89
       ]
@@ -3903,6 +3903,22 @@
       "min": 60,
       "artId": 86,
       "stageId": 30,
+      "type": "特典会"
+    },
+    {
+      "turnId": 327,
+      "startTime": "17:45",
+      "min": 60,
+      "artId": 14,
+      "stageId": 7,
+      "type": "特典会"
+    },
+    {
+      "turnId": 328,
+      "startTime": "11:55",
+      "min": 60,
+      "artId": 1,
+      "stageId": 8,
       "type": "特典会"
     }
   ]
