@@ -63,6 +63,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        700,
+        701
+      ],
+      "date": "10/25",
+      "message": "SOUND GARDEN 2026 (11/28-29 @名古屋 アイドル) に対応しました。",
+      "message_en": "SOUND GARDEN 2026 (11/28-29 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         697,
         698,
         699
@@ -528,13 +538,6 @@
       "date": "6/17",
       "message": "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
       "message_en": "超NATSUZOME (7/4-5 IDLE) is supported."
-    },
-    {
-      "icon": "mdi-cellphone-arrow-down",
-      "liveId": [],
-      "date": "6/13",
-      "message": "機能改善を行いました(ver1.16.4)。アップデートしてください。※機能の詳細はX(旧Twitter)参照。現在のバージョンはこの画面最下部に記載しています。",
-      "message_en": "Features improved (ver1.16.4). Please update. For more information on the new features, please refer to our X(Twitter) account"
     }
   ]
 }
