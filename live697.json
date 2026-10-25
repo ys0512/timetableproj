@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 697,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（10/25）特典会データに対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "（10/25）特典会データに対応しました。\n（10/25）最新のタイムテーブルに更新しました。CANDY STAGEの「Secret Pinky」「ラビットビット」の出番が入れ分かったため、必要な方は♡の付け直しをお願いします。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -1725,11 +1725,11 @@
     },
     {
       "turnId": 94,
-      "startTime": "12:15",
-      "min": 20,
-      "artId": 54,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 95,
@@ -1765,11 +1765,11 @@
     },
     {
       "turnId": 99,
-      "startTime": "13:55",
-      "min": 20,
-      "artId": 59,
-      "stageId": 5,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 100,
@@ -2642,6 +2642,30 @@
       "artId": 76,
       "stageId": 31,
       "type": "特典会"
+    },
+    {
+      "turnId": 209,
+      "startTime": "20:05",
+      "min": 20,
+      "artId": 116,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 210,
+      "startTime": "12:15",
+      "min": 20,
+      "artId": 59,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 211,
+      "startTime": "13:55",
+      "min": 20,
+      "artId": 54,
+      "stageId": 5,
+      "type": "ライブ"
     }
   ]
 }

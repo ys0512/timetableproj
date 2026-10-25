@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 698,
-  "jsonVersion": 3,
-  "notificationVersion": "2",
-  "notification": "（10/25）特典会データに対応しました。",
+  "jsonVersion": 4,
+  "notificationVersion": "3",
+  "notification": "（10/25）特典会データに対応しました。\n（10/25）最新のタイムテーブルに更新しました。「Ill」のステージが変更になったため、必要な方は♡の付け直しをお願いします。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -1207,7 +1207,7 @@
     },
     {
       "turnId": 33,
-      "startTime": "17:50",
+      "startTime": "18:15",
       "min": 25,
       "artId": 91,
       "stageId": 1,
@@ -1215,7 +1215,7 @@
     },
     {
       "turnId": 34,
-      "startTime": "18:15",
+      "startTime": "18:40",
       "min": 25,
       "artId": 92,
       "stageId": 1,
@@ -1223,7 +1223,7 @@
     },
     {
       "turnId": 35,
-      "startTime": "18:40",
+      "startTime": "19:05",
       "min": 25,
       "artId": 93,
       "stageId": 1,
@@ -1647,11 +1647,11 @@
     },
     {
       "turnId": 88,
-      "startTime": "17:00",
-      "min": 20,
-      "artId": 70,
-      "stageId": 4,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 89,
@@ -2604,6 +2604,22 @@
       "artId": 111,
       "stageId": 31,
       "type": "特典会"
+    },
+    {
+      "turnId": 208,
+      "startTime": "17:50",
+      "min": 25,
+      "artId": 70,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 209,
+      "startTime": "17:00",
+      "min": 20,
+      "artId": 79,
+      "stageId": 4,
+      "type": "ライブ"
     }
   ]
 }
