@@ -35,7 +35,7 @@
     {}
   ],
   "adBanner": {
-    "publish": false,
+    "publish": true,
     "list": [
       {
         "id": "ad001",
