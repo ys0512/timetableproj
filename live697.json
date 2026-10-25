@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 697,
-  "jsonVersion": 2,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 3,
+  "notificationVersion": "2",
+  "notification": "（10/25）特典会データに対応しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
