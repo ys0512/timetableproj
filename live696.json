@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 696,
-  "jsonVersion": 5,
-  "notificationVersion": "5",
-  "notification": "（10/25）縁日データに対応しました。",
+  "jsonVersion": 6,
+  "notificationVersion": "6",
+  "notification": "（10/25）縁日データに対応しました。\n（10/27）出演権争奪の結果を反映しました。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -929,21 +929,39 @@
     },
     {
       "artId": 153,
-      "name": "出演権争奪①",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 154,
-      "name": "出演枠争奪②",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
     {
       "artId": 155,
-      "name": "出演権争奪③",
+      "name": "",
       "groupId": null,
       "aliasId": null
+    },
+    {
+      "artId": 156,
+      "name": "Maison*Lily",
+      "groupId": 100123,
+      "aliasId": 118321
+    },
+    {
+      "artId": 157,
+      "name": "甘いものには毒がある。",
+      "groupId": 3867,
+      "aliasId": 4223
+    },
+    {
+      "artId": 158,
+      "name": "リルアムール",
+      "groupId": 2354,
+      "aliasId": 2712
     }
   ],
   "stageList": [
@@ -2745,7 +2763,7 @@
       "turnId": 169,
       "startTime": "15:55",
       "min": 20,
-      "artId": 153,
+      "artId": 156,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2753,7 +2771,7 @@
       "turnId": 170,
       "startTime": "11:50",
       "min": 15,
-      "artId": 154,
+      "artId": 157,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2769,7 +2787,7 @@
       "turnId": 172,
       "startTime": "19:55",
       "min": 20,
-      "artId": 155,
+      "artId": 158,
       "stageId": 6,
       "type": "ライブ"
     },
@@ -3189,7 +3207,7 @@
       "type": "特典会",
       "collabArtList": [
         88,
-        155,
+        158,
         89
       ]
     },
@@ -3701,7 +3719,7 @@
       "turnId": 284,
       "startTime": "16:30",
       "min": 60,
-      "artId": 153,
+      "artId": 156,
       "stageId": 22,
       "type": "特典会"
     },
@@ -3853,7 +3871,7 @@
       "turnId": 303,
       "startTime": "12:20",
       "min": 60,
-      "artId": 154,
+      "artId": 157,
       "stageId": 25,
       "type": "特典会"
     },
