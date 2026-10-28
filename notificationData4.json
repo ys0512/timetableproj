@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        702
+      ],
+      "date": "10/28",
+      "message": "STORMY DUDES FESTA 2026 (11/7 @大阪 アイドル) に対応しました。",
+      "message_en": "STORMY DUDES FESTA 2026 (11/7 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         700,
         701
       ],
@@ -531,13 +540,6 @@
       "date": "7/4",
       "message": "関ケ原唄姫合戦 (7/18-20 @岐阜 アイドル) に対応しました。",
       "message_en": "関ケ原唄姫合戦 (7/18-20 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [],
-      "date": "6/17",
-      "message": "超NATSUZOME (7/4-5 @幕張 アイドル) に対応しました。",
-      "message_en": "超NATSUZOME (7/4-5 IDLE) is supported."
     }
   ]
 }

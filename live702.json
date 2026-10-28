@@ -1,0 +1,948 @@
+﻿{
+  "liveId": 702,
+  "jsonVersion": 1,
+  "notificationVersion": "1",
+  "notification": "",
+  "openTime": "12",
+  "closeTime": "23",
+  "artList": [
+    {
+      "artId": 0,
+      "name": "bacho",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 1,
+      "name": "locofrank",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 2,
+      "name": "TIVE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 3,
+      "name": "dustbox",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 4,
+      "name": "Dizzy Sunfist",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 5,
+      "name": "HAWAIIAN6",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 6,
+      "name": "RAZORS EDGE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 7,
+      "name": "All I Clacks",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 8,
+      "name": "FIRE ON FIRE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 9,
+      "name": "SPREAD",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 10,
+      "name": "THE CHINA WIFE MOTORS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 11,
+      "name": "waterweed",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 12,
+      "name": "THE STARBEMS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 13,
+      "name": "MASTERPEACE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 14,
+      "name": "DEEPSLAUTER",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 15,
+      "name": "SUNSHINE DUB",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 16,
+      "name": "STAB 4 REASON",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 17,
+      "name": "THE DISASTER POINTS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 18,
+      "name": "GASOLINE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 19,
+      "name": "NINJA BOYZ",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 20,
+      "name": "MEXICAN AGE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 21,
+      "name": "サンキュー",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 22,
+      "name": "アシスタンツ",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 23,
+      "name": "NOWON",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 24,
+      "name": "HARD CORE DUDE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 25,
+      "name": "JAGGER THE SKIPPERS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 26,
+      "name": "TOM SAIKI",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 27,
+      "name": "YOSHIYAxxx",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 28,
+      "name": "よさこいマン",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 29,
+      "name": "OVER ARM THROW",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 30,
+      "name": "PALM",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 31,
+      "name": "オナニ渕剛",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 32,
+      "name": "GARLICBOYS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 33,
+      "name": "クリトリック・リス",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 34,
+      "name": "THE FOREVER YOUNG",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 35,
+      "name": "THE SENSATIONS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 36,
+      "name": "BURL",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 37,
+      "name": "IdolPunch",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 38,
+      "name": "NO HITTER",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 39,
+      "name": "NUMB",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 40,
+      "name": "MINOR LEAGUE",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 41,
+      "name": "THRH",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 42,
+      "name": "GUMX",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 43,
+      "name": "ガガガSP",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 44,
+      "name": "Northern19",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 45,
+      "name": "GOOD4NOTHING",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 46,
+      "name": "TOTALFAT",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 47,
+      "name": "RUDE BONES",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 48,
+      "name": "HOTSQUALL",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 49,
+      "name": "The Dahlia",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 50,
+      "name": "FRIDAYZ",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 51,
+      "name": "HOT DOG",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 52,
+      "name": "TROPICAL GORILLA",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 53,
+      "name": "DRADNATS",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 54,
+      "name": "FIVE NO RISK",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 55,
+      "name": "炙りなタウン",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 56,
+      "name": "STEP LIGHTLY",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 57,
+      "name": "PAN",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 58,
+      "name": "kamomekamome",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 59,
+      "name": "ATATA",
+      "groupId": null,
+      "aliasId": null
+    },
+    {
+      "artId": 60,
+      "name": "CROW DRAGON TEA",
+      "groupId": null,
+      "aliasId": null
+    }
+  ],
+  "stageList": [
+    {
+      "stageId": 0,
+      "stageName": "BIGCAT",
+      "stageNameShort": "BIGCAT",
+      "colorName": "stage-deepOrange",
+      "stageOrder": 0,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 1,
+      "stageName": "BIGCAT 2nd STAGE",
+      "stageNameShort": "BIGCAT 2nd STAGE",
+      "colorName": "stage-orange",
+      "stageOrder": 1,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 2,
+      "stageName": "Pangea",
+      "stageNameShort": "Pangea",
+      "colorName": "stage-cyan",
+      "stageOrder": 2,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 3,
+      "stageName": "BRONZE",
+      "stageNameShort": "BRONZE",
+      "colorName": "stage-redGrey",
+      "stageOrder": 3,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 4,
+      "stageName": "SUNHALL",
+      "stageNameShort": "SUNHALL",
+      "colorName": "stage-green",
+      "stageOrder": 4,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 5,
+      "stageName": "CYPRESS LOUNGE by SUNHALL WEST",
+      "stageNameShort": "CYPRESS LOUNGE by SUNHALL WEST",
+      "colorName": "stage-yellowGrey",
+      "stageOrder": 5,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 6,
+      "stageName": "ANIMA",
+      "stageNameShort": "ANIMA",
+      "colorName": "stage-red",
+      "stageOrder": 6,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 7,
+      "stageName": "新神楽",
+      "stageNameShort": "新神楽",
+      "colorName": "stage-indigo",
+      "stageOrder": 7,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 8,
+      "stageName": "HOKAGE",
+      "stageNameShort": "HOKAGE",
+      "colorName": "stage-teal",
+      "stageOrder": 8,
+      "type": "ライブ"
+    },
+    {
+      "stageId": 9,
+      "stageName": "iiie",
+      "stageNameShort": "iiie",
+      "colorName": "stage-yellow",
+      "stageOrder": 9,
+      "type": "ライブ"
+    }
+  ],
+  "turnList": [
+    {
+      "turnId": 0,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 0,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 1,
+      "startTime": "14:20",
+      "min": 30,
+      "artId": 1,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 2,
+      "startTime": "15:40",
+      "min": 30,
+      "artId": 2,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 3,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 3,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 4,
+      "startTime": "18:20",
+      "min": 30,
+      "artId": 4,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 5,
+      "startTime": "19:40",
+      "min": 30,
+      "artId": 5,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 6,
+      "startTime": "21:00",
+      "min": 30,
+      "artId": 6,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 7,
+      "startTime": "12:30",
+      "min": 30,
+      "artId": 28,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 8,
+      "startTime": "13:40",
+      "min": 30,
+      "artId": 29,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 9,
+      "startTime": "15:00",
+      "min": 30,
+      "artId": 30,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 10,
+      "startTime": "16:20",
+      "min": 30,
+      "artId": 31,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 11,
+      "startTime": "17:40",
+      "min": 30,
+      "artId": 32,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 12,
+      "startTime": "19:00",
+      "min": 30,
+      "artId": 33,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 13,
+      "startTime": "20:20",
+      "min": 30,
+      "artId": 34,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 14,
+      "startTime": "13:00",
+      "min": 30,
+      "artId": 35,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 15,
+      "startTime": "14:15",
+      "min": 30,
+      "artId": 36,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 16,
+      "startTime": "15:30",
+      "min": 30,
+      "artId": 37,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 17,
+      "startTime": "16:45",
+      "min": 30,
+      "artId": 38,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 18,
+      "startTime": "18:00",
+      "min": 30,
+      "artId": 39,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 19,
+      "startTime": "19:15",
+      "min": 30,
+      "artId": 40,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 20,
+      "startTime": "20:30",
+      "min": 30,
+      "artId": 41,
+      "stageId": 2,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 21,
+      "startTime": "13:30",
+      "min": 30,
+      "artId": 7,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 22,
+      "startTime": "14:45",
+      "min": 30,
+      "artId": 8,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 23,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 9,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 24,
+      "startTime": "17:15",
+      "min": 30,
+      "artId": 10,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 25,
+      "startTime": "18:45",
+      "min": 30,
+      "artId": 11,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 26,
+      "startTime": "20:00",
+      "min": 30,
+      "artId": 12,
+      "stageId": 3,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 27,
+      "startTime": "12:45",
+      "min": 30,
+      "artId": 42,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 28,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 43,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 29,
+      "startTime": "15:15",
+      "min": 30,
+      "artId": 44,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 30,
+      "startTime": "16:30",
+      "min": 30,
+      "artId": 45,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 31,
+      "startTime": "17:45",
+      "min": 30,
+      "artId": 46,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 32,
+      "startTime": "19:00",
+      "min": 30,
+      "artId": 47,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 33,
+      "startTime": "20:15",
+      "min": 30,
+      "artId": 48,
+      "stageId": 4,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 34,
+      "startTime": "13:15",
+      "min": 30,
+      "artId": 49,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 35,
+      "startTime": "14:30",
+      "min": 30,
+      "artId": 50,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 36,
+      "startTime": "15:45",
+      "min": 30,
+      "artId": 51,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 37,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 52,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 38,
+      "startTime": "18:15",
+      "min": 30,
+      "artId": 53,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 39,
+      "startTime": "19:30",
+      "min": 30,
+      "artId": 54,
+      "stageId": 5,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 40,
+      "startTime": "13:30",
+      "min": 30,
+      "artId": 55,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 41,
+      "startTime": "14:45",
+      "min": 30,
+      "artId": 56,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 42,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 57,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 43,
+      "startTime": "17:15",
+      "min": 30,
+      "artId": 58,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 44,
+      "startTime": "18:30",
+      "min": 30,
+      "artId": 59,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 45,
+      "startTime": "19:45",
+      "min": 30,
+      "artId": 60,
+      "stageId": 6,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 46,
+      "startTime": "14:00",
+      "min": 30,
+      "artId": 13,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 47,
+      "startTime": "15:15",
+      "min": 30,
+      "artId": 14,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 48,
+      "startTime": "16:45",
+      "min": 30,
+      "artId": 15,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 49,
+      "startTime": "18:00",
+      "min": 30,
+      "artId": 16,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 50,
+      "startTime": "19:00",
+      "min": 30,
+      "artId": 17,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 51,
+      "startTime": "20:15",
+      "min": 30,
+      "artId": 18,
+      "stageId": 7,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 52,
+      "startTime": "13:15",
+      "min": 30,
+      "artId": 19,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 53,
+      "startTime": "14:30",
+      "min": 30,
+      "artId": 20,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 54,
+      "startTime": "16:00",
+      "min": 30,
+      "artId": 21,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 55,
+      "startTime": "17:00",
+      "min": 30,
+      "artId": 22,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 56,
+      "startTime": "18:15",
+      "min": 30,
+      "artId": 23,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 57,
+      "startTime": "19:30",
+      "min": 30,
+      "artId": 24,
+      "stageId": 8,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 58,
+      "startTime": "15:30",
+      "min": 30,
+      "artId": 25,
+      "stageId": 9,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 59,
+      "startTime": "16:45",
+      "min": 30,
+      "artId": 26,
+      "stageId": 9,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 60,
+      "startTime": "18:15",
+      "min": 30,
+      "artId": 27,
+      "stageId": 9,
+      "type": "ライブ"
+    }
+  ]
+}
