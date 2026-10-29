@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 698,
-  "jsonVersion": 4,
-  "notificationVersion": "3",
-  "notification": "（10/25）特典会データに対応しました。\n（10/25）最新のタイムテーブルに更新しました。「Ill」のステージが変更になったため、必要な方は♡の付け直しをお願いします。",
+  "jsonVersion": 5,
+  "notificationVersion": "4",
+  "notification": "（10/29）ヒロインズの特典会に対応しました。\n（10/25）特典会データに対応しました。\n（10/25）最新のタイムテーブルに更新しました。「Ill」のステージが変更になったため、必要な方は♡の付け直しをお願いします。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -937,6 +937,38 @@
       "stageNameShort": "特典会26",
       "colorName": "stage-grey",
       "stageOrder": 31,
+      "type": "特典会"
+    },
+    {
+      "stageId": 32,
+      "stageName": "特典会27",
+      "stageNameShort": "特典会27",
+      "colorName": "stage-grey",
+      "stageOrder": 32,
+      "type": "特典会"
+    },
+    {
+      "stageId": 33,
+      "stageName": "特典会28",
+      "stageNameShort": "特典会28",
+      "colorName": "stage-grey",
+      "stageOrder": 33,
+      "type": "特典会"
+    },
+    {
+      "stageId": 34,
+      "stageName": "特典会29",
+      "stageNameShort": "特典会29",
+      "colorName": "stage-grey",
+      "stageOrder": 34,
+      "type": "特典会"
+    },
+    {
+      "stageId": 35,
+      "stageName": "特典会30",
+      "stageNameShort": "特典会30",
+      "colorName": "stage-grey",
+      "stageOrder": 35,
       "type": "特典会"
     }
   ],
@@ -2620,6 +2652,240 @@
       "artId": 79,
       "stageId": 4,
       "type": "ライブ"
+    },
+    {
+      "turnId": 210,
+      "startTime": "11:50",
+      "min": 60,
+      "artId": 76,
+      "stageId": 32,
+      "type": "特典会"
+    },
+    {
+      "turnId": 211,
+      "startTime": "13:00",
+      "min": 60,
+      "artId": 3,
+      "stageId": 32,
+      "type": "特典会"
+    },
+    {
+      "turnId": 212,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 67,
+      "stageId": 32,
+      "type": "特典会"
+    },
+    {
+      "turnId": 213,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 84,
+      "stageId": 32,
+      "type": "特典会"
+    },
+    {
+      "turnId": 214,
+      "startTime": "17:00",
+      "min": 60,
+      "artId": 17,
+      "stageId": 32,
+      "type": "特典会",
+      "wideWidth": 2
+    },
+    {
+      "turnId": 215,
+      "startTime": "18:30",
+      "min": 60,
+      "artId": 12,
+      "stageId": 32,
+      "type": "特典会",
+      "wideWidth": 2
+    },
+    {
+      "turnId": 216,
+      "startTime": "11:50",
+      "min": 60,
+      "artId": 18,
+      "stageId": 33,
+      "type": "特典会"
+    },
+    {
+      "turnId": 217,
+      "startTime": "13:10",
+      "min": 60,
+      "artId": 79,
+      "stageId": 33,
+      "type": "特典会"
+    },
+    {
+      "turnId": 218,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 69,
+      "stageId": 33,
+      "type": "特典会"
+    },
+    {
+      "turnId": 219,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 44,
+      "stageId": 33,
+      "type": "特典会"
+    },
+    {
+      "turnId": 220,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 221,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 222,
+      "startTime": "12:10",
+      "min": 60,
+      "artId": 77,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 223,
+      "startTime": "13:30",
+      "min": 60,
+      "artId": 40,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 224,
+      "startTime": "15:20",
+      "min": 60,
+      "artId": 16,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 225,
+      "startTime": "18:25",
+      "min": 60,
+      "artId": 13,
+      "stageId": 34,
+      "type": "特典会"
+    },
+    {
+      "turnId": 226,
+      "startTime": "11:00",
+      "min": 40,
+      "artId": 79,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 227,
+      "startTime": "12:40",
+      "min": 60,
+      "artId": 38,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 228,
+      "startTime": "14:10",
+      "min": 60,
+      "artId": 5,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 229,
+      "startTime": "17:20",
+      "min": 60,
+      "artId": 48,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 230,
+      "startTime": "18:20",
+      "min": 60,
+      "artId": 50,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 231,
+      "startTime": "19:20",
+      "min": 60,
+      "artId": 15,
+      "stageId": 35,
+      "type": "特典会"
+    },
+    {
+      "turnId": 232,
+      "startTime": "12:40",
+      "min": 70,
+      "artId": 27,
+      "stageId": 10,
+      "type": "特典会"
+    },
+    {
+      "turnId": 233,
+      "startTime": "15:40",
+      "min": 70,
+      "artId": 65,
+      "stageId": 25,
+      "type": "特典会"
+    },
+    {
+      "turnId": 234,
+      "startTime": "16:20",
+      "min": 60,
+      "artId": 28,
+      "stageId": 15,
+      "type": "特典会"
+    },
+    {
+      "turnId": 235,
+      "startTime": "16:55",
+      "min": 60,
+      "artId": 29,
+      "stageId": 16,
+      "type": "特典会"
+    },
+    {
+      "turnId": 236,
+      "startTime": "17:40",
+      "min": 60,
+      "artId": 49,
+      "stageId": 9,
+      "type": "特典会"
+    },
+    {
+      "turnId": 237,
+      "startTime": "18:00",
+      "min": 70,
+      "artId": 71,
+      "stageId": 23,
+      "type": "特典会"
+    },
+    {
+      "turnId": 238,
+      "startTime": "18:50",
+      "min": 60,
+      "artId": 70,
+      "stageId": 9,
+      "type": "特典会"
     }
   ]
 }
