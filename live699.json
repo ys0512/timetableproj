@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 699,
-  "jsonVersion": 6,
-  "notificationVersion": "4",
-  "notification": "（10/29）縁日に対応しました。\n（10/29）ヒロインズの特典会に対応しました。ブースはすべて27～30での実施となるようですので、ご注意ください。",
+  "jsonVersion": 7,
+  "notificationVersion": "5",
+  "notification": "（10/31）セカンドステージ争奪戦の結果を反映しました。結果として縁日の時間が特典会と被っているため、変更の可能性があります。「ナナコロビヤオキ」の出番もあわせて変更になっているのでご注意ください。\n（10/29）縁日に対応しました。\n（10/29）ヒロインズの特典会に対応しました。ブースはすべて27～30での実施となるようですので、ご注意ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -203,7 +203,7 @@
     },
     {
       "artId": 32,
-      "name": "2nd争奪Bブロック1位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -449,7 +449,7 @@
     },
     {
       "artId": 73,
-      "name": "2nd争奪B2位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -665,7 +665,7 @@
     },
     {
       "artId": 109,
-      "name": "2nd争奪B3位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -740,6 +740,12 @@
       "name": "FRESH CHARM",
       "groupId": 6245,
       "aliasId": 6670
+    },
+    {
+      "artId": 122,
+      "name": "昼夜逆転",
+      "groupId": 2586,
+      "aliasId": 2990
     }
   ],
   "stageList": [
@@ -1395,11 +1401,11 @@
     },
     {
       "turnId": 25,
-      "startTime": "14:35",
-      "min": 25,
-      "artId": 25,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 26,
@@ -1451,11 +1457,11 @@
     },
     {
       "turnId": 32,
-      "startTime": "17:50",
-      "min": 25,
-      "artId": 32,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 33,
@@ -1781,7 +1787,7 @@
       "turnId": 73,
       "startTime": "11:30",
       "min": 20,
-      "artId": 73,
+      "artId": 122,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2069,7 +2075,7 @@
       "turnId": 109,
       "startTime": "15:40",
       "min": 15,
-      "artId": 109,
+      "artId": 120,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2341,7 +2347,7 @@
       "turnId": 143,
       "startTime": "18:35",
       "min": 70,
-      "artId": 32,
+      "artId": 121,
       "stageId": 13,
       "type": "特典会"
     },
@@ -2613,7 +2619,7 @@
       "turnId": 177,
       "startTime": "12:10",
       "min": 70,
-      "artId": 73,
+      "artId": 122,
       "stageId": 23,
       "type": "特典会"
     },
@@ -2813,7 +2819,7 @@
       "turnId": 202,
       "startTime": "16:20",
       "min": 70,
-      "artId": 109,
+      "artId": 120,
       "stageId": 29,
       "type": "特典会"
     },
@@ -3688,6 +3694,38 @@
       "min": 60,
       "artId": 107,
       "stageId": 55,
+      "type": "特典会"
+    },
+    {
+      "turnId": 312,
+      "startTime": "14:35",
+      "min": 25,
+      "artId": 121,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 313,
+      "startTime": "17:50",
+      "min": 25,
+      "artId": 25,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 314,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 315,
+      "startTime": "19:05",
+      "min": 70,
+      "artId": 92,
+      "stageId": 22,
       "type": "特典会"
     }
   ]
