@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 698,
-  "jsonVersion": 6,
-  "notificationVersion": "5",
-  "notification": "（10/29）縁日に対応しました。\n（10/29）ヒロインズの特典会に対応しました。ブースはすべて27～30での実施となるようですので、ご注意ください。",
+  "jsonVersion": 7,
+  "notificationVersion": "6",
+  "notification": "（10/30）セカンドステージ争奪戦の結果を反映しました。\n（10/29）縁日に対応しました。\n（10/29）ヒロインズの特典会に対応しました。ブースはすべて27～30での実施となるようですので、ご注意ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -359,7 +359,7 @@
     },
     {
       "artId": 58,
-      "name": "2nd争奪Aブロック2位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -533,7 +533,7 @@
     },
     {
       "artId": 87,
-      "name": "2nd争奪Aブロック1位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -641,7 +641,7 @@
     },
     {
       "artId": 105,
-      "name": "2nd争奪A3位",
+      "name": "",
       "groupId": null,
       "aliasId": null
     },
@@ -704,6 +704,12 @@
       "name": "Lollipop♡CHU",
       "groupId": 692,
       "aliasId": 788
+    },
+    {
+      "artId": 116,
+      "name": "夜とメルク",
+      "groupId": 2466,
+      "aliasId": 2837
     }
   ],
   "stageList": [
@@ -1393,7 +1399,7 @@
       "turnId": 29,
       "startTime": "16:00",
       "min": 25,
-      "artId": 87,
+      "artId": 114,
       "stageId": 1,
       "type": "ライブ"
     },
@@ -1769,7 +1775,7 @@
       "turnId": 76,
       "startTime": "12:35",
       "min": 20,
-      "artId": 58,
+      "artId": 113,
       "stageId": 4,
       "type": "ライブ"
     },
@@ -2017,7 +2023,7 @@
       "turnId": 107,
       "startTime": "15:25",
       "min": 15,
-      "artId": 105,
+      "artId": 116,
       "stageId": 5,
       "type": "ライブ"
     },
@@ -2225,7 +2231,7 @@
       "turnId": 133,
       "startTime": "16:45",
       "min": 70,
-      "artId": 87,
+      "artId": 114,
       "stageId": 11,
       "type": "特典会"
     },
@@ -2513,7 +2519,7 @@
       "turnId": 169,
       "startTime": "13:15",
       "min": 70,
-      "artId": 58,
+      "artId": 113,
       "stageId": 22,
       "type": "特典会"
     },
@@ -2713,7 +2719,7 @@
       "turnId": 194,
       "startTime": "16:00",
       "min": 70,
-      "artId": 105,
+      "artId": 116,
       "stageId": 28,
       "type": "特典会"
     },
