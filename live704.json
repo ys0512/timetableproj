@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 704,
-  "jsonVersion": 2,
+  "jsonVersion": 3,
   "notificationVersion": "1",
   "notification": "",
   "setListButton": {
@@ -208,7 +208,7 @@
       "stageName": "特典会A(Resort Magic)",
       "stageNameShort": "特典会A(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 3,
+      "stageOrder": 6,
       "type": "特典会"
     },
     {
@@ -216,7 +216,7 @@
       "stageName": "特典会B(Resort Magic)",
       "stageNameShort": "特典会B(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 5,
+      "stageOrder": 7,
       "type": "特典会"
     },
     {
@@ -224,7 +224,7 @@
       "stageName": "特典会B(COZY BEACH CLUB)",
       "stageNameShort": "特典会B(COZY BEACH CLUB)",
       "colorName": "stage-grey",
-      "stageOrder": 4,
+      "stageOrder": 3,
       "type": "特典会"
     },
     {
@@ -232,7 +232,7 @@
       "stageName": "特典会C(Resort Magic)",
       "stageNameShort": "特典会C(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 7,
+      "stageOrder": 8,
       "type": "特典会"
     },
     {
@@ -240,7 +240,7 @@
       "stageName": "特典会C(COZY BEACH CLUB)",
       "stageNameShort": "特典会C(COZY BEACH CLUB)",
       "colorName": "stage-grey",
-      "stageOrder": 6,
+      "stageOrder": 4,
       "type": "特典会"
     },
     {
@@ -248,7 +248,7 @@
       "stageName": "特典会D(Resort Magic)",
       "stageNameShort": "特典会D(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 8,
+      "stageOrder": 9,
       "type": "特典会"
     },
     {
@@ -256,7 +256,7 @@
       "stageName": "特典会E(Resort Magic)",
       "stageNameShort": "特典会E(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 9,
+      "stageOrder": 10,
       "type": "特典会"
     },
     {
@@ -264,7 +264,7 @@
       "stageName": "特典会F(Resort Magic)",
       "stageNameShort": "特典会F(Resort Magic)",
       "colorName": "stage-grey",
-      "stageOrder": 10,
+      "stageOrder": 11,
       "type": "特典会"
     },
     {
@@ -272,7 +272,7 @@
       "stageName": "終演後特典会(COZY BEACH CLUB)",
       "stageNameShort": "終演後特典会(COZY BEACH CLUB)",
       "colorName": "stage-grey",
-      "stageOrder": 11,
+      "stageOrder": 5,
       "type": "特典会"
     }
   ],
@@ -647,11 +647,11 @@
     },
     {
       "turnId": 46,
-      "startTime": "19:45",
-      "min": 20,
-      "artId": 24,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
       "stageId": 0,
-      "type": "ライブ"
+      "type": ""
     },
     {
       "turnId": 47,
@@ -663,11 +663,11 @@
     },
     {
       "turnId": 48,
-      "startTime": "20:05",
-      "min": 20,
-      "artId": 25,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
       "stageId": 0,
-      "type": "ライブ"
+      "type": ""
     },
     {
       "turnId": 49,
@@ -679,35 +679,35 @@
     },
     {
       "turnId": 50,
-      "startTime": "20:25",
-      "min": 20,
-      "artId": 26,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
       "stageId": 0,
-      "type": "ライブ"
+      "type": ""
     },
     {
       "turnId": 51,
-      "startTime": "20:50",
-      "min": 60,
-      "artId": 24,
-      "stageId": 11,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 52,
-      "startTime": "20:50",
-      "min": 60,
-      "artId": 25,
-      "stageId": 11,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 53,
-      "startTime": "20:50",
-      "min": 60,
-      "artId": 26,
-      "stageId": 11,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 54,
@@ -1060,6 +1060,43 @@
       "artId": 11,
       "stageId": 10,
       "type": "特典会"
+    },
+    {
+      "turnId": 98,
+      "startTime": "19:45",
+      "min": 20,
+      "artId": 24,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 99,
+      "startTime": "20:05",
+      "min": 20,
+      "artId": 25,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 100,
+      "startTime": "20:25",
+      "min": 20,
+      "artId": 26,
+      "stageId": 0,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 101,
+      "startTime": "20:50",
+      "min": 60,
+      "artId": 24,
+      "stageId": 11,
+      "type": "特典会",
+      "collabArtList": [
+        24,
+        25,
+        26
+      ]
     }
   ]
 }
