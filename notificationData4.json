@@ -63,6 +63,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        704,
+        705
+      ],
+      "date": "10/31",
+      "message": "mini TIF in OKINAWA vol.3 (11/7-8 @沖縄 アイドル) に対応しました。",
+      "message_en": "mini TIF in OKINAWA vol.3 (11/7-8 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         703
       ],
       "date": "10/31",
@@ -529,15 +539,6 @@
       "date": "7/7",
       "message": "YORU-FES (7/7 @渋谷 アイドル) に対応しました。",
       "message_en": "YORU-FES (7/7 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        613
-      ],
-      "date": "7/4",
-      "message": "UTAGE FES vol.5 (7/22 @新宿 アイドル) に対応しました。",
-      "message_en": "UTAGE FES vol.5 (7/22 IDOL) is supported."
     }
   ]
 }
