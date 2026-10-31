@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        703
+      ],
+      "date": "10/31",
+      "message": "でびぱっぱ Road to 幕張イベントホール (11/5 @渋谷 アイドル) に対応しました。",
+      "message_en": "でびぱっぱ Road to 幕張イベントホール (11/5 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         702
       ],
       "date": "10/28",
@@ -529,17 +538,6 @@
       "date": "7/4",
       "message": "UTAGE FES vol.5 (7/22 @新宿 アイドル) に対応しました。",
       "message_en": "UTAGE FES vol.5 (7/22 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        610,
-        611,
-        612
-      ],
-      "date": "7/4",
-      "message": "関ケ原唄姫合戦 (7/18-20 @岐阜 アイドル) に対応しました。",
-      "message_en": "関ケ原唄姫合戦 (7/18-20 IDOL) is supported."
     }
   ]
 }
