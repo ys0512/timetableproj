@@ -63,6 +63,16 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        706,
+        707
+      ],
+      "date": "11/1",
+      "message": "TIF学園「学園祭 2026 秋」 (11/14-15 @渋谷 アイドル) に対応しました。",
+      "message_en": "TIF学園「学園祭 2026 秋」 (11/14-15 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         704,
         705
       ],
@@ -530,15 +540,6 @@
       "date": "7/8",
       "message": "SPARK2026 渋谷納涼祭 (7/11-12 @渋谷 アイドル) に対応しました。",
       "message_en": "SPARK2026 渋谷納涼祭 (7/11-12 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        614
-      ],
-      "date": "7/7",
-      "message": "YORU-FES (7/7 @渋谷 アイドル) に対応しました。",
-      "message_en": "YORU-FES (7/7 IDOL) is supported."
     }
   ]
 }
