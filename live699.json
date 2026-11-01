@@ -1,6 +1,6 @@
 ﻿{
   "liveId": 699,
-  "jsonVersion": 8,
+  "jsonVersion": 9,
   "notificationVersion": "6",
   "notification": "ヒロインズの特典会ブースは一律で27～30となるのでご注意ください。\n（10/31）メインステージ争奪戦の結果を反映しました。あわせて「AQA」と「FRESH CHARM」の縁日も変更がありましたのでご注意ください。\n（10/31）セカンドステージ争奪戦の結果を反映しました。「ナナコロビヤオキ」の出番もあわせて変更になっているのでご注意ください。",
   "setListButton": {
@@ -2399,11 +2399,11 @@
     },
     {
       "turnId": 143,
-      "startTime": "18:35",
-      "min": 70,
-      "artId": 121,
-      "stageId": 13,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 144,
@@ -3696,11 +3696,11 @@
     },
     {
       "turnId": 305,
-      "startTime": "13:30",
-      "min": 60,
-      "artId": 17,
-      "stageId": 54,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 306,
@@ -3796,6 +3796,22 @@
       "min": 60,
       "artId": 120,
       "stageId": 42,
+      "type": "特典会"
+    },
+    {
+      "turnId": 318,
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
+    },
+    {
+      "turnId": 319,
+      "startTime": "12:50",
+      "min": 70,
+      "artId": 121,
+      "stageId": 9,
       "type": "特典会"
     }
   ]
