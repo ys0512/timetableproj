@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        708
+      ],
+      "date": "11/6",
+      "message": "アイクル2026 本祭 わくわくサーキット (11/7 @下北沢 アイドル) に対応しました。",
+      "message_en": "アイクル2026 本祭 わくわくサーキット (11/7 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         706,
         707
       ],
@@ -530,16 +539,6 @@
       "date": "7/9",
       "message": "六本木アイドルフェスティバル2026 (7/25-26 @有明 アイドル) に対応しました。",
       "message_en": "六本木アイドルフェスティバル2026 (7/25-26 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        616,
-        617
-      ],
-      "date": "7/8",
-      "message": "SPARK2026 渋谷納涼祭 (7/11-12 @渋谷 アイドル) に対応しました。",
-      "message_en": "SPARK2026 渋谷納涼祭 (7/11-12 IDOL) is supported."
     }
   ]
 }
