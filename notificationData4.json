@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        709
+      ],
+      "date": "11/7",
+      "message": "WEEKEND INFINITY2026 (11/8 @下北沢 アイドル) に対応しました。",
+      "message_en": "WEEKEND INFINITY2026 (11/8 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         708
       ],
       "date": "11/6",
@@ -529,16 +538,6 @@
       "date": "7/9",
       "message": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 @お台場 アイドル) に対応しました。",
       "message_en": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        618,
-        619
-      ],
-      "date": "7/9",
-      "message": "六本木アイドルフェスティバル2026 (7/25-26 @有明 アイドル) に対応しました。",
-      "message_en": "六本木アイドルフェスティバル2026 (7/25-26 IDOL) is supported."
     }
   ]
 }
