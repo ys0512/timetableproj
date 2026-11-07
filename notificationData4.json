@@ -63,6 +63,15 @@
     {
       "icon": "mdi-alarm-plus",
       "liveId": [
+        710
+      ],
+      "date": "11/8",
+      "message": "SPA!FES2026 (11/14 @渋谷 アイドル) に対応しました。",
+      "message_en": "SPA!FES2026 (11/14 IDOL) is supported."
+    },
+    {
+      "icon": "mdi-alarm-plus",
+      "liveId": [
         709
       ],
       "date": "11/7",
@@ -527,17 +536,6 @@
       "date": "7/16",
       "message": "RAD JAM大作戦 (7/18 @名古屋 アイドル) に対応しました。",
       "message_en": "RAD JAM大作戦 (7/18 IDOL) is supported."
-    },
-    {
-      "icon": "mdi-alarm-plus",
-      "liveId": [
-        620,
-        621,
-        622
-      ],
-      "date": "7/9",
-      "message": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 @お台場 アイドル) に対応しました。",
-      "message_en": "TOKYO IDOL FESTIVAL 2026 (7/31-8/2 IDOL) is supported."
     }
   ]
 }
