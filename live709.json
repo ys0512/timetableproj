@@ -1,8 +1,8 @@
 ﻿{
   "liveId": 709,
-  "jsonVersion": 1,
-  "notificationVersion": "1",
-  "notification": "",
+  "jsonVersion": 2,
+  "notificationVersion": "2",
+  "notification": "（11/8）YumeLia、チルミチル、WASURENAの出番が変更になっています。♡の付け直しなどご対応ください。",
   "setListButton": {
     "url": "https://idol-schedule.com/setlist/events/"
   },
@@ -679,11 +679,11 @@
     },
     {
       "turnId": 23,
-      "startTime": "12:30",
-      "min": 25,
-      "artId": 23,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 24,
@@ -727,19 +727,19 @@
     },
     {
       "turnId": 29,
-      "startTime": "15:10",
-      "min": 25,
-      "artId": 29,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 30,
-      "startTime": "15:35",
-      "min": 25,
-      "artId": 30,
-      "stageId": 1,
-      "type": "ライブ"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 31,
@@ -1185,11 +1185,11 @@
     },
     {
       "turnId": 85,
-      "startTime": "13:10",
-      "min": 60,
-      "artId": 23,
-      "stageId": 5,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 86,
@@ -1209,11 +1209,11 @@
     },
     {
       "turnId": 88,
-      "startTime": "16:10",
-      "min": 60,
-      "artId": 29,
-      "stageId": 5,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 89,
@@ -1295,11 +1295,11 @@
     },
     {
       "turnId": 98,
-      "startTime": "16:30",
-      "min": 60,
-      "artId": 30,
-      "stageId": 6,
-      "type": "特典会"
+      "startTime": "",
+      "min": 0,
+      "artId": 0,
+      "stageId": 0,
+      "type": ""
     },
     {
       "turnId": 99,
@@ -1475,6 +1475,54 @@
       "min": 60,
       "artId": 59,
       "stageId": 8,
+      "type": "特典会"
+    },
+    {
+      "turnId": 121,
+      "startTime": "12:30",
+      "min": 25,
+      "artId": 29,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 122,
+      "startTime": "15:10",
+      "min": 25,
+      "artId": 30,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 123,
+      "startTime": "15:35",
+      "min": 25,
+      "artId": 23,
+      "stageId": 1,
+      "type": "ライブ"
+    },
+    {
+      "turnId": 124,
+      "startTime": "13:10",
+      "min": 60,
+      "artId": 29,
+      "stageId": 5,
+      "type": "特典会"
+    },
+    {
+      "turnId": 125,
+      "startTime": "16:10",
+      "min": 60,
+      "artId": 30,
+      "stageId": 5,
+      "type": "特典会"
+    },
+    {
+      "turnId": 126,
+      "startTime": "16:30",
+      "min": 60,
+      "artId": 23,
+      "stageId": 6,
       "type": "特典会"
     }
   ]
